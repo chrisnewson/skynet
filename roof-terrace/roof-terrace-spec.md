@@ -271,6 +271,8 @@ What this needs from the install:
 
 We're planning to site a hot tub on the terrace alongside the sauna/wet room building. Including this here because the **structural loading on the terrace deck is the critical question for you**, and the model choice drives weight, footprint, and electrical supply. Final model TBC; shortlist below in our preferred order.
 
+> **Awaiting structural engineer.** We're waiting on our SE for: (1) whether any of the shortlisted tubs will work with the **current roof make-up** as it stands, (2) calculations on **doubled-up beams** in the NW quadrant (see Part M), and (3) on that basis, whether he would **steer us toward one tub over another** based on what the structure can carry. Final tub choice will follow that advice.
+
 ## Shortlist (ranked)
 
 | # | Model | Origin | Shape | Dimensions | Filled (kg) | kg/m² | Price |
