@@ -701,6 +701,16 @@ No acoustic underlay mat above the Protectoboard (Protectoboard alone is the sub
 - The building sits on its own structural slab / base
 - We need to finalise the **detail just outside the building line** so the doors can open without fouling on the asphalt upstand or any threshold trim — this is one of the items needing Ronan's input
 
+### Doors-vs-build-up — Chris is confused about this
+
+The sauna and wet room doors open outward (Parts A and B). The hot tub zone immediately east of the building is on the higher **inverted roof build-up** (~200mm taller than the surrounding warm-roof terrace). Chris isn't clear how this resolves:
+
+- If the area immediately outside the doors is at the **higher inverted-roof level**, the doors might not open cleanly — the threshold geometry needs designing
+- If the area is at the **lower warm-roof level**, then there's a step between the doors and the hot tub zone — needs designing too
+- Possibly a **third, intermediate build-up** in the strip between the building and the hot tub is the right answer
+
+Flagging this as something Ronan should pick up alongside the asphalt-to-building junction detail.
+
 ## Action — detailing required from Ronan Bond
 
 > **Note for Ronan Bond:** please provide the build-up details (warm roof, inverted roof, transition between the two, asphalt-to-building junction including the door-threshold detail) **as a matter of urgency** so they can be discussed with our surveyor, **Sussex Asphalt**, and **Seaview**.
