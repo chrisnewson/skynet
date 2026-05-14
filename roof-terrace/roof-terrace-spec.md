@@ -523,13 +523,9 @@ Both Buzon and Eterno Ivica offer base pads as a standard accessory; the cost pr
 
 **Sanity check we'd value your steer on:** we've assumed the narrow section is over less sensitive space (utility, plant, or non-bedroom rooms). If it's actually over a habitable room, the acoustic spec for that section should be upgraded to match the main section.
 
-## Drainage — no grout, open joints
+## Drainage — open joints
 
-The whole point of the pedestal system is that water drains freely through the open joints between tiles, into the void below, and away across the asphalt falls to the existing drainage.
-
-- **No grout, no sealant, no jointing compound** of any kind between tiles
-- Open joint width as dictated by the pedestal head's spacer tabs — typically 3–5mm
-- Joints to remain clear at all times; builder not to "improve" the system by closing them up
+Open joints throughout, as dictated by the pedestal head's spacer tabs (typically 3–5mm). Water drains freely through the joints into the void below and away across the asphalt falls to the existing drainage.
 
 ## Coordination — clearances and thresholds
 
@@ -554,7 +550,7 @@ The finished tile level needs to coordinate with:
 - R11 slip rating minimum
 - Padded self-levelling pedestals
 - No adhesive bed — pedestal / floating system only
-- No grout or jointing compound between tiles
+- Open joints between tiles
 - Overage tiles retained in the client's garage at Sussex Square (not on the roof terrace)
 
 ## What we'd value your steer on
