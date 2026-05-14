@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Roof Terrace — Specification</title>
+</head>
+<body style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.5; color: #222; max-width: 800px;">
+
+<h1 style="font-size: 22px; border-bottom: 2px solid #333; padding-bottom: 6px;">Roof Terrace — Specification</h1>
+
+<div style="border: 2px solid #c00; background: #fff5f5; padding: 12px 16px; margin: 12px 0;">
+<p style="margin: 0 0 8px 0;"><strong style="color: #c00;">⚠️ IMPORTANT — please read first</strong></p>
+<p style="margin: 0;">This is <strong>Chris's informal working document</strong> for communicating his current best understanding of the project details with <strong>Ronan Bond</strong>. It is <strong>not</strong> a finished specification. It will contain inaccuracies, gaps, and assumptions that need to be checked. <strong>Ronan's formal documents will be the authoritative source</strong> — this document exists to feed into them.</p>
+</div>
+
+<h2 style="font-size: 18px; color: #444; margin-top: 0;">Brief for Surveyor</h2>
+
+<p>This is our draft of what we'd like to build on the roof terrace at 22 Sussex Square. It covers the sauna and wet room building, the hot tub, and the surrounding terrace works (railings, parapets, parasols, fall protection, tiling, and planters). We've worked through it ourselves and there will be things we've got wrong, missed, or need your steer on. Where we're confident is the look and feel and the equipment we want; where we'd really value your input is on regs, structure, and any practical issues we haven't spotted.</p>
+
+<p>The building shell (external walls, roof, weatherproofing) of the sauna/wet room structure is in your scope. This document covers the fit-out of those two rooms, the external openings (doors, windows), and all the terrace-wide works listed below.</p>
+
+<p><strong>Orientation:</strong> north is to the right of the floor plan drawing.</p>
+
+<h2 style="font-size: 18px; color: #444;">Drawings</h2>
+
+<p><strong>Overall plan</strong> (full terrace, including narrow section / FLOOR AREA 1 with lift bulkhead and stair hatch):</p>
+<p><img src="drawings/floorplan-overall.png" alt="Overall floor plan" style="max-width: 100%; border: 1px solid #ccc;"></p>
+
+<p><strong>Main section</strong> (FLOOR AREAS 2, 3, 4 — dining, lounge, sauna / wet room building, hot tub):</p>
+<p><img src="drawings/floorplan-main.png" alt="Main floor plan" style="max-width: 100%; border: 1px solid #ccc;"></p>
+
+<h2 style="font-size: 18px; color: #444;">Contents</h2>
+<ul style="line-height: 1.8;">
+<li><a href="#part-a">Part A — Sauna</a></li>
+<li><a href="#part-b">Part B — Wet Room</a></li>
+<li><a href="#part-c">Part C — Smart Control (Home Assistant)</a></li>
+<li><a href="#part-d">Part D — Hot Tub</a></li>
+<li><a href="#part-e">Part E — Railings</a></li>
+<li><a href="#part-f">Part F — Parapet Bird Deterrent (Post and Wire)</a></li>
+<li><a href="#part-g">Part G — Parasols</a></li>
+<li><a href="#part-h">Part H — Fall Protection (Glass Balustrades &amp; Planters)</a></li>
+<li><a href="#part-i">Part I — Terrace Tiling System</a></li>
+<li><a href="#part-j">Part J — Planters</a></li>
+<li><a href="#part-k">Part K — Outdoor Tap</a></li>
+<li><a href="#part-l">Part L — Existing Outdoor Sockets (Retain and Reposition)</a></li>
+<li><a href="#part-m">Part M — Roof Build-up &amp; Structure (Asphalt, Insulation, Joists)</a></li>
+</ul>
+
+<hr>
+
+<h1 id="part-a" style="font-size: 22px; background: #f0f0f0; padding: 8px;">PART A — SAUNA</h1>
+
+<p><strong>Internal dimensions:</strong> 2.15m (east–west) × 1.57m (north–south)<br>
+<strong>Minimum internal ceiling height:</strong> 2.10m</p>
+
+<h2 style="font-size: 18px; color: #444;">Floor</h2>
+<ul>
+<li>Tanked (continuous with adjacent wet room), screeded to fall, R11 porcelain tile to match the rest of the terrace</li>
+<li>Removable softwood duckboards laid on top of the tile (flat-pack kit, e.g. Finnmark, ~£80–150)</li>
+<li>Stainless steel high-temperature drain connected to the terrace drainage</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Walls and Ceiling</h2>
+<ul>
+<li>100mm mineral wool insulation</li>
+<li>Foil vapour barrier on the interior face, fully taped</li>
+<li>Lined with untreated kiln-dried whitewood or spruce tongue-and-groove</li>
+<li>All fixings stainless steel</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Benches</h2>
+<p>L-shape wraparound, two-tier on both walls, all in the same untreated whitewood/spruce:</p>
+
+<table style="border-collapse: collapse; width: 100%;">
+<thead>
+<tr style="background: #eee;">
+<th style="border: 1px solid #ccc; padding: 6px; text-align: left;">Position</th>
+<th style="border: 1px solid #ccc; padding: 6px; text-align: left;">Height (FFL)</th>
+<th style="border: 1px solid #ccc; padding: 6px; text-align: left;">Depth</th>
+<th style="border: 1px solid #ccc; padding: 6px; text-align: left;">Length</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="border: 1px solid #ccc; padding: 6px;">Upper bench, west wall</td><td style="border: 1px solid #ccc; padding: 6px;">950mm</td><td style="border: 1px solid #ccc; padding: 6px;">550mm</td><td style="border: 1px solid #ccc; padding: 6px;">2.15m</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 6px;">Lower bench/step, west wall</td><td style="border: 1px solid #ccc; padding: 6px;">450mm</td><td style="border: 1px solid #ccc; padding: 6px;">350mm</td><td style="border: 1px solid #ccc; padding: 6px;">2.15m</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 6px;">Upper bench, south wall</td><td style="border: 1px solid #ccc; padding: 6px;">950mm</td><td style="border: 1px solid #ccc; padding: 6px;">550mm</td><td style="border: 1px solid #ccc; padding: 6px;">1.57m (less heater clearance)</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 6px;">Lower bench/step, south wall</td><td style="border: 1px solid #ccc; padding: 6px;">450mm</td><td style="border: 1px solid #ccc; padding: 6px;">350mm</td><td style="border: 1px solid #ccc; padding: 6px;">1.57m (less heater clearance)</td></tr>
+</tbody>
+</table>
+
+<p>The upper bench wraps around the corner so two people can lie at right angles. The south-west end of the south wall benches needs to be cut back to maintain the heater manufacturer's required clearance (typically 100–200mm above and to the side — final dimensions to be confirmed against the chosen heater's spec sheet). A heat shield panel above the heater may also be needed.</p>
+
+<h2 style="font-size: 18px; color: #444;">Door</h2>
+<ul>
+<li>North wall, 600mm clear opening</li>
+<li>Pre-made outdoor sauna door, solid cedar, weatherproof frame and threshold (e.g. Finnmark, Auroom)</li>
+<li>Solid timber, no glazing</li>
+<li>Magnetic catch, 50N+ pull force (we want it wind-resistant); wooden handles</li>
+<li>Outward-opening, with restrictor chain to limit swing in wind</li>
+<li>Sourced from sauna supplier</li>
+<li>Approximate cost: £250–450</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Window</h2>
+<ul>
+<li>East wall, centred, sill at 1100mm from FFL</li>
+<li><strong>1800mm wide × 800mm tall</strong>, single pane, top-hung (awning) opening — outward, hinged at top</li>
+<li>Aluminium frame, thermally broken</li>
+<li>Triple-glazed (e.g. 4-12-4-12-4), argon-filled, low-E coatings, warm edge spacers — chosen for thermal retention given rooftop exposure</li>
+<li>Compression seals: EPDM or silicone (heat/humidity tolerant)</li>
+<li>Restrictor stay to limit opening in wind</li>
+<li>External manual roller blackout blind on exterior above (sized to cover full 1800mm width)</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Heater</h2>
+<ul>
+<li>4kW electric sauna heater (e.g. Harvia Vega) in the south-east corner</li>
+<li>10mm² silicon-rated cable to a fused spur in the corner</li>
+<li>Heater guard rail (usually supplied with unit)</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Ventilation</h2>
+<p>Passive only:</p>
+<ul>
+<li>100mm inlet vent low on south or east wall, ~100mm from floor (near heater)</li>
+<li>100mm outlet vent high on west or south wall, ~300mm from ceiling</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Lighting</h2>
+<ul>
+<li><strong>2× sauna-rated LED ceiling fittings</strong> (e.g. Cariitti, Tylö, Harvia) — purpose-made for sauna heat, ~£80–150 each</li>
+<li>Light switch outdoors on the terrace, beside the sauna door — IP55+ weatherproof</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Sockets (For Future Office / Bedroom Conversion)</h2>
+<p>We want this room to be convertible to an office or bedroom in future without retrofitting power, so:</p>
+<ul>
+<li>2× IP54 double sockets at 300mm from FFL</li>
+<li>Socket 1: east wall, under the window (for a desk facing the view)</li>
+<li>Socket 2: north wall (general / bedside use)</li>
+<li>Dedicated 20A radial circuit</li>
+<li>Both sockets clear of the south-east heater corner</li>
+<li>Used only when the room is cold</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">External Switches / Isolators (Sauna Side)</h2>
+<p>Grouped on the terrace wall beside the sauna door, IP55+ weatherproof:</p>
+<ul>
+<li>Sauna light switch (Shelly Plus 1 behind)</li>
+<li>32A DP rotary isolator for the sauna heater (manual override / safety isolation)</li>
+</ul>
+
+<hr>
+
+<h1 id="part-b" style="font-size: 22px; background: #f0f0f0; padding: 8px;">PART B — WET ROOM</h1>
+
+<p><strong>Internal dimensions:</strong> 2.15m (north–south) × 0.9m (east–west)<br>
+<strong>Minimum internal ceiling height:</strong> 2.40m</p>
+
+<h2 style="font-size: 18px; color: #444;">Layout</h2>
+
+<pre style="font-family: 'Courier New', Courier, monospace; font-size: 12px; background: #f7f7f7; padding: 10px; border: 1px solid #ddd; overflow-x: auto;">
+SOUTH                                            NORTH (door)
+
+                  TOP/WEST WALL (2.15m)
+        ┌──────────┬──────┬═════════╤═════════┐
+        │          │      ║         │         │
+        │  TOILET  │ SINK ║ ELECTRIC│ BUCKET  │
+        │ on south │ on   ║ SHOWER  │ SHOWER  │
+        │   wall   │ west ║ on west │ on west │ ← DOOR
+        │          │ wall ║ wall    │ wall    │
+        │          │      ║         │         │
+        └──────────┴──────┴═════════┴═════════┘
+                          ↑
+                  ║ Linear drain runs east-west
+                  ║ across the full 0.9m floor width,
+                  ║ positioned 1050mm in from the
+                  ║ north (door) wall
+
+        BOTTOM/EAST WALL (clear standing space)
+
+        ←─── DRY ZONE ───→  ←── WET ZONE ──→
+              (~1.1m)             (~1.05m)
+</pre>
+
+<p>The whole floor is one tanked wet zone — no shower trays, no enclosures, no glass screens.</p>
+
+<p><strong>Drain position (the key dimension):</strong> linear drain across the full 0.9m room width, located <strong>1050mm from the north (door) wall</strong>. The floor falls 1:80 from both directions toward the drain — wet zone slopes south, dry zone slopes north.</p>
+
+<h2 style="font-size: 18px; color: #444;">Floor</h2>
+<ul>
+<li>Liquid tanking continuous with sauna, walls tanked to 1800mm minimum (full height in wet zone)</li>
+<li>Sand/cement screed to falls (1:80) toward the linear drain</li>
+<li>Stainless steel linear drain as above</li>
+<li>R11 porcelain floor tile, epoxy grout</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Walls</h2>
+<ul>
+<li>Cement-board substrate (Hardiebacker, Aquapanel) on stud</li>
+<li>Porcelain wall tile to ceiling, epoxy grout</li>
+<li>Silicone to all internal corners and around fittings</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Toilet</h2>
+<ul>
+<li>Standard wall-hung WC, ~520–560mm projection (e.g. Roca The Gap, Vitra S20, Geberit iCon)</li>
+<li>Centred on south wall</li>
+<li>Concealed cistern in stud framing behind</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Sink</h2>
+<ul>
+<li>Wall-hung basin, approx 450mm wide × 350mm projection</li>
+<li>Single cold tap (no hot water in this room)</li>
+<li>Top/west wall, immediately north of the toilet</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Electric Shower</h2>
+<ul>
+<li>10.5kW unit (e.g. Mira Sport Max, Triton T90SR, Aqualisa Quartz Electric)</li>
+<li>Top/west wall, north end of wet zone (south of the bucket shower)</li>
+<li>Cold supply only</li>
+<li>Dedicated 10mm² circuit, 45A RCBO</li>
+<li>Ceiling pull-cord isolator within the room, away from the spray zone</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Cold Bucket Shower</h2>
+<p>This is a feature for us — traditional Finnish-style timber bucket on a pivoting wall arm, pull-cord operated, used as a cold plunge after the sauna.</p>
+<ul>
+<li>Wall-mounted kit (e.g. Finnmark, ~£80–150)</li>
+<li>Top/west wall, immediately south of the door (north end of wet zone)</li>
+<li>Mounted at 2100mm FFL — bucket sits above head height when not in use</li>
+<li>Cold supply with float valve so it auto-refills</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Plumbing Summary</h2>
+<ul>
+<li><strong>Cold water only</strong> — taken from existing terrace supply at south wall</li>
+<li>Cold runs to: toilet cistern (south wall), sink tap (south end of west wall), then along west wall to electric shower and bucket shower at north end</li>
+<li>Toilet waste: 110mm soil pipe south to existing soil stack</li>
+<li>Sink waste: bottle trap, connected to terrace drainage</li>
+<li>Linear drain: 50mm waste south to terrace drainage</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Door</h2>
+<ul>
+<li>North wall, 762mm leaf</li>
+<li>Pre-made external cedar door — same supplier as the sauna door, so they match in appearance</li>
+<li>Weatherproof frame, threshold, compression seals</li>
+<li>Outward-opening (the current drawing shows inward — please amend)</li>
+<li>Restrictor chain</li>
+<li>Approximate cost: £350–600</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Ventilation</h2>
+<ul>
+<li>Inline duct extractor fan in ceiling void, ducted out through nearest external wall</li>
+<li>15 L/s minimum, IP44 minimum</li>
+<li>Humidity sensor + overrun timer</li>
+<li>E.g. Vent-Axia ACM Inline, Manrose CF200T (~£50–80)</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Lighting</h2>
+<ul>
+<li>3× IP65 LED downlights in ceiling, warm white (3000K)</li>
+<li>Light switch outdoors on the terrace, beside the wet room door — IP55+ weatherproof</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">External Switches / Isolators (Wet Room Side)</h2>
+<p>Grouped on the terrace wall beside the wet room door, IP55+ weatherproof:</p>
+<ul>
+<li>Wet room light switch (Shelly Plus 1 behind)</li>
+<li>3-pole fan isolator (for the extractor fan)</li>
+<li>45A DP isolator for the electric shower (in addition to the internal pull-cord)</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">External Socket (Terrace)</h2>
+<ul>
+<li>1× IP66 weatherproof double 13A socket on the building's external north wall, east end</li>
+<li>Mounted at ~450mm FFL</li>
+<li>Dedicated 20A radial circuit, RCD protected</li>
+<li>Integral switches; lockable cover optional</li>
+</ul>
+
+<hr>
+
+<h1 id="part-c" style="font-size: 22px; background: #f0f0f0; padding: 8px;">PART C — SMART CONTROL (HOME ASSISTANT)</h1>
+
+<p>We run Home Assistant at home and want to control the switched circuits in the sauna and wet room via Shelly relays. This is the part most likely to be unfamiliar — flagging up front so you and the electrician can factor it in.</p>
+
+<table style="border-collapse: collapse; width: 100%;">
+<thead>
+<tr style="background: #eee;">
+<th style="border: 1px solid #ccc; padding: 6px; text-align: left;">Circuit</th>
+<th style="border: 1px solid #ccc; padding: 6px; text-align: left;">Shelly</th>
+<th style="border: 1px solid #ccc; padding: 6px; text-align: left;">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="border: 1px solid #ccc; padding: 6px;">Sauna heater (~17A)</td><td style="border: 1px solid #ccc; padding: 6px;">Plus 1PM + 25A contactor</td><td style="border: 1px solid #ccc; padding: 6px;">Shelly switches the contactor coil, contactor switches the heater. The 1PM gives us power monitoring in HA.</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 6px;">Sauna light</td><td style="border: 1px solid #ccc; padding: 6px;">Plus 1</td><td style="border: 1px solid #ccc; padding: 6px;">Behind the switch outside the sauna</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 6px;">Wet room light</td><td style="border: 1px solid #ccc; padding: 6px;">Plus 1</td><td style="border: 1px solid #ccc; padding: 6px;">Behind the switch outside the wet room</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 6px;">Wet room fan</td><td style="border: 1px solid #ccc; padding: 6px;">Plus 1</td><td style="border: 1px solid #ccc; padding: 6px;">Behind the fan isolator</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 6px;">Electric shower</td><td style="border: 1px solid #ccc; padding: 6px;">None</td><td style="border: 1px solid #ccc; padding: 6px;">Standard pull-cord isolator only</td></tr>
+</tbody>
+</table>
+
+<p>What this needs from the install:</p>
+<ul>
+<li>Shellys located in dry, cool, accessible places with 2.4GHz WiFi coverage (we'll confirm coverage)</li>
+<li>Live and neutral at the back of every switch position (worth flagging early to the electrician)</li>
+<li>A small DIN-rail enclosure for the heater contactor + Shelly somewhere outside the two rooms</li>
+</ul>
+
+<hr>
+
+<h1 id="part-d" style="font-size: 22px; background: #f0f0f0; padding: 8px;">PART D — HOT TUB</h1>
+
+<p>We're planning to site a hot tub on the terrace alongside the sauna/wet room building. Including this here because the <strong>structural loading on the terrace deck is the critical question for you</strong>, and the model choice drives weight, footprint, and electrical supply. Final model TBC; shortlist below in our preferred order.</p>
+
+<h2 style="font-size: 18px; color: #444;">Shortlist (ranked)</h2>
+
+<table style="border-collapse: collapse; width: 100%; margin: 10px 0;">
+<thead>
+<tr style="background: #eee;">
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">#</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Model</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Origin</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Shape</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Dimensions</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Filled (kg)</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">kg/m²</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Price</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="border: 1px solid #999; padding: 6px;">1</td><td style="border: 1px solid #999; padding: 6px;"><a href="https://www.rotospa.co.uk/product/the-orbis/">RotoSpa Orbis</a></td><td style="border: 1px solid #999; padding: 6px;">UK (Sutton Coldfield)</td><td style="border: 1px solid #999; padding: 6px;">Round</td><td style="border: 1px solid #999; padding: 6px;">183cm dia × 74cm</td><td style="border: 1px solid #999; padding: 6px;">950</td><td style="border: 1px solid #999; padding: 6px;">361</td><td style="border: 1px solid #999; padding: 6px;">£3,995–4,895</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">2</td><td style="border: 1px solid #999; padding: 6px;"><a href="https://www.rotospa.co.uk/">RotoSpa QuatroSpa</a></td><td style="border: 1px solid #999; padding: 6px;">UK (Sutton Coldfield)</td><td style="border: 1px solid #999; padding: 6px;">Round</td><td style="border: 1px solid #999; padding: 6px;">200cm dia × 74cm</td><td style="border: 1px solid #999; padding: 6px;">1,160</td><td style="border: 1px solid #999; padding: 6px;">369</td><td style="border: 1px solid #999; padding: 6px;">£3,415–4,750</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">3</td><td style="border: 1px solid #999; padding: 6px;"><a href="https://www.happyhottubs.co.uk/shop-hot-tubs/pre-owned-off-display-hot-tubs">Pre-owned Hot Spring Hot Spot</a></td><td style="border: 1px solid #999; padding: 6px;">USA (California)</td><td style="border: 1px solid #999; padding: 6px;">Rectangular</td><td style="border: 1px solid #999; padding: 6px;">up to 213 × 213cm</td><td style="border: 1px solid #999; padding: 6px;">1,340</td><td style="border: 1px solid #999; padding: 6px;">406</td><td style="border: 1px solid #999; padding: 6px;">£3,000–5,500</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">4</td><td style="border: 1px solid #999; padding: 6px;"><a href="https://www.hunsburyhottubs.co.uk/hot-tubs/pre-owned/">Pre-owned Jacuzzi J-200</a></td><td style="border: 1px solid #999; padding: 6px;">Mexico (genuine Jacuzzi)</td><td style="border: 1px solid #999; padding: 6px;">Round or rectangular</td><td style="border: 1px solid #999; padding: 6px;">up to 213 × 213cm</td><td style="border: 1px solid #999; padding: 6px;">1,240</td><td style="border: 1px solid #999; padding: 6px;">403</td><td style="border: 1px solid #999; padding: 6px;">£3,000–5,500</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">5</td><td style="border: 1px solid #999; padding: 6px;"><a href="https://fisherspas.com/">Fisher 3</a></td><td style="border: 1px solid #999; padding: 6px;">NZ designed (Vortex)</td><td style="border: 1px solid #999; padding: 6px;">Rectangular</td><td style="border: 1px solid #999; padding: 6px;">207 × 153 × 82cm</td><td style="border: 1px solid #999; padding: 6px;">1,121</td><td style="border: 1px solid #999; padding: 6px;">354</td><td style="border: 1px solid #999; padding: 6px;">£3,500–5,500</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">6</td><td style="border: 1px solid #999; padding: 6px;"><a href="https://www.hunsburyhottubs.co.uk/hot-tubs/pre-owned/">Pre-owned Marquis Spirit</a></td><td style="border: 1px solid #999; padding: 6px;">USA (Oregon)</td><td style="border: 1px solid #999; padding: 6px;">Rectangular</td><td style="border: 1px solid #999; padding: 6px;">213 × 165 × 91cm</td><td style="border: 1px solid #999; padding: 6px;">1,280</td><td style="border: 1px solid #999; padding: 6px;">365</td><td style="border: 1px solid #999; padding: 6px;">£3,500–5,500</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">7</td><td style="border: 1px solid #999; padding: 6px;"><a href="https://www.h2ohottubs.co.uk/">H2O 2000 Series</a></td><td style="border: 1px solid #999; padding: 6px;">UK distributed; Chinese-built</td><td style="border: 1px solid #999; padding: 6px;">Rectangular</td><td style="border: 1px solid #999; padding: 6px;">210 × 180 × 80cm</td><td style="border: 1px solid #999; padding: 6px;">1,200</td><td style="border: 1px solid #999; padding: 6px;">317</td><td style="border: 1px solid #999; padding: 6px;">£3,000–4,500</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">8</td><td style="border: 1px solid #999; padding: 6px;"><a href="https://www.penguinspas.com/product-page/sunbeach-sb355l-5-person-plug-play-hot-tub">Sunbeach SB355L</a></td><td style="border: 1px solid #999; padding: 6px;">UK designed; Chinese-built</td><td style="border: 1px solid #999; padding: 6px;">Rectangular</td><td style="border: 1px solid #999; padding: 6px;">225 × 180 × 80cm</td><td style="border: 1px solid #999; padding: 6px;">1,280</td><td style="border: 1px solid #999; padding: 6px;">316</td><td style="border: 1px solid #999; padding: 6px;">£4,200–5,700</td></tr>
+</tbody>
+</table>
+
+<p>Filled weight is shell + water, no occupants. Add ~10–15% for dynamic loading. Three adults add only ~25kg total (bodies displace nearly their own weight).</p>
+
+<h2 style="font-size: 18px; color: #444;">Recommended suppliers</h2>
+
+<ul>
+<li><strong><a href="https://www.rotospa.co.uk/">RotoSpa</a></strong> — direct from manufacturer for the Orbis / QuatroSpa</li>
+<li><strong><a href="https://www.hunsburyhottubs.co.uk/hot-tubs/pre-owned/">Hunsbury Hot Tubs</a></strong> (Northampton) — dedicated pre-owned premium specialist; Hot Spring, Jacuzzi, Marquis</li>
+<li><strong><a href="https://www.happyhottubs.co.uk/shop-hot-tubs/pre-owned-off-display-hot-tubs">Happy Hot Tubs</a></strong> (7 UK showrooms incl. Sussex) — wet-testing of pre-owned and ex-display</li>
+<li><strong><a href="https://www.myhottubmover.co.uk/used-hot-tub-sales.html">My Hot Tub Mover</a></strong> — UK-wide pre-owned, fully wet-tested</li>
+<li><strong><a href="https://www.h2ohottubs.co.uk/">H2O Hot Tubs</a></strong> (Nottingham) — for the H2O 2000 with strong UK warranty</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">What we need from you on this</h2>
+
+<ul>
+<li>Sign-off on <strong>filled load</strong> (with dynamic allowance) for the heaviest realistic option (~1,500kg) on the terrace deck</li>
+<li>Steer on whether to design for the lightest option (RotoSpa Orbis ~950kg) or build in headroom for any option on the list</li>
+<li>Crane access vs hand-carry: the RotoSpas can be carried up by two people; acrylic options likely need a crane</li>
+<li>Drainage: tub will need emptying 2–3× per year — best route to terrace drainage</li>
+</ul>
+
+<hr>
+
+<h1 id="part-e" style="font-size: 22px; background: #f0f0f0; padding: 8px;">PART E — RAILINGS</h1>
+
+<p>The narrow section of the roof terrace currently has three sets of railings. We want to simplify and reclad them.</p>
+
+<h2 style="font-size: 18px; color: #444;">Changes</h2>
+<ul>
+<li><strong>Remove:</strong> the centre railing, and the short railing joining the centre railing to the west railing</li>
+<li><strong>Keep:</strong> the east railing and the west railing</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Cladding and height</h2>
+<p>Both remaining railings to be:</p>
+<ul>
+<li>Clad in timber on the inboard face up to <strong>1100mm above FFL</strong> (taller than the current railings — meets Approved Doc K guarding height for a roof terrace)</li>
+<li>Timber: external-grade, e.g. Western Red Cedar or thermally modified ash/pine, to weather greyly without staining</li>
+<li>Stainless steel fixings throughout</li>
+<li>Detailing to allow water runoff (slight bottom gap, drainage at base)</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Bird deterrent</h2>
+<ul>
+<li>Post and wire system running along the top of both clad railings</li>
+<li>Stainless steel posts at ~1m centres, 2–3 tensioned wires</li>
+<li>Posts ~150–200mm above the cladded top, so total visual height ~1300mm</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">What we'd value your steer on</h2>
+<ul>
+<li><strong>Wind loading</strong> — cladding turns an open railing into a solid wind catch, materially changing the load on the existing posts/fixings. Are the existing railings adequate for this, or do they need reinforcement?</li>
+<li><strong>Removal of the centre / short railings</strong> — confirm no structural role</li>
+<li><strong>Cladding fixing method</strong> — best approach to attach timber to the existing railing structure without compromising weatherproofing</li>
+</ul>
+
+<hr>
+
+<h1 id="part-f" style="font-size: 22px; background: #f0f0f0; padding: 8px;">PART F — PARAPET BIRD DETERRENT (POST AND WIRE)</h1>
+
+<p>The main parapet walls currently have bird spikes. They work but look bad. We want to replace them with a low-visibility post-and-wire system on the 450mm-wide precast concrete coping.</p>
+
+<h2 style="font-size: 18px; color: #444;">1. Scope</h2>
+<p>Supply and install a low-visibility stainless-steel post-and-wire system on the top face of a 450mm-wide precast concrete coping to deter pigeons and gulls.</p>
+
+<h2 style="font-size: 18px; color: #444;">2. Design intent</h2>
+<p>Gulls and pigeons need a clear, flat landing strip. On a wide (450mm) coping, a single row of wire is insufficient — birds simply land beside it. We deny the landing area by running <strong>three parallel wires across the width</strong>, all at the same height, so there is no usable perch anywhere on the 450mm top.</p>
+
+<h2 style="font-size: 18px; color: #444;">3. Layout (plan and section)</h2>
+<ul>
+<li><strong>Wires:</strong> 3 longitudinal runs, all at 85–90mm above coping</li>
+<li><strong>Lateral positions:</strong>
+  <ul>
+  <li>Wire A: 30mm in from outer edge</li>
+  <li>Wire B: centre line of coping</li>
+  <li>Wire C: 30mm in from inner edge</li>
+  </ul>
+</li>
+<li><strong>Post spacing:</strong> 1000–1200mm (consistent within a run)</li>
+<li><strong>Springs / tensioners:</strong> at ~10m intervals and at line ends</li>
+<li><strong>Corners:</strong> terminate and restart each wire at corners with corner posts (no sharp bends)</li>
+<li><strong>Clearances:</strong> keep all fixings ≥25mm from coping edges/drips</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">4. Heights — what works best</h2>
+<ul>
+<li>Pigeons: 70–100mm effective</li>
+<li>Gulls: 80–110mm effective</li>
+<li><strong>Chosen spec: 85–90mm</strong> suits both species and looks neat</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">5. Materials (marine / coastal)</h2>
+<ul>
+<li>All metalwork: <strong>A4 / 316 or 316L stainless steel</strong> (posts, wire, terminals, springs, screws, washers, ferrules)</li>
+<li>Wire: 1.0–1.2mm Ø 7×7 or 7×19 stainless cable (1.2mm preferred for coastal robustness and visual straightness; 1.0mm acceptable)</li>
+<li>Posts: turned stainless, 70–110mm stem height with swivel / tilting saddles (±10–15°) to allow posts to be plumb despite coping fall</li>
+<li>Base gaskets: neoprene or EPDM under base washers to protect the coping</li>
+<li>Anchors: stainless screws into mortar joints with resin/chemical anchors where required. <strong>Do not drill waterproofing / membranes.</strong></li>
+<li>Dissimilar metals: isolate if any non-SS substrate/fastener is unavoidable</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">6. Fixing method (preserve fabric)</h2>
+<ul>
+<li>Drill only mortar joints (perp or bed joints) between coping stones; <strong>never the stone arris or roof build-up</strong></li>
+<li>If mortar joints are unsuitable at a location, use inner-face side-mount stand-offs into brick perp joints instead of top-mounting that stone</li>
+<li>Maintain minimum edge distances per anchor manufacturer data</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">7. Tension and tolerances (quality)</h2>
+<ul>
+<li><strong>Tension:</strong> light spring tension — enough to remove visible sag, no "banjo-tight" runs</li>
+<li><strong>Parallelism:</strong> three wires parallel within ±2mm over any 2m length</li>
+<li><strong>Level:</strong> top wire height 85–90mm above coping, tolerance ±3mm; posts plumb</li>
+<li><strong>Sag:</strong> &lt; 5mm mid-span over 3m in summer conditions</li>
+<li><strong>Finish:</strong> no sharp burrs; trimmed ferrules; caps neat and aligned</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">8. Quantities (25m guide)</h2>
+<ul>
+<li>Posts: at 1.1m centres ≈ 23 posts per run × 3 runs = <strong>~69 posts</strong> (+10% spares)</li>
+<li>Wire: ~80m total (75m + waste)</li>
+<li>Springs / tensioners: ~9–12 (one per end + ~every 10m per run)</li>
+<li>Terminals / ferrules / eyelets: as required for each end and spring</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">9. Visual / architectural requirements</h2>
+<ul>
+<li>Minimal, discreet look — this is a deterrent, not a balustrade</li>
+<li>Keep post heads below sightline clutter; avoid reflective / glossy finishes (satin / brushed is ideal)</li>
+<li>Keep bases in line and centred on joints; no skewed bases</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">10. Acceptable systems / brands</h2>
+<p>Not brand-specific. Any proprietary bird post-and-wire system meeting this spec (A4/316 components; 1.0–1.2mm SS cable; swivel bases; springs; marine-grade anchors) is acceptable. Examples include mainstream UK bird-control suppliers' post-and-wire kits — contractor to propose and submit datasheets for approval.</p>
+
+<hr>
+
+<h1 id="part-g" style="font-size: 22px; background: #f0f0f0; padding: 8px;">PART G — PARASOLS</h1>
+
+<p>We've used Morton Parasols before and want to use them again, or an equivalent commercial-grade alternative. Reference: <a href="https://www.mortonparasols.com/commercial/malaga/">Morton Malaga commercial parasol</a>.</p>
+
+<h2 style="font-size: 18px; color: #444;">What we need</h2>
+<ul>
+<li><strong>2× parasols</strong>, freestanding, commercial / storm-resistant grade
+  <ul>
+  <li>1× <strong>3m × 3m</strong> (square)</li>
+  <li>1× <strong>3m × 4.5m</strong> (rectangular)</li>
+  </ul>
+</li>
+<li>Frame: anodised aluminium or powder-coated aluminium (marine-tolerant)</li>
+<li>Fabric: solution-dyed acrylic (e.g. Sunbrella or equivalent), Brighton coastal exposure</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Bases — key point for the surveyor</h2>
+<p>The heavy bases need to sit <strong>under the porcelain tile finish</strong>, not on top of it. So the deck build-up needs to accommodate the base.</p>
+<p>Commercial parasol bases for this size are typically:</p>
+<ul>
+<li>80–150kg cast / granite slab type, or</li>
+<li>Cassette-style steel frame filled with paving slabs on site</li>
+</ul>
+<p>We'd like the <strong>base plate(s) recessed into the deck build-up</strong> so the tile finish runs continuously over the top, with only the mast emerging through a sealed sleeve / cup detail. The mast is removable so the cup can be capped flush when the parasol is taken down for winter.</p>
+
+<h2 style="font-size: 18px; color: #444;">What we'd value your steer on</h2>
+<ul>
+<li><strong>Recessed base detail</strong> — the best way to set the base into the deck build-up without compromising the tanking, falls, or insulation. Likely a custom steel cassette set at screed level</li>
+<li><strong>Wind uplift loads</strong> — a 3 × 4.5m parasol at full Brighton seafront wind exposure is a serious load. We need confidence the deck and base anchorage can take it, even with the parasol furled</li>
+<li><strong>Sleeve / cup detail</strong> — how the mast passes through the tile surface, weather-sealed, and capped when removed</li>
+<li>Equivalent suppliers if you have a preferred specifier for commercial parasols</li>
+</ul>
+
+<hr>
+
+<h1 id="part-h" style="font-size: 22px; background: #f0f0f0; padding: 8px;">PART H — FALL PROTECTION (GLASS BALUSTRADES &amp; PLANTERS)</h1>
+
+<p>Two locations need fall protection to comply with Approved Doc K (1100mm above the standing level):</p>
+<ol>
+<li><strong>Dining area (Floor Area 2)</strong> — 1100mm above FFL along the relevant edge(s)</li>
+<li><strong>Around the hot tub</strong> — 1100mm above the <strong>hot tub rim</strong>, since BC will treat the rim as the standing level. The tub can't be positioned away from the edge, so this applies.</li>
+</ol>
+
+<p>We've chosen frameless structural glass throughout for both locations — keeps the view, and minimises bulk from public viewpoints (conservation area).</p>
+
+<h2 style="font-size: 18px; color: #444;">Glass spec</h2>
+<ul>
+<li>Frameless toughened laminated glass (typ. 17.5mm or 21.5mm — engineer to confirm)</li>
+<li>Heights:
+  <ul>
+  <li>Dining area: top of glass at <strong>1100mm FFL</strong></li>
+  <li>Hot tub area: top of glass at <strong>1100mm above tub rim</strong> (≈1900mm FFL depending on final tub choice)</li>
+  </ul>
+</li>
+<li>Designed to BS 6180 line loads + Brighton coastal wind loads (significant — seafront exposure)</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Planters (inside the glass)</h2>
+<ul>
+<li><strong>500mm deep planters</strong> running along the inside (terrace side) of the glass</li>
+<li>Planter top <strong>300mm above hot tub rim</strong> along the hot tub run</li>
+<li>Functions:
+  <ul>
+  <li>Visual / planting feature</li>
+  <li>Creates a 500mm physical setback between the hot tub and the glass — may help BC accept the guarding line (worth confirming with building control)</li>
+  <li>Adds visual interest at parapet level</li>
+  </ul>
+</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Mounting — top of parapet vs face of parapet</h2>
+<p>The key question: <strong>does the glass channel sit on top of the parapet wall, or is it bolted to the inner face of the parapet?</strong> This is primarily a wind-loading and waterproofing question.</p>
+
+<table style="border-collapse: collapse; width: 100%; margin: 10px 0;">
+<thead>
+<tr style="background: #eee;">
+<th style="border: 1px solid #999; padding: 6px; text-align: left;"></th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Top-mounted (U-channel on coping)</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Side-mounted (face-fix to inner face)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="border: 1px solid #999; padding: 6px;"><strong>Load path</strong></td><td style="border: 1px solid #999; padding: 6px;">Direct moment + shear into parapet mass — generally more efficient</td><td style="border: 1px solid #999; padding: 6px;">Cantilever moment pulls on parapet face — higher leverage on fixings</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;"><strong>Waterproofing</strong></td><td style="border: 1px solid #999; padding: 6px;">Requires breaking through coping; careful detail needed</td><td style="border: 1px solid #999; padding: 6px;">Existing coping / tanking undisturbed</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;"><strong>Look from outside</strong></td><td style="border: 1px solid #999; padding: 6px;">Cleaner — glass appears to grow from wall</td><td style="border: 1px solid #999; padding: 6px;">Glass sits behind/above coping line</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;"><strong>Replacement / maintenance</strong></td><td style="border: 1px solid #999; padding: 6px;">Whole channel job</td><td style="border: 1px solid #999; padding: 6px;">Individual clamps replaceable</td></tr>
+</tbody>
+</table>
+
+<h2 style="font-size: 18px; color: #444;">What we'd value your steer on</h2>
+<ul>
+<li><strong>Top-mount vs side-mount</strong> — your view, given Brighton seafront wind exposure and the existing parapet construction. Likely needs SE input for wind-load calculations.</li>
+<li><strong>Glass thickness / spec</strong> — to be sized by the supplier's engineer once the loading approach is agreed</li>
+<li><strong>Whether the 500mm planter setback</strong> is acceptable to building control as part of the guarding strategy around the hot tub (could allow the glass to be slightly lower than the strict 1100mm-above-rim rule, though we're not banking on this)</li>
+<li><strong>Coping replacement</strong> if top-mounted — whether the existing 450mm precast coping can take a channel cut, or needs replacing with a new coping detailed to integrate the channel and tanking</li>
+</ul>
+
+<hr>
+
+<h1 id="part-i" style="font-size: 22px; background: #f0f0f0; padding: 8px;">PART I — TERRACE TILING SYSTEM</h1>
+
+<p><strong>Note on area:</strong> previously specified at 120m². Final tiled area to be <strong>recalculated to exclude the planter footprints</strong> (see Part J) — planters sit on the Protectoboard at asphalt level, with the tile field butting up to their outer faces, so the planter footprints are not tiled. Builder to remeasure once planter positions are finalised on the drawings.</p>
+
+<h2 style="font-size: 18px; color: #444;">Surface material</h2>
+<p>20mm porcelain pavers, R11 slip-rated minimum, frost-resistant. Italian or Spanish manufacture preferred for quality assurance. Large format preferred (600 × 600mm or larger). Finish to be mid-tone honed or textured — not polished, not white or very pale (glare and bird soiling). Warm grey, stone, or buff tones to suit the building character.</p>
+
+<p><strong>Hard rules:</strong></p>
+<ul>
+<li>20mm thickness minimum</li>
+<li>R11 slip rating minimum</li>
+<li>No limestone or natural stone (bird uric acid etching risk)</li>
+</ul>
+
+<p><strong>Supplier scope:</strong> Porcelain Superstore, Paving Superstore, Tile Mountain, or equivalent trade supplier. Samples required before order confirmed. 10–15% overage to be ordered and surplus retained in the client's garage at Sussex Square for future repairs (not stored on the roof terrace).</p>
+
+<h2 style="font-size: 18px; color: #444;">Pedestal system</h2>
+<p>Adjustable pedestal system with self-levelling head and integrated rubber acoustic / isolation pads. Must accommodate installation over Protectoboard on asphalt membrane without acoustic underlay mat (Protectoboard provides base decoupling; mat layer not appropriate on this substrate).</p>
+
+<p><strong>Hard rules:</strong></p>
+<ul>
+<li>Padded head pedestals only — no unpadded basic systems</li>
+<li>Self-levelling head strongly preferred</li>
+<li>Pedestal base wide enough to distribute load over Protectoboard without point-loading damage</li>
+</ul>
+
+<p><strong>Preferred systems:</strong> Buzon DPH with rubber shims, or Eterno Ivica SE range. Either acceptable. Builder may source either subject to confirming spec compliance.</p>
+
+<h2 style="font-size: 18px; color: #444;">Acoustic isolation — zoned by sensitivity of space below</h2>
+<p>We want acoustic isolation specced proportionally to what's underneath each part of the terrace, rather than uniform across the whole 120m². Three zones:</p>
+<table style="border-collapse: collapse; width: 100%; margin: 10px 0;">
+<thead>
+<tr style="background: #eee;">
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Zone</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">What's below</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Pedestal spec</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="border: 1px solid #999; padding: 6px;"><strong>Main (large) section</strong></td><td style="border: 1px solid #999; padding: 6px;">Habitable rooms (bedrooms / living)</td><td style="border: 1px solid #999; padding: 6px;"><strong>Double-isolated</strong> — padded head + padded base (e.g. Buzon BC-PH range + base pad accessory, or Eterno Ivica AntiNoise / SE with PVC base pad)</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;"><strong>Narrow section</strong></td><td style="border: 1px solid #999; padding: 6px;">Less acoustically sensitive</td><td style="border: 1px solid #999; padding: 6px;"><strong>Padded head only</strong> (standard SE / DPH spec)</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;"><strong>Around the lift bulkhead</strong></td><td style="border: 1px solid #999; padding: 6px;">Lift shaft (no occupants below)</td><td style="border: 1px solid #999; padding: 6px;"><strong>Basic pedestals</strong> — no acoustic premium needed</td></tr>
+</tbody>
+</table>
+<p>Both Buzon and Eterno Ivica offer base pads as a standard accessory; the cost premium for double-isolation is small (typically £1–3 per pedestal over head-only).</p>
+<p><strong>Sanity check we'd value your steer on:</strong> we've assumed the narrow section is over less sensitive space (utility, plant, or non-bedroom rooms). If it's actually over a habitable room, the acoustic spec for that section should be upgraded to match the main section.</p>
+
+<h2 style="font-size: 18px; color: #444;">Drainage — no grout, open joints</h2>
+<p>The whole point of the pedestal system is that water drains freely through the open joints between tiles, into the void below, and away across the asphalt falls to the existing drainage.</p>
+<ul>
+<li><strong>No grout, no sealant, no jointing compound</strong> of any kind between tiles</li>
+<li>Open joint width as dictated by the pedestal head's spacer tabs — typically 3–5mm</li>
+<li>Joints to remain clear at all times; builder not to "improve" the system by closing them up</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Coordination — clearances and thresholds</h2>
+<p>The finished tile level needs to coordinate with:</p>
+<ul>
+<li><strong>Sauna and wet room door thresholds</strong> — pedestal + tile build-up is typically 60–150mm above the asphalt depending on falls</li>
+<li><strong>Hot tub base</strong> — recessed under-tile base detail (see PART D)</li>
+<li><strong>Parasol bases</strong> — recessed under-tile cassettes (see PART G)</li>
+<li><strong>Linear drain in wet room</strong> — continuity of tanking and falls</li>
+<li><strong>Lift bulkhead</strong> — tiling must clear the bulkhead and not bridge or trap services</li>
+<li><strong>Emergency staircase access</strong> — full unobstructed access to the stair head must be maintained at all times</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">What builders have scope on</h2>
+<ul>
+<li>Choice of Buzon vs Eterno Ivica (or equivalent quality tier), provided rubber pad and self-levelling spec is met</li>
+<li>Specific porcelain range and supplier, provided colour, tone, format, slip rating, and thickness rules are met</li>
+<li>Pedestal height selection based on actual survey levels</li>
+<li>Open joint width within the normal range for pedestal-laid 20mm pavers</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">What is fixed</h2>
+<ul>
+<li>20mm porcelain only (not natural stone, not composite decking)</li>
+<li>R11 slip rating minimum</li>
+<li>Padded self-levelling pedestals</li>
+<li>No adhesive bed — pedestal / floating system only</li>
+<li>No grout or jointing compound between tiles</li>
+<li>Overage tiles retained in the client's garage at Sussex Square (not on the roof terrace)</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">What we'd value your steer on</h2>
+<ul>
+<li><strong>Structural sign-off</strong> for 120m² of 20mm porcelain + pedestals + furniture / occupancy load. Usually fine but worth on record before contractors price it</li>
+<li><strong>Total build-up height</strong> at the highest and lowest points of the falls — needed to confirm sauna / wet room door threshold heights and the hot tub / parasol base recess depths</li>
+<li><strong>Edge detail</strong> at the parapet / planter / glass balustrade interfaces — how the tile field terminates cleanly without a visible pedestal edge</li>
+</ul>
+
+<hr>
+
+<h1 id="part-j" style="font-size: 22px; background: #f0f0f0; padding: 8px;">PART J — PLANTERS</h1>
+
+<p>We want planters built from the <strong>salvaged hardwood decking</strong> removed from the existing terrace. Locations and footprints per the drawings.</p>
+
+<h2 style="font-size: 18px; color: #444;">Construction principle</h2>
+<ul>
+<li>Planters sit <strong>on top of the Protectoboard</strong>, at asphalt level (i.e. below the tile finish)</li>
+<li>Tile field butts up to the outside face of each planter</li>
+<li>Planters are <strong>freestanding boxes</strong> — they do not rely on the parapet or any other wall for structural or weatherproofing function</li>
+<li>Built with stainless steel fixings throughout</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Sizes (outside measurements)</h2>
+<table style="border-collapse: collapse; width: 100%; margin: 10px 0;">
+<thead>
+<tr style="background: #eee;">
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Location</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Total occupied depth (incl. air gap)</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Height (above terrace tile FFL)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="border: 1px solid #999; padding: 6px;">General planters</td><td style="border: 1px solid #999; padding: 6px;">600mm — sized to align exactly with one 600mm tile width</td><td style="border: 1px solid #999; padding: 6px;">600mm</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">Around the hot tub</td><td style="border: 1px solid #999; padding: 6px;">500mm</td><td style="border: 1px solid #999; padding: 6px;">finishes <strong>300mm above the hot tub rim</strong></td></tr>
+</tbody>
+</table>
+<p>The general planters' total footprint (planter + air gap to wall behind) is <strong>600mm</strong>, so the planter occupies exactly the depth of one porcelain tile. With a ~25–50mm air gap, the planter box itself is therefore 550–575mm deep externally.</p>
+<p>Because the planter base sits at Protectoboard level (below the tile FFL by the depth of the tile/pedestal build-up — typically 60–150mm), each planter is constructed taller than its visible height by that amount.</p>
+
+<h2 style="font-size: 18px; color: #444;">Preventing leaching into walls behind</h2>
+<p>This is the key risk where planters sit against the parapet or building wall. Two-part approach:</p>
+<ol>
+<li><strong>Freestanding back panel</strong> — every planter has its own timber back wall (built integrally), so the planter contains itself. The parapet/building wall is never the back of the planter.</li>
+<li><strong>Air gap</strong> — minimum 25–50mm air gap between the planter's back panel and the wall behind, to allow ventilation and a clear visual inspection route. Where this isn't possible, install a stainless-steel flashing / DPC up the wall to ~100mm above planter rim, dressed behind the planter.</li>
+</ol>
+<p>Result: any water that escapes the planter falls onto the Protectoboard / tile void and drains to the existing roof falls — never into a wall.</p>
+
+<h2 style="font-size: 18px; color: #444;">Lining (plant health + planter longevity)</h2>
+<table style="border-collapse: collapse; width: 100%; margin: 10px 0;">
+<thead>
+<tr style="background: #eee;">
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Layer (inside-out)</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Spec</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="border: 1px solid #999; padding: 6px;">Topsoil / planting medium</td><td style="border: 1px solid #999; padding: 6px;">Loam-based, free-draining (mixed with grit / perlite)</td><td style="border: 1px solid #999; padding: 6px;">Avoid garden topsoil — compacts and waterlogs</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">Geotextile membrane</td><td style="border: 1px solid #999; padding: 6px;">Non-woven, root-permeable</td><td style="border: 1px solid #999; padding: 6px;">Stops fines washing into drainage layer</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">Drainage layer</td><td style="border: 1px solid #999; padding: 6px;">75–100mm expanded clay (LECA) or 10mm gravel</td><td style="border: 1px solid #999; padding: 6px;">Free drainage, prevents waterlogged roots</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">Geotextile over drain holes</td><td style="border: 1px solid #999; padding: 6px;">Non-woven offcuts</td><td style="border: 1px solid #999; padding: 6px;">Stops drainage layer washing out</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">Liner</td><td style="border: 1px solid #999; padding: 6px;"><strong>EPDM rubber</strong> (1.0–1.2mm), continuous, no PVC</td><td style="border: 1px solid #999; padding: 6px;">Waterproof, root-resistant, food-safe, 30–50 year life</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">Liner support</td><td style="border: 1px solid #999; padding: 6px;">Timber inner faces lined with breathable membrane between liner and timber</td><td style="border: 1px solid #999; padding: 6px;">Allows any moisture between liner and timber to escape</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">Hardwood box</td><td style="border: 1px solid #999; padding: 6px;">Reused decking, stainless fixings</td><td style="border: 1px solid #999; padding: 6px;">Structural box</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;">Bearers</td><td style="border: 1px solid #999; padding: 6px;">Treated softwood or stainless feet, ~25mm</td><td style="border: 1px solid #999; padding: 6px;">Lifts hardwood off Protectoboard so the base ventilates and doesn't sit in standing water</td></tr>
+</tbody>
+</table>
+
+<h2 style="font-size: 18px; color: #444;">Drainage from planters</h2>
+<ul>
+<li>Drainage holes through the <strong>liner and timber base</strong> at ~600mm centres, 25–30mm diameter</li>
+<li>Geotextile cap over each hole inside, to prevent media loss</li>
+<li>Water discharges onto Protectoboard, follows the asphalt falls to existing terrace drainage</li>
+<li><strong>No drainage discharged toward walls or into the tile pedestal void in a way that could pool</strong></li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">What we'd value your steer on</h2>
+<ul>
+<li><strong>EPDM vs alternative liner</strong> — happy to use HDPE or butyl if you have a preference for this exposure</li>
+<li><strong>Salvageable hardwood quantity</strong> — assumes we have enough sound boards for the run shown on the drawings. Contingency strategy if short</li>
+<li><strong>Wall flashing</strong> at the back of any planter that can't get a 25–50mm air gap — preferred detail</li>
+<li><strong>Bearer / foot detail</strong> — best way to lift the hardwood off the Protectoboard without point-loading the membrane</li>
+</ul>
+
+<hr>
+
+<h1 id="part-k" style="font-size: 22px; background: #f0f0f0; padding: 8px;">PART K — OUTDOOR TAP</h1>
+
+<h2 style="font-size: 18px; color: #444;">Remove</h2>
+<ul>
+<li>Existing plastic pipe water supply run on the terrace</li>
+<li>Existing outdoor tap</li>
+<li>Plastic panel behind the existing tap</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">New tap — relocated</h2>
+<ul>
+<li><strong>Position:</strong> between the sauna and the hot tub</li>
+<li><strong>Tap:</strong> high-quality solid brass garden tap (e.g. Hozelock Pro, Crosswater, or equivalent), with hose connector</li>
+<li><strong>Pipe:</strong> copper (or LSF / external-grade equivalent) — no plastic on exposed runs</li>
+<li><strong>Frost protection:</strong> internal isolation valve and drain-down point so the external run can be drained for winter, OR an integrated frost-resistant garden tap with self-draining body</li>
+<li><strong>Mounting:</strong> to a discreet, weather-tolerant backplate (powder-coated stainless or hardwood off-cut from the planter run, to match the timber finish — not plastic)</li>
+<li>Connected to the existing terrace cold supply</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">What we'd value your steer on</h2>
+<ul>
+<li>Best frost-protection approach (internal stop + drain vs frost-resistant tap)</li>
+<li>Pipe routing across the terrace given the new tile / pedestal build-up — preferred concealment</li>
+</ul>
+
+<hr>
+
+<h1 id="part-l" style="font-size: 22px; background: #f0f0f0; padding: 8px;">PART L — EXISTING OUTDOOR SOCKETS (RETAIN AND REPOSITION)</h1>
+
+<p>The terrace currently has <strong>3 or 4 existing outdoor electrical sockets</strong> in IP-rated protective enclosures. We want to keep them.</p>
+
+<h2 style="font-size: 18px; color: #444;">Scope</h2>
+<ul>
+<li><strong>Retain</strong> all existing outdoor sockets and their protective boxes</li>
+<li><strong>Reposition</strong> each one upward so it sits at the correct height <strong>above the new tile finish</strong> (the new tile / pedestal build-up adds 60–150mm to the floor level)</li>
+<li>Maintain a sensible mounting height — typically 450mm above the new FFL — and consistent across all sockets</li>
+<li>All wiring routing made good; no exposed cable runs left from the previous mounting heights</li>
+<li>Re-test and certify after relocation</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Notes</h2>
+<ul>
+<li>Existing protective enclosures to be reused unless damaged or no longer IP-compliant — replace like-for-like if so</li>
+<li>New IP66 socket specified separately in the <strong>External Switches / Isolators (Wet Room Side)</strong> section (Part B) — that one is in addition to these existing sockets</li>
+<li>Co-ordinate the sockets' new positions with the planters and parasol locations so they remain accessible</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">What we'd value your steer on</h2>
+<ul>
+<li>Whether the existing sockets and enclosures are worth retaining or if a uniform replacement (matching IP66 spec) would be cleaner</li>
+<li>Final mounting heights — happy with 450mm FFL across the board, or do you have a preferred standard?</li>
+</ul>
+
+<hr>
+
+<h1 id="part-m" style="font-size: 22px; background: #f0f0f0; padding: 8px;">PART M — ROOF BUILD-UP &amp; STRUCTURE (ASPHALT, INSULATION, JOISTS)</h1>
+
+<p>This section is foundational to most others — please read alongside Part D (hot tub), Part I (tiling), and Part J (planters), since loads from those land here.</p>
+
+<h2 style="font-size: 18px; color: #444;">Roof build-up — two systems</h2>
+<table style="border-collapse: collapse; width: 100%; margin: 10px 0;">
+<thead>
+<tr style="background: #eee;">
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Zone</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Build-up</th>
+<th style="border: 1px solid #999; padding: 6px; text-align: left;">Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="border: 1px solid #999; padding: 6px;"><strong>Bulk of the terrace</strong> (both narrow and main sections, except the hot tub zone)</td><td style="border: 1px solid #999; padding: 6px;"><strong>Warm roof</strong> — insulation above structural deck, asphalt waterproofing on top</td><td style="border: 1px solid #999; padding: 6px;">Standard, well understood, suits the loads from tiles / pedestals / furniture</td></tr>
+<tr><td style="border: 1px solid #999; padding: 6px;"><strong>Hot tub zone</strong> (NW quadrant of the main section)</td><td style="border: 1px solid #999; padding: 6px;"><strong>Inverted roof</strong> — asphalt waterproofing on the deck, then insulation, then ballast / build-up to finish</td><td style="border: 1px solid #999; padding: 6px;">Inverted construction takes the hot tub's concentrated load <strong>without invalidating the asphalt warranty</strong> — the membrane sits below the load and is protected</td></tr>
+</tbody>
+</table>
+<p>The hot tub zone is therefore <strong>built up approximately 200mm higher than the rest of the terrace</strong> to accommodate the inverted layers. (Note: the floor plan currently shows "400mm raised floor" in this area — discrepancy to be reconciled in the detailing.)</p>
+
+<h2 style="font-size: 18px; color: #444;">Protectoboard over the entire terrace</h2>
+<p>We want <strong>Protectoboard installed over the top of the asphalt across the whole terrace</strong> — both the warm-roof and inverted-roof zones. This protects the membrane from:</p>
+<ul>
+<li>Pedestal point loads from the tile system (Part I)</li>
+<li>Planter bases and their drainage discharge (Part J)</li>
+<li>Hot tub base (Part D)</li>
+<li>Parasol bases and any other recessed cassettes (Part G)</li>
+<li>Foot traffic during installation and any future maintenance</li>
+</ul>
+<p>No acoustic underlay mat above the Protectoboard (Protectoboard alone is the substrate for the pedestals — see Part I).</p>
+
+<h2 style="font-size: 18px; color: #444;">Building footprint — no asphalt under the building</h2>
+<ul>
+<li><strong>No asphalt under the sauna / wet room building</strong> — the asphalt is dressed up to the building itself</li>
+<li>The building sits on its own structural slab / base</li>
+<li>We need to finalise the <strong>detail just outside the building line</strong> so the doors can open without fouling on the asphalt upstand or any threshold trim — this is one of the items needing Ronan's input</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">Action — detailing required from Ronan Bond</h2>
+<blockquote style="border-left: 4px solid #c00; padding: 8px 12px; background: #fff5f5; margin: 10px 0;">
+<strong>Note for Ronan Bond:</strong> please provide the build-up details (warm roof, inverted roof, transition between the two, asphalt-to-building junction including the door-threshold detail) <strong>as a matter of urgency</strong> so they can be discussed with our surveyor, <strong>Sussex Asphalt</strong>, and <strong>Seaview</strong>.
+</blockquote>
+
+<h2 style="font-size: 18px; color: #444;">Structure — joists and steel</h2>
+<p>Our structural engineer is currently working up the calculations. Working assumptions to be confirmed:</p>
+<ul>
+<li><strong>Doubled joists</strong> in the <strong>NW quadrant of the main roof terrace</strong> (the hot tub zone), running <strong>east–west</strong>, to take the hot tub load</li>
+<li><strong>Existing steel beam</strong> runs <strong>north–south</strong>, approximately along the top edge of where the parasol sits in the <strong>NE corner</strong> — calcs to confirm whether this needs strengthening for the new loads in this zone</li>
+</ul>
+
+<h2 style="font-size: 18px; color: #444;">What we'd value your steer on</h2>
+<ul>
+<li>Warm-roof vs inverted-roof transition detail at the boundary of the hot tub zone — clean step, or a tapered transition?</li>
+<li>Asphalt-to-building junction and door threshold detail — needs to be both watertight and allow the outward-opening doors to clear</li>
+<li>Whether the ~200mm build-up in the hot tub zone is the right figure or should be larger (vs the "400mm" shown on the current drawing)</li>
+<li>Coordination with the SE on whether doubled E–W joists in the NW quadrant are sufficient, or whether the steel needs to take more</li>
+</ul>
+
+</body>
+</html>
