@@ -42,7 +42,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 # PART A — SAUNA
 
-**Internal dimensions:** 2.15m (east–west) × 1.57m (north–south)
+**Internal dimensions:** 1.57m (east–west) × 2.15m (north–south)
 **Minimum internal ceiling height:** 2.10m
 
 ## Floor
@@ -53,10 +53,14 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ## Walls and Ceiling
 
-- 100mm mineral wool insulation
-- Foil vapour barrier on the interior face, fully taped
-- Lined with untreated kiln-dried whitewood or spruce tongue-and-groove
+This is a working assumption — final makeup to follow your steer (see "What we'd value your steer on" below).
+
+- **Insulation:** 75–100mm PIR (e.g. Celotex/Kingspan) in stud cavity, preferred over mineral wool for better thermal performance per mm of wall thickness — we're targeting the minimum viable external wall thickness (see footprint discussion below)
+- **Foil vapour barrier** on the interior face of the insulation, fully taped, continuous around all junctions (especially the partition–external-wall corner)
+- **25mm ventilated batten cavity** between the foil VB and the internal lining, to let the timber breathe between sessions
+- **Internal lining:** untreated kiln-dried softwood tongue-and-groove — cedar, aspen, thermo-aspen, or spruce; final choice to follow the kit supplier's recommendation if kit-route is taken (see below)
 - All fixings stainless steel
+- **Internal partition (sauna ↔ wet room)** to be substantially slimmer than the external walls — see footprint discussion below
 
 ## Benches
 
@@ -69,12 +73,12 @@ L-shape wraparound, two-tier on both walls, all in the same untreated whitewood/
 | Upper bench, south wall | 950mm | 550mm | 1.57m (less heater clearance) |
 | Lower bench/step, south wall | 450mm | 350mm | 1.57m (less heater clearance) |
 
-The upper bench wraps around the corner so two people can lie at right angles. The south-west end of the south wall benches needs to be cut back to maintain the heater manufacturer's required clearance (typically 100–200mm above and to the side — final dimensions to be confirmed against the chosen heater's spec sheet). A heat shield panel above the heater may also be needed.
+The upper bench wraps around the corner so two people can lie at right angles. The south-east end of the south wall benches (nearest the heater in the SE corner) needs to be cut back to maintain the heater manufacturer's required clearance (typically 100–200mm above and to the side — final dimensions to be confirmed against the chosen heater's spec sheet). A heat shield panel above the heater may also be needed.
 
 ## Door
 
 - North wall, 600mm clear opening
-- Pre-made outdoor sauna door, solid cedar, weatherproof frame and threshold (e.g. Finnmark, Auroom)
+- Pre-made outdoor sauna door, solid cedar, weatherproof frame and threshold — suppliers worth considering include **Finnmark Sauna** (UK), **Auroom** (Estonia/UK), **Tylö Helo** (Sweden), **Harvia** (Finland). Final choice likely tied to the kit-vs-site-built decision (see "What we'd value your steer on"), since door + interior typically come from one supplier.
 - Solid timber, no glazing
 - Magnetic catch, 50N+ pull force (we want it wind-resistant); wooden handles
 - Outward-opening, with restrictor chain to limit swing in wind
@@ -82,13 +86,15 @@ The upper bench wraps around the corner so two people can lie at right angles. T
 
 ## Window
 
-- East wall, centred, sill at 1100mm from FFL
-- **1800mm wide × 800mm tall**, single pane, top-hung (awning) opening — outward, hinged at top
-- Aluminium frame, thermally broken
-- Triple-glazed (e.g. 4-12-4-12-4), argon-filled, low-E coatings, warm edge spacers — chosen for thermal retention given rooftop exposure
+- East wall, positioned toward the **north end** of the wall (view to the NE)
+- **1200mm wide × 800mm tall**, single pane, top-hung (awning) opening — outward, hinged at top
+- Sill at 1100mm from FFL
+- **Frame:** cedar or other heat-tolerant softwood on the interior face; external face can be aluminium-clad if needed for weatherproofing — **NOT aluminium internally** (would burn skin at sauna interior temperature)
+- Triple-glazed (4-12-4-12-4), argon-filled, low-E coatings **rated for sauna interior temperatures**, warm edge spacers — chosen for thermal retention given rooftop exposure
 - Compression seals: EPDM or silicone (heat/humidity tolerant)
 - Restrictor stay to limit opening in wind
-- External manual roller blackout blind on exterior above (sized to cover full 1800mm width)
+- External manual roller blackout blind on exterior above (sized to cover full 1200mm width)
+- **To be specified in coordination with the kit supplier if kit-route is taken** — sauna-rated window assemblies are typically supplied or specified by the sauna specialist, not a domestic window supplier
 
 ## Heater
 
@@ -112,7 +118,7 @@ Passive only:
 We want this room to be convertible to an office or bedroom in future without retrofitting power, so:
 
 - 2× IP54 double sockets at 300mm from FFL
-- Socket 1: east wall, under the window (for a desk facing the view)
+- Socket 1: east wall, under the window at the north end (for a desk facing the view)
 - Socket 2: north wall (general / bedside use)
 - Dedicated 20A radial circuit
 - Both sockets clear of the south-east heater corner
@@ -123,6 +129,44 @@ We want this room to be convertible to an office or bedroom in future without re
 Grouped on the terrace wall beside the sauna door, IP55+ weatherproof:
 - Sauna light switch (Shelly Plus 1 behind)
 - 32A DP rotary isolator for the sauna heater (manual override / safety isolation)
+
+## What we'd value your steer on
+
+### Kit-supplied sauna interior vs site-built
+
+We haven't decided whether the sauna interior — internal cedar T&G lining, foil vapour barrier, vented batten cavity, benches, heater installation, glass door, controls, sauna lighting — should be **site-built** by your team, or supplied as a **cut-to-size indoor sauna kit** from a sauna specialist who would install the interior into the shell you've built.
+
+**Argument for kit:**
+- Sauna-specific details (vapour barrier continuity, vented gap behind cedar, heater clearances, drain penetrations) handled by people who do this for a living, warranty-backed
+- Frees your scope to focus on the shell, which is standard outbuilding work
+- Door comes from the same supplier, coordinated finish
+
+**Argument for site-built:**
+- Slightly lower total cost if it all goes well
+- Total control over internal finish details (bench layout, timber choice, reclaimed materials, etc.)
+
+**Suppliers worth contacting against our internal dimensions:**
+
+- **Finnmark Sauna** — UK (Leeds); cut-to-size indoor kits, outdoor doors, components, heaters
+- **Auroom** — Estonia with UK distribution; premium modern aesthetic, custom indoor kits
+- **Tylö Helo** — Sweden; established broad-range supplier, kits and components
+- **Harvia** — Finland; large industry presence, full kits and heaters
+
+We'd value your view on which route makes sense, and which supplier(s) you've worked with before or would recommend approaching. If kit-route is taken, the chosen supplier feeds back wall makeup, vapour barrier, electrical, drainage and ventilation requirements for the shell.
+
+### Targeting minimum external building footprint
+
+We'd like the **external** length and width of the sauna/wet room building kept as small as possible, to leave maximum surrounding terrace space. We accept this trades against insulation performance and weatherproofing robustness, and we'd value your steer on where the sensible limit sits.
+
+**External walls** — thinnest viable makeup that retains good sauna thermal performance (we're aiming for U-value ≤ ~0.27 W/m²K) and is appropriate for coastal/exposed roof terrace conditions:
+
+- Can we use 75 mm or 100 mm PIR in the stud cavity rather than mineral wool, to get better thermal performance per mm of thickness?
+- Is a rigid 25 mm ventilated rain-screen cavity essential, or can a back-ventilated cladding detail direct to sheathing save thickness on this coastal site?
+- What is the thinnest external wall makeup you'd be comfortable specifying for this exposure?
+
+**Internal partition (sauna ↔ wet room)** — we're much less worried about wet-room warmth than sauna heat loss. In fact some heat leak into the wet room is welcome (pre-warms it for post-sauna showering). So the partition can be substantially slimmer than the external walls — perhaps 50 mm stud with mineral wool, no external weatherproofing layers. Would you agree, and is there anything (structural bracing, fire separation, regs) that requires it to be heavier?
+
+**Vapour barrier continuity at the partition–external wall junction** — however the partition is built, the foil VB on the sauna face needs to be continuous around the corner with the external-wall VB. Any gap there is where moisture finds its way into the insulation long-term. We'd value your detailing on that junction.
 
 ---
 
