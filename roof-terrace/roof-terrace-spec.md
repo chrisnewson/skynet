@@ -73,7 +73,7 @@ L-shape wraparound, two-tier on both walls, all in the same untreated whitewood/
 | Upper bench, south wall | 950mm | 550mm | 1.57m (less heater clearance) |
 | Lower bench/step, south wall | 450mm | 350mm | 1.57m (less heater clearance) |
 
-The upper bench wraps around the corner so two people can lie at right angles. The south-east end of the south wall benches (nearest the heater in the SE corner) needs to be cut back to maintain the heater manufacturer's required clearance (typically 100–200mm above and to the side — final dimensions to be confirmed against the chosen heater's spec sheet). A heat shield panel above the heater may also be needed.
+The upper bench wraps around the corner so two people can lie at right angles. The south-east end of the south wall benches (nearest the heater in the SE corner) needs to be cut back by approximately **250–300mm** to maintain clearance from the Harvia Cilindro PC90E heater body (360mm wide × 340mm deep) and its guard rail. Final dimensions to be confirmed against the manufacturer's installation manual. A heat shield panel above the heater is recommended given the radiant output of the 9 kW column heater.
 
 ## Door
 
@@ -98,9 +98,28 @@ The upper bench wraps around the corner so two people can lie at right angles. T
 
 ## Heater
 
-- 4kW electric sauna heater (e.g. Harvia Vega) in the south-east corner
-- 10mm² silicon-rated cable to a fused spur in the corner
+- **Harvia Cilindro PC90E** — 9.0 kW, 240V single-phase electric sauna heater, ~90 kg stone capacity, cylindrical floor-standing column positioned in the south-east corner
+- Large stone mass for sustained, authentic löyly. Stones loaded loosely around a central heating column.
+- Physical: ~1150mm tall × 360mm wide × 340mm deep, plus guard rail clearance of ~100–150mm around it
+- Approximate UK price £1,100–1,400 (heater only; stones usually included)
+- 25–35 min heat-up time to 90°C; managed via Home Assistant scheduling (Part C — Shelly Plus 1PM + 40A contactor)
+- **Heat shield panel** above the heater is recommended given the radiant output of the 9 kW column heater
+- 10mm² silicon-rated cable to a fused spur in the corner (cable rated comfortably above the 37.5 A continuous draw)
 - Heater guard rail (usually supplied with unit)
+- **Note:** previous spec assumed a Harvia Vega 4 kW — undersized for this volume and small stone mass = poor löyly. Superseded.
+- **Sourcing note:** The PC90E is the 240V single-phase factory variant of the Cilindro PC90 line. Most UK retailers stock the standard PC90 (400V 3-phase); UK sauna suppliers should be able to source the PC90E directly, or alternatively wire a standard PC90 for 230V single-phase per the Harvia installation manual.
+
+### Electrical assumption (to be verified)
+
+This section assumes:
+- **Single-phase 240V supply** to the flat (the standard for UK residential — but to be confirmed by electrical survey of 22 Sussex Square)
+- **40A circuit** can be accommodated in the consumer unit (37.5 A continuous heater draw sits comfortably within a 40 A breaker rating)
+- Three-phase supply, if available, would open up the higher-output Cilindro PC110 (10.8 kW, 3-phase only) — but we are not relying on this
+
+**To check with electrician at first opportunity:**
+1. Confirm single-phase 240V supply (vs three-phase) at 22 Sussex Square
+2. Confirm a dedicated 40A circuit can be added to the consumer unit, or whether the consumer unit needs upgrading first
+3. Confirm the sauna supplier can source the PC90E specifically, or wire a standard PC90 for 230V single-phase per Harvia's installation manual
 
 ## Ventilation
 
@@ -128,7 +147,7 @@ We want this room to be convertible to an office or bedroom in future without re
 
 Grouped on the terrace wall beside the sauna door, IP55+ weatherproof:
 - Sauna light switch (Shelly Plus 1 behind)
-- 32A DP rotary isolator for the sauna heater (manual override / safety isolation)
+- 40A DP rotary isolator for the sauna heater (manual override / safety isolation) — sized for up to ~9kW single-phase heater (see Heater section)
 
 ## What we'd value your steer on
 
@@ -298,7 +317,7 @@ We run Home Assistant at home and want to control the switched circuits in the s
 
 | Circuit | Shelly | Notes |
 |---|---|---|
-| Sauna heater (~17A) | Plus 1PM + 25A contactor | Shelly switches the contactor coil, contactor switches the heater. The 1PM gives us power monitoring in HA. |
+| Sauna heater (~37.5A continuous) | Plus 1PM + **40A contactor** | Shelly switches the contactor coil, contactor switches the heater. The 1PM gives us power monitoring in HA. 40A sized for the Harvia Cilindro PC90E 9 kW single-phase heater specified in Part A. |
 | Sauna light | Plus 1 | Behind the switch outside the sauna |
 | Wet room light | Plus 1 | Behind the switch outside the wet room |
 | Wet room fan | Plus 1 | Behind the fan isolator |
