@@ -35,7 +35,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 - [Part I — Terrace Tiling System](#part-i--terrace-tiling-system)
 - [Part J — Planters](#part-j--planters)
 - [Part K — Outdoor Tap](#part-k--outdoor-tap)
-- [Part L — Existing Outdoor Sockets (Retain and Reposition)](#part-l--existing-outdoor-sockets-retain-and-reposition)
+- [Part L — Existing and New Outdoor Sockets](#part-l--existing-and-new-outdoor-sockets)
 - [Part M — Roof Build-up & Structure (Asphalt, Insulation, Joists)](#part-m--roof-build-up--structure-asphalt-insulation-joists)
 
 ---
@@ -710,28 +710,42 @@ Result: any water that escapes the planter falls onto the Protectoboard / tile v
 
 ---
 
-# PART L — EXISTING OUTDOOR SOCKETS (RETAIN AND REPOSITION)
+# PART L — EXISTING AND NEW OUTDOOR SOCKETS
 
-The terrace currently has **3 or 4 existing outdoor electrical sockets** in IP-rated protective enclosures. We want to keep them.
+The terrace currently has **3 existing outdoor electrical sockets** in the main section, in IP-rated protective enclosures. We want to keep all three (relocating two of them) and add **2 new double sockets in the narrow section**.
 
-## Scope
+## Main section — 3 existing sockets
 
-- **Retain** all existing outdoor sockets and their protective boxes
-- **Reposition** each one upward so it sits at the correct height **above the new tile finish** (the new tile / pedestal build-up adds 60–150mm to the floor level)
-- Maintain a sensible mounting height — typically 450mm above the new FFL — and consistent across all sockets
-- All wiring routing made good; no exposed cable runs left from the previous mounting heights
+| # | Existing position | What happens |
+|---|---|---|
+| **1** | West wall of main section (where the new sauna/wet room building will sit) | **Relocate** to the **south wall of the wet room**, near the dining table position. Becomes a convenient external socket for the dining area. |
+| **2** | South wall of the main section | **Retain in place** but **lift** above the new floor build-up — final height **500mm above the new flat-roof finished tile level** (electrician to confirm exact dimension). |
+| **3** | North-east corner of the main section | **Leave as is** — no relocation; height already suits the new FFL. Confirm IP rating and cable condition on site. |
+
+## Narrow section — 2 new double sockets
+
+| # | Position | Notes |
+|---|---|---|
+| **4** | Inside the **storage cupboard at the SW end** of the narrow section | An **existing electrical junction box is already in this cupboard** — pick up the supply from there. IP rating to match the cupboard's enclosure spec. |
+| **5** | On the wall in the **NW corner** of the narrow section | IP66 weatherproof double 13A, mounted at the same height as the main-section sockets (≈500mm above FFL) for consistency. |
+
+## General requirements (all sockets)
+
+- All existing protective enclosures to be reused unless damaged or no longer IP-compliant — replace like-for-like (IP66) if so
+- Cable runs made good — no exposed runs left over from previous mounting heights
 - Re-test and certify after relocation
+- Co-ordinate final socket positions with planters and parasol bases so they remain accessible
+- Consistent mounting height across all sockets where practical
 
-## Notes
+## Note on the additional IP66 socket in Part B
 
-- Existing protective enclosures to be reused unless damaged or no longer IP-compliant — replace like-for-like if so
-- New IP66 socket specified separately in the **External Switches / Isolators (Wet Room Side)** section (Part B) — that one is in addition to these existing sockets
-- Co-ordinate the sockets' new positions with the planters and parasol locations so they remain accessible
+The **IP66 socket on the building's external north wall, east end** (specified in Part B — External Switches / Isolators) is **in addition to** the 5 sockets in this Part, not one of them.
 
 ## What we'd value your steer on
 
-- Whether the existing sockets and enclosures are worth retaining or if a uniform replacement (matching IP66 spec) would be cleaner
-- Final mounting heights — happy with 450mm FFL across the board, or do you have a preferred standard?
+- Whether all 3 existing main-section enclosures are worth retaining or if a uniform replacement (matching IP66 spec across all 5 terrace sockets) would be cleaner
+- Confirmation that 500mm above new FFL is a sensible standard height — or your preferred standard
+- Whether the SW cupboard junction box is suitable to pick up from, or needs upgrading
 
 ---
 
