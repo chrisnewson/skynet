@@ -43,7 +43,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 # PART A — SAUNA
 
 **Internal dimensions:** 1.57m (east–west) × 2.15m (north–south)
-**Minimum internal ceiling height:** 2.10m
+**Minimum internal ceiling height:** 2.15m (same as wet room — single internal ceiling height across the whole building)
 
 ## Floor
 
@@ -219,7 +219,7 @@ Systems considered, all of which publish coastal warranties at marine specificat
 # PART B — WET ROOM
 
 **Internal dimensions:** 2.15m (north–south) × 0.9m (east–west)
-**Minimum internal ceiling height:** 2.40m
+**Minimum internal ceiling height:** 2.15m (same as sauna — single internal ceiling height across the whole building)
 
 ## Layout
 
@@ -805,6 +805,7 @@ No acoustic underlay mat above the Protectoboard (Protectoboard alone is the sub
 
 - **No asphalt under the sauna / wet room building** — the asphalt is dressed up to the building itself
 - The building sits on its own structural slab / base
+- **Building base is likely to start ~200mm lower than the surrounding warm-roof tile FFL**, because there's no warm-roof insulation layer under the building. This keeps the external building height lower (helping with the heritage officer's "minimise visibility from Bristol Gardens" steer in the pre-app response). **Subject to SE confirmation** that this build-up makes sense structurally and that the doors / threshold geometry resolves cleanly against the surrounding tile field.
 - We need to finalise the **detail just outside the building line** so the doors can open without fouling on the asphalt upstand or any threshold trim — this is one of the items needing Ronan's input
 
 ### Doors-vs-build-up — Chris is confused about this
