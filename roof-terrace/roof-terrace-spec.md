@@ -187,6 +187,33 @@ We'd like the **external** length and width of the sauna/wet room building kept 
 
 **Vapour barrier continuity at the partition–external wall junction** — however the partition is built, the foil VB on the sauna face needs to be continuous around the corner with the external-wall VB. Any gap there is where moisture finds its way into the insulation long-term. We'd value your detailing on that junction.
 
+### External cladding (whole building)
+
+**Working choice: PVDF-coated marine-grade aluminium standing seam** (e.g. Kalzip, Riverclack, PREFA), in anthracite/charcoal — target RAL 7016 / 7022 / 7024. Applies to all four external walls of the combined sauna/wet room building.
+
+**Why aluminium standing seam over the alternatives we looked at:**
+
+- **Zinc and copper** (the other common standing-seam metals): seagull droppings are acidic (uric acid, pH ~3–4) and permanently etch the patina on both, leaving accumulating white or green halo marks. PVDF-coated aluminium is chemically inert to uric acid — droppings wash off in the rain with no ghost marking.
+- **Equitone Tectiva fibre cement panels**: strong runner-up — similar coastal performance, ~£500–800 cheaper for our ~28 m² of cladding. Loses on continuous-skin aesthetic, build-up depth (~40mm vs ~30mm), and warranty length. Sensible fallback if metal is rejected.
+- **Timber (cedar / Accoya / charred Accoya)**: planning preferred a longer-life finish than wood. Even charred Accoya — the best engineered-wood option we found — needs re-oiling every 8–10 years and ages less predictably than coated aluminium.
+
+**Specification points that determine whether the system lasts 40 years or pits in 5:**
+
+- **Marine-grade alloy** — aluminium 3003-H44, 3105-H44 or 5005. Mill-finish or anodised-only aluminium pits in salt aerosol; the alloy series matters here.
+- **PVDF (Kynar 500 / Hylar 5000) factory coating** at minimum 25μm dry-film thickness. PVDF is UV-stable, hydrophobic, and salt-spray-resistant — documented on UK coastal commercial projects with 30+ year service records.
+- **A4 / 316 stainless steel fasteners and clips only.** A2/304 stainless pits in marine atmosphere within a couple of years; galvanised steel sets up galvanic corrosion against the aluminium and rots the panels from behind.
+
+Systems considered, all of which publish coastal warranties at marine specification: **Kalzip** (UK default), **Riverclack** (Italian, well-proven coastal), **PREFA** (Austrian, broad colour range), **VMZINC Pigmento Aluminium**.
+
+**Build-up impact:** ~30mm total (panel ~1mm + ventilated batten cavity ~25mm + clips). No change to our 75–100mm PIR + foil VB insulation plan — cladding is a rainscreen only.
+
+**What we'd value your steer on:**
+
+- Acceptance of standing-seam aesthetic in the Kemp Town Conservation Area. Anthracite/charcoal is our target tone — discreet, recessive against the cream Regency stucco context, and hides gull marks best. If planning push back on metal, our fallback is Equitone Tectiva in mid-grey (TE20/TE30).
+- Preferred system manufacturer from the four shortlisted above.
+- Roof-to-wall transition — wrap continuously in one material, or break with a different roof system?
+- Detailing of parapet, window reveal and door reveal terminations.
+
 ---
 
 # PART B — WET ROOM
