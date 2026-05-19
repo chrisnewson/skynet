@@ -820,27 +820,32 @@ The **IP66 socket on the building's external north wall, east end** (specified i
 
 ## Wifi access point on the sauna/wet room building
 
-To give reliable wifi coverage across the full terrace (hot tub, dining area, smart controls inside the sauna/wet room), we plan to mount an **outdoor-rated wifi access point under the high south fascia of the sauna/wet room building** (the south-high mono-pitch in Part A gives a natural sheltered overhang). The position:
+To give reliable wifi coverage across the full terrace (hot tub, dining area, smart controls inside the sauna/wet room), we plan to mount a **Ubiquiti UniFi outdoor access point under the high south fascia of the sauna/wet room building** (the south-high mono-pitch in Part A gives a natural sheltered overhang). The position:
 
 - Invisible from Bristol Gardens, from the dining patio, and from the rest of the terrace
 - Sheltered from rain by the fascia overhang
 - Aimed downward / outward to cover the whole terrace
+- Line-of-sight back along the south parapet to the existing **UniFi study AP at the south end of the narrow terrace**, for wireless mesh backhaul (or wired ethernet daisy-chain if preferred)
 
-**Working preference: PoE (Power over Ethernet)** — a single Cat6 cable from a PoE switch or injector inside the flat, routed up through the building shell and out under the south fascia to the AP. Cleaner than a 240V outdoor socket: no exposed mains outdoors, lower voltage, standard practice for outdoor APs.
+**Power and cable approach — matches the existing flat setup:**
 
-Suitable APs (all IP54+/IP65 outdoor-rated, PoE-powered, ~£100–300):
-- Ubiquiti UniFi U6 Mesh Outdoor
-- TP-Link Omada EAP650-Outdoor
-- Aruba Instant On AP17
+- **UniFi PoE injector (mains adapter) stays inside** — typically plugged into a regular indoor socket. No outdoor 240V mains required.
+- A single low-voltage **PoE cable (Cat6)** routes from the injector through the building shell and out under the south fascia to the AP. The cable carries both power and data.
+- This mirrors how the existing UniFi APs in the flat (including the study AP) are already powered.
 
-**Alternative if PoE isn't viable:** an IP66 outdoor socket recessed under the south fascia, fed from inside the sauna/wet room building, powering a sealed plug-in AP. Less elegant, but workable.
+**Suitable AP models (UniFi outdoor range):**
+- UniFi U6 Mesh (outdoor) — WiFi 6, ~£170
+- UniFi U7 Outdoor — WiFi 7, ~£280
+- UniFi AC Mesh (older, still sold) — ~£100
+
+Selection to be confirmed once Chris decides whether to refresh to WiFi 7 across the network or stick with WiFi 6 here.
 
 ## What we'd value your steer on
 
 - Whether all 3 existing main-section enclosures are worth retaining or if a uniform replacement (matching IP66 spec across all 5 terrace sockets) would be cleaner
 - Confirmation that 500mm above new FFL is a sensible standard height — or your preferred standard
 - Whether the SW cupboard junction box is suitable to pick up from, or needs upgrading
-- **Wifi AP feed**: preferred cable route from the flat into the building (up the south face? through the door head?), and whether a PoE feed or a 240V outdoor socket integrates more cleanly with the cladding/roof detail
+- **Wifi AP cable feed**: preferred Cat6 cable route from inside the flat (where the PoE injector lives) into the building shell and out under the south fascia — up the south face? through the door head? — and how to weatherproof the cable's exit point through the cladding
 - Discreet mount point under the south fascia / eaves underside (coordinate with Part A's roof detail)
 
 ---
