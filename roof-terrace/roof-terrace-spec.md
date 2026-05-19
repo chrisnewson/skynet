@@ -707,7 +707,9 @@ The finished tile level needs to coordinate with:
 
 We want planters built from the **salvaged hardwood decking** removed from the existing terrace. Locations and footprints per the drawings.
 
-**Placeholder addition (not yet on the drawings):** A continuous **east-edge planter run** is to be added along most of the long east parapet of the narrow terrace, continuing into the main terrace east edge **up to but not beyond the south face of the sauna/wet room building**. Combined length ~9-10m. This run will host **8 olive trees** as a major design feature (echoing the established olive planting in Sussex Square / Kemp Town Enclosures) and provides **screening from wind and from the neighbouring building on the east side**, with an understory of dense evergreen shrubs and tall grasses between the olives. Full planting palette and BNG case to follow in the Planted-area summary subsection.
+**Placeholder addition (not yet on the drawings):** A continuous **east-edge planter run** is to be added along most of the long east parapet of the narrow terrace, continuing into the main terrace east edge **up to but not beyond the south face of the sauna/wet room building**. Combined length ~9-10m. This run will host **8 olive trees** as a major design feature (echoing the established olive planting in Sussex Square / Kemp Town Enclosures) and provides **screening from wind and from the neighbouring building on the east side**, with an understory of dense evergreen shrubs and tall grasses between the olives.
+
+> **For the planting palette, planted-area summary and biodiversity case, see [PART N — PLANTING PALETTE & BIODIVERSITY](#part-n--planting-palette--biodiversity) at the end of this document.**
 
 ## Construction principle
 
@@ -911,3 +913,64 @@ Our structural engineer is currently working up the calculations. Working assump
 - Asphalt-to-building junction and door threshold detail — needs to be both watertight and allow the outward-opening doors to clear
 - Whether the ~200mm build-up in the hot tub zone is the right figure or should be larger (vs the "400mm" shown on the current drawing)
 - Coordination with the SE on whether doubled E–W joists in the NW quadrant are sufficient, or whether the steel needs to take more
+
+---
+
+# PART N — PLANTING PALETTE & BIODIVERSITY
+
+This section sets out the **approximate planted area**, the **planting palette**, and the **biodiversity case** for the full Listed Building Application — in particular for the **Biodiversity Net Gain (BNG)** demonstration and **Biodiversity Checklist** requirements that the planning officer raised at pre-application (PRE2025/00255).
+
+**Companion working document:** the full plant list — with thumbnail images, mature dimensions (H × W), growth rate, biodiversity benefit and Sussex Square frequency for ~60 species — lives in **[`planting.html`](planting.html)** alongside this spec. (Open in a browser; thumbnails are pulled live from Wikimedia Commons.)
+
+## Approximate planted area (to be confirmed from final drawings)
+
+These are working estimates based on the planter runs currently planned. Ronan/architect to confirm exact lengths once positions are fixed.
+
+| Planter | Approx. length | Approx. width | Approx. area |
+|---|---|---|---|
+| East-edge run (narrow terrace + extension into main, up to south face of sauna/wet room) | ~9-10m | 600mm | **~5.4-6.0m²** |
+| North-wall run, main section (along the north parapet behind the dining/lounge zone) | ~5-6m | 600mm | **~3.0-3.6m²** |
+| West-wall run, main section (between hot tub and west parapet) | ~2-3m | 600mm | **~1.2-1.8m²** |
+| Hot tub surround (three sides, 500mm setback for fall protection) | ~10-12m | 500mm | **~5.0-6.0m²** |
+| South parapet run, main section (dining backdrop) | ~3-4m | 600mm | **~1.8-2.4m²** |
+| Narrow terrace south end (around storage cupboard) | ~1-2m | 600mm | **~0.6-1.2m²** |
+| **Total planted area (working estimate)** | | | **~17-21m²** |
+
+That's **~14-18% of the total terrace footprint** given over to soft landscape, with the planter run forming a near-continuous green perimeter around the usable hard-landscaped zones.
+
+In addition: **8 olive trees** as point specimens within the east-edge run (a substantial vertical planting layer, not captured in the area figure above).
+
+## Planting palette — Sussex Square / Kemp Town vernacular
+
+The palette has been selected to match the established planting character of **Sussex Square's communal gardens** (Grade II registered, Henry Phillips 1828, part of the Kemp Town Enclosures) and the wider **Kemp Town seafront vernacular**. A survey of 76 photos of Sussex Square planting confirms a strongly Mediterranean / silver-grey / coastal sub-shrub palette — rosemary, lavender, santolina, cardoon, salvias, Mediterranean spurge, catmint, red valerian — which suits both the heritage context and the terrace's exposed, salt-air, container conditions.
+
+The full list with sizes, growth rate, biodiversity notes and images is in **[`planting.html`](planting.html)**. Headline structure:
+
+- **Architectural / structural evergreens:** *Phormium tenax* 'Purpureum', *Cordyline australis* (limited / dwarf), *Yucca gloriosa*, *Cynara cardunculus* (cardoon), *Acanthus mollis*, *Euphorbia characias* subsp. *wulfenii*
+- **Mediterranean / coastal sub-shrubs (the workhorse layer):** *Salvia rosmarinus*, *Lavandula angustifolia*, *Santolina chamaecyparissus*, *Helichrysum italicum*, *Cistus* × *purpureus*, *Brachyglottis* 'Sunshine', *Olearia* × *haastii*, *Genista lydia*, *Coronilla valentina* 'Citrina', *Phlomis fruticosa*, *Hebe pinguifolia*, *Choisya* ('Aztec Pearl' / 'Sundance'), *Pittosporum tenuifolium* ('Golf Ball' / 'Limelight'), *Pittosporum tobira*, *Lonicera nitida*
+- **Silver / grey foliage perennials:** *Stachys byzantina*, *Senecio cineraria*, *Artemisia* 'Powis Castle', *Convolvulus cneorum*
+- **Long-flowering perennials (pollinator layer):** *Nepeta* × *faassenii*, *Centranthus ruber*, *Geranium* 'Rozanne', *Salvia nemorosa* 'Caradonna', *Salvia microphylla* 'Hot Lips', *Erigeron karvinskianus*, *Geum* 'Totally Tangerine', *Aster* × *frikartii* 'Mönch', *Aquilegia vulgaris*, *Verbena bonariensis*, *Echinacea purpurea*
+- **Bulbs and accents:** *Allium* 'Globemaster' / 'Purple Sensation', *Iris germanica*
+- **Grasses:** *Stipa tenuissima*, *Festuca glauca* 'Elijah Blue'
+- **Mat / trailing / wall-spill:** *Lithodora diffusa*, *Lysimachia nummularia* 'Aurea', *Sedum / Hylotelephium* 'Purple Emperor', *Iberis sempervirens*, *Cerastium tomentosum*
+- **Coastal specialists:** *Eryngium giganteum* (Miss Willmott's Ghost), *Crambe maritima* (sea kale), *Armeria maritima* (sea thrift), *Glaucium flavum* (yellow horned poppy)
+- **Herbs:** *Foeniculum vulgare*, *Achillea millefolium*, *Origanum vulgare*, *Thymus vulgaris*, *Mentha* sp.
+- **Specimen trees:** **8 × *Olea europaea*** (olives) in the east-edge run
+
+## Biodiversity case
+
+- **Continuity with the protected Kemp Town Enclosures planting** — the palette is drawn from the same Mediterranean / coastal-meadow tradition that already characterises Sussex Square's communal gardens, so the terrace reads as an extension of the registered garden's biodiversity layer rather than an alien intrusion.
+- **Strong pollinator support** — *Nepeta*, *Lavandula*, *Salvia*, *Centranthus ruber*, *Echinacea*, *Verbena bonariensis*, *Eryngium*, *Origanum* are all in the RHS "Plants for Pollinators" list; nectar-rich, long-flowering, supporting solitary bees, bumblebees, hoverflies, butterflies and moths from spring through to late autumn.
+- **Seed and overwintering value** — *Eryngium*, *Echinacea*, *Sedum*, *Allium*, ornamental grasses provide seed heads and winter cover for invertebrates and finches.
+- **Coastal-meadow niche** — *Eryngium giganteum*, *Crambe maritima*, *Armeria maritima*, *Glaucium flavum*, *Centranthus ruber* are coastal natives or naturalised, contributing to the rare seafront-meadow biotope.
+- **Vertical layering** — 8 olive trees + sub-shrub mid-layer + perennial / mat understory gives multi-tier habitat structure within the ~17-21m² of planted area, plus the parasols' fabric provides bird-safe cover when retracted.
+- **No invasive species** — the list deliberately excludes anything on Schedule 9 of the WCA 1981 (e.g. no *Cotoneaster horizontalis*, no *Crocosmia* × *crocosmiiflora*, no *Buddleja davidii* as a primary feature).
+- **EPDM-lined hardwood planters** sized for adequate root volume + grit-amended free-draining loam = healthy long-term planting, not a one-season display.
+
+## What we'd value your steer on
+
+- Whether the **estimated planter lengths** (above) match the drawings, and whether any segments should be reshaped/sized
+- Confirmation that the **east-edge run** (currently a placeholder, not on drawings) is structurally acceptable from a roof-load standpoint
+- **8 olive trees** in pots — root volume / soil-depth recommendation from a structural / horticultural perspective (current planter depth 600mm; may need oversized 'feature' pots for the olives specifically)
+- **BNG metric calculation** — will Bond McCart commission this, or shall we?
+- Any plants on the palette you'd flag as **unsuitable for the exposed seafront location** that we should swap out
