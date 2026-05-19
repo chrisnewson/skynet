@@ -1020,9 +1020,9 @@ The pre-app didn't ask for these, but they materially strengthen the BNG metric,
 |---|---|---|---|
 | **Sparrow terrace box** | Triple-cavity timber box (e.g. Schwegler 1SP) | East-facing wall of sauna/wet room, ~2m above terrace level | House sparrow is RSPB Red List; group-nesting species. Discreet against anthracite cladding. |
 | **Bat box** | External wedge box (e.g. Schwegler 1FF or 2F) | North wall of sauna/wet room (cooler, sheltered side), ~2.5m above terrace | Common pipistrelle and soprano pipistrelle both forage along Brighton seafront. |
-| **Bee bricks / solitary bee hotels** | 2× brick-format units (e.g. Green&Blue 'Bee Brick') OR a dedicated bee hotel | Either integrated into the sauna/wet room wall as bricks, or wall-mounted hotel under the south fascia | Solitary bees: red mason, leafcutter, harebell carpenter etc. Sunny SE-facing position essential. |
+| **Bee bricks / solitary bee hotels** | 2× brick-format units (e.g. Green&Blue 'Bee Brick') OR a dedicated bee hotel | **East-facing exterior of storage #2** (north end of narrow terrace, against the east parapet) — well away from all seating / dining zones, faces morning sun (preferred by solitary bees), and faces toward Sussex Row | Solitary bees: red mason, leafcutter, harebell carpenter. These are *non-aggressive* (females rarely sting; no hive to defend) — but positioned away from people for peace of mind. |
 | **Insect / invertebrate habitat — log pile** | A small stack of untreated hardwood offcuts from the planter build (~30 × 30 × 30cm) | In one corner of the east-edge planter (below olive level, hidden by understory) | Beetles, woodlice, ground-dwelling invertebrates. Costs nothing — uses leftover hardwood. |
-| **Shallow water dish** | Ceramic / shallow bowl, ~30cm dia × 5cm deep, with stones inside as bee landing platforms | One planter corner near the dining area, refilled in dry spells | Drinking water for bees, butterflies, and small birds; particularly valuable in coastal sun. |
+| **Shallow water dish** | Ceramic / shallow bowl, ~30cm dia × 5cm deep, with stones inside as bee landing platforms | **North-parapet planter in main section, beyond the hot tub** — well away from dining and sofa zones | Drinking water for bees, butterflies, and small birds; relocated away from social areas because water dishes draw wasps as well as bees. |
 | **Bird-safe parapet deterrent** | (Already in Part F — 3-wire stainless system replacing existing spikes) | All parapet tops | Excludes gulls/pigeons without injury; doesn't preclude smaller bird use of planters. |
 
 Total likely cost across all features: **~£200-£500**. Total integration impact on the build: very low — most are surface-fixed after the building is complete.
@@ -1086,7 +1086,7 @@ Four outdoor storage units distributed across the terrace, **all built from salv
 
 | # | Position | Approximate footprint | Status | Notes |
 |---|---|---|---|---|
-| **1** | SW corner of narrow terrace | **1.09m × 1.60m** (labelled on drawing) × ~0.9m high | Existing | Contains the electrical junction box used as the pickup for socket #4 (Part L). The cupboard's interior must remain accessible for electrical maintenance and IP-compliant. |
+| **1** | SW corner of narrow terrace | **1.09m × 1.60m** (labelled on drawing) × ~0.9m high | Existing | Contains the electrical junction box used as the pickup for socket #4 (Part L). The cupboard's interior must remain accessible for electrical maintenance and IP-compliant. **Cat flap required — see "Cat-flap detail" below.** |
 | **2** | North end of narrow terrace, against the east parapet | ~0.6m × ~1.2m × ~0.9m high *(to be confirmed by Ronan)* | **NEW** (added 19 May 2026) | General terrace storage. |
 | **3** | South wall of main section, SE end (lower-left of main on drawing) | ~0.6m × ~1.6m × ~0.9m high *(TBC)* | Existing on drawing | General storage. |
 | **4** | North wall of main section, mid-way between hot tub and sofa | ~0.6m × ~1.0m × ~0.9m high *(TBC)* | Existing on drawing | Useful for hot-tub-adjacent items (cover, chemicals — child-safe lock recommended if chemicals stored). |
@@ -1136,6 +1136,20 @@ Same family as the planters (Part J): hardwood outer, marine ply inner, EPDM mem
 - **Latch / lock:** stainless concealed latch; child-safe lock specifically on unit #4 if hot tub chemicals stored there
 - **All fixings:** A4 / 316 stainless throughout (consistent with planter and cladding spec)
 
+## Cat-flap detail (Storage #1 only)
+
+Storage #1 doubles as a **sheltered cat nook**. A single cat flap is fitted in its vertical front face (on the terrace side), so the cat can enter the storage from the terrace as a weather-protected resting spot.
+
+A **separate cat flap from the flat into the terrace** is planned (location to be confirmed — most likely in an existing flat-to-terrace door or wall). The two are independent: cat exits the flat onto the terrace via the separate flap; if it wants shelter, it enters Storage #1 via the storage flap.
+
+**Specification:**
+- **Brand:** SureFlap microchip cat flap (or equivalent) — microchip-locked to keep neighbourhood cats out
+- **Size:** standard ~165 × 175mm cutout
+- **Position:** ~150mm above storage internal floor, on the vertical front face of Storage #1
+- **Weatherproofing:** small rain hood / drip edge above the flap; storage floor sloped slightly to drain any water tracked in via the existing drainage holes onto the Protectoboard
+- **Power:** battery-only (4× AA) — no wiring needed
+- **Internal layout coordination:** flap position must not conflict with the electrical junction box / socket #4 pickup inside Storage #1 (confirm with Ronan)
+
 ## Ventilation
 
 Cushion / fabric storage needs **passive airflow** to prevent damp:
@@ -1148,6 +1162,8 @@ Cushion / fabric storage needs **passive airflow** to prevent damp:
 - Whether **unit #4 (north wall of main, near hot tub)** should be specifically sized to hold the **hot tub cover** when removed
 - **Hardware finish** — brushed stainless vs powder-coated black (to match the building cladding)
 - Whether the cushion / fabric liner should be a removable EPDM-lined drop-in (so it can be lifted out, cleaned, replaced) vs fixed
+- **Cat-flap detail for Storage #1** — confirm size/brand assumption (SureFlap microchip)
+- **Separate cat flap from flat → terrace** — location to be confirmed. Likely candidates: through an existing door (study / kitchen / landing) or through an external wall. Needs Ronan's detailing because any new penetration through the listed building envelope is **a notifiable alteration in the Listed Building Consent application**
 
 ---
 
