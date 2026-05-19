@@ -728,7 +728,7 @@ We want planters built from the **salvaged hardwood decking** removed from the e
 | General planters | 600mm — sized to align exactly with one 600mm tile width | 600mm |
 | Around the hot tub | 500mm | finishes **300mm above the hot tub rim** |
 
-The general planters' total footprint (planter + air gap to wall behind) is **600mm**, so the planter occupies exactly the depth of one porcelain tile. With a ~25–50mm air gap, the planter box itself is therefore 550–575mm deep externally.
+The general planters' total footprint (planter + air gap to wall behind) is **600mm**, so the planter occupies exactly the depth of one porcelain tile. The planter box itself is **570mm deep** externally, with a **30mm air gap** to the wall behind for ventilation and inspection access.
 
 Because the planter base sits at Protectoboard level (below the tile FFL by the depth of the tile/pedestal build-up — typically 60–150mm), each planter is constructed taller than its visible height by that amount.
 
@@ -737,7 +737,7 @@ Because the planter base sits at Protectoboard level (below the tile FFL by the 
 This is the key risk where planters sit against the parapet or building wall. Two-part approach:
 
 1. **Freestanding back panel** — every planter has its own timber back wall (built integrally), so the planter contains itself. The parapet/building wall is never the back of the planter.
-2. **Air gap** — minimum 25–50mm air gap between the planter's back panel and the wall behind, to allow ventilation and a clear visual inspection route. Where this isn't possible, install a stainless-steel flashing / DPC up the wall to ~100mm above planter rim, dressed behind the planter.
+2. **Air gap** — **30mm** between the planter's back panel and the wall behind, to allow ventilation and a clear visual inspection route.
 
 Result: any water that escapes the planter falls onto the Protectoboard / tile void and drains to the existing roof falls — never into a wall.
 
@@ -765,7 +765,6 @@ Result: any water that escapes the planter falls onto the Protectoboard / tile v
 
 - **EPDM vs alternative liner** — happy to use HDPE or butyl if you have a preference for this exposure
 - **Salvageable hardwood quantity** — assumes we have enough sound boards for the run shown on the drawings. Contingency strategy if short
-- **Wall flashing** at the back of any planter that can't get a 25–50mm air gap — preferred detail
 - **Bearer / foot detail** — best way to lift the hardwood off the Protectoboard without point-loading the membrane
 
 ---
