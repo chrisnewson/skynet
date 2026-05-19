@@ -14,9 +14,9 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ## Drawings
 
-**Overall plan** (full terrace, including narrow section / FLOOR AREA 1 with lift bulkhead and stair hatch):
+**Overall plan** (full terrace, including narrow section / FLOOR AREA 1 with lift bulkhead and stair hatch — latest revision 19 May 2026, with seating layout, hot tub, sauna/wet room building, dining area and updated planter positions):
 
-![Overall floor plan](drawings/floorplan-overall.png)
+![Overall floor plan](drawings/19-05-26%20full%20terrace.jpg)
 
 **Main section** (FLOOR AREAS 2, 3, 4 — dining, lounge, sauna / wet room building, hot tub):
 
