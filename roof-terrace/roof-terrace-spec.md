@@ -707,6 +707,8 @@ The finished tile level needs to coordinate with:
 
 We want planters built from the **salvaged hardwood decking** removed from the existing terrace. Locations and footprints per the drawings.
 
+**Placeholder addition (not yet on the drawings):** A continuous **east-edge planter run** is to be added along most of the long east parapet of the narrow terrace, continuing into the main terrace east edge **up to but not beyond the south face of the sauna/wet room building**. Combined length ~9-10m. This run will host **8 olive trees** as a major design feature (echoing the established olive planting in Sussex Square / Kemp Town Enclosures) and provides **screening from wind and from the neighbouring building on the east side**, with an understory of dense evergreen shrubs and tall grasses between the olives. Full planting palette and BNG case to follow in the Planted-area summary subsection.
+
 ## Construction principle
 
 - Planters sit **on top of the Protectoboard**, at asphalt level (i.e. below the tile finish)
