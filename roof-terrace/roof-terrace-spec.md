@@ -920,7 +920,7 @@ Our structural engineer is currently working up the calculations. Working assump
 
 This section sets out the **approximate planted area**, the **planting palette**, and the **biodiversity case** for the full Listed Building Application — in particular for the **Biodiversity Net Gain (BNG)** demonstration and **Biodiversity Checklist** requirements that the planning officer raised at pre-application (PRE2025/00255).
 
-**Companion working document:** the full plant list — with thumbnail images, mature dimensions (H × W), growth rate, biodiversity benefit and Sussex Square frequency for ~60 species — lives in **[`planting.html`](planting.html)** alongside this spec. (Open in a browser; thumbnails are pulled live from Wikimedia Commons.)
+**Companion working document:** the full plant list — with thumbnail images, mature dimensions (H × W), growth rate, biodiversity benefit and Sussex Square frequency for ~60 species — lives in **[`planting.md`](planting.md)** alongside this spec. (Open in a browser; thumbnails are pulled live from Wikimedia Commons.)
 
 ## Approximate planted area (to be confirmed from final drawings)
 
@@ -944,7 +944,7 @@ In addition: **8 olive trees** as point specimens within the east-edge run (a su
 
 The palette has been selected to match the established planting character of **Sussex Square's communal gardens** (Grade II registered, Henry Phillips 1828, part of the Kemp Town Enclosures) and the wider **Kemp Town seafront vernacular**. A survey of 76 photos of Sussex Square planting confirms a strongly Mediterranean / silver-grey / coastal sub-shrub palette — rosemary, lavender, santolina, cardoon, salvias, Mediterranean spurge, catmint, red valerian — which suits both the heritage context and the terrace's exposed, salt-air, container conditions.
 
-The full list with sizes, growth rate, biodiversity notes and images is in **[`planting.html`](planting.html)**. Headline structure:
+The full list with sizes, growth rate, biodiversity notes and images is in **[`planting.md`](planting.md)**. Headline structure:
 
 - **Architectural / structural evergreens:** *Phormium tenax* 'Purpureum', *Cordyline australis* (limited / dwarf), *Yucca gloriosa*, *Cynara cardunculus* (cardoon), *Acanthus mollis*, *Euphorbia characias* subsp. *wulfenii*
 - **Mediterranean / coastal sub-shrubs (the workhorse layer):** *Salvia rosmarinus*, *Lavandula angustifolia*, *Santolina chamaecyparissus*, *Helichrysum italicum*, *Cistus* × *purpureus*, *Brachyglottis* 'Sunshine', *Olearia* × *haastii*, *Genista lydia*, *Coronilla valentina* 'Citrina', *Phlomis fruticosa*, *Hebe pinguifolia*, *Choisya* ('Aztec Pearl' / 'Sundance'), *Pittosporum tenuifolium* ('Golf Ball' / 'Limelight'), *Pittosporum tobira*, *Lonicera nitida*
