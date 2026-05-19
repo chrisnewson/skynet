@@ -37,6 +37,9 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 - [Part K — Outdoor Tap](#part-k--outdoor-tap)
 - [Part L — Existing and New Outdoor Sockets](#part-l--existing-and-new-outdoor-sockets)
 - [Part M — Roof Build-up & Structure (Asphalt, Insulation, Joists)](#part-m--roof-build-up--structure-asphalt-insulation-joists)
+- [Part N — Planting Palette & Biodiversity](#part-n--planting-palette--biodiversity)
+- [Part O — Storage Units](#part-o--storage-units)
+- [Part P — Outdoor Kitchen](#part-p--outdoor-kitchen)
 
 ---
 
@@ -926,17 +929,23 @@ This section sets out the **approximate planted area**, the **planting palette**
 
 These are working estimates based on the planter runs currently planned. Ronan/architect to confirm exact lengths once positions are fixed.
 
+Estimates revised against the 19 May 2026 floorplan revision (which adds storage #2 at NE end of narrow and the outdoor kitchen at NW corner of narrow — Parts O and P — both of which reduce the planter run on the narrow section's long parapets).
+
 | Planter | Approx. length | Approx. width | Approx. area |
 |---|---|---|---|
-| East-edge run (narrow terrace + extension into main, up to south face of sauna/wet room) | ~9-10m | 600mm | **~5.4-6.0m²** |
-| North-wall run, main section (along the north parapet behind the dining/lounge zone) | ~5-6m | 600mm | **~3.0-3.6m²** |
-| West-wall run, main section (between hot tub and west parapet) | ~2-3m | 600mm | **~1.2-1.8m²** |
-| Hot tub surround (three sides, 500mm setback for fall protection) | ~10-12m | 500mm | **~5.0-6.0m²** |
-| South parapet run, main section (dining backdrop) | ~3-4m | 600mm | **~1.8-2.4m²** |
-| Narrow terrace south end (around storage cupboard) | ~1-2m | 600mm | **~0.6-1.2m²** |
-| **Total planted area (working estimate)** | | | **~17-21m²** |
+| **NARROW SECTION** | | | |
+| East-parapet run (interrupted by storage #2 at NE end) | ~5-6m | 600mm | **~3.0-3.6m²** |
+| West-parapet run (between storage #1 at SW corner and outdoor kitchen at NW corner) | ~3-4m | 600mm | **~1.8-2.4m²** |
+| Internal divider planters, narrow (around the central seating zone) | various | various | **~1.5-2.5m²** |
+| **MAIN SECTION** | | | |
+| West-parapet run, main (dining backdrop) | ~3-4m | 600mm | **~1.8-2.4m²** |
+| North-parapet run, main (between hot tub and sofa, around storage #4) | ~3-4m | 600mm | **~1.8-2.4m²** |
+| East-parapet run, main (along FLOOR AREA 3 / lounge side) | ~4-5m | 600mm | **~2.4-3.0m²** |
+| South-wall run, main (around storage #3) | ~3-4m | 600mm | **~1.8-2.4m²** |
+| Hot tub surround (3 sides, 500mm setback for fall protection) | ~5-6m | 500mm | **~2.5-3.0m²** |
+| **Total planted area (working estimate, 19 May 2026 drawing)** | | | **~17-22m²** |
 
-That's **~14-18% of the total terrace footprint** given over to soft landscape, with the planter run forming a near-continuous green perimeter around the usable hard-landscaped zones.
+That's **~14-18% of the total terrace footprint** given over to soft landscape, with the planter runs forming a near-continuous green perimeter around the usable hard-landscaped zones. The new outdoor kitchen and storage units (Parts O, P) reduce some parapet planter lengths but add internal divider planting around the narrow-section seating zone, so the overall planted area is unchanged within the estimate's uncertainty band.
 
 In addition: **8 olive trees** as point specimens within the east-edge run (a substantial vertical planting layer, not captured in the area figure above).
 
@@ -1065,3 +1074,174 @@ To complete the biodiversity submission, please confirm or produce:
 - **8 olive trees** in pots — root volume / soil-depth recommendation from a structural / horticultural perspective (current planter depth 600mm; may need oversized 'feature' pots for the olives specifically)
 - Any plants on the palette you'd flag as **unsuitable for the exposed seafront location** that we should swap out
 - Confirmation of **biodiversity submission route** (SBI vs SSM) and **division of work** per Section E above
+
+---
+
+# PART O — STORAGE UNITS
+
+Four outdoor storage units distributed across the terrace, **all built from salvaged hardwood deck boards** (matching the planters and outdoor kitchen aesthetic) with a waterproof inner liner. Locations marked on the floorplan as dark-grey rectangles labelled "Storage".
+
+> **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
+
+## Inventory
+
+| # | Position | Approximate footprint | Status | Notes |
+|---|---|---|---|---|
+| **1** | SW corner of narrow terrace | **1.09m × 1.60m** (labelled on drawing) × ~0.9m high | Existing | Contains the electrical junction box used as the pickup for socket #4 (Part L). The cupboard's interior must remain accessible for electrical maintenance and IP-compliant. |
+| **2** | North end of narrow terrace, against the east parapet | ~0.6m × ~1.2m × ~0.9m high *(to be confirmed by Ronan)* | **NEW** (added 19 May 2026) | General terrace storage. |
+| **3** | South wall of main section, SE end (lower-left of main on drawing) | ~0.6m × ~1.6m × ~0.9m high *(TBC)* | Existing on drawing | General storage. |
+| **4** | North wall of main section, mid-way between hot tub and sofa | ~0.6m × ~1.0m × ~0.9m high *(TBC)* | Existing on drawing | Useful for hot-tub-adjacent items (cover, chemicals — child-safe lock recommended if chemicals stored). |
+
+All dimensions to be confirmed by Bond McCart on the drawings.
+
+## Construction principle
+
+Same family as the planters (Part J): hardwood outer, marine ply inner, EPDM membrane as the waterproof layer. Box-in-box approach — the hardwood is decorative + drip-shedding, the inner ply box is the actual structural and watertight enclosure, the EPDM is the membrane that handles any ingress.
+
+### Walls (bottom → outside)
+
+| Layer | Spec | Purpose |
+|---|---|---|
+| Hardwood deck-board outer skin | Salvaged decking, stainless A4 fixings | Visual finish, matches planters; drip-sheds rain |
+| Air gap (~10mm) | Open void, drains downward | Ventilation; prevents damp build-up between outer and inner |
+| Marine ply box | 18mm, joints sealed with marine epoxy | Structural inner box, watertight in own right |
+| EPDM lining (interior) | 1.0-1.2mm, dressed up all four sides and over the rim | Belt-and-braces waterproof layer for cushion/textile storage |
+
+### Roof / lid (bottom → top)
+
+| Layer | Spec |
+|---|---|
+| Marine ply substrate | 18mm, edges sealed with marine epoxy |
+| **EPDM membrane** | 1.0-1.2mm, full lid area + ~50mm overhang on all four sides as drip-edge |
+| Hardwood deck-board top finish | Salvaged boards, fixed to the ply only — **screws stop short of the EPDM** so no membrane penetrations |
+
+**Lid geometry:**
+- **Slope ~5-10°** away from the access edge — drains water to the back / sides
+- **Hinges on the HIGH (back) edge** — water flows away from the hinge line, not into it
+- **Overhang ~30-50mm** on all four sides as a drip edge below the lid
+- **EPDM gasket** along the front lid-to-body seal
+
+### Base
+
+| Layer | Spec |
+|---|---|
+| Marine ply | 18mm, sealed edges |
+| EPDM dressed up the inside ~50mm | Continuous with wall liner |
+| Bearers / stainless feet | ~25mm air gap between marine ply and Protectoboard for ventilation + drainage |
+| Small drainage holes through ply only | Allows any ingress to escape onto the Protectoboard below |
+
+## Hardware
+
+- **Hinges:** A4 / 316 stainless piano hinge OR pair of butt hinges (high edge of lid)
+- **Lift handle:** A4 / 316 stainless, mounted on the front face
+- **Latch / lock:** stainless concealed latch; child-safe lock specifically on unit #4 if hot tub chemicals stored there
+- **All fixings:** A4 / 316 stainless throughout (consistent with planter and cladding spec)
+
+## Ventilation
+
+Cushion / fabric storage needs **passive airflow** to prevent damp:
+- **Small ventilation slots** (~50mm × 10mm × 2) low-level on the front face, screened with stainless mesh insect grille — allows convective airflow without bulk water ingress
+- The hardwood outer cladding's natural board gaps also breathe
+
+## What we'd value your steer on
+
+- **Confirmation of the 4 positions** on the drawings and exact footprints
+- Whether **unit #4 (north wall of main, near hot tub)** should be specifically sized to hold the **hot tub cover** when removed
+- **Hardware finish** — brushed stainless vs powder-coated black (to match the building cladding)
+- Whether the cushion / fabric liner should be a removable EPDM-lined drop-in (so it can be lifted out, cleaned, replaced) vs fixed
+
+---
+
+# PART P — OUTDOOR KITCHEN
+
+A compact outdoor kitchen in the **NW corner of the narrow section** (top-right of narrow on the drawing — against the west parapet, at the north end of the narrow terrace, near where the narrow joins the main). It comprises a **gas-bottle BBQ**, a **cold-water sink**, a **stainless worktop**, and **cabinet storage below**.
+
+> **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
+
+## Position and footprint
+
+- **NW corner of narrow section**, against the west parapet
+- Total footprint approx. **2.0-2.5m long × 0.7m deep** *(to be confirmed by Ronan)*
+- Height of worktop: standard ~900mm above the new FFL
+
+## Components
+
+### Cabinet structure (carcass)
+
+Built to match the storage units and planters:
+- **Outer:** salvaged hardwood deck boards
+- **Frame / inner:** marine ply (sealed at joints with marine epoxy)
+- **Doors / access panels:** hardwood-fronted, stainless hinges and handles
+- Same air-gap + EPDM lining principle as Part O where contents need protection
+
+### BBQ — gas bottle
+
+- **Type:** countertop or built-in gas BBQ (e.g. Weber Q-series countertop, or a built-in Napoleon / Fire Magic — to confirm based on budget)
+- **Fuel:** LPG gas bottle (e.g. Calor 6kg or 13kg)
+- **Bottle storage:** dedicated **vented cabinet** below the BBQ
+  - **LOW-LEVEL ventilation grilles** at the base of the cabinet (≥200cm² total free area) — LPG is heavier than air and must drain out at floor level if leaked
+  - **High-level vent** also recommended for through-flow
+  - Vent grilles in stainless mesh (anti-corrosion + insect screen)
+  - Cabinet vents to **outside only** — must not communicate with any sealed storage compartment
+- **Hose and regulator:** Calor-approved low-pressure regulator and reinforced LPG hose to BBQ inlet
+- **Safety isolation:** in-line stainless ball valve on the gas hose (for emergency shut-off without disturbing the bottle)
+- **Spare bottle** can be stored in a separately-vented compartment OR off-terrace (Chris's garage), to be confirmed
+
+### Sink
+
+- **Sink:** stainless inset, single bowl, ~400 × 350mm typical
+- **Tap:** brass / stainless garden mixer-style with cold-only feed (or single cold tap with swivel spout for hose attachment)
+- **Drainage:** see plumbing section below
+
+### Worktop
+
+- **Recommended: 304 / 316 stainless steel**, fabricated to size with cut-outs for sink and (if built-in) BBQ
+  - Estimated cost ~£200-£400 for ~1.5m × 0.6m piece
+  - Heat-resistant (BBQ-adjacent), lightweight (good for roof load), easy to clean of salt spray
+  - **316 grade** for true marine durability at this seafront site
+- **Alternative:** stone (granite or slate) ~£300-£600, heavier, premium look but more porous and stain-prone
+
+## Plumbing — cold water supply
+
+- **Source:** tee off the existing terrace cold-water supply (same supply that feeds the outdoor tap in Part K)
+- **Pipe material:** copper (LSF / external-grade if exposed), no plastic on exposed runs — consistent with Part K
+- **Routing:** under the worktop, hidden inside the cabinet, then within the pedestal void if running any distance
+- **Isolation valve:** internal stop and drain-down valve so the external run can be drained for winter (consistent with Part K — frost protection)
+- **Backflow prevention:** type AA airgap at the tap outlet (standard for outdoor taps / non-potable use)
+
+## Plumbing — waste / foul drain
+
+- **Sink waste:** 40mm solvent-weld PVC waste pipe with **p-trap** below the sink for smell trapping
+- **Routing:**
+  - From the sink under the worktop, into the cabinet base
+  - Through the pedestal void along the narrow terrace, running south
+  - **Down through the gap between the narrow and main sections** of the terrace
+  - Tie into the **existing foul stack accessible under the dining area** (FLOOR AREA 2 of the main section)
+  - This same foul connection also serves: the **hot tub drain-down**, the **wet room WC** (Part B)
+- **Gradient:** ~1:80 (12.5mm per metre fall) for self-cleaning flow
+- **Pipe fixings:** stainless to underside of the tile pedestals or to the joist heads — concealed in the void, no clips visible above tile level
+- **Frost protection:** waste runs in unheated void — drain the trap for prolonged winter absences
+
+## Power
+
+- **Existing socket:** **Socket #5 (Part L)** — IP66 double 13A at the NW corner of the narrow section — is the same corner as the kitchen and serves this position. **No new socket required.**
+- Use: BBQ ignition (most gas BBQs have piezo igniters but some use 240V), phone charging, accessory power
+- If a second socket is wanted closer to the worktop, add a junction off socket #5
+
+## Construction sequence (rough)
+
+1. Cabinet carcass built off-site or on-terrace from salvaged hardwood + marine ply
+2. Plumbing routed through pedestal void before tile finish goes down — coordinated with Part I
+3. Sink installed in worktop, worktop sat on cabinet
+4. BBQ placed / installed; gas bottle connected with isolation valve
+5. Final test: cold water, sink drain trace, BBQ ignition
+
+## What we'd value your steer on
+
+- **BBQ choice:** countertop unit (cheaper, removable, simpler) vs **built-in** (cleaner look, fixed install — needs a worktop cut-out and integrated gas piping)
+- **Confirmation of waste pipe tie-in point** under the dining area — please indicate on the drawing
+- **Gas Safe-compliant LPG cabinet venting** — preferred grille type / sizing for the bottle compartment
+- **Worktop final material** — stainless (recommended) or stone
+- **Sink + tap supplier** — outdoor-rated kitchen sink suppliers vs going generic
+- **Whether to install a second socket** flush with the worktop area, or to keep using socket #5 only
+- **Whether the kitchen unit's base needs to be on stainless feet** like the storage units, or sit directly on the Protectoboard (to be coordinated with the waste pipe routing)
