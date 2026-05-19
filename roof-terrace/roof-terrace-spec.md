@@ -967,10 +967,101 @@ The full list with sizes, growth rate, biodiversity notes and images is in **[`p
 - **No invasive species** — the list deliberately excludes anything on Schedule 9 of the WCA 1981 (e.g. no *Cotoneaster horizontalis*, no *Crocosmia* × *crocosmiiflora*, no *Buddleja davidii* as a primary feature).
 - **EPDM-lined hardwood planters** sized for adequate root volume + grit-amended free-draining loam = healthy long-term planting, not a one-season display.
 
+## Biodiversity submission — package for Bond McCart
+
+The pre-app response (PRE2025/00255, 30 April 2026) flagged two specific submission requirements: a **Biodiversity Checklist** (BHCC's local form) and a **Biodiversity Net Gain (BNG) demonstration** (statutory since 2 April 2024, triggered by the new sauna/wet room structure). A **Habitat Management & Monitoring Plan (HMMP)** also follows from any BNG submission.
+
+This subsection sets out **what we've prepared for you**, **what physical features to incorporate in the drawings**, and **what we need you to produce** to satisfy the submission requirements.
+
+### A. Material we've prepared — ready for direct use
+
+| Item | Where | Use in submission |
+|---|---|---|
+| **Planting palette (~60 species)** with mature sizes, growth rate, biodiversity benefit, RHS Plants for Pollinators flags, Sussex Square in-situ photo references | `planting.md` in the project | Drop straight into the Biodiversity Statement / DAS planting appendix |
+| **Pre-app baseline statement** | This document, below | Use in the BNG narrative |
+| **Native species list and approximate proportion** | This document, below | Use in checklist + BNG narrative |
+| **HMMP outline** | This document, below | Expand into the formal 30-year HMMP |
+| **Heritage-continuity case** (palette matched to Sussex Square's Grade II registered planting character) | Part N intro + `planting.md` | Strengthens both heritage and biodiversity narratives |
+
+**Pre-development baseline:** The existing roof terrace is an **asphalted flat roof with no vegetation**. Under the Statutory Biodiversity Metric this classifies as **"Developed land; sealed surface"** — the lowest distinctiveness band (zero biodiversity units). The proposed scheme therefore starts from zero, and any planting represents net biodiversity gain — the 10% BNG threshold is comfortably exceeded by definition.
+
+**Post-development baseline:** Approximately **17-21m² of planted area** (~14-18% of the terrace footprint) plus **8 olive trees** as point specimens, plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs", "Native species-rich elements" and "Mixed scrub" within container planters.
+
+**Native species and naturalised species in the palette** (UK natives or long-naturalised wildflowers — relevant for BNG quality scoring and the Local Wildlife Recording case):
+
+| Species | Status |
+|---|---|
+| *Achillea millefolium* — yarrow | UK native |
+| *Aquilegia vulgaris* — granny's bonnets | UK native |
+| *Armeria maritima* — sea thrift | UK coastal native |
+| *Buxus sempervirens* — common box | UK native (debated, native populations in S England) |
+| *Crambe maritima* — sea kale | UK coastal native (Sussex shingle-shore native) |
+| *Glaucium flavum* — yellow horned poppy | UK coastal native |
+| *Origanum vulgare* — wild marjoram | UK native |
+| *Taxus baccata* — yew | UK native |
+| *Centranthus ruber* — red valerian | Long-naturalised (Brighton seafront signature) |
+| *Erigeron karvinskianus* — Mexican fleabane | Long-naturalised in S England |
+
+Approximately **~12-15% native or long-naturalised species** in the palette. Note that for BNG purposes the *condition* and *structural diversity* of habitat matter more than nativeness alone in ornamental contexts — but the native proportion supports the local-distinctiveness case.
+
+### B. Physical biodiversity enhancements — to incorporate in your drawings
+
+The pre-app didn't ask for these, but they materially strengthen the BNG metric, support the Biodiversity Checklist "enhancement measures included" answer, and demonstrate good faith. All are modest, low-cost, and should integrate cleanly with the existing design:
+
+| Enhancement | Detail | Where | Why |
+|---|---|---|---|
+| **Sparrow terrace box** | Triple-cavity timber box (e.g. Schwegler 1SP) | East-facing wall of sauna/wet room, ~2m above terrace level | House sparrow is RSPB Red List; group-nesting species. Discreet against anthracite cladding. |
+| **Bat box** | External wedge box (e.g. Schwegler 1FF or 2F) | North wall of sauna/wet room (cooler, sheltered side), ~2.5m above terrace | Common pipistrelle and soprano pipistrelle both forage along Brighton seafront. |
+| **Bee bricks / solitary bee hotels** | 2× brick-format units (e.g. Green&Blue 'Bee Brick') OR a dedicated bee hotel | Either integrated into the sauna/wet room wall as bricks, or wall-mounted hotel under the south fascia | Solitary bees: red mason, leafcutter, harebell carpenter etc. Sunny SE-facing position essential. |
+| **Insect / invertebrate habitat — log pile** | A small stack of untreated hardwood offcuts from the planter build (~30 × 30 × 30cm) | In one corner of the east-edge planter (below olive level, hidden by understory) | Beetles, woodlice, ground-dwelling invertebrates. Costs nothing — uses leftover hardwood. |
+| **Shallow water dish** | Ceramic / shallow bowl, ~30cm dia × 5cm deep, with stones inside as bee landing platforms | One planter corner near the dining area, refilled in dry spells | Drinking water for bees, butterflies, and small birds; particularly valuable in coastal sun. |
+| **Bird-safe parapet deterrent** | (Already in Part F — 3-wire stainless system replacing existing spikes) | All parapet tops | Excludes gulls/pigeons without injury; doesn't preclude smaller bird use of planters. |
+
+Total likely cost across all features: **~£200-£500**. Total integration impact on the build: very low — most are surface-fixed after the building is complete.
+
+### C. Habitat Management & Monitoring Plan (HMMP) — outline for Bond McCart to expand
+
+The BNG regime requires a **30-year management commitment** to maintain biodiversity gains. The full HMMP is brief for a project this scale. Outline draft:
+
+1. **Responsible party:** Chris Newson (owner), with successor flat-owners bound via Land Registry covenant if required by BHCC.
+2. **Annual maintenance:**
+   - Spring: replenish topsoil, check EPDM liners, replace any failed plants like-for-like from the approved palette
+   - Summer: deadhead, water in dry spells, top up insect-habitat features
+   - Autumn: leave seed heads (*Sedum*, *Eryngium*, grasses) standing for winter invertebrate cover and finch food
+   - Winter: clean bird/bat boxes between Oct-Feb (outside nesting season)
+3. **Plant replacement policy:** any plant that dies is replaced with the same species, or a substitute from the approved palette. No introductions outside the palette without notification.
+4. **Invasive species control:** annual check for Schedule 9 species (none in palette by design); remove any windblown / bird-deposited invasive seedlings.
+5. **Monitoring records:** annual photo-record of planters and enhancement features, retained by owner. Available to BHCC on request.
+6. **Replacement of physical features:** bird boxes, bee bricks, log pile renewed as needed over the 30-year period.
+7. **Transfer of obligation:** at sale of the flat, the HMMP is included in the conveyance pack so the obligation passes with title.
+
+### D. Biodiversity Checklist — draft answers for the BHCC form
+
+(Subject to BHCC's exact form wording, but covering the typical headings:)
+
+- **Protected species on site?** No. Existing site is an asphalt flat roof with no vegetation; no historical records of protected species at this elevation.
+- **Priority habitat on site?** No. Existing habitat: "Developed land; sealed surface" (lowest distinctiveness).
+- **Ecological surveys undertaken?** No survey deemed proportionate — site has no pre-existing habitat to lose. A formal walkover by an ecologist can be commissioned if BHCC requires it.
+- **Trees / hedgerows affected?** None on the terrace itself. No works to trees in the wider Sussex Square garden.
+- **Lighting impact on biodiversity?** Lighting is minimal and downward-directed; no upward spill toward bat flight paths.
+- **Mitigation / avoidance measures?** N/A — no biodiversity to mitigate losing.
+- **Enhancement measures included?** **Yes** — see Section B above (planting palette, sparrow terrace, bat box, bee bricks, log pile, water dish).
+- **HMMP in place?** Yes — see Section C.
+
+### E. What we need from Bond McCart
+
+To complete the biodiversity submission, please confirm or produce:
+
+1. **Decision on BNG calculation route**: will you commission an ecologist for a formal Statutory Biodiversity Metric (SBI v4.0) report, or use the **Small Sites Metric (SSM)** route which can be self-completed? Given the project size and zero-baseline starting point, SSM is likely sufficient and a fraction of the cost. Please advise.
+2. **Lead on the Biodiversity Checklist submission** — please confirm you'll fill BHCC's form using the draft answers in Section D, or flag if any answers should change.
+3. **Formal HMMP document** — please expand Section C above into BHCC's preferred HMMP template and include with the application.
+4. **Drawing updates to incorporate physical enhancements** — please add the items in Section B to the relevant elevations / plans so the planning officer can see them as part of the consented scheme. The sparrow terrace and bat box are the most important to show on the building elevations.
+5. **Confirmation that the listed building consent application and planning permission application will be submitted together** (or whether the works fall under LBC only — which would simplify the BNG requirement).
+
 ## What we'd value your steer on
 
 - Whether the **estimated planter lengths** (above) match the drawings, and whether any segments should be reshaped/sized
 - Confirmation that the **east-edge run** (currently a placeholder, not on drawings) is structurally acceptable from a roof-load standpoint
 - **8 olive trees** in pots — root volume / soil-depth recommendation from a structural / horticultural perspective (current planter depth 600mm; may need oversized 'feature' pots for the olives specifically)
-- **BNG metric calculation** — will Bond McCart commission this, or shall we?
 - Any plants on the palette you'd flag as **unsuitable for the exposed seafront location** that we should swap out
+- Confirmation of **biodiversity submission route** (SBI vs SSM) and **division of work** per Section E above
