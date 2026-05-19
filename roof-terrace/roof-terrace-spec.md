@@ -214,6 +214,56 @@ Systems considered, all of which publish coastal warranties at marine specificat
 - Roof-to-wall transition — wrap continuously in one material, or break with a different roof system?
 - Detailing of parapet, window reveal and door reveal terminations.
 
+### Roof of the sauna/wet room building
+
+**Working preference (subject to your visibility analysis):** **south-high mono-pitch at 15–20°**, in **continuous PVDF anthracite aluminium standing seam wrapping over from the wall cladding** so the building reads as a single skin.
+
+**Why this shape — the logic that produced it:**
+
+Two competing concerns drove the geometry. Setting them out so you can challenge the reasoning where appropriate.
+
+**1. Gulls.** The sauna/wet room building is the highest object on the terrace. A flat or near-flat roof at the highest point would become prime gull real estate — directly above the people using the terrace, and rising above the parapet bird wire (Part F), which we'd otherwise be undermining. Once gulls habituate to a rooftop they return every year and defend it. The conventional pitch threshold above which gulls can't comfortably stand or nest is **~15°; 20°+ is bulletproof**. At 15° or steeper, no visible bird deterrents (wire grids, spikes, gel discs) are needed on the roof surface.
+
+**2. Visibility from Bristol Gardens AND from within the terrace.** The heritage officer's pre-app condition is to minimise visibility from Bristol Gardens (we've already conceded a 3m setback from the north parapet and a 900mm maximum height above parapet). The **+500mm raised dining patio south of the building** also looks toward the sauna at a slight upward angle — any visible bird-deterrent clutter on the roof would read straight from the dining seats.
+
+**Why south-high specifically:**
+
+Counter-intuitive geometry rule: a roof surface above the dining-viewer's eye level is hidden behind whichever fascia sits closest to them. A roof that slopes UP and TOWARDS the dining viewer is largely hidden behind its own south fascia. A roof that slopes UP and AWAY is on full display.
+
+| Viewpoint | What's visible with a south-high pitch |
+|---|---|
+| **Raised dining patio (south)** | The high south fascia screens the roof surface from view — no surface clutter visible from the dining seats |
+| **Bristol Gardens (north)** | The low north edge — lower than a flat-top building of the same internal volume would be |
+| **Bristol Gardens (west)** | The pitch side-on, falling away from the viewer |
+| **East (away from all public views)** | The pitch side-on |
+
+**Pitch tradeoff to be aware of:** across the building's ~2.45m N-S depth, 15° gives a 656mm rise and 20° gives 892mm rise. With a flat-top building already pushing the 900mm-above-parapet envelope, the south edge of a pitched roof will sit *above* 900mm at the highest point. The trade we'd be making: south edge higher (but hidden), north edge lower (and visible to Bristol Gardens). The argument to planning: **the visible edges are all lower than a flat-top equivalent; the high south edge is screened by its own geometry from every relevant viewpoint.**
+
+**Working build-up assumption:**
+
+| Layer (top to bottom) | Spec |
+|---|---|
+| PVDF anthracite aluminium standing seam | Continuous with wall cladding |
+| UV-stable breather membrane | Tyvek UV Façade or Solitex Fronta WA |
+| Counter-battens / sub-frame | A4 / 316 stainless clips |
+| 100–150mm PIR between rafters | Continuous with wall PIR; foil VB taped through the wall-roof junction |
+| Structural OSB or marine ply deck | 18mm |
+| Internal ceiling lining | Sauna: cedar T&G; wet room: moisture-resistant cedar T&G or equivalent |
+
+**Drainage:** small gutter along the low (north) edge discharging onto the warm-roof tile field, which then drains to the existing roof outlets. No new outlets required.
+
+**Fallback if the pitched option isn't viable** (e.g. visibility splay shows the south edge can't be argued, or the height envelope can't accommodate it after Ronan's real build-up depth is known):
+
+A **near-flat roof (3–5° drainage fall to north)** in the same standing-seam material, with an **integrated stainless post-and-wire bird grid** across the surface (matching the Part F parapet system). Lower profile from all directions, but the wire grid would be visible from the raised dining patio, and gulls habituate harder to flat surfaces — so this is a "last resort" if the height envelope rules out the pitched option.
+
+**What we'd value your steer on:**
+
+- **Visibility splays from realistic vantage points on Bristol Gardens** — drawn lines showing what's actually visible above parapet with the building at its current size, so we can judge whether the south edge of a pitched roof can be argued or whether the height-envelope is strict
+- **Real warm-roof build-up depth** — if a slimmer build-up (e.g. ~180mm vs the 250mm we've assumed) is possible, that's headroom we can spend on pitch
+- **Real parapet height above the new tile FFL** — drives the whole envelope calculation
+- Roof-to-wall transition — continuous standing-seam wrap, or break at a discrete fascia line?
+- Whether you'd recommend a different roof material that's even thinner / lower-mass than warm-roof + standing seam, to claw back more headroom
+
 ---
 
 # PART B — WET ROOM
