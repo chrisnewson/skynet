@@ -1222,34 +1222,65 @@ Built to match the storage units and planters:
 - **Outer:** salvaged hardwood deck boards
 - **Frame / inner:** marine ply (sealed at joints with marine epoxy)
 - **Doors / access panels:** hardwood-fronted, stainless hinges and handles
-- Same air-gap + EPDM lining principle as Part O where contents need protection
 
-### BBQ — gas bottle
+### BBQ — gas bottle (locked-in spec)
 
-- **Type:** countertop or built-in gas BBQ (e.g. Weber Q-series countertop, or a built-in Napoleon / Fire Magic — to confirm based on budget)
+- **Model:** **Beefeater Signature 3000E 4-burner built-in** — ~£896 (sale; £995 RRP)
+  - 304 stainless seam-welded body, porcelain enamel construction, cast iron grates
+  - 4 cast iron burners, 72,000 BTU output, 3,840cm² cooking area
+  - Roasting hood with viewing window
+  - **10-year warranty** on enamel burner box, 3-year on grates and burners, 2-year on other parts
+  - LPG-ready out of the box (factory-fitted regulator + hose included)
+  - Dimensions (head only): 820W × 580D × 530H mm
 - **Fuel:** LPG gas bottle (e.g. Calor 6kg or 13kg)
 - **Bottle storage:** dedicated **vented cabinet** below the BBQ
   - **LOW-LEVEL ventilation grilles** at the base of the cabinet (≥200cm² total free area) — LPG is heavier than air and must drain out at floor level if leaked
   - **High-level vent** also recommended for through-flow
   - Vent grilles in stainless mesh (anti-corrosion + insect screen)
   - Cabinet vents to **outside only** — must not communicate with any sealed storage compartment
-- **Hose and regulator:** Calor-approved low-pressure regulator and reinforced LPG hose to BBQ inlet
+- **Hose and regulator:** included with the Beefeater (low-pressure, Calor-approved)
 - **Safety isolation:** in-line stainless ball valve on the gas hose (for emergency shut-off without disturbing the bottle)
-- **Spare bottle** can be stored in a separately-vented compartment OR off-terrace (Chris's garage), to be confirmed
+- **Spare bottle:** stored off-terrace (Chris's garage) — keeps the cabinet smaller and avoids two-bottle ventilation complexity
 
-### Sink
+### Sink (locked-in spec)
 
-- **Sink:** stainless inset, single bowl, ~400 × 350mm typical
-- **Tap:** brass / stainless garden mixer-style with cold-only feed (or single cold tap with swivel spout for hose attachment)
-- **Drainage:** see plumbing section below
+- **Model:** **Caple Zero 1 Bowl 400 × 450mm in brushed stainless steel** — £346
+  - Single bowl, brushed finish (hides water spotting/salt aerosol marks outdoors)
+  - 1.0mm stainless, inset OR undermount capable
+  - **Lifetime guarantee** (Caple)
+  - Includes 90mm chrome basket strainer waste + overflow
+  - Cut-out: 379 × 429mm; minimum base unit 400mm
 
-### Worktop
+### Tap (locked-in spec)
 
-- **Recommended: 304 stainless steel**, fabricated to size with cut-outs for sink and (if built-in) BBQ
-  - Estimated cost ~£160-£320 for ~1.5m × 0.6m piece (~20% cheaper than 316)
-  - Heat-resistant (BBQ-adjacent), lightweight (good for roof load), easy to clean of salt spray
-  - **304 is adequate** — the worktop is sheltered by the cabinet structure and the south parapet, not directly exposed to wind-borne salt aerosol. 316 marine grade is reserved for the cladding and parapet bird-wire (fully exposed elements).
-- **Alternative:** stone (granite or slate) ~£300-£600, heavier, premium look but more porous and stain-prone
+- **Model:** **Caple Robo brushed stainless monobloc** — ~£190 (sale; £254 RRP)
+  - Brushed stainless finish (matches Caple Zero sink)
+  - Single 35mm tap hole in worktop / sink rim
+  - Twin levers, quarter-turn ceramic valves
+  - **Plumbed COLD ONLY** — only the cold inlet is connected; the hot lever is left non-functional. (Outdoor BBQ kitchen, no hot supply.)
+  - 5-year Caple guarantee
+  - 352mm tall × 195mm spout reach
+
+### Worktop (locked-in spec)
+
+- **Material:** **304 stainless steel, brushed / satin finish** — fabricated to size with cut-outs for sink and BBQ head, ~£200-£400 for a ~1.5m × 0.6m piece
+  - **Brushed finish is essential outdoors** — polished stainless shows every water spot, raindrop and salt-aerosol mark within weeks at a coastal site. Brushed absorbs the marks into the grain direction and stays looking premium.
+  - Grain direction to run parallel to the front edge of the worktop (matches the sink's brushed grain)
+  - Heat-resistant (BBQ-adjacent), lightweight (good for roof load)
+  - 304 grade is adequate here — the worktop is sheltered by the cabinet structure and the south parapet. 316 reserved for fully-exposed elements (cladding, parapet bird-wire).
+- **Alternative:** stone (granite or slate) ~£300-£600, heavier, premium look but more porous and stain-prone — only if Chris later prefers the stone aesthetic
+
+### Fridge — under-counter (locked-in spec)
+
+- **Model:** **Beefeater Single Door Outdoor Tropical Fridge, 118L** — £1,299
+  - **IPX4 splash-protected**, tested to 43°C ambient — engineered for outdoor kitchens
+  - **304 stainless** cabinet
+  - Lockable, digital thermostat (0–10°C), fan-assisted frost-free with auto defrost
+  - Dimensions: 555W × 495D × 850H mm — fits a standard 600mm cabinet bay with margin
+  - Matches the BBQ brand (Beefeater) — visual continuity in stainless finish
+- **Position:** in a dedicated cabinet bay between the BBQ and the sink (or on the opposite side of the BBQ), worktop running over the top
+- **Power:** plugs into a 13A socket inside the cabinet (junction off **Socket #5** in Part L — single feed, switched on at the wall when needed)
+- **Ventilation:** front-vented unit — keep front grille clear and ensure cabinet bay has the recommended manufacturer airgap above and behind
 
 ## Plumbing — cold water supply
 
@@ -1286,12 +1317,25 @@ Built to match the storage units and planters:
 4. BBQ placed / installed; gas bottle connected with isolation valve
 5. Final test: cold water, sink drain trace, BBQ ignition
 
+## Budget summary
+
+| Component | Product | Cost |
+|---|---|---|
+| BBQ head | Beefeater Signature 3000E 4-burner built-in | £896 |
+| Sink | Caple Zero 1 Bowl 400×450mm brushed stainless | £346 |
+| Tap | Caple Robo brushed stainless monobloc (cold-only) | £190 |
+| Worktop | 304 brushed stainless, 1.5m × 0.6m fabricated | ~£300 |
+| Cabinet | Salvaged hardwood + marine ply inner | ~£300 |
+| Fridge | Beefeater Single Door Outdoor Tropical 118L | £1,299 |
+| Plumbing / hardware | Pipe fittings, vents, hinges, drain trap, gas bottle, ball valve | ~£200 |
+| **TOTAL** | | **~£3,531** |
+
+(Original cap was £3,000; Chris approved the £531 overrun on 20 May 2026 to get the proper outdoor-rated Beefeater fridge for longevity in coastal conditions.)
+
 ## What we'd value your steer on
 
-- **BBQ choice:** countertop unit (cheaper, removable, simpler) vs **built-in** (cleaner look, fixed install — needs a worktop cut-out and integrated gas piping)
 - **Confirmation of waste pipe tie-in point** under the dining area — please indicate on the drawing
 - **Gas Safe-compliant LPG cabinet venting** — preferred grille type / sizing for the bottle compartment
-- **Worktop final material** — stainless (recommended) or stone
-- **Sink + tap supplier** — outdoor-rated kitchen sink suppliers vs going generic
 - **Whether to install a second socket** flush with the worktop area, or to keep using socket #5 only
 - **Whether the kitchen unit's base needs to be on stainless feet** like the storage units, or sit directly on the Protectoboard (to be coordinated with the waste pipe routing)
+- **Cabinet layout** — confirm preferred arrangement of BBQ / sink / fridge bays along the 2-2.5m run, and the worktop length implications
