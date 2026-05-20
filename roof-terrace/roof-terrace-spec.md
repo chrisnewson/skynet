@@ -340,27 +340,31 @@ The whole floor is one tanked wet zone — no shower trays, no enclosures, no gl
 ## Electric Shower
 
 - 10.5kW unit (e.g. Mira Sport Max, Triton T90SR, Aqualisa Quartz Electric)
-- Top/west wall, north end of wet zone (south of the bucket shower)
+- Top/west wall, north end of wet zone
 - Cold supply only
 - Dedicated 10mm² circuit, 45A RCBO
 - Ceiling pull-cord isolator within the room, away from the spray zone
 
-## Cold Bucket Shower
+## External Cold Shower (North Exterior Wall)
 
-This is a feature for us — traditional Finnish-style timber bucket on a pivoting wall arm, pull-cord operated, used as a cold plunge after the sauna.
+Replaces the previously-planned internal Finnish-style cold bucket shower. The bucket shower was dropped because its water would warm up to ambient over time inside the wet room — defeating the point of a post-sauna cold plunge. An external shower on the north (hot-tub-facing) exterior wall of the building draws fresh mains-cold water on demand, stays genuinely cold, and creates a natural circulation path: **sauna → step out onto terrace → cold rinse under the external shower → into the hot tub.**
 
-- Wall-mounted kit (e.g. Finnmark, ~£80–150)
-- Top/west wall, immediately south of the door (north end of wet zone)
-- Mounted at 2100mm FFL — bucket sits above head height when not in use
-- Cold supply with float valve so it auto-refills
+- **Position:** mounted on the **north exterior wall** of the sauna/wet room building, ~2m above terrace tile FFL, accessible from the hot tub zone
+- **Shower head:** **simple large fixed rainfall-style stainless head** (~250-300mm Ø) — no flexible hose, no diverter. Plain, robust, marine-grade brass or 316 stainless body.
+- **Tap:** **single cold lever tap**, surface-mounted brass/stainless, simple quarter-turn or full-turn ceramic-disc cartridge. No mixer (cold-only). Sample: Hansgrohe Croma E or simpler outdoor brass garden-shower lever.
+- **Supply:** tee off the existing terrace cold supply (same as Part K outdoor tap and Part P kitchen sink). Copper, no plastic on exposed runs.
+- **Frost protection:** internal isolation valve and drain-down point so the external run can be drained for winter — consistent with Part K
+- **Drainage:** water falls onto the terrace tiles and drains via the existing tile pedestal void to the existing roof falls. No new drain or gully required. (The tiles slope correctly per Part I.)
+- **Privacy:** the shower is in an open position visible from the hot tub area only — no screening needed (it's a quick rinse, not a full body wash). If privacy is wanted later, a slim freestanding hardwood screen could be added without changing the plumbing.
 
 ## Plumbing Summary
 
 - **Cold water only** — taken from existing terrace supply at south wall
-- Cold runs to: toilet cistern (south wall), sink tap (south end of west wall), then along west wall to electric shower and bucket shower at north end
+- Cold runs to: toilet cistern (south wall), sink tap (south end of west wall), then along west wall to the electric shower at north end. Separate tee off the terrace supply feeds the **external cold shower** on the north exterior wall.
 - Toilet waste: 110mm soil pipe south to existing soil stack
 - Sink waste: bottle trap, connected to terrace drainage
 - Linear drain: 50mm waste south to terrace drainage
+- External shower drainage: free-falls onto the terrace tile field; drains via pedestal void to the existing roof falls
 
 ## Door
 
