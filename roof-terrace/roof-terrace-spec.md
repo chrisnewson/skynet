@@ -48,6 +48,11 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 **Internal dimensions:** 1.57m (east–west) × 2.15m (north–south)
 **Minimum internal ceiling height:** 2.15m (same as wet room — single internal ceiling height across the whole building)
 
+> **Binding constraints from pre-application (PRE2025/00255):**
+> - **Setback ≥ 3m from north parapet edge** — conceded in revised submission to planning (was originally 600mm; revised to match heritage officer's 3-4m ask)
+> - **Maximum external height 900mm above parapet** — conceded in revised submission (was originally 600mm)
+> All Part A design assumptions must respect these limits.
+
 ## Floor
 
 - Tanked (continuous with adjacent wet room), screeded to fall, R11 porcelain tile to match the rest of the terrace
@@ -76,7 +81,7 @@ L-shape wraparound, two-tier on both walls, all in the same untreated whitewood/
 | Upper bench, south wall | 950mm | 550mm | 1.57m (less heater clearance) |
 | Lower bench/step, south wall | 450mm | 350mm | 1.57m (less heater clearance) |
 
-The upper bench wraps around the corner so two people can lie at right angles. The south-east end of the south wall benches (nearest the heater in the SE corner) needs to be cut back by approximately **250–300mm** to maintain clearance from the Harvia Cilindro PC90E heater body (360mm wide × 340mm deep) and its guard rail. Final dimensions to be confirmed against the manufacturer's installation manual. A heat shield panel above the heater is recommended given the radiant output of the 9 kW column heater.
+The upper bench wraps around the corner so two people can lie at right angles. The south-east end of the south wall benches (nearest the heater in the SE corner) needs to be cut back by approximately **250–300mm** to maintain clearance from the Harvia Cilindro PC90E heater body (360mm wide × 340mm deep) and its guard rail. Final dimensions to be confirmed against the manufacturer's installation manual.
 
 ## Door
 
@@ -236,8 +241,9 @@ Counter-intuitive geometry rule: a roof surface above the dining-viewer's eye le
 | Viewpoint | What's visible with a south-high pitch |
 |---|---|
 | **Raised dining patio (south)** | The high south fascia screens the roof surface from view — no surface clutter visible from the dining seats |
-| **Bristol Gardens (north)** | The low north edge — lower than a flat-top building of the same internal volume would be |
-| **Bristol Gardens (west)** | The pitch side-on, falling away from the viewer |
+| **Bristol Gardens (direct north view)** | The low north edge — lower than a flat-top building of the same internal volume would be |
+| **Bristol Gardens (north-west diagonal)** | The pitch side-on, falling away from the viewer |
+| **Bristol Gardens (south-west diagonal)** | The high south fascia angled away from the viewer; the pitch slope drops toward the viewer's line of sight |
 | **East (away from all public views)** | The pitch side-on |
 
 **Pitch tradeoff to be aware of:** across the building's ~2.45m N-S depth, 15° gives a 656mm rise and 20° gives 892mm rise. With a flat-top building already pushing the 900mm-above-parapet envelope, the south edge of a pitched roof will sit *above* 900mm at the highest point. The trade we'd be making: south edge higher (but hidden), north edge lower (and visible to Bristol Gardens). The argument to planning: **the visible edges are all lower than a flat-top equivalent; the high south edge is screened by its own geometry from every relevant viewpoint.**
@@ -249,9 +255,9 @@ Counter-intuitive geometry rule: a roof surface above the dining-viewer's eye le
 | PVDF anthracite aluminium standing seam | Continuous with wall cladding |
 | UV-stable breather membrane | Tyvek UV Façade or Solitex Fronta WA |
 | Counter-battens / sub-frame | A4 / 316 stainless clips |
-| 100–150mm PIR between rafters | Continuous with wall PIR; foil VB taped through the wall-roof junction |
+| 100–150mm PIR between rafters | Thicker than the 75-100mm wall PIR (heat rises) — Ronan to detail the **wall-to-roof PIR transition** so the foil VB stays continuous through the junction |
 | Structural OSB or marine ply deck | 18mm |
-| Internal ceiling lining | Sauna: cedar T&G; wet room: moisture-resistant cedar T&G or equivalent |
+| Internal ceiling lining | **Sauna:** cedar T&G (heat-tolerant softwood, standard sauna spec). **Wet room:** PVC ceiling cladding (e.g. Multipanel ceiling, Pacific cladding) — fully waterproof, easy to clean, ~£25-50/m² fitted — final material to Ronan's specification |
 
 **Drainage:** small gutter along the low (north) edge discharging onto the warm-roof tile field, which then drains to the existing roof outlets. No new outlets required.
 
@@ -273,6 +279,8 @@ A **near-flat roof (3–5° drainage fall to north)** in the same standing-seam 
 
 **Internal dimensions:** 2.15m (north–south) × 0.9m (east–west)
 **Minimum internal ceiling height:** 2.15m (same as sauna — single internal ceiling height across the whole building)
+
+> **Change from pre-application — note for planning:** The pre-app drawings showed a **sauna + storage** combined building. Storage has been **redistributed across four lower units along the parapet lines** (see Part O), where it sits below the parapet height and is essentially hidden from the streetscene. This freed up the internal volume to accommodate a **wet room (with WC)** as an addition. **The building's external footprint is unchanged from pre-app** — same shape, same setbacks, same height envelope — and the planning officer's preferred form is preserved. The wet room is purely an internal subdivision of space planning already accepted in principle.
 
 ## Layout
 
@@ -429,7 +437,7 @@ We're planning to site a hot tub on the terrace alongside the sauna/wet room bui
 | 7 | [H2O 2000 Series](https://www.h2ohottubs.co.uk/) | UK distributed; Chinese-built | Rectangular | 210 × 180 × 80cm | 1,200 | 317 | £3,000–4,500 |
 | 8 | [Sunbeach SB355L](https://www.penguinspas.com/product-page/sunbeach-sb355l-5-person-plug-play-hot-tub) | UK designed; Chinese-built | Rectangular | 225 × 180 × 80cm | 1,280 | 316 | £4,200–5,700 |
 
-Filled weight is shell + water, no occupants. Add ~10–15% for dynamic loading. Three adults add only ~25kg total (bodies displace nearly their own weight).
+Filled weight is shell + water, no occupants. Three adults add **~240kg** to the static structural load (full body mass — displacement only reduces the bather's *immersed* weight, not the load on the terrace). Add ~10–15% for dynamic loading on top.
 
 ## Recommended suppliers
 
@@ -512,7 +520,7 @@ Gulls and pigeons need a clear, flat landing strip. On a wide (450mm) coping, a 
 ## 5. Materials (marine / coastal)
 
 - All metalwork: **A4 / 316 or 316L stainless steel** (posts, wire, terminals, springs, screws, washers, ferrules)
-- Wire: 1.0–1.2mm Ø 7×7 or 7×19 stainless cable (1.2mm preferred for coastal robustness and visual straightness; 1.0mm acceptable)
+- Wire: **1.2mm Ø 7×19 stainless cable** — chosen for coastal robustness, long-term fatigue resistance, and visual straightness; gives the best deterrent reliability over a 20+ year life
 - Posts: turned stainless, 70–110mm stem height with swivel / tilting saddles (±10–15°) to allow posts to be plumb despite coping fall
 - Base gaskets: neoprene or EPDM under base washers to protect the coping
 - Anchors: stainless screws into mortar joints with resin/chemical anchors where required. **Do not drill waterproofing / membranes.**
@@ -839,12 +847,7 @@ To give reliable wifi coverage across the full terrace (hot tub, dining area, sm
 - A single low-voltage **PoE cable (Cat6)** routes from the injector through the building shell and out under the south fascia to the AP. The cable carries both power and data.
 - This mirrors how the existing UniFi APs in the flat (including the study AP) are already powered.
 
-**Suitable AP models (UniFi outdoor range):**
-- UniFi U6 Mesh (outdoor) — WiFi 6, ~£170
-- UniFi U7 Outdoor — WiFi 7, ~£280
-- UniFi AC Mesh (older, still sold) — ~£100
-
-Selection to be confirmed once Chris decides whether to refresh to WiFi 7 across the network or stick with WiFi 6 here.
+**AP unit:** the existing **UniFi U6 Mesh** is already in place on the terrace — it just needs **relocating** to the new mount point under the south fascia of the sauna/wet room building (no new hardware purchase).
 
 ## What we'd value your steer on
 
@@ -1078,7 +1081,7 @@ To complete the biodiversity submission, please confirm or produce:
 
 # PART O — STORAGE UNITS
 
-Four outdoor storage units distributed across the terrace, **all built from salvaged hardwood deck boards** (matching the planters and outdoor kitchen aesthetic) with a waterproof inner liner. Locations marked on the floorplan as dark-grey rectangles labelled "Storage".
+Four outdoor storage units distributed across the terrace, **all built from salvaged hardwood deck boards** (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves — not chest-style with top-opening lids. Locations marked on the floorplan as dark-grey rectangles labelled "Storage".
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
@@ -1086,8 +1089,8 @@ Four outdoor storage units distributed across the terrace, **all built from salv
 
 | # | Position | Approximate footprint | Status | Notes |
 |---|---|---|---|---|
-| **1** | SW corner of narrow terrace | **1.09m × 1.60m** (labelled on drawing) × ~0.9m high | Existing | Contains the electrical junction box used as the pickup for socket #4 (Part L). The cupboard's interior must remain accessible for electrical maintenance and IP-compliant. **Cat flap required — see "Cat-flap detail" below.** |
-| **2** | North end of narrow terrace, against the east parapet | ~0.6m × ~1.2m × ~0.9m high *(to be confirmed by Ronan)* | **NEW** (added 19 May 2026) | General terrace storage. |
+| **1** | SW corner of narrow terrace | **1.09m × 1.60m** (labelled on drawing) × **~1.0m high** (raised from 0.9m to give comfortable clearance above the Litter Robot — see below) | Existing | Contains the electrical junction box used as the pickup for socket #4 (Part L). The cupboard's interior must remain accessible for electrical maintenance and IP-compliant. **Houses the cat's Litter Robot 4 or 5 + side shelves + cat flap — see "Litter Robot + cat-flap detail" below.** |
+| **2** | North end of narrow terrace, against the east parapet | ~0.6m × ~1.2m × ~0.9m high *(to be confirmed by Ronan)* | **NEW** (added 19 May 2026) | General terrace storage. Bee bricks integrated into the east-facing external face (see Part N enhancements). |
 | **3** | South wall of main section, SE end (lower-left of main on drawing) | ~0.6m × ~1.6m × ~0.9m high *(TBC)* | Existing on drawing | General storage. |
 | **4** | North wall of main section, mid-way between hot tub and sofa | ~0.6m × ~1.0m × ~0.9m high *(TBC)* | Existing on drawing | Useful for hot-tub-adjacent items (cover, chemicals — child-safe lock recommended if chemicals stored). |
 
@@ -1095,7 +1098,7 @@ All dimensions to be confirmed by Bond McCart on the drawings.
 
 ## Construction principle
 
-Same family as the planters (Part J): hardwood outer, marine ply inner, EPDM membrane as the waterproof layer. Box-in-box approach — the hardwood is decorative + drip-shedding, the inner ply box is the actual structural and watertight enclosure, the EPDM is the membrane that handles any ingress.
+Cabinet-style units, broadly the same material family as the planters (Part J) but **simplified** — no EPDM membrane. Sealed marine ply on the inside is sufficient for dry-goods / cushion storage; the EPDM in the planters is there because they hold soil and water, which storage doesn't.
 
 ### Walls (bottom → outside)
 
@@ -1103,67 +1106,95 @@ Same family as the planters (Part J): hardwood outer, marine ply inner, EPDM mem
 |---|---|---|
 | Hardwood deck-board outer skin | Salvaged decking, stainless A4 fixings | Visual finish, matches planters; drip-sheds rain |
 | Air gap (~10mm) | Open void, drains downward | Ventilation; prevents damp build-up between outer and inner |
-| Marine ply box | 18mm, joints sealed with marine epoxy | Structural inner box, watertight in own right |
-| EPDM lining (interior) | 1.0-1.2mm, dressed up all four sides and over the rim | Belt-and-braces waterproof layer for cushion/textile storage |
+| **Marine ply box (sealed)** | 18mm, joints sealed with marine epoxy | Structural and watertight inner box — no separate membrane needed |
 
-### Roof / lid (bottom → top)
+### Roof (sloped fixed top — not a lid)
+
+Because access is via front doors, the roof is a **fixed sloped top** with no openings:
 
 | Layer | Spec |
 |---|---|
 | Marine ply substrate | 18mm, edges sealed with marine epoxy |
-| **EPDM membrane** | 1.0-1.2mm, full lid area + ~50mm overhang on all four sides as drip-edge |
+| **EPDM membrane** | 1.0-1.2mm — single waterproof layer over the top, dressed over all four edges and down the sides by ~50mm as a drip edge |
 | Hardwood deck-board top finish | Salvaged boards, fixed to the ply only — **screws stop short of the EPDM** so no membrane penetrations |
 
-**Lid geometry:**
-- **Slope ~5-10°** away from the access edge — drains water to the back / sides
-- **Hinges on the HIGH (back) edge** — water flows away from the hinge line, not into it
-- **Overhang ~30-50mm** on all four sides as a drip edge below the lid
-- **EPDM gasket** along the front lid-to-body seal
+**Roof geometry:**
+- **Slope ~5-10°** front-to-back (drains away from the doors)
+- **Overhang ~30-50mm** on all four sides as drip edge above the doors and walls
+
+### Doors
+
+- **Front-opening, hinged on the vertical side** (one or two doors per unit depending on width)
+- **Hardwood-faced**, matching the wall cladding so the unit reads as a continuous timber box when closed
+- **Door rebate at the head + rubber gasket** to keep wind-driven rain out of the door line
+- **Door head sits below the roof's drip-edge overhang** so water sheds clear of the doors
+- **Bottom of door clears the unit's floor by ~5mm** to allow any ingress to drain off the sloped internal floor
+
+### Internal shelves
+
+- **Single fixed mid-height shelf** in each unit by default
+- 18mm marine ply, ~250-300mm deep, full width of unit
+- Storage #1 (with Litter Robot — see below): **no shelf in the LR's bay**; the side bay (~900mm wide × full depth) gets **2-3 stacked shelves at ~250mm spacing**
+- Stainless ply support cleats screwed to the side walls
 
 ### Base
 
 | Layer | Spec |
 |---|---|
-| Marine ply | 18mm, sealed edges |
-| EPDM dressed up the inside ~50mm | Continuous with wall liner |
-| Bearers / stainless feet | ~25mm air gap between marine ply and Protectoboard for ventilation + drainage |
-| Small drainage holes through ply only | Allows any ingress to escape onto the Protectoboard below |
+| Marine ply floor | 18mm, sealed edges, sloped ~1% to drain |
+| Bearers / stainless feet | ~25mm air gap between floor and Protectoboard for ventilation + drainage |
+| Small drainage holes through ply | Allows any ingress to escape onto the Protectoboard below |
 
 ## Hardware
 
-- **Hinges:** A4 / 316 stainless piano hinge OR pair of butt hinges (high edge of lid)
-- **Lift handle:** A4 / 316 stainless, mounted on the front face
-- **Latch / lock:** stainless concealed latch; child-safe lock specifically on unit #4 if hot tub chemicals stored there
-- **All fixings:** A4 / 316 stainless throughout (consistent with planter and cladding spec)
+- **Hinges:** A4 / 316 stainless butt hinges (external/exposed) — typically 2 pairs per door
+- **Door handles:** A4 / 316 stainless drop or D-handles
+- **Latches:** stainless magnetic catches inside; visible **stainless turn-knob latch** or recessed lock on the front face
+- **Lock:** child-safe lock specifically on unit #4 if hot tub chemicals stored there
+- **All exposed fixings:** A4 / 316 stainless. **Internal / hidden bracketry and shelf cleats can be A2 / 304** (cost saving — A2 is fine where it's not exposed to salt aerosol).
 
-## Cat-flap detail (Storage #1 only)
+## Litter Robot + cat-flap detail (Storage #1 only)
 
-Storage #1 doubles as a **sheltered cat nook**. A single cat flap is fitted in its vertical front face (on the terrace side), so the cat can enter the storage from the terrace as a weather-protected resting spot.
+Storage #1 houses the cat's **Litter Robot 4 or 5** (self-cleaning litter box) in one bay, with general storage shelves alongside. The cat enters via a front-mounted cat flap to use the litter box; the front doors open for the owner to access for emptying / shelf contents.
 
-A **separate cat flap from the flat into the terrace** is planned (location to be confirmed — most likely in an existing flat-to-terrace door or wall). The two are independent: cat exits the flat onto the terrace via the separate flap; if it wants shelter, it enters Storage #1 via the storage flap.
+**Litter Robot fit (LR4 / LR5):**
 
-**Specification:**
-- **Brand:** SureFlap microchip cat flap (or equivalent) — microchip-locked to keep neighbourhood cats out
+| | Dimension | Fits in Storage #1 (1.09m × 1.60m × 1.0m) |
+|---|---|---|
+| LR4 / LR5 width | ~700mm | ✅ — leaves ~900mm width for side shelves |
+| LR4 / LR5 depth | ~610mm + ~150mm front clearance for waste-drawer slide-out = ~760mm | ✅ — fits within 1.09m depth |
+| LR4 / LR5 height | ~749mm | ✅ — 1.0m internal height gives ~250mm clearance above |
+
+**Power:** Litter Robot needs 240V mains. Already provided: **socket #4 (Part L)** is inside Storage #1.
+
+**WiFi:** Litter Robot has an app — UniFi network already covers the terrace.
+
+**Cat flap:**
+- **Brand:** **SureFlap Microchip Cat Flap** (DualScan or standard, ~£80-120) — best balance of weatherproof construction, long-term reliability, and microchip locking to keep neighbourhood cats out. Well-reviewed on coastal sites.
 - **Size:** standard ~165 × 175mm cutout
-- **Position:** ~150mm above storage internal floor, on the vertical front face of Storage #1
-- **Weatherproofing:** small rain hood / drip edge above the flap; storage floor sloped slightly to drain any water tracked in via the existing drainage holes onto the Protectoboard
+- **Position:** ~150mm above floor, on the vertical front face of Storage #1 in the LR bay (so the cat enters directly onto the LR's access mat)
+- **Weatherproofing:** small rain hood / drip edge above the flap
 - **Power:** battery-only (4× AA) — no wiring needed
-- **Internal layout coordination:** flap position must not conflict with the electrical junction box / socket #4 pickup inside Storage #1 (confirm with Ronan)
+- **Internal coordination:** flap position must not conflict with the existing junction box / socket #4. Confirm internal layout with Ronan.
+
+**A separate cat flap from the flat → terrace** is planned (location TBC — probably in one of the existing flat-to-terrace doors). Bond McCart to detail.
 
 ## Ventilation
 
 Cushion / fabric storage needs **passive airflow** to prevent damp:
-- **Small ventilation slots** (~50mm × 10mm × 2) low-level on the front face, screened with stainless mesh insect grille — allows convective airflow without bulk water ingress
+- **Small ventilation slots** (~50mm × 10mm × 2) low-level on the front face, screened with stainless mesh insect grille
 - The hardwood outer cladding's natural board gaps also breathe
+- For Storage #1, the cat flap doubles as a large air-exchange path
 
 ## What we'd value your steer on
 
 - **Confirmation of the 4 positions** on the drawings and exact footprints
+- Confirmation that **Storage #1 can be raised to 1.0m internal height** to comfortably accommodate the Litter Robot 4/5 (was 0.9m)
 - Whether **unit #4 (north wall of main, near hot tub)** should be specifically sized to hold the **hot tub cover** when removed
 - **Hardware finish** — brushed stainless vs powder-coated black (to match the building cladding)
-- Whether the cushion / fabric liner should be a removable EPDM-lined drop-in (so it can be lifted out, cleaned, replaced) vs fixed
-- **Cat-flap detail for Storage #1** — confirm size/brand assumption (SureFlap microchip)
-- **Separate cat flap from flat → terrace** — location to be confirmed. Likely candidates: through an existing door (study / kitchen / landing) or through an external wall. Needs Ronan's detailing because any new penetration through the listed building envelope is **a notifiable alteration in the Listed Building Consent application**
+- **Number of shelves per unit** — single mid-height fixed shelf default; let us know if any unit needs different shelving (e.g. taller items)
+- **Cat-flap brand confirmation** — SureFlap Microchip recommended
+- **Separate cat flap from flat → terrace** — location TBC, for Ronan to detail
 
 ---
 
@@ -1210,10 +1241,10 @@ Built to match the storage units and planters:
 
 ### Worktop
 
-- **Recommended: 304 / 316 stainless steel**, fabricated to size with cut-outs for sink and (if built-in) BBQ
-  - Estimated cost ~£200-£400 for ~1.5m × 0.6m piece
+- **Recommended: 304 stainless steel**, fabricated to size with cut-outs for sink and (if built-in) BBQ
+  - Estimated cost ~£160-£320 for ~1.5m × 0.6m piece (~20% cheaper than 316)
   - Heat-resistant (BBQ-adjacent), lightweight (good for roof load), easy to clean of salt spray
-  - **316 grade** for true marine durability at this seafront site
+  - **304 is adequate** — the worktop is sheltered by the cabinet structure and the south parapet, not directly exposed to wind-borne salt aerosol. 316 marine grade is reserved for the cladding and parapet bird-wire (fully exposed elements).
 - **Alternative:** stone (granite or slate) ~£300-£600, heavier, premium look but more porous and stain-prone
 
 ## Plumbing — cold water supply
