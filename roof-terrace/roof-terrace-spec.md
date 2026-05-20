@@ -642,7 +642,7 @@ The key question: **does the glass channel sit on top of the parapet wall, or is
 
 ## Surface material
 
-20mm porcelain pavers, R11 slip-rated minimum, frost-resistant. Italian or Spanish manufacture preferred for quality assurance. Large format preferred (600 × 600mm or larger). Finish to be mid-tone honed or textured — not polished, not white or very pale (glare and bird soiling). Warm grey, stone, or buff tones to suit the building character.
+20mm porcelain pavers, R11 slip-rated minimum, frost-resistant. Italian or Spanish manufacture preferred for quality assurance. Large format preferred (600 × 600mm or larger). Finish to be mid-tone honed or textured — not polished, not white or very pale (glare and bird soiling). **Sandstone-coloured tones** (warm buff / honey / pale stone) to complement the anthracite cladding and Sussex Square's cream Regency stucco context, and to hide gull marks more forgivingly than grey.
 
 **Hard rules:**
 - 20mm thickness minimum
