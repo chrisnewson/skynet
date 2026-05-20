@@ -257,7 +257,7 @@ Counter-intuitive geometry rule: a roof surface above the dining-viewer's eye le
 | Counter-battens / sub-frame | A4 / 316 stainless clips |
 | 100–150mm PIR between rafters | Thicker than the 75-100mm wall PIR (heat rises) — Ronan to detail the **wall-to-roof PIR transition** so the foil VB stays continuous through the junction |
 | Structural OSB or marine ply deck | 18mm |
-| Internal ceiling lining | **Sauna:** cedar T&G (heat-tolerant softwood, standard sauna spec). **Wet room:** PVC ceiling cladding (e.g. Multipanel ceiling, Pacific cladding) — fully waterproof, easy to clean, ~£25-50/m² fitted — final material to Ronan's specification |
+| Internal ceiling lining | **Sauna:** cedar T&G (heat-tolerant softwood, standard sauna spec). **Wet room:** **Aquapanel (or equivalent moisture-resistant cement-board) + bathroom-grade paint** — sleek, paintable in any colour (suggest warm white or matt anthracite to echo external cladding), fully waterproof, ~£40-60/m² fitted |
 
 **Drainage:** small gutter along the low (north) edge discharging onto the warm-roof tile field, which then drains to the existing roof outlets. No new outlets required.
 
