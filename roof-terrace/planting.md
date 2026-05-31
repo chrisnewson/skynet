@@ -197,7 +197,12 @@ The terrace planting scheme has been organised to provide **wind defence on the 
 ## Plants used per role
 
 ### 🌳 BACK row (tall windbreak — 1m+ above rim)
-- ***Pittosporum tobira*** (full species, ×2 Sussex Square photos) — primary evergreen mass; used in **M1 (clipped, dining flanks)**, M2, M4, M7, N1, N2 (clipped), **N3 (clipped, kitchen-adjacent windbreak)**
+
+> **Revised after Pittosporum-tobira-is-too-big concern:** Olearia × haastii is now the primary mid-tall windbreak (1-1.5m, well-evidenced in Sussex Square at ×3). Pittosporum tobira is reserved for M2 (where the 700mm planter + tall plant gives proper tall windbreak) and as the **'Wheeler's Dwarf'** cultivar (1m compact dome) in N2 and N3.
+
+- ***Olearia × haastii*** (×3 Sussex Square photos via Olearia/Brachyglottis group) — **primary mid-tall windbreak**, naturally compact 1-1.5m dome, leathery dark green with white-felt underside; used in M1, M4, M7, N1 (spaced along run)
+- ***Pittosporum tobira*** (full species, ×2 Sussex Square photos) — **only in M2** (back row, 700mm planter; clipped to 1.5m or use 'Wheeler's Dwarf' alternative)
+- ***Pittosporum tobira* 'Wheeler's Dwarf'** — compact 1m dome cultivar; **N2, N3** (kitchen-adjacent windbreak balls)
 - ***Cordyline australis*** (×2 Sussex Square) — vertical accent + filter; used at NE corner of N1
 - ***Phormium tenax*** 'Purpureum' (×2 Sussex Square) — bronze sword leaves; M2, M4, M7, N1, **N2 (architectural punctuation)**
 
