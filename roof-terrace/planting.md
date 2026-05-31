@@ -28,7 +28,7 @@ The terrace planting scheme has been organised to provide **wind defence on the 
 - **Pittosporum tobira full species** reserved for the SE L-shape (M2, 700mm planter); **'Wheeler's Dwarf'** (1m compact cultivar) used in N2/N3 squares
 - **Hot tub east leg (M5):** low planting only (under 300mm) — east view to Downs preserved
 - **Hot tub north leg (M6):** compact uprights only — glass balustrade on parapet
-- **8 olives** distributed: 3 in N1 + 2 in M1 + 2 in M2 + 1 in M3
+- **5 olives** distributed: 2 in N1 + 1 in M1 + 1 in M2 + 1 in M3
 
 ## Plant lists per planter
 
@@ -37,11 +37,11 @@ The terrace planting scheme has been organised to provide **wind defence on the 
 | **M5** | East of hot tub (view preserved) | LOW only: *Sedum* 'Purple Emperor', *Festuca glauca*, *Stachys byzantina*, *Thymus*, *Lavandula* 'Hidcote', *Armeria maritima* |
 | **M6** | North of hot tub (300mm, glass behind) | *Hebe pinguifolia* (compact), *Lavandula* 'Hidcote', *Festuca glauca*, *Sedum* |
 | **M7** | West of hot tub | **Back:** *Olearia × haastii* + *Phormium tenax* 'Purpureum' / **Mid:** *Phlomis fruticosa* / **Front:** *Stachys*, *Lavandula*, *Salvia rosmarinus* |
-| **M2** | SE L-shape (700mm tall) | **Back:** *Pittosporum tobira* (or 'Wheeler's Dwarf', clipped to 1.5m) + 2 olives + *Phormium* 'Purpureum' + 1 *Cynara cardunculus* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine', *Salvia microphylla* 'Hot Lips' / **Front:** *Stachys*, *Erigeron*, *Salvia rosmarinus*, *Festuca* |
+| **M2** | SE L-shape (700mm tall) | **Back:** *Pittosporum tobira* (or 'Wheeler's Dwarf', clipped to 1.5m) + 1 olive + *Phormium* 'Purpureum' + 1 *Cynara cardunculus* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine', *Salvia microphylla* 'Hot Lips' / **Front:** *Stachys*, *Erigeron*, *Salvia rosmarinus*, *Festuca* |
 | **M3** | East of sauna (700mm tall) | 1 olive / *Phlomis fruticosa* / *Stachys*, *Erigeron*, *Lithodora* |
 | **M4** | North of seating (vertical, 700mm tall) | **Back:** *Olearia × haastii* + *Phormium tenax* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine' / **Front:** *Stachys*, *Lavandula*, *Erigeron* |
-| **M1** | Dining L (500mm) | **Back:** *Olearia × haastii* (or *Pittosporum tobira* 'Wheeler's Dwarf') + 2 olives / **Mid:** *Choisya* 'Sundance', *Lavandula angustifolia*, *Salvia nemorosa* 'Caradonna' / **Front:** *Stachys*, *Geranium* 'Rozanne', *Erigeron*, *Nepeta × faassenii* |
-| **N1** | East + North L narrow (500mm) | **Back:** *Olearia × haastii* (spaced along run) + 3 olives + *Phormium tenax* + *Cordyline australis* (NE corner) / **Mid:** *Phlomis*, *Brachyglottis*, *Salvia microphylla* / **Front:** *Stachys*, *Erigeron*, *Lavandula*, *Salvia rosmarinus*, *Festuca* |
+| **M1** | Dining L (500mm) | **Back:** *Olearia × haastii* (or *Pittosporum tobira* 'Wheeler's Dwarf') + 1 olive (central) / **Mid:** *Choisya* 'Sundance', *Lavandula angustifolia*, *Salvia nemorosa* 'Caradonna' / **Front:** *Stachys*, *Geranium* 'Rozanne', *Erigeron*, *Nepeta × faassenii* |
+| **N1** | East + North L narrow (500mm) | **Back:** *Olearia × haastii* (spaced along run) + 2 olives (anchoring east leg) + *Phormium tenax* + *Cordyline australis* (NE corner) / **Mid:** *Phlomis*, *Brachyglottis*, *Salvia microphylla* / **Front:** *Stachys*, *Erigeron*, *Lavandula*, *Salvia rosmarinus*, *Festuca* |
 | **N2** | Mid-east square (1.2 × 1.2m) | *Pittosporum tobira* 'Wheeler's Dwarf' (1m dome) + *Phormium tenax* / *Lavandula* 'Hidcote' underplanting |
 | **N3** | Mid-west square (kitchen-adjacent) | *Pittosporum tobira* 'Wheeler's Dwarf' + *Salvia rosmarinus* + *Thymus vulgaris* + *Origanum vulgare* |
 
@@ -61,7 +61,7 @@ The detailed palette below is the source of plant data (mature size, growth rate
 
 | Image | Plant | Sussex Sq. | Mature H × W | Growth | Biodiversity | Roof terrace fit |
 |---|---|---|---|---|---|---|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Olivesfromjordan.jpg/330px-Olivesfromjordan.jpg" width="150"><br>[Wikipedia →](https://en.wikipedia.org/wiki/Olive) | ***Olea europaea***<br>Olive tree | — (not in this photo set, but established in Sussex Square per Chris's knowledge)<br>📷 [1](https://github.com/chrisnewson/skynet/blob/main/roof-terrace/sussex-square-plants/0C8853AF-16C4-4EBC-85E0-34EE6288C33E.JPG) | Container: 2-3m × 1.5-2m | Slow | Pollen source spring; evergreen cover; long-lived. Not native but historically naturalised in S Britain. | ✅ 8× planned along east-edge run — needs large pot (min 60cm depth) and free-draining grit-loam. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Olivesfromjordan.jpg/330px-Olivesfromjordan.jpg" width="150"><br>[Wikipedia →](https://en.wikipedia.org/wiki/Olive) | ***Olea europaea***<br>Olive tree | — (not in this photo set, but established in Sussex Square per Chris's knowledge)<br>📷 [1](https://github.com/chrisnewson/skynet/blob/main/roof-terrace/sussex-square-plants/0C8853AF-16C4-4EBC-85E0-34EE6288C33E.JPG) | Container: 2-3m × 1.5-2m | Slow | Pollen source spring; evergreen cover; long-lived. Not native but historically naturalised in S Britain. | ✅ 5× planned across the L-shape planters — needs large pot (min 60cm depth) and free-draining grit-loam. |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/CabbageTreeKaihoka.jpg/330px-CabbageTreeKaihoka.jpg" width="150"><br>[Wikipedia →](https://en.wikipedia.org/wiki/Cordyline_australis) | ***Cordyline australis***<br>Cabbage palm / Torbay palm | **×2**<br>📷 [1](https://github.com/chrisnewson/skynet/blob/main/roof-terrace/sussex-square-plants/870DDB09-1368-4B80-9C9B-4D69F30275AA.JPG) [2](https://github.com/chrisnewson/skynet/blob/main/roof-terrace/sussex-square-plants/E06E0FE5-4206-44C3-BB30-FAC5312FCC1D.JPG) | 3-5m × 1.5-2m (dwarf forms 1-2m) | Medium | Cream flower panicles in summer attract bees; berries for birds. | ⚠️ Salt-tolerant but big — pick a dwarf cultivar or accept it'll outgrow a small pot. |
 
 ---
@@ -271,9 +271,9 @@ The terrace planting scheme has been organised to provide **wind defence on the 
 - ***Nepeta × faassenii*** (×6 Sussex Square — most-frequent perennial) — mauve haze; M1
 
 ### 🫒 OLIVE distribution (8 total)
-- **N1 east leg:** 3 olives spaced along the 7.2m run
-- **M1 dining L:** 2 olives flanking the dining table
-- **M2 SE L-shape:** 2 olives in the 700mm tall planter
+- **N1 east leg:** 2 olives spaced along the 7.2m run
+- **M1 dining L:** 1 olive (central)
+- **M2 SE L-shape:** 1 olive paired with the Cynara cardunculus focal in the 700mm tall planter
 - **M3 east of sauna:** 1 olive as focal point
 
 ### 🌶️ FOCAL (architectural punctuation)
