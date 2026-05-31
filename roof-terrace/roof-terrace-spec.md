@@ -280,7 +280,7 @@ A **near-flat roof (3–5° drainage fall to north)** in the same standing-seam 
 **Internal dimensions:** 2.15m (north–south) × 0.9m (east–west)
 **Minimum internal ceiling height:** 2.15m (same as sauna — single internal ceiling height across the whole building)
 
-> **Change from pre-application — note for planning:** The pre-app drawings showed a **sauna + storage** combined building. Storage has been **redistributed across four lower units along the parapet lines** (see Part O), where it sits below the parapet height and is essentially hidden from the streetscene. This freed up the internal volume to accommodate a **wet room (with WC)** as an addition. **The building's external footprint is unchanged from pre-app** — same shape, same setbacks, same height envelope — and the planning officer's preferred form is preserved. The wet room is purely an internal subdivision of space planning already accepted in principle.
+> **Change from pre-application — note for planning:** The pre-app drawings showed a **sauna + storage** combined building. Storage has been **redistributed into two lower outdoor cabinets** (see Part O), which sit below the parapet height and are essentially hidden from the streetscene. This freed up the internal volume to accommodate a **wet room (with WC)** as an addition. **The building's external footprint is unchanged from pre-app** — same shape, same setbacks, same height envelope — and the planning officer's preferred form is preserved. The wet room is purely an internal subdivision of space planning already accepted in principle.
 
 ## Layout
 
@@ -486,9 +486,8 @@ A hot tub holds 700–1,500 litres and is drained periodically (2–3× per year
 
 ## What we need from you on this
 
-- Sign-off on **filled load** (with dynamic allowance) for the heaviest realistic option (~1,500kg) on the terrace deck
-- Steer on whether to design for the lightest option (RotoSpa Orbis ~950kg) or build in headroom for any option on the list
-- Crane access vs hand-carry: the RotoSpas can be carried up by two people; acrylic options likely need a crane
+- Sign-off on **filled load** (with dynamic allowance) for the Fisher 3 — ~1,120kg filled, +~240kg three adults, +~10–15% dynamic
+- Crane access route up to the terrace (Fisher 3 is acrylic — likely needs a crane lift)
 - Best drain route on the terrace — which existing outlet to discharge into, and any tundish / trap detail you'd want
 
 ---
@@ -990,16 +989,18 @@ A single coordinated external lighting scheme — **warm-white 12V LV LED upligh
 
 Six dimmable zones, each on its own Shelly:
 
-| Zone | Area | Fittings | Approx count |
-|---|---|---|---|
-| **1** | South-end pot cluster (5 pots) + pots west of N3 | Small spike uplighters in pot soil, one per pot | ~7 |
-| **2** | Narrow section planters **N1 + N2 + N3** | Spike uplighters in planter beds — wash back-row plants up | ~8 |
-| **3** | Dining area — planter **M1** (L-shape) | Uplighters along the M1 run, washing up olives + back-row shrubs | ~6 |
-| **4** | Lounge SE corner — planter **M2** (L-shape) | Uplighters in M2, picking out the olives, Cynara, Phormium uprights | ~6 |
-| **5** | Sauna east side — planter **M3** + door downlights | Uplighters in M3 (washing up the single olive) + 2× door downlights | 3 + 2 |
-| **6** | Hot tub planters — **M5 (east) + M6 (north) + M7 (west)** | Low-glare uplighters, **angled so they don't dazzle anyone sitting in the tub** | ~6 |
+Restrained counts — picking out specimens, olives and corners rather than blanket flooding. Lightpro / In-lite buses make it trivial to add more later if any zone reads as too dim once planted.
 
-**Total estimated:** ~36 uplighters + 2 downlights.
+| Zone | Area | Fittings | Count |
+|---|---|---|---|
+| **1** | South-end pot cluster (5 pots) + pots west of N3 | 1 on the central olive pot, 1 grazing the wider cluster, 1 on the W-of-N3 group | **3** |
+| **2** | Narrow section planters **N1 + N2 + N3** | 3 along the long N1 east run (one per olive), 1 in N2, 1 in N3 | **5** |
+| **3** | Dining area — planter **M1** (L-shape) | 1 per olive (2) + 1 corner accent | **3** |
+| **4** | Lounge SE corner — planter **M2** (L-shape) | 1 per olive (2), 1 on the Cynara focal, 1 picking out the corner Phormium | **4** |
+| **5** | Sauna east side — planter **M3** + door downlights | 1 uplighter on the M3 olive + 2× door downlights | **1 + 2** |
+| **6** | Hot tub planters — **M5 (east) + M6 (north) + M7 (west)** | 1 per planter, **angled away from the tub seating** so they don't dazzle | **3** |
+
+**Total:** ~19 uplighters + 2 downlights.
 
 ## Fittings — preferred suppliers and types
 
@@ -1024,20 +1025,13 @@ Six dimmable zones, each on its own Shelly:
 - Verify the LV transformer is on the Shelly / Lightpro / In-lite **dimmer compatibility list** before ordering — Lightpro and In-lite both publish these.
 - All Shellys live in the **DIN-rail enclosure** that also houses the sauna heater contactor and the Part C control Shellys, so cabling stays in one place.
 - HA scenes will configure typical evening combinations (e.g. "dining only", "hot tub only", "all on low") and a default dusk-to-23:00 schedule for the planter zones.
-- **Manual override:** a single weatherproof momentary push-button beside the dining doors flips an "all terrace lights" master scene in HA, so the system can be used without a phone.
+- **Manual override:** a single weatherproof momentary push-button **beside the sauna door** (in the same IP55+ switch cluster as the Part A sauna controls) flips an "all terrace lights" master scene in HA, so the system can be used without a phone.
 
 ## Cable strategy
 
 - **12V LV cable** routed under the tile build-up where possible (within the pedestal float zone), in conduit at any penetration through the planter walls.
 - For surface-tracked runs (e.g. behind planters along walls), keep the cable concealed behind the planter back face — there's a 25–50mm air gap to the wall (Part J) that's ideal for cable routing.
 - **All 230V mains** stays inside the building / DB enclosure — only **12V LV** runs out onto the terrace surface.
-
-## Lighting we have deliberately ruled out
-
-- **No parapet uplighters / no light fixed above parapet line** — heritage / conservation, light pollution
-- **No stair hatch lighting** — ambient spill from zones 1 + 2 is enough; the hatch is rarely opened after dark
-- **No outdoor kitchen fixed task lighting** — handled by battery rechargeable lights stored in a kitchen cabinet (powered by socket **6** above)
-- **No hot tub external mood lighting** — most tubs include built-in coloured LEDs; we use those for the tub itself
 
 ## Wifi access point on the sauna/wet room building
 
@@ -1391,9 +1385,8 @@ To complete the biodiversity submission, please confirm or produce:
 
 ## What we'd value your steer on
 
-- Whether the **estimated planter lengths** (above) match the drawings, and whether any segments should be reshaped/sized
-- Confirmation that the **east-edge run** (currently a placeholder, not on drawings) is structurally acceptable from a roof-load standpoint
-- **8 olive trees** in pots — root volume / soil-depth recommendation from a structural / horticultural perspective (current planter depth 600mm; may need oversized 'feature' pots for the olives specifically)
+- Confirmation that the **planter footprints and locations** (Part J inventory + drawings) are structurally acceptable from a roof-load standpoint, particularly the long N1 east-edge run
+- **8 olive trees** — root volume / soil-depth recommendation from a horticultural perspective (current planter depth 600mm; may need locally deeper detail at olive positions)
 - Any plants on the palette you'd flag as **unsuitable for the exposed seafront location** that we should swap out
 - Confirmation of **biodiversity submission route** (SBI vs SSM) and **division of work** per Section E above
 
