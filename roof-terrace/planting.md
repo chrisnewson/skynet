@@ -13,6 +13,50 @@
 
 ---
 
+# 🌬️ Windbreak Planting Plan (locked in 31 May 2026)
+
+The terrace planting scheme has been organised to provide **wind defence on the north and east parapets** (the principal wind directions to defend against), while preserving the **east view to the Downs from the hot tub**. The plan deliberately leans on species already in the Sussex Square palette — no new species added.
+
+**Companion drawing:** scale schematic showing each planter's position and proposed plants.
+
+![Windbreak planting plan](drawings/windbreak-planting-plan-31-5-26.png)
+
+## Design principles
+
+- **Layered planting** in each planter — tall windbreak species at the back (against parapet), mid-tall in the middle, low/trailing at the front
+- **Olearia × haastii** is the primary back-row windbreak (1-1.5m natural compact dome, ×3 in Sussex Square photos — the most-evidenced tall coastal shrub in our palette)
+- **Pittosporum tobira full species** reserved for the SE L-shape (M2, 700mm planter); **'Wheeler's Dwarf'** (1m compact cultivar) used in N2/N3 squares
+- **Hot tub east leg (M5):** low planting only (under 300mm) — east view to Downs preserved
+- **Hot tub north leg (M6):** compact uprights only — glass balustrade on parapet
+- **8 olives** distributed: 3 in N1 + 2 in M1 + 2 in M2 + 1 in M3
+
+## Plant lists per planter
+
+| # | Planter | Plants |
+|---|---|---|
+| **M5** | East of hot tub (view preserved) | LOW only: *Sedum* 'Purple Emperor', *Festuca glauca*, *Stachys byzantina*, *Thymus*, *Lavandula* 'Hidcote', *Armeria maritima* |
+| **M6** | North of hot tub (300mm, glass behind) | *Hebe pinguifolia* (compact), *Lavandula* 'Hidcote', *Festuca glauca*, *Sedum* |
+| **M7** | West of hot tub | **Back:** *Olearia × haastii* + *Phormium tenax* 'Purpureum' / **Mid:** *Phlomis fruticosa* / **Front:** *Stachys*, *Lavandula*, *Salvia rosmarinus* |
+| **M2** | SE L-shape (700mm tall) | **Back:** *Pittosporum tobira* (or 'Wheeler's Dwarf', clipped to 1.5m) + 2 olives + *Phormium* 'Purpureum' + 1 *Cynara cardunculus* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine', *Salvia microphylla* 'Hot Lips' / **Front:** *Stachys*, *Erigeron*, *Salvia rosmarinus*, *Festuca* |
+| **M3** | East of sauna (700mm tall) | 1 olive / *Phlomis fruticosa* / *Stachys*, *Erigeron*, *Lithodora* |
+| **M4** | North of seating (vertical, 700mm tall) | **Back:** *Olearia × haastii* + *Phormium tenax* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine' / **Front:** *Stachys*, *Lavandula*, *Erigeron* |
+| **M1** | Dining L (500mm) | **Back:** *Olearia × haastii* (or *Pittosporum tobira* 'Wheeler's Dwarf') + 2 olives / **Mid:** *Choisya* 'Sundance', *Lavandula angustifolia*, *Salvia nemorosa* 'Caradonna' / **Front:** *Stachys*, *Geranium* 'Rozanne', *Erigeron*, *Nepeta × faassenii* |
+| **N1** | East + North L narrow (500mm) | **Back:** *Olearia × haastii* (spaced along run) + 3 olives + *Phormium tenax* + *Cordyline australis* (NE corner) / **Mid:** *Phlomis*, *Brachyglottis*, *Salvia microphylla* / **Front:** *Stachys*, *Erigeron*, *Lavandula*, *Salvia rosmarinus*, *Festuca* |
+| **N2** | Mid-east square (1.2 × 1.2m) | *Pittosporum tobira* 'Wheeler's Dwarf' (1m dome) + *Phormium tenax* / *Lavandula* 'Hidcote' underplanting |
+| **N3** | Mid-west square (kitchen-adjacent) | *Pittosporum tobira* 'Wheeler's Dwarf' + *Salvia rosmarinus* + *Thymus vulgaris* + *Origanum vulgare* |
+
+### Movable pots
+
+**South-end cluster (5 pots at SE corner of narrow):** 1 large olive (focal) + 4 mixed (*Phormium tenax*, *Lavandula*, *Salvia rosmarinus*, *Cordyline australis* compact). All moveable.
+
+**West of N3:** mixed soft pots — *Lavandula*, *Stachys*, herbs. Softens the kitchen-to-N3 transition.
+
+---
+
+The detailed palette below is the source of plant data (mature size, growth rate, biodiversity benefit, Sussex Square frequency, terrace fit). Species used in the windbreak plan are flagged in the **🌬️ Windbreak Plan species summary** section near the end of this document.
+
+---
+
 ## A. Specimen trees
 
 | Image | Plant | Sussex Sq. | Mature H × W | Growth | Biodiversity | Roof terrace fit |

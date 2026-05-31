@@ -288,24 +288,26 @@ A **near-flat roof (3–5° drainage fall to north)** in the same standing-seam 
 SOUTH                                            NORTH (door)
 
                   TOP/WEST WALL (2.15m)
-        ┌──────────┬──────┬═════════╤═════════┐
-        │          │      ║         │         │
-        │  TOILET  │ SINK ║ ELECTRIC│ BUCKET  │
-        │ on south │ on   ║ SHOWER  │ SHOWER  │
-        │   wall   │ west ║ on west │ on west │ ← DOOR
-        │          │ wall ║ wall    │ wall    │
-        │          │      ║         │         │
-        └──────────┴──────┴═════════╧═════════┘
-                          ↑
-                  ║ Linear drain runs east-west
-                  ║ across the full 0.9m floor width,
-                  ║ positioned 1050mm in from the
-                  ║ north (door) wall
+        ┌──────────────────────┬──────┬═════════════════┐
+        │                      │      ║                 │
+        │                      │ SINK ║   ELECTRIC      │
+        │       TOILET         │ on   ║   SHOWER        │ ← DOOR
+        │    on south wall     │ west ║  on west wall   │
+        │                      │ wall ║                 │
+        │                      │      ║                 │
+        └──────────────────────┴──────┴═════════════════┘
+                                       ↑
+                  ║ Linear drain runs east-west across
+                  ║ the full 0.9m floor width, in the
+                  ║ wet zone (north end of room)
 
         BOTTOM/EAST WALL (clear standing space)
 
-        ←─── DRY ZONE ───→  ←── WET ZONE ──→
-              (~1.1m)             (~1.05m)
+        ←──── DRY ZONE ──────→  ←──── WET ZONE ────→
+                (~1.0m)                   (~1.15m)
+
+  (The previously-planned cold bucket shower has been removed —
+   replaced by an external cold shower on the north exterior wall.)
 ```
 
 The whole floor is one tanked wet zone — no shower trays, no enclosures, no glass screens.
@@ -477,32 +479,26 @@ Filled weight is shell + water, no occupants. Three adults add **~240kg** to the
 
 # PART E — RAILINGS
 
-The narrow section of the roof terrace currently has three sets of railings. We want to simplify and reclad them.
+The narrow section of the roof terrace currently has three sets of railings. We've decided to **keep the railings as they are** — no cladding, no replacement — and simply **re-site them to align with the new finished floor level (FFL)** on the narrow section. A bird-wire system goes on top.
 
 ## Changes
 
-- **Remove:** the centre railing, and the short railing joining the centre railing to the west railing
-- **Keep:** the east railing and the west railing
+- **Re-site the existing railings** to the new FFL on the narrow terrace. Heights to remain as currently constructed, just shifted up so the railing base matches the new raised tile level.
+- **Add bird wire on top** — stainless post-and-wire system running along the top of each railing.
+- **Remove:** the centre railing, and the short railing joining the centre railing to the west railing (these were redundant under the simplified layout).
+- **Keep:** the east railing and the west railing — both re-sited per above.
 
-## Cladding and height
+## Bird wire detail
 
-Both remaining railings to be:
-- Clad in timber on the inboard face up to **1100mm above FFL** (taller than the current railings — meets Approved Doc K guarding height for a roof terrace)
-- Timber: external-grade, e.g. Western Red Cedar or thermally modified ash/pine, to weather greyly without staining
-- Stainless steel fixings throughout
-- Detailing to allow water runoff (slight bottom gap, drainage at base)
-
-## Bird deterrent
-
-- Post and wire system running along the top of both clad railings
-- Stainless steel posts at ~1m centres, 2–3 tensioned wires
-- Posts ~150–200mm above the cladded top, so total visual height ~1300mm
+- Stainless steel posts at ~1m centres along the top of each retained railing
+- 2–3 tensioned 1.2mm 7×19 stainless wires (matching Part F parapet spec for visual continuity)
+- Posts ~150–200mm above the railing top
 
 ## What we'd value your steer on
 
-- **Wind loading** — cladding turns an open railing into a solid wind catch, materially changing the load on the existing posts/fixings. Are the existing railings adequate for this, or do they need reinforcement?
+- **Re-siting detail** — best method for re-siting the existing railings cleanly at the new FFL (fixings into the new build-up, waterproofing at base, junction with new tile level)
 - **Removal of the centre / short railings** — confirm no structural role
-- **Cladding fixing method** — best approach to attach timber to the existing railing structure without compromising weatherproofing
+- **Bird wire mount detail** at the railing tops (compatible with existing railing top profile)
 
 ---
 
@@ -1007,6 +1003,46 @@ The full list with sizes, growth rate, biodiversity notes and images is in **[`p
 - **Coastal specialists:** *Eryngium giganteum* (Miss Willmott's Ghost), *Crambe maritima* (sea kale), *Armeria maritima* (sea thrift), *Glaucium flavum* (yellow horned poppy)
 - **Herbs:** *Foeniculum vulgare*, *Achillea millefolium*, *Origanum vulgare*, *Thymus vulgaris*, *Mentha* sp.
 - **Specimen trees:** **8 × *Olea europaea*** (olives) in the east-edge run
+
+## Windbreak planting plan (locked in 31 May 2026)
+
+The planting has been designed to provide **wind defence on the north and east parapets** (the principal wind directions to defend against) while **preserving the east view to the Downs from the hot tub**. The plan deliberately leans on species already in the Sussex Square palette — no new species added.
+
+**Companion drawing:** [`drawings/windbreak-planting-plan-31-5-26.png`](drawings/windbreak-planting-plan-31-5-26.png) — scale schematic showing each planter and proposed plants.
+
+![Windbreak planting plan schematic](drawings/windbreak-planting-plan-31-5-26.png)
+
+### Design principles
+
+- **Layered planting (back / mid / front)** in each planter — tall windbreak species at the back (against parapet), mid-tall in the middle, low/trailing at the front
+- **Olearia × haastii** is the primary back-row windbreak (1-1.5m natural compact dome, ×3 in Sussex Square photos — the most-evidenced tall coastal shrub in our palette)
+- **Pittosporum tobira full species** reserved for the SE L-shape (M2) where the 700mm planter + tall plant gives a proper tall windbreak; **'Wheeler's Dwarf'** (1m compact cultivar) is the alternative
+- **Hot tub east leg (M5):** low planting only (under 300mm at maturity) — east view to Downs preserved
+- **Hot tub north leg (M6):** compact uprights only — glass balustrade on parapet (no climber surface available)
+- **8 olives** distributed as architectural specimens: **3 in N1** (along 7.2m east leg) + **2 in M1** (dining flanks) + **2 in M2** (SE L-shape) + **1 in M3** (east of sauna)
+
+### Plant lists per planter
+
+| # | Planter | Plants |
+|---|---|---|
+| **M5** | East of hot tub (view preserved) | LOW only: *Sedum* 'Purple Emperor', *Festuca glauca*, *Stachys byzantina*, *Thymus*, *Lavandula* 'Hidcote', *Armeria maritima* (UK coastal native) |
+| **M6** | North of hot tub (300mm, behind glass) | *Hebe pinguifolia* (compact), *Lavandula* 'Hidcote', *Festuca glauca*, *Sedum* |
+| **M7** | West of hot tub | **Back:** *Olearia × haastii* + *Phormium tenax* 'Purpureum' / **Mid:** *Phlomis fruticosa* / **Front:** *Stachys*, *Lavandula*, *Salvia rosmarinus* |
+| **M2** | SE L-shape (700mm tall — strong windbreak) | **Back:** *Pittosporum tobira* (or 'Wheeler's Dwarf', clipped to 1.5m) + 2 olives + *Phormium* 'Purpureum' + 1 *Cynara cardunculus* (silver focal) / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine', *Salvia microphylla* 'Hot Lips' / **Front:** *Stachys*, *Erigeron*, *Salvia rosmarinus*, *Festuca* |
+| **M3** | East of sauna (700mm tall, long edge W-E) | 1 olive / *Phlomis fruticosa* / *Stachys*, *Erigeron*, *Lithodora* |
+| **M4** | North of seating (vertical W-E, 700mm tall) | **Back:** *Olearia × haastii* + *Phormium tenax* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine' / **Front:** *Stachys*, *Lavandula*, *Erigeron* |
+| **M1** | Dining L (500mm) | **Back:** *Olearia × haastii* (or *Pittosporum tobira* 'Wheeler's Dwarf') + 2 olives / **Mid:** *Choisya* 'Sundance' (golden), *Lavandula angustifolia*, *Salvia nemorosa* 'Caradonna' / **Front:** *Stachys*, *Geranium* 'Rozanne', *Erigeron*, *Nepeta × faassenii* |
+| **N1** | East + North L narrow (500mm) | **Back:** *Olearia × haastii* (spaced along run) + 3 olives + *Phormium tenax* + *Cordyline australis* (NE corner) / **Mid:** *Phlomis*, *Brachyglottis*, *Salvia microphylla*, *Olearia × haastii* / **Front:** *Stachys*, *Erigeron*, *Lavandula*, *Salvia rosmarinus*, *Festuca* |
+| **N2** | Mid-east 1.2 × 1.2m square | *Pittosporum tobira* 'Wheeler's Dwarf' (1m compact dome) + *Phormium tenax* / *Lavandula* 'Hidcote' underplanting |
+| **N3** | Mid-west 1.2 × 1.2m square (kitchen-adjacent) | *Pittosporum tobira* 'Wheeler's Dwarf' (1m dome) + *Salvia rosmarinus* + *Thymus vulgaris* + *Origanum vulgare* (sensory herbs by outdoor kitchen) |
+
+### Movable pots (5 at south end of narrow + scatter west of N3)
+
+**South-end cluster (SE corner of narrow):** 1 large olive (focal) + 4 mixed: *Phormium tenax* (architectural), *Lavandula*, *Salvia rosmarinus*, *Cordyline australis* (compact). All moveable for flexibility.
+
+**West of N3:** Mixed soft pots — *Lavandula*, *Stachys*, herbs. Softens the kitchen-to-N3 transition.
+
+For the full plant palette with mature sizes, growth rates, biodiversity benefits, and Sussex Square photo frequency, see [`planting.md`](planting.md) which now opens with this windbreak plan.
 
 ## Biodiversity case
 
