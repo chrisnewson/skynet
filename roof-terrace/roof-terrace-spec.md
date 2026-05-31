@@ -14,13 +14,13 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ## Drawings
 
-**Overall plan** (full terrace, including narrow section / FLOOR AREA 1 with lift bulkhead and stair hatch — latest revision 19 May 2026, with seating layout, hot tub, sauna/wet room building, dining area and updated planter positions):
+**Overall plan** (full terrace, including narrow section / FLOOR AREA 1 with lift bulkhead and stair hatch — latest revision **31 May 2026** with redesigned layout):
 
-![Overall floor plan](drawings/19-05-26%20full%20terrace.jpg)
+![Overall floor plan](drawings/full%20terrrace%20-%2031-5-26.png)
 
-**Main section** (FLOOR AREAS 2, 3, 4 — dining, lounge, sauna / wet room building, hot tub):
+**Main section close-up** (FLOOR AREAS 2, 3, 4 — dining, lounge, sauna / wet room building, hot tub — 31 May 2026 revision):
 
-![Main floor plan](drawings/floorplan-main.png)
+![Main floor plan](drawings/floorplan-main-31-5-26.png)
 
 ## Contents
 
@@ -428,18 +428,33 @@ We're planning to site a hot tub on the terrace alongside the sauna/wet room bui
 
 > **Awaiting structural engineer.** We're waiting on our SE for: (1) whether any of the shortlisted tubs will work with the **current roof make-up** as it stands, (2) calculations on **doubled-up beams** in the NW quadrant (see Part M), and (3) on that basis, whether he would **steer us toward one tub over another** based on what the structure can carry. Final tub choice will follow that advice.
 
-## Shortlist (ranked)
+## Footprint envelope (locked-in 31 May 2026)
+
+**Maximum hot tub envelope: 170cm wide × 210cm long** (W × L on the drawing — the long axis runs north-south on the terrace).
+
+The previously-considered shortlist has been **filtered to this envelope** below; tubs that don't fit are removed. Final tub still TBC pending SE sign-off on load — but the choice will be made from within this envelope only.
+
+## Shortlist (filtered to ≤170 × 210cm envelope)
 
 | # | Model | Origin | Shape | Dimensions | Filled (kg) | kg/m² | Price |
 |---|---|---|---|---|---|---|---|
-| 1 | [RotoSpa Orbis](https://www.rotospa.co.uk/product/the-orbis/) | UK (Sutton Coldfield) | Round | 183cm dia × 74cm | 950 | 361 | £3,995–4,895 |
-| 2 | [RotoSpa QuatroSpa](https://www.rotospa.co.uk/) | UK (Sutton Coldfield) | Round | 200cm dia × 74cm | 1,160 | 369 | £3,415–4,750 |
-| 3 | [Pre-owned Hot Spring Hot Spot](https://www.happyhottubs.co.uk/shop-hot-tubs/pre-owned-off-display-hot-tubs) | USA (California) | Rectangular | up to 213 × 213cm | 1,340 | 406 | £3,000–5,500 |
-| 4 | [Pre-owned Jacuzzi J-200](https://www.hunsburyhottubs.co.uk/hot-tubs/pre-owned/) | Mexico (genuine Jacuzzi) | Round or rectangular | up to 213 × 213cm | 1,240 | 403 | £3,000–5,500 |
-| 5 | [Fisher 3](https://fisherspas.com/) | NZ designed (Vortex) | Rectangular | 207 × 153 × 82cm | 1,121 | 354 | £3,500–5,500 |
-| 6 | [Pre-owned Marquis Spirit](https://www.hunsburyhottubs.co.uk/hot-tubs/pre-owned/) | USA (Oregon) | Rectangular | 213 × 165 × 91cm | 1,280 | 365 | £3,500–5,500 |
-| 7 | [H2O 2000 Series](https://www.h2ohottubs.co.uk/) | UK distributed; Chinese-built | Rectangular | 210 × 180 × 80cm | 1,200 | 317 | £3,000–4,500 |
-| 8 | [Sunbeach SB355L](https://www.penguinspas.com/product-page/sunbeach-sb355l-5-person-plug-play-hot-tub) | UK designed; Chinese-built | Rectangular | 225 × 180 × 80cm | 1,280 | 316 | £4,200–5,700 |
+| 1 | [Fisher 3](https://fisherspas.com/) | NZ designed (Vortex) | Rectangular | 207 × 153 × 82cm | 1,121 | 354 | £3,500–5,500 |
+
+**Marginal — 3cm over envelope on length, otherwise fits:**
+
+| # | Model | Origin | Shape | Dimensions | Filled (kg) | kg/m² | Price |
+|---|---|---|---|---|---|---|---|
+| (M) | [Pre-owned Marquis Spirit](https://www.hunsburyhottubs.co.uk/hot-tubs/pre-owned/) | USA (Oregon) | Rectangular | 213 × 165 × 91cm | 1,280 | 365 | £3,500–5,500 |
+
+**Removed (don't fit 170 × 210cm envelope):**
+- RotoSpa Orbis (183cm dia round — too wide)
+- RotoSpa QuatroSpa (200cm dia round — too wide)
+- Pre-owned Hot Spring Hot Spot (213 × 213cm — too big both dims)
+- Pre-owned Jacuzzi J-200 (213 × 213cm — too big both dims)
+- H2O 2000 Series (210 × 180cm — 10cm over on width)
+- Sunbeach SB355L (225 × 180cm — over on both dims)
+
+**Next:** the shortlist has narrowed to one (or two with the marginal Marquis). Chris to either confirm Fisher 3 as the chosen tub, or research additional rectangular tubs in the 170 × 210cm envelope to broaden the field before deciding.
 
 Filled weight is shell + water, no occupants. Three adults add **~240kg** to the static structural load (full body mass — displacement only reduces the bather's *immersed* weight, not the load on the terrace). Add ~10–15% for dynamic loading on top.
 
@@ -722,7 +737,7 @@ The finished tile level needs to coordinate with:
 
 We want planters built from the **salvaged hardwood decking** removed from the existing terrace. Locations and footprints per the drawings.
 
-**Placeholder addition (not yet on the drawings):** A continuous **east-edge planter run** is to be added along most of the long east parapet of the narrow terrace, continuing into the main terrace east edge **up to but not beyond the south face of the sauna/wet room building**. Combined length ~9-10m. This run will host **8 olive trees** as a major design feature (echoing the established olive planting in Sussex Square / Kemp Town Enclosures) and provides **screening from wind and from the neighbouring building on the east side**, with an understory of dense evergreen shrubs and tall grasses between the olives.
+**Planter layout** is per the 31 May 2026 floorplan revision, which has been redesigned in part to **maximise wind defence** along the north and east parapets. The planting scheme — including the **8 olive trees** echoing the established Sussex Square / Kemp Town Enclosures planting — and the windbreak layering is set out in Part N. See the in-progress "Windbreak planting study" subsection within Part N for zone-by-zone plant choices.
 
 > **For the planting palette, planted-area summary and biodiversity case, see [PART N — PLANTING PALETTE & BIODIVERSITY](#part-n--planting-palette--biodiversity) at the end of this document.**
 
@@ -738,7 +753,8 @@ We want planters built from the **salvaged hardwood decking** removed from the e
 | Location | Total occupied depth (incl. air gap) | Height (above terrace tile FFL) |
 |---|---|---|
 | General planters | 600mm — sized to align exactly with one 600mm tile width | 600mm |
-| Around the hot tub | 500mm | finishes **300mm above the hot tub rim** |
+| **North side of hot tub** (between hot tub and north parapet) | **300mm** (revised 31 May 2026) | finishes **300mm above the hot tub rim** |
+| East / south sides of hot tub | 500mm | finishes **300mm above the hot tub rim** |
 
 The general planters' total footprint (planter + air gap to wall behind) is **600mm**, so the planter occupies exactly the depth of one porcelain tile. The planter box itself is **570mm deep** externally, with a **30mm air gap** to the wall behind for ventilation and inspection access.
 
@@ -1085,18 +1101,16 @@ To complete the biodiversity submission, please confirm or produce:
 
 # PART O — STORAGE UNITS
 
-Four outdoor storage units distributed across the terrace, **all built from salvaged hardwood deck boards** (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves — not chest-style with top-opening lids. Locations marked on the floorplan as dark-grey rectangles labelled "Storage".
+**Revised 31 May 2026 — consolidated from four units to two.** Two longer outdoor storage cabinets — one on the narrow section, one on the main section — **both built from salvaged hardwood deck boards** (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves — not chest-style with top-opening lids.
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
 ## Inventory
 
-| # | Position | Approximate footprint | Status | Notes |
-|---|---|---|---|---|
-| **1** | SW corner of narrow terrace | **1.09m × 1.60m** (labelled on drawing) × **~1.0m high** (raised from 0.9m to give comfortable clearance above the Litter Robot — see below) | Existing | Contains the electrical junction box used as the pickup for socket #4 (Part L). The cupboard's interior must remain accessible for electrical maintenance and IP-compliant. **Houses the cat's Litter Robot 4 or 5 + side shelves + cat flap — see "Litter Robot + cat-flap detail" below.** |
-| **2** | North end of narrow terrace, against the east parapet | ~0.6m × ~1.2m × ~0.9m high *(to be confirmed by Ronan)* | **NEW** (added 19 May 2026) | General terrace storage. Bee bricks integrated into the east-facing external face (see Part N enhancements). |
-| **3** | South wall of main section, SE end (lower-left of main on drawing) | ~0.6m × ~1.6m × ~0.9m high *(TBC)* | Existing on drawing | General storage. |
-| **4** | North wall of main section, mid-way between hot tub and sofa | ~0.6m × ~1.0m × ~0.9m high *(TBC)* | Existing on drawing | Useful for hot-tub-adjacent items (cover, chemicals — child-safe lock recommended if chemicals stored). |
+| # | Position | Footprint | Notes |
+|---|---|---|---|
+| **1 — Narrow section store** | Narrow section (exact position per 31 May drawing — TBC if west parapet run or south wall) | **2.30m wide × 0.85m deep × 1.10m high** | Houses the cat's **Litter Robot 4 or 5** + side shelves for general storage + **cat flap** in front face. Contains the electrical junction box used as pickup for socket #4 (Part L). Bee bricks integrated into one external face (see Part N enhancements). |
+| **2 — Main section store** | SE area of main section (between lounge and east parapet, per 31 May drawing) | **1.80m wide × 1.20m deep × ~1.10m high *(height TBC)*** | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions. Optional **child-safe lock** if hot tub chemicals stored here. |
 
 All dimensions to be confirmed by Bond McCart on the drawings.
 
@@ -1136,9 +1150,9 @@ Because access is via front doors, the roof is a **fixed sloped top** with no op
 
 ### Internal shelves
 
-- **Single fixed mid-height shelf** in each unit by default
 - 18mm marine ply, ~250-300mm deep, full width of unit
-- Storage #1 (with Litter Robot — see below): **no shelf in the LR's bay**; the side bay (~900mm wide × full depth) gets **2-3 stacked shelves at ~250mm spacing**
+- **Narrow section store (with Litter Robot):** **no shelf in the LR's bay** (~800mm wide reserved for LR + drawer access). The remaining ~1.5m of width is divided into 2-3 vertical bays with **2-3 stacked shelves each at ~250-300mm spacing**.
+- **Main section store:** **2-3 vertical bays** of shelving (full-width single shelves, or divided depending on what's stored). Sized to fit the hot tub cover when folded as one option.
 - Stainless ply support cleats screwed to the side walls
 
 ### Base
@@ -1157,17 +1171,17 @@ Because access is via front doors, the roof is a **fixed sloped top** with no op
 - **Lock:** child-safe lock specifically on unit #4 if hot tub chemicals stored there
 - **All exposed fixings:** A4 / 316 stainless. **Internal / hidden bracketry and shelf cleats can be A2 / 304** (cost saving — A2 is fine where it's not exposed to salt aerosol).
 
-## Litter Robot + cat-flap detail (Storage #1 only)
+## Litter Robot + cat-flap detail (Narrow section store only)
 
-Storage #1 houses the cat's **Litter Robot 4 or 5** (self-cleaning litter box) in one bay, with general storage shelves alongside. The cat enters via a front-mounted cat flap to use the litter box; the front doors open for the owner to access for emptying / shelf contents.
+The narrow section store (#1) houses the cat's **Litter Robot 4 or 5** (self-cleaning litter box) in one bay, with general storage shelves alongside. The cat enters via a front-mounted cat flap to use the litter box; the front doors open for the owner to access for emptying / shelf contents.
 
 **Litter Robot fit (LR4 / LR5):**
 
-| | Dimension | Fits in Storage #1 (1.09m × 1.60m × 1.0m) |
+| | Dimension | Fits in Narrow store (2.30m × 0.85m × 1.10m) |
 |---|---|---|
-| LR4 / LR5 width | ~700mm | ✅ — leaves ~900mm width for side shelves |
-| LR4 / LR5 depth | ~610mm + ~150mm front clearance for waste-drawer slide-out = ~760mm | ✅ — fits within 1.09m depth |
-| LR4 / LR5 height | ~749mm | ✅ — 1.0m internal height gives ~250mm clearance above |
+| LR4 / LR5 width | ~700mm | ✅ — leaves ~1.6m width for side shelves and other storage |
+| LR4 / LR5 depth | ~610mm + ~150mm front clearance for waste-drawer slide-out = ~760mm | ⚠️ — 0.85m depth is just enough; **waste-drawer must slide out forward through the door, not sideways** — confirm front-face geometry works |
+| LR4 / LR5 height | ~749mm | ✅ — 1.10m internal height gives ~350mm clearance above |
 
 **Power:** Litter Robot needs 240V mains. Already provided: **socket #4 (Part L)** is inside Storage #1.
 
@@ -1176,7 +1190,7 @@ Storage #1 houses the cat's **Litter Robot 4 or 5** (self-cleaning litter box) i
 **Cat flap:**
 - **Brand:** **SureFlap Microchip Cat Flap** (DualScan or standard, ~£80-120) — best balance of weatherproof construction, long-term reliability, and microchip locking to keep neighbourhood cats out. Well-reviewed on coastal sites.
 - **Size:** standard ~165 × 175mm cutout
-- **Position:** ~150mm above floor, on the vertical front face of Storage #1 in the LR bay (so the cat enters directly onto the LR's access mat)
+- **Position:** ~150mm above floor, on the vertical front face of the narrow section store in the LR bay (so the cat enters directly onto the LR's access mat)
 - **Weatherproofing:** small rain hood / drip edge above the flap
 - **Power:** battery-only (4× AA) — no wiring needed
 - **Internal coordination:** flap position must not conflict with the existing junction box / socket #4. Confirm internal layout with Ronan.
@@ -1192,11 +1206,10 @@ Cushion / fabric storage needs **passive airflow** to prevent damp:
 
 ## What we'd value your steer on
 
-- **Confirmation of the 4 positions** on the drawings and exact footprints
-- Confirmation that **Storage #1 can be raised to 1.0m internal height** to comfortably accommodate the Litter Robot 4/5 (was 0.9m)
-- Whether **unit #4 (north wall of main, near hot tub)** should be specifically sized to hold the **hot tub cover** when removed
+- **Confirmation of the 2 positions** on the drawings and exact footprints (narrow store positioning along which parapet / wall)
+- **Litter Robot waste-drawer clearance** — the 0.85m depth on the narrow store is tight; confirm the LR4/5 waste drawer slides cleanly out through the door without snagging
+- **Main store internal height** — using ~1.10m to match the narrow store, or different?
 - **Hardware finish** — brushed stainless vs powder-coated black (to match the building cladding)
-- **Number of shelves per unit** — single mid-height fixed shelf default; let us know if any unit needs different shelving (e.g. taller items)
 - **Cat-flap brand confirmation** — SureFlap Microchip recommended
 - **Separate cat flap from flat → terrace** — location TBC, for Ronan to detail
 
@@ -1204,15 +1217,38 @@ Cushion / fabric storage needs **passive airflow** to prevent damp:
 
 # PART P — OUTDOOR KITCHEN
 
-A compact outdoor kitchen in the **NW corner of the narrow section** (top-right of narrow on the drawing — against the west parapet, at the north end of the narrow terrace, near where the narrow joins the main). It comprises a **gas-bottle BBQ**, a **cold-water sink**, a **stainless worktop**, and **cabinet storage below**.
+**Revised 31 May 2026 — linear (not L-shape) layout.** An outdoor kitchen on the **narrow section** comprising **5 modules in a single straight run** under a continuous stainless worktop: two storage cabinets on the left, the BBQ in the centre (with vented LPG cabinet below), then fridge and sink cabinets on the right.
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
+## Layout
+
+```
+LEFT (south) →                                                ← RIGHT (north)
+┌──────────┬──────────┬──────────────┬──────────┬──────────┐
+│ STORAGE  │ STORAGE  │     BBQ      │  FRIDGE  │   SINK   │
+│ CAB 1    │ CAB 2    │   (in-built  │   bay    │   cab    │
+│          │          │  + LPG below)│          │          │
+└──────────┴──────────┴──────────────┴──────────┴──────────┘
+       ←—— continuous stainless worktop above all modules ——→
+```
+
 ## Position and footprint
 
-- **NW corner of narrow section**, against the west parapet
-- Total footprint approx. **2.0-2.5m long × 0.7m deep** *(to be confirmed by Ronan)*
-- Height of worktop: standard ~900mm above the new FFL
+- **Narrow section, against the west parapet** (top edge of narrow in drawing) — exact position per 31 May drawing
+- **Linear straight run** (no longer L-shape as previously)
+- Approximate module widths (5 modules total):
+
+| Module (L to R) | Function | Approx width | Notes |
+|---|---|---|---|
+| 1 | Storage cabinet | ~600mm | General BBQ-adjacent storage (utensils, cleaning kit) |
+| 2 | Storage cabinet | ~600mm | General BBQ-adjacent storage |
+| 3 | BBQ + vented LPG cabinet below | ~900mm | Beefeater Signature 3000E (820mm) + cabinet frame; LPG bottle vented below |
+| 4 | Fridge bay (built ready, fridge deferred per Part P "Fridge" section) | ~600mm | 600mm bay sized for outdoor undercounter fridge — see Fridge section below |
+| 5 | Sink cabinet | ~600mm | Caple Zero sink + Caple Robo tap above; waste plumbing below |
+| **TOTAL** | | **~3.3m wide × ~0.7m deep × ~0.9m high (worktop height)** | |
+
+Worktop runs continuously over all five modules — single fabricated stainless top with cut-outs for sink, BBQ and (when fitted) fridge ventilation grille at front.
 
 ## Components
 
@@ -1263,7 +1299,7 @@ Built to match the storage units and planters:
 
 ### Worktop (locked-in spec)
 
-- **Material:** **304 stainless steel, brushed / satin finish** — fabricated to size with cut-outs for sink and BBQ head, ~£200-£400 for a ~1.5m × 0.6m piece
+- **Material:** **304 stainless steel, brushed / satin finish** — fabricated to size with cut-outs for sink, BBQ head and (eventually) fridge ventilation grille. ~£500-£800 for the **3.3m × 0.7m** piece needed for the linear 5-module layout
   - **Brushed finish is essential outdoors** — polished stainless shows every water spot, raindrop and salt-aerosol mark within weeks at a coastal site. Brushed absorbs the marks into the grain direction and stays looking premium.
   - Grain direction to run parallel to the front edge of the worktop (matches the sink's brushed grain)
   - Heat-resistant (BBQ-adjacent), lightweight (good for roof load)
@@ -1278,7 +1314,7 @@ Built to match the storage units and planters:
   - Lockable, digital thermostat (0–10°C), fan-assisted frost-free with auto defrost
   - Dimensions: 555W × 495D × 850H mm — fits a standard 600mm cabinet bay with margin
   - Matches the BBQ brand (Beefeater) — visual continuity in stainless finish
-- **Position:** in a dedicated cabinet bay between the BBQ and the sink (or on the opposite side of the BBQ), worktop running over the top
+- **Position:** in module 4 (between BBQ and sink) per the linear layout above, worktop running continuously over the top
 - **Power:** plugs into a 13A socket inside the cabinet (junction off **Socket #5** in Part L — single feed, switched on at the wall when needed)
 - **Ventilation:** front-vented unit — keep front grille clear and ensure cabinet bay has the recommended manufacturer airgap above and behind
 
@@ -1324,13 +1360,13 @@ Built to match the storage units and planters:
 | BBQ head | Beefeater Signature 3000E 4-burner built-in | £896 |
 | Sink | Caple Zero 1 Bowl 400×450mm brushed stainless | £346 |
 | Tap | Caple Robo brushed stainless monobloc (cold-only) | £190 |
-| Worktop | 304 brushed stainless, 1.5m × 0.6m fabricated | ~£300 |
-| Cabinet | Salvaged hardwood + marine ply inner | ~£300 |
+| Worktop | **304 brushed stainless, 3.3m × 0.7m fabricated (revised 31 May for linear 5-module layout)** | **~£500-£800** |
+| Cabinet | **Salvaged hardwood + marine ply inner (5 modules, ~3.3m run)** | **~£500-£700** |
 | Fridge | Beefeater Single Door Outdoor Tropical 118L | £1,299 |
 | Plumbing / hardware | Pipe fittings, vents, hinges, drain trap, gas bottle, ball valve | ~£200 |
-| **TOTAL** | | **~£3,531** |
+| **TOTAL** | | **~£3,931-£4,431** |
 
-(Original cap was £3,000; Chris approved the £531 overrun on 20 May 2026 to get the proper outdoor-rated Beefeater fridge for longevity in coastal conditions.)
+The linear 5-module layout has pushed total to ~£4,000-4,400 (vs the original £3k cap and the £3,531 of the L-shape design). The increase is primarily the longer worktop and additional cabinet modules.
 
 ## What we'd value your steer on
 
@@ -1338,4 +1374,5 @@ Built to match the storage units and planters:
 - **Gas Safe-compliant LPG cabinet venting** — preferred grille type / sizing for the bottle compartment
 - **Whether to install a second socket** flush with the worktop area, or to keep using socket #5 only
 - **Whether the kitchen unit's base needs to be on stainless feet** like the storage units, or sit directly on the Protectoboard (to be coordinated with the waste pipe routing)
-- **Cabinet layout** — confirm preferred arrangement of BBQ / sink / fridge bays along the 2-2.5m run, and the worktop length implications
+- **Confirmation of 3.3m total kitchen length** — fits within the available west-parapet run on the narrow section
+- **Cabinet layout sequence** — confirm L-to-R reads: Storage / Storage / BBQ / Fridge / Sink (or whether you'd prefer the BBQ at one end with all storage / utility one side)
