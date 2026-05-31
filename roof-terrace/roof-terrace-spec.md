@@ -1570,6 +1570,12 @@ An outdoor kitchen on the **narrow section** comprising **5 modules in a single 
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
+### Artist's impression
+
+![Outdoor kitchen artist's impression](artists-impressions/outdoor-kitchen.png)
+
+> **Indicative only — not the final layout.** The image is intended to convey the **look and feel** we're after: salvaged silver-grey hardwood-clad modules under a continuous brushed stainless worktop, against the yellow London stock brick parapet, on sandstone-toned porcelain tiles. The **exact module order, cabinet widths, BBQ hood profile, fridge model and adjacent planter position** follow the spec below — not the image. The image's role is mood and material, not arrangement.
+
 ## Layout
 
 ```
