@@ -785,18 +785,45 @@ This is the key risk where planters sit against the parapet or building wall. Tw
 
 Result: any water that escapes the planter falls onto the Protectoboard / tile void and drains to the existing roof falls — never into a wall.
 
-## Lining (plant health + planter longevity)
+## Planter shell construction
 
-| Layer (inside-out) | Spec | Purpose |
+| Layer (inside → out) | Spec | Purpose |
 |---|---|---|
-| Topsoil / planting medium | Loam-based, free-draining (mixed with grit / perlite) | Avoid garden topsoil — compacts and waterlogs |
-| Geotextile membrane | Non-woven, root-permeable | Stops fines washing into drainage layer |
-| Drainage layer | 75–100mm expanded clay (LECA) or 10mm gravel | Free drainage, prevents waterlogged roots |
-| Geotextile over drain holes | Non-woven offcuts | Stops drainage layer washing out |
-| Liner | **EPDM rubber** (1.0–1.2mm), continuous, no PVC | Waterproof, root-resistant, food-safe, 30–50 year life |
+| Liner | **EPDM rubber** (1.0–1.2mm), continuous, no PVC | Waterproof, root-resistant, food-safe, 30–50 year life. Keeps soil contained and prevents leaching onto terrace tiles. |
 | Liner support | Timber inner faces lined with breathable membrane between liner and timber | Allows any moisture between liner and timber to escape |
 | Hardwood box | Reused decking, stainless fixings | Structural box |
 | Bearers | Treated softwood or stainless feet, ~25mm | Lifts hardwood off Protectoboard so the base ventilates and doesn't sit in standing water |
+
+## Planter make-up — drainage, soil, mulch — **to be provided and installed by the builders**
+
+The make-up below is included **within the planter construction scope** (not a separate landscaping job after the build). Builders to provide all materials and complete installation as part of the planter package. **Priority is light + inexpensive** — we're on a roof and want to minimise structural load and cost.
+
+| Layer (bottom → top within the planter) | Spec | Purpose / why |
+|---|---|---|
+| **1. Geotextile over drain holes** | Non-woven membrane offcuts | Stops drainage media washing out through the drain holes in the planter base |
+| **2. Drainage layer** (~100–150mm thick) | **50/50 mix of clean recycled polystyrene chunks + 10mm pea gravel** (lightweight + inexpensive). LECA acceptable as alternative if salvaged polystyrene unavailable — but polystyrene is **~80% lighter** than gravel/LECA and effectively free. | Free drainage, prevents waterlogged roots, dramatically reduces planter weight on the roof structure |
+| **3. Geotextile membrane** (root-permeable) | Non-woven, root-permeable | Separates drainage from soil so fines don't migrate down and clog drainage |
+| **4. Lightweight planting medium** (~300–400mm thick) | **Peat-free roof-garden / lightweight planter mix**: ~60% loam-based topsoil + 25% perlite or vermiculite + 15% well-rotted peat-free compost.<br>Pre-blended bagged options acceptable (e.g. Bourne Amenity Topsoil mix, Boughton Loam roof-garden mix, or builder's-merchant lightweight planter mix). | Provides nutrients + drainage + light weight. **Avoid heavy clay topsoil** — it compacts, waterlogs, and is heavy on the structure. |
+| **5. Mulch layer** (~25–50mm) | Composted bark or fine ornamental bark chip on top, around all plants | Retains soil moisture (reduces watering), suppresses weeds, insulates roots in winter, gives a finished look |
+
+### Special note for olive trees (8 in total)
+
+Olives need adequate root volume. In the **600mm-deep planters** (most of them), the available rooting depth after the drainage layer is ~400-450mm — adequate for olives if managed. Where olives sit, **no polystyrene under that specific patch** — use clean 10mm gravel only for ~100mm depth, then the soil mix to ~500mm depth. This gives the olives a deeper root run and bit more weight at the base (stability for taller plants in wind).
+
+### Total weight estimate per m² of planter footprint
+
+- Lightweight make-up (polystyrene + gravel + lightweight soil): **~250–350 kg/m² saturated**
+- Compared to heavy make-up (all gravel + heavy topsoil): ~600–800 kg/m² saturated
+- **Saving:** ~300–400 kg/m² for the SE to take care of (significant on a ~21m² planted area)
+
+### What the builders should include in their planter price
+
+1. EPDM liner + breathable membrane (planter shell construction, above)
+2. All drainage materials (polystyrene chunks, 10mm gravel, geotextile membrane offcuts)
+3. All lightweight planting medium (delivery + installation)
+4. Mulch layer (bark) — first application
+5. Labour for layered installation
+6. Disposal of any excess materials
 
 ## Drainage from planters
 
@@ -1098,13 +1125,16 @@ Photo-realistic visualisations of each planter at maturity. These are AI-generat
 
 ## Biodiversity case
 
-- **Continuity with the protected Kemp Town Enclosures planting** — the palette is drawn from the same Mediterranean / coastal-meadow tradition that already characterises Sussex Square's communal gardens, so the terrace reads as an extension of the registered garden's biodiversity layer rather than an alien intrusion.
-- **Strong pollinator support** — *Nepeta*, *Lavandula*, *Salvia*, *Centranthus ruber*, *Echinacea*, *Verbena bonariensis*, *Eryngium*, *Origanum* are all in the RHS "Plants for Pollinators" list; nectar-rich, long-flowering, supporting solitary bees, bumblebees, hoverflies, butterflies and moths from spring through to late autumn.
-- **Seed and overwintering value** — *Eryngium*, *Echinacea*, *Sedum*, *Allium*, ornamental grasses provide seed heads and winter cover for invertebrates and finches.
-- **Coastal-meadow niche** — *Eryngium giganteum*, *Crambe maritima*, *Armeria maritima*, *Glaucium flavum*, *Centranthus ruber* are coastal natives or naturalised, contributing to the rare seafront-meadow biotope.
-- **Vertical layering** — 8 olive trees + sub-shrub mid-layer + perennial / mat understory gives multi-tier habitat structure within the ~17-21m² of planted area, plus the parasols' fabric provides bird-safe cover when retracted.
+(Reviewed and updated 31 May 2026 against the locked-in windbreak planting plan and the revised planter inventory.)
+
+- **Continuity with the protected Kemp Town Enclosures planting** — the palette is drawn from the same Mediterranean / coastal-meadow tradition that already characterises Sussex Square's communal gardens, so the terrace reads as an extension of the registered garden's biodiversity layer rather than an alien intrusion. **Olearia × haastii (×3 in Sussex Square photos)** is the primary mid-tall windbreak shrub in the locked-in plan — well-evidenced in the local heritage planting.
+- **Strong pollinator support** — *Nepeta × faassenii*, *Lavandula*, *Salvia rosmarinus*, *Salvia microphylla* 'Hot Lips', *Salvia nemorosa* 'Caradonna', *Phlomis fruticosa*, *Brachyglottis* 'Sunshine', *Origanum vulgare*, *Geranium* 'Rozanne', *Erigeron karvinskianus*, *Lithodora diffusa* — all in the RHS "Plants for Pollinators" list, providing nectar from early spring (*Lithodora*, *Lavandula*) through to late autumn (*Salvia microphylla*, *Erigeron*).
+- **Seed and overwintering value** — *Sedum* 'Purple Emperor', *Festuca glauca* tussocks, *Cynara cardunculus* seed heads, *Phormium tenax* flower spikes, *Phlomis fruticosa* whorls all left standing through winter provide seed and invertebrate cover for finches, sparrows and overwintering insects.
+- **Coastal-meadow niche** — ***Armeria maritima*** (UK coastal native, in M5), ***Origanum vulgare*** (UK native, in N3), naturalised *Erigeron karvinskianus*, *Salvia rosmarinus*, *Stachys byzantina*, *Lavandula* — together provide the Mediterranean / coastal-meadow biotope characteristic of the Sussex seafront. The broader palette in `planting.md` also includes *Crambe maritima*, *Glaucium flavum* and *Eryngium giganteum* which can be added as native enhancements if BHCC asks.
+- **Vertical layering** — **8 olive trees** distributed across 4 planters (3 in N1, 2 in M1, 2 in M2, 1 in M3) + sub-shrub mid-layer (*Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*, *Cordyline australis*) + perennial / mat understory + drought-tolerant low planting at hot tub — gives multi-tier habitat structure within the locked **~21.0 m² of planted area** (~14-18% of the terrace footprint). The parasols' fabric provides bird-safe cover when retracted.
+- **Specific UK native species in the locked-in plan:** *Armeria maritima* (M5), *Origanum vulgare* (N3). **Long-naturalised in S England:** *Erigeron karvinskianus* (multiple planters), *Stachys byzantina* (multiple), *Salvia rosmarinus* (multiple), *Lavandula angustifolia* (multiple). Wider palette has additional UK natives available for substitution if planning officer asks for more native content (see `planting.md`).
 - **No invasive species** — the list deliberately excludes anything on Schedule 9 of the WCA 1981 (e.g. no *Cotoneaster horizontalis*, no *Crocosmia* × *crocosmiiflora*, no *Buddleja davidii* as a primary feature).
-- **EPDM-lined hardwood planters** sized for adequate root volume + grit-amended free-draining loam = healthy long-term planting, not a one-season display.
+- **EPDM-lined hardwood planters** with lightweight peat-free roof-garden soil mix + bark mulch (see Part J planter make-up) = healthy long-term planting at minimal structural load, not a one-season display.
 
 ## Biodiversity submission — package for Bond McCart
 
@@ -1124,24 +1154,30 @@ This subsection sets out **what we've prepared for you**, **what physical featur
 
 **Pre-development baseline:** The existing roof terrace is an **asphalted flat roof with no vegetation**. Under the Statutory Biodiversity Metric this classifies as **"Developed land; sealed surface"** — the lowest distinctiveness band (zero biodiversity units). The proposed scheme therefore starts from zero, and any planting represents net biodiversity gain — the 10% BNG threshold is comfortably exceeded by definition.
 
-**Post-development baseline:** Approximately **17-21m² of planted area** (~14-18% of the terrace footprint) plus **8 olive trees** as point specimens, plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs", "Native species-rich elements" and "Mixed scrub" within container planters.
+**Post-development baseline:** Locked-in **~21.0 m² of planted area** (~14-18% of the terrace footprint, per Part J inventory and Part N "Planted area" subsection) plus **8 olive trees** distributed as point specimens (3 in N1, 2 in M1, 2 in M2, 1 in M3), plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs" (primarily *Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*), "Native species-rich elements" (*Armeria maritima*, *Origanum vulgare*), naturalised wildflowers (*Erigeron*, *Stachys*, *Lavandula*) and "Mixed scrub" texture within hardwood-clad container planters.
 
-**Native species and naturalised species in the palette** (UK natives or long-naturalised wildflowers — relevant for BNG quality scoring and the Local Wildlife Recording case):
+**Native species in the locked-in windbreak plan + wider palette available for substitution:**
 
-| Species | Status |
-|---|---|
-| *Achillea millefolium* — yarrow | UK native |
-| *Aquilegia vulgaris* — granny's bonnets | UK native |
-| *Armeria maritima* — sea thrift | UK coastal native |
-| *Buxus sempervirens* — common box | UK native (debated, native populations in S England) |
-| *Crambe maritima* — sea kale | UK coastal native (Sussex shingle-shore native) |
-| *Glaucium flavum* — yellow horned poppy | UK coastal native |
-| *Origanum vulgare* — wild marjoram | UK native |
-| *Taxus baccata* — yew | UK native |
-| *Centranthus ruber* — red valerian | Long-naturalised (Brighton seafront signature) |
-| *Erigeron karvinskianus* — Mexican fleabane | Long-naturalised in S England |
+| Species | Status | In locked-in windbreak plan? |
+|---|---|---|
+| *Armeria maritima* — sea thrift | UK coastal native | **YES** — M5 (east of hot tub, low planting) |
+| *Origanum vulgare* — wild marjoram | UK native | **YES** — N3 (kitchen-adjacent sensory herbs) |
+| *Erigeron karvinskianus* — Mexican fleabane | Long-naturalised in S England | **YES** — multiple planters (M1, M2, M3, M4, N1) |
+| *Stachys byzantina* — lamb's ears | Long-naturalised | **YES** — multiple planters (front-row spill) |
+| *Lavandula angustifolia* / 'Hidcote' | Long-grown in UK, naturalised on coast | **YES** — multiple planters |
+| *Salvia rosmarinus* — rosemary | Mediterranean, long-grown in UK | **YES** — multiple planters + N3 kitchen herbs |
+| *Achillea millefolium* — yarrow | UK native | Available — wider palette in `planting.md`, not in current windbreak plan |
+| *Aquilegia vulgaris* — granny's bonnets | UK native | Available — wider palette |
+| *Buxus sempervirens* — common box | UK native (debated, native populations in S England) | Available — wider palette |
+| *Crambe maritima* — sea kale | UK coastal native (Sussex shingle-shore native) | Available — wider palette |
+| *Glaucium flavum* — yellow horned poppy | UK coastal native | Available — wider palette |
+| *Taxus baccata* — yew | UK native | Available — wider palette |
+| *Centranthus ruber* — red valerian | Long-naturalised (Brighton seafront signature) | Available — wider palette |
+| *Eryngium giganteum* — Miss Willmott's Ghost | Naturalised; RHS Pollinators top performer | Available — wider palette |
 
-Approximately **~12-15% native or long-naturalised species** in the palette. Note that for BNG purposes the *condition* and *structural diversity* of habitat matter more than nativeness alone in ornamental contexts — but the native proportion supports the local-distinctiveness case.
+**Locked-in plan: 6 species are UK native or long-naturalised** (Armeria, Origanum, Erigeron, Stachys, Lavandula, Salvia rosmarinus). That's roughly **20-25%** of the species count in the windbreak plan.
+
+If BHCC asks for higher native proportion at validation, the **wider palette in `planting.md`** has 7 more UK natives available for substitution into the front/mid layers without compromising the windbreak structural function. For BNG purposes the *condition* and *structural diversity* of habitat matter more than nativeness alone in ornamental contexts — but the native proportion comfortably supports the local-distinctiveness case.
 
 ### B. Physical biodiversity enhancements — to incorporate in your drawings
 
@@ -1151,9 +1187,9 @@ The pre-app didn't ask for these, but they materially strengthen the BNG metric,
 |---|---|---|---|
 | **Sparrow terrace box** | Triple-cavity timber box (e.g. Schwegler 1SP) | East-facing wall of sauna/wet room, ~2m above terrace level | House sparrow is RSPB Red List; group-nesting species. Discreet against anthracite cladding. |
 | **Bat box** | External wedge box (e.g. Schwegler 1FF or 2F) | North wall of sauna/wet room (cooler, sheltered side), ~2.5m above terrace | Common pipistrelle and soprano pipistrelle both forage along Brighton seafront. |
-| **Bee bricks / solitary bee hotels** | 2× brick-format units (e.g. Green&Blue 'Bee Brick') OR a dedicated bee hotel | **East-facing exterior of storage #2** (north end of narrow terrace, against the east parapet) — well away from all seating / dining zones, faces morning sun (preferred by solitary bees), and faces toward Sussex Row | Solitary bees: red mason, leafcutter, harebell carpenter. These are *non-aggressive* (females rarely sting; no hive to defend) — but positioned away from people for peace of mind. |
-| **Insect / invertebrate habitat — log pile** | A small stack of untreated hardwood offcuts from the planter build (~30 × 30 × 30cm) | In one corner of the east-edge planter (below olive level, hidden by understory) | Beetles, woodlice, ground-dwelling invertebrates. Costs nothing — uses leftover hardwood. |
-| **Shallow water dish** | Ceramic / shallow bowl, ~30cm dia × 5cm deep, with stones inside as bee landing platforms | **North-parapet planter in main section, beyond the hot tub** — well away from dining and sofa zones | Drinking water for bees, butterflies, and small birds; relocated away from social areas because water dishes draw wasps as well as bees. |
+| **Bee bricks / solitary bee hotels** | 2× brick-format units (e.g. Green&Blue 'Bee Brick') OR a dedicated bee hotel | **East-facing exterior of the main store** (NE corner of main, 1.8 × 1.2m unit) — well away from all seating / dining zones, faces morning sun (preferred by solitary bees), faces toward Bristol Gardens / public realm | Solitary bees: red mason, leafcutter, harebell carpenter. These are *non-aggressive* (females rarely sting; no hive to defend) — but positioned away from people for peace of mind. |
+| **Insect / invertebrate habitat — log pile** | A small stack of untreated hardwood offcuts from the planter build (~30 × 30 × 30cm) | Tucked into one corner of the **N1 east-edge planter** (the 7.2m run on narrow terrace), below olive level, hidden by understory planting | Beetles, woodlice, ground-dwelling invertebrates. Costs nothing — uses leftover hardwood from the planter / storage build. |
+| **Shallow water dish** | Ceramic / shallow bowl, ~30cm dia × 5cm deep, with stones inside as bee landing platforms | **M4 planter** (north of seating, 2.7m vertical strip on the main section's east side) — well away from dining (FA2) and the sofa zone | Drinking water for bees, butterflies, and small birds; positioned away from social areas because water dishes draw wasps as well as bees. |
 | **Bird-safe parapet deterrent** | (Already in Part F — 3-wire stainless system replacing existing spikes) | All parapet tops | Excludes gulls/pigeons without injury; doesn't preclude smaller bird use of planters. |
 
 Total likely cost across all features: **~£200-£500**. Total integration impact on the build: very low — most are surface-fixed after the building is complete.
