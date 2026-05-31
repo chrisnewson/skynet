@@ -783,7 +783,9 @@ The existing decking boards have decking bolts with large through-holes every 80
 1. **Cut and discard hole sections** — cut boards into clean **700–900mm sections** between bolt holes (loses ~10-15% of total board length as waste — acceptable)
 2. **Staggered courses** — cladding installed in **running-bond / random stagger pattern** — joints between adjacent courses must NEVER line up vertically (read as patchwork). Random length variation within 700-900mm range looks intentional and crafted.
 3. **Use holed scraps for hidden uses** — battens, internal frame fillers, sacrificial bearers — anywhere not visible
-4. **Hardwood oil finish** (Osmo, Owatrol D1 Pro, ~£25/L covering ~10m² per coat) — applied to all visible cladding + cap. Re-oiled annually. Unifies colour, blends old + new sections.
+4. **Finish — none** (zero ongoing maintenance). Salvaged hardwood + Brighton pier decking are both naturally durable species that weather to silver-grey over 1-2 years bare. This is exactly the look shown in the reference image above, and matches the Brighton seafront / Sussex Square heritage aesthetic. **No oil, no varnish, no annual retreatment.**
+   - **Exception — the Brighton pier cap (sit-ledge):** one-time light hand-sand and slight edge-bevel at install only, to remove any splinter risk where people sit. No coating required. Optional: single coat of penetrating decking saturator on cap edges only (~£25 once, never reapplied) as belt-and-braces against splintering.
+   - Avoid oils / varnishes / paints — they need annual reapplication and look worse than bare wood if missed. The whole project is designed for low maintenance.
 
 **Important: brief the builder that joint alignment between courses is a quality requirement** — if courses line up vertically, the result looks accidental, not intentional.
 
