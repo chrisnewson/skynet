@@ -1044,6 +1044,58 @@ The planting has been designed to provide **wind defence on the north and east p
 
 For the full plant palette with mature sizes, growth rates, biodiversity benefits, and Sussex Square photo frequency, see [`planting.md`](planting.md) which now opens with this windbreak plan.
 
+### Artist's impressions (mid-summer afternoon, ~3 years post-planting)
+
+Photo-realistic visualisations of each planter at maturity. These are AI-generated artist's impressions intended to give a sense of the final mood and planting density — not exact botanical references.
+
+**M1 — Dining L (olives + lavender + Choisya 'Sundance' + perennial mix):**
+
+![M1 dining L planter](artists-impressions/m1.png)
+
+**M2 — SE L-shape (Pittosporum + olives + Phormium + Cynara cardunculus + mixed mid/front):**
+
+![M2 SE L-shape](artists-impressions/m2.png)
+
+**M3 — East of sauna (single olive + Phlomis + Stachys + Erigeron + Lithodora):**
+
+![M3 east of sauna](artists-impressions/m3.png)
+
+**M4 — North of seating (Olearia × haastii row + Phormium + Phlomis + Brachyglottis + front mix):**
+
+![M4 north of seating](artists-impressions/m4.png)
+
+**M5 — East of hot tub (LOW only — view to Downs preserved):**
+
+![M5 east of hot tub](artists-impressions/m5.png)
+
+**M6 — North of hot tub (300mm planter, glass balustrade behind, compact uprights):**
+
+![M6 north of hot tub](artists-impressions/m6.png)
+
+**M7 — West of hot tub (Olearia + Phormium + Phlomis + front mix):**
+
+![M7 west of hot tub](artists-impressions/m7.png)
+
+**N1 — East + North L narrow (3 olives spaced + Olearia + Phormium + Cordyline at NE corner):**
+
+![N1 east + north L narrow](artists-impressions/n1.png)
+
+**N2 — Mid-east square (Pittosporum 'Wheeler's Dwarf' dome + Phormium + Lavandula 'Hidcote'):**
+
+![N2 mid-east square](artists-impressions/n2.png)
+
+**N3 — Mid-west square (Pittosporum 'Wheeler's Dwarf' + sensory herbs: rosemary, thyme, oregano):**
+
+![N3 mid-west square](artists-impressions/n3.png)
+
+**South-end pots (cluster of 5: 1 olive + 4 mixed at SE corner of narrow):**
+
+![South-end pots](artists-impressions/south-end-pots.png)
+
+**Pots west of N3 (kitchen-adjacent softening):**
+
+![Pots west of N3](artists-impressions/pots-west-of-n3.png)
+
 ## Biodiversity case
 
 - **Continuity with the protected Kemp Town Enclosures planting** — the palette is drawn from the same Mediterranean / coastal-meadow tradition that already characterises Sussex Square's communal gardens, so the terrace reads as an extension of the registered garden's biodiversity layer rather than an alien intrusion.
