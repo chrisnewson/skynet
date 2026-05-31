@@ -737,7 +737,7 @@ The finished tile level needs to coordinate with:
 
 We want planters built from the **salvaged hardwood decking** removed from the existing terrace. Locations and footprints per the drawings.
 
-**Planter layout** is per the 31 May 2026 floorplan revision, which has been redesigned in part to **maximise wind defence** along the north and east parapets. The planting scheme — including the **8 olive trees** echoing the established Sussex Square / Kemp Town Enclosures planting — and the windbreak layering is set out in Part N. See the in-progress "Windbreak planting study" subsection within Part N for zone-by-zone plant choices.
+**Planter layout** is per the 31 May 2026 floorplan revision, which has been redesigned in part to **maximise wind defence** along the north and east parapets. Detailed inventory of each planter's dimensions and heights is in the "Sizes" subsection immediately below. The planting scheme — including the **8 olive trees** echoing the established Sussex Square / Kemp Town Enclosures planting — and the windbreak layering is set out in Part N. See the in-progress "Windbreak planting study" subsection within Part N for zone-by-zone plant choices.
 
 > **For the planting palette, planted-area summary and biodiversity case, see [PART N — PLANTING PALETTE & BIODIVERSITY](#part-n--planting-palette--biodiversity) at the end of this document.**
 
@@ -748,17 +748,37 @@ We want planters built from the **salvaged hardwood decking** removed from the e
 - Planters are **freestanding boxes** — they do not rely on the parapet or any other wall for structural or weatherproofing function
 - Built with stainless steel fixings throughout
 
-## Sizes (outside measurements)
+## Sizes — planter inventory (locked in 31 May 2026)
 
-| Location | Total occupied depth (incl. air gap) | Height (above terrace tile FFL) |
+> **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
+
+**General depth convention:** Most planters are **600mm total footprint** (570mm planter box + 30mm air gap to the wall behind), which aligns exactly with one 600mm porcelain tile width. Heights are stated as visible above the relevant tile FFL — the planter is constructed taller below the tile finish (depth of the tile/pedestal build-up, typically 60–150mm).
+
+### Narrow section
+
+| # | Planter | Footprint | Height (above terrace tile FFL) | Notes |
+|---|---|---|---|---|
+| **N1** | **L-shaped planter** along east + north parapets of narrow | **7.2m long leg (along east parapet) + 1.8m short leg (along north parapet)** × 600mm deep | **500mm** | Wraps the NE corner of narrow. The corner is mitred / continuous. |
+| **N2** | Square planter — east side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | **Built as a single integrated construction with N1** — they share a wall where they meet on the east parapet side |
+| **N3** | Square planter — west side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | Adjoins the outdoor kitchen (Part P) on its north face — kitchen and planter meet but are independent constructions |
+
+### Main section
+
+| # | Planter | Footprint | Height | Notes |
+|---|---|---|---|---|
+| **M1** | **L-shaped planter** in the dining area (FA2) | **5m + 1.8m legs** × 600mm deep | **500mm** above terrace tile FFL | Frames the dining area |
+| **M2** | **L-shaped planter** in SE of main | **4m + 3m legs** × 600mm deep | **700mm** above **FA3 FFL** | West end aligns with the end of the raised floor in FA2 (the planter cuts into the stair line between FA2 and FA3). The taller 700mm height gives more substantial windbreak for the lounge area. |
+| **M3** | Rectangular planter east of sauna | **600mm × 1200mm** (600mm deep × 1.2m long) | **700mm** above **FA3 FFL** | South edge aligns with the north end of FA2's raised floor — **no step needed at the north end** (the planter face IS the rise). |
+| **M4** | Planter north of the seating area | **3m long × 600mm deep** | **700mm** above terrace FFL | Substantial windbreak height for the lounge zone |
+| **M5–M7** | **Hot tub U-shape** — east + north + west of hot tub | **East leg:** 2m long × 600mm deep<br>**North leg:** 2.1m long (= hot tub length) × **300mm** deep<br>**West leg:** 2m long × 600mm deep | All three finish **150mm above hot tub rim height** | **Built as a single continuous U-shape construction** wrapping three sides of the hot tub. The +150mm above tub rim gives substantial wind defence around the tub (where wind = heat loss). North side is narrower (300mm) reflecting the tighter space between tub and north parapet. |
+
+### Heights summary
+
+| Height | Where | Why |
 |---|---|---|
-| General planters | 600mm — sized to align exactly with one 600mm tile width | 600mm |
-| **North side of hot tub** (between hot tub and north parapet) | **300mm** (revised 31 May 2026) | finishes **300mm above the hot tub rim** |
-| East / south sides of hot tub | 500mm | finishes **300mm above the hot tub rim** |
-
-The general planters' total footprint (planter + air gap to wall behind) is **600mm**, so the planter occupies exactly the depth of one porcelain tile. The planter box itself is **570mm deep** externally, with a **30mm air gap** to the wall behind for ventilation and inspection access.
-
-Because the planter base sits at Protectoboard level (below the tile FFL by the depth of the tile/pedestal build-up — typically 60–150mm), each planter is constructed taller than its visible height by that amount.
+| **500mm** above FFL | Narrow section L-shape (N1), narrow squares (N2, N3), dining L (M1) | Standard planter height — frames the use zones without dominating |
+| **700mm** above FA3 FFL or terrace FFL | SE L (M2), east-of-sauna (M3), north-of-seating (M4) | Substantial windbreak height for the lounge / FA3 zone; also doubles as a fall-protection edge where M2 sits next to the raised FA2 stair drop |
+| **+150mm above hot tub rim** | Hot tub U (M5–M7) | Maximum sensible wind defence for the hot tub without dominating the view from the lounge |
 
 ## Preventing leaching into walls behind
 
@@ -947,29 +967,29 @@ This section sets out the **approximate planted area**, the **planting palette**
 
 **Companion working document:** the full plant list — with thumbnail images, mature dimensions (H × W), growth rate, biodiversity benefit and Sussex Square frequency for ~60 species — lives in **[`planting.md`](planting.md)** alongside this spec. (Open in a browser; thumbnails are pulled live from Wikimedia Commons.)
 
-## Approximate planted area (to be confirmed from final drawings)
+## Planted area (locked in 31 May 2026)
 
-These are working estimates based on the planter runs currently planned. Ronan/architect to confirm exact lengths once positions are fixed.
+Calculated from the locked-in planter inventory in Part J (see Part J "Sizes" subsection for each planter's dimensions, height and position).
 
-Estimates revised against the 19 May 2026 floorplan revision (which adds storage #2 at NE end of narrow and the outdoor kitchen at NW corner of narrow — Parts O and P — both of which reduce the planter run on the narrow section's long parapets).
-
-| Planter | Approx. length | Approx. width | Approx. area |
+| # | Planter | Footprint | Area |
 |---|---|---|---|
 | **NARROW SECTION** | | | |
-| East-parapet run (interrupted by storage #2 at NE end) | ~5-6m | 600mm | **~3.0-3.6m²** |
-| West-parapet run (between storage #1 at SW corner and outdoor kitchen at NW corner) | ~3-4m | 600mm | **~1.8-2.4m²** |
-| Internal divider planters, narrow (around the central seating zone) | various | various | **~1.5-2.5m²** |
+| N1 | L-shape east + north parapets (7.2m + 1.8m legs × 600mm; less corner overlap) | | **5.04 m²** |
+| N2 | Square, east side mid-narrow (1.2 × 1.2m, built integral with N1) | | **1.44 m²** |
+| N3 | Square, west side mid-narrow adjoining kitchen (1.2 × 1.2m) | | **1.44 m²** |
+| | Narrow subtotal | | **~7.92 m²** |
 | **MAIN SECTION** | | | |
-| West-parapet run, main (dining backdrop) | ~3-4m | 600mm | **~1.8-2.4m²** |
-| North-parapet run, main (between hot tub and sofa, around storage #4) | ~3-4m | 600mm | **~1.8-2.4m²** |
-| East-parapet run, main (along FLOOR AREA 3 / lounge side) | ~4-5m | 600mm | **~2.4-3.0m²** |
-| South-wall run, main (around storage #3) | ~3-4m | 600mm | **~1.8-2.4m²** |
-| Hot tub surround (3 sides, 500mm setback for fall protection) | ~5-6m | 500mm | **~2.5-3.0m²** |
-| **Total planted area (working estimate, 19 May 2026 drawing)** | | | **~17-22m²** |
+| M1 | L-shape in dining (FA2) (5m + 1.8m × 600mm; less corner overlap) | | **3.72 m²** |
+| M2 | L-shape SE main (4m + 3m × 600mm; less corner overlap) | | **3.84 m²** |
+| M3 | East of sauna (1.2m × 600mm) | | **0.72 m²** |
+| M4 | North of seating (3m × 600mm) | | **1.80 m²** |
+| M5-M7 | Hot tub U-shape (east 2m × 600mm + north 2.1m × 300mm + west 2m × 600mm) | | **3.03 m²** |
+| | Main subtotal | | **~13.11 m²** |
+| **TOTAL planted area** | | | **~21.0 m²** |
 
-That's **~14-18% of the total terrace footprint** given over to soft landscape, with the planter runs forming a near-continuous green perimeter around the usable hard-landscaped zones. The new outdoor kitchen and storage units (Parts O, P) reduce some parapet planter lengths but add internal divider planting around the narrow-section seating zone, so the overall planted area is unchanged within the estimate's uncertainty band.
+That's **~17-18% of the total terrace footprint** given over to soft landscape, with the planter runs forming a near-continuous green perimeter around the usable hard-landscaped zones.
 
-In addition: **8 olive trees** as point specimens within the east-edge run (a substantial vertical planting layer, not captured in the area figure above).
+In addition: **8 olive trees** as point specimens within the east-edge run / L-shape planters (a substantial vertical planting layer, not captured in the area figure above).
 
 ## Planting palette — Sussex Square / Kemp Town vernacular
 
