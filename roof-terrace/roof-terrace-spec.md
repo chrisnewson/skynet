@@ -755,7 +755,7 @@ Original spec used a marine ply structural box (carrying over from the storage-u
 
 | Layer (outside → inside) | Spec | Cost / source |
 |---|---|---|
-| **Cap board (top sit-ledge)** | **Salvaged Brighton pier decking, 100×50mm** — 2 boards side by side (200mm total seat width) screwed to top frame rails with stainless A4/316 screws (plug-cut or face-fixed) | **Free** (Chris's salvage stock — iconic Brighton wood, adds heritage character) |
+| **Cap board (top sit-ledge)** | **Salvaged Brighton pier decking, 100×50mm — 1 board wide** running along the top of each planter, screwed to top frame rails with stainless A4/316 screws (plug-cut or face-fixed). Aligned with the planter's outer face; can overhang inward over the soil by 10-15mm to give a clean rim. | **Free** (Chris's salvage stock — iconic Brighton wood, adds heritage character) |
 | **Cladding** | **Salvaged hardwood deck boards, cut to 700–900mm random staggered lengths**, joints between courses MUST NOT line up (running-bond / random stagger only). Boards screwed into frame uprights through stainless A4/316 fixings. | **Free** (salvage) — see "Salvaged hardwood — handling the existing bolt holes" subsection below |
 | **Breathable membrane** | Inside face of cladding before EPDM | ~£5-10/planter |
 | **EPDM liner** | 1.0–1.2mm continuous, dressed up all four sides + 50mm onto top edge (trapped under the cap board) | ~£20-40/planter depending on size |
@@ -772,9 +772,10 @@ Original spec used a marine ply structural box (carrying over from the storage-u
 
 **Why the cap is special:**
 - Brighton pier wood is **iconic and salvageable** — same wood that's been carrying the seaside crowds for over a century
-- 50mm thick × 100mm wide × 2 boards = **substantial 200mm × 50mm capping** that supports casual sitting
-- Visually anchors the planter — gives a "bench-like" architectural finish
+- 50mm thick × 100mm wide = a substantial single board capping the planter
+- Visually anchors the planter — gives a clean architectural finish
 - Caps the EPDM rim cleanly (no exposed liner edge)
+- Width is OK for **casual perching / leaning** (not full seating depth, but enough to sit on while gardening or for a quick break)
 
 ## Salvaged hardwood — handling the existing bolt holes
 
