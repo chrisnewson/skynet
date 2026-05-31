@@ -197,9 +197,9 @@ The terrace planting scheme has been organised to provide **wind defence on the 
 ## Plants used per role
 
 ### 🌳 BACK row (tall windbreak — 1m+ above rim)
-- ***Pittosporum tobira*** (full species, ×2 Sussex Square photos) — primary evergreen mass; used in M2, M4, M7, N1, N2 (clipped)
+- ***Pittosporum tobira*** (full species, ×2 Sussex Square photos) — primary evergreen mass; used in **M1 (clipped, dining flanks)**, M2, M4, M7, N1, N2 (clipped), **N3 (clipped, kitchen-adjacent windbreak)**
 - ***Cordyline australis*** (×2 Sussex Square) — vertical accent + filter; used at NE corner of N1
-- ***Phormium tenax*** 'Purpureum' (×2 Sussex Square) — bronze sword leaves; M2, M4, M7, N1
+- ***Phormium tenax*** 'Purpureum' (×2 Sussex Square) — bronze sword leaves; M2, M4, M7, N1, **N2 (architectural punctuation)**
 
 ### 🌿 MID layer (0.5-1m)
 - ***Phlomis fruticosa*** (×1 Sussex Square) — woolly grey; M2, M3, M4, M7
