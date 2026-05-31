@@ -668,7 +668,21 @@ The key question: **does the glass channel sit on top of the parapet wall, or is
 
 # PART I — TERRACE TILING SYSTEM
 
-**Note on area:** Final tiled area to be **calculated to exclude the planter footprints** (see PART J) — planters sit on the Protectoboard at asphalt level, with the tile field butting up to their outer faces, so the planter footprints are not tiled. Builder to remeasure once planter positions are finalised on the drawings.
+**Estimated tiled area: ~82m²** (down from ~120m² gross terrace footprint, once all non-tiled elements are subtracted).
+
+| Subtraction | Approx m² |
+|---|---|
+| Sauna/wet room building external footprint (~2.87 × 2.55m) | ~7.3 |
+| Hot tub (Fisher 3 — 2.07 × 1.53m) | ~3.2 |
+| All planters (Part J inventory total) | ~21.0 |
+| Outdoor kitchen run (~3.3 × 0.7m) | ~2.3 |
+| 2× storage units (1.96 + 2.16m²) | ~4.1 |
+| **Total subtracted** | **~37.9** |
+| **Net tiled area (gross 120m² − subtractions)** | **~82m²** |
+
+Movable pots are not subtracted — they sit on the tile finish. Parasol bases are recessed cassettes with tile running over the top (Part G), so not subtracted.
+
+> **Note for the surveyor:** these figures are derived from the Part J planter inventory and Part D/O/P footprints in this spec. **Please remeasure precisely against the latest drawings before contractors price the tile order** — small footprint changes (e.g. final hot tub model, kitchen module widths, planter realignments) shift the figure by several m². A 10–15% overage is to be ordered on top of the verified net area and stored in the client's garage at Sussex Square for future repairs.
 
 ## Surface material
 
