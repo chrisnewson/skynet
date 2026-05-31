@@ -50,7 +50,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 > **Binding constraints from pre-application (PRE2025/00255):**
 > - **Setback ≥ 3m from north parapet edge** — conceded in revised submission to planning (was originally 600mm; revised to match heritage officer's 3-4m ask)
-> - **Maximum external height 900mm above parapet** — conceded in revised submission (was originally 600mm)
+> - **Maximum external roof height 1,150mm above parapet** — per the revised heritage statement
 > All Part A design assumptions must respect these limits.
 
 ## Floor
@@ -90,17 +90,17 @@ The upper bench wraps around the corner so two people can lie at right angles. T
 - Solid timber, no glazing
 - Magnetic catch, 50N+ pull force (we want it wind-resistant); wooden handles
 - Outward-opening, with restrictor chain to limit swing in wind
+- **Hold-open mechanism for venting between sessions** — marine A4 stainless or solid brass cabin-hook (or sprung friction hold-open arm) fixed to the external wall so the door can be held at ~30–45° for passive airing without slamming in the wind. Chosen for simplicity, marine durability and one-handed release.
 - Approximate cost: £250–450
 
 ## Window
 
 - East wall, positioned toward the **north end** of the wall (view to the NE)
-- **1200mm wide × 800mm tall**, single pane, top-hung (awning) opening — outward, hinged at top
+- **1200mm wide × 800mm tall**, single pane, **FIXED** (non-opening) — ventilation is handled by the dedicated inlet/outlet vents, so an opening sauna window is not required
 - Sill at 1100mm from FFL
 - **Frame:** cedar or other heat-tolerant softwood on the interior face; external face can be aluminium-clad if needed for weatherproofing — **NOT aluminium internally** (would burn skin at sauna interior temperature)
 - Triple-glazed (4-12-4-12-4), argon-filled, low-E coatings **rated for sauna interior temperatures**, warm edge spacers — chosen for thermal retention given rooftop exposure
 - Compression seals: EPDM or silicone (heat/humidity tolerant)
-- Restrictor stay to limit opening in wind
 - External manual roller blackout blind on exterior above (sized to cover full 1200mm width)
 - **To be specified in coordination with the kit supplier if kit-route is taken** — sauna-rated window assemblies are typically supplied or specified by the sauna specialist, not a domestic window supplier
 
@@ -224,54 +224,30 @@ Systems considered, all of which publish coastal warranties at marine specificat
 
 ### Roof of the sauna/wet room building
 
-**Working preference (subject to your visibility analysis):** **south-high mono-pitch at 15–20°**, in **continuous PVDF anthracite aluminium standing seam wrapping over from the wall cladding** so the building reads as a single skin.
+**Form: basically flat** — a near-flat warm roof with a minimal drainage fall (3–5° to north, just enough to shed water), in **continuous PVDF anthracite aluminium standing seam wrapping over from the wall cladding** so the building reads as a single skin.
 
-**Why this shape — the logic that produced it:**
+**Why flat:** the revised heritage statement sets the binding height at **1,150mm above parapet**, which the flat form sits within comfortably (warm-roof build-up + standing seam ≈ 250–300mm above internal ceiling, all within the envelope). The earlier pitched form was driven by the older 900mm envelope and the gull-avoidance threshold — the revised height + the bird-wire grid below now make a flat form viable and visually simpler from every public viewpoint.
 
-Two competing concerns drove the geometry. Setting them out so you can challenge the reasoning where appropriate.
-
-**1. Gulls.** The sauna/wet room building is the highest object on the terrace. A flat or near-flat roof at the highest point would become prime gull real estate — directly above the people using the terrace, and rising above the parapet bird wire (Part F), which we'd otherwise be undermining. Once gulls habituate to a rooftop they return every year and defend it. The conventional pitch threshold above which gulls can't comfortably stand or nest is **~15°; 20°+ is bulletproof**. At 15° or steeper, no visible bird deterrents (wire grids, spikes, gel discs) are needed on the roof surface.
-
-**2. Visibility from Bristol Gardens AND from within the terrace.** The heritage officer's pre-app condition is to minimise visibility from Bristol Gardens (we've already conceded a 3m setback from the north parapet and a 900mm maximum height above parapet). The **+500mm raised dining patio south of the building** also looks toward the sauna at a slight upward angle — any visible bird-deterrent clutter on the roof would read straight from the dining seats.
-
-**Why south-high specifically:**
-
-Counter-intuitive geometry rule: a roof surface above the dining-viewer's eye level is hidden behind whichever fascia sits closest to them. A roof that slopes UP and TOWARDS the dining viewer is largely hidden behind its own south fascia. A roof that slopes UP and AWAY is on full display.
-
-| Viewpoint | What's visible with a south-high pitch |
-|---|---|
-| **Raised dining patio (south)** | The high south fascia screens the roof surface from view — no surface clutter visible from the dining seats |
-| **Bristol Gardens (direct north view)** | The low north edge — lower than a flat-top building of the same internal volume would be |
-| **Bristol Gardens (north-west diagonal)** | The pitch side-on, falling away from the viewer |
-| **Bristol Gardens (south-west diagonal)** | The high south fascia angled away from the viewer; the pitch slope drops toward the viewer's line of sight |
-| **East (away from all public views)** | The pitch side-on |
-
-**Pitch tradeoff to be aware of:** across the building's ~2.45m N-S depth, 15° gives a 656mm rise and 20° gives 892mm rise. With a flat-top building already pushing the 900mm-above-parapet envelope, the south edge of a pitched roof will sit *above* 900mm at the highest point. The trade we'd be making: south edge higher (but hidden), north edge lower (and visible to Bristol Gardens). The argument to planning: **the visible edges are all lower than a flat-top equivalent; the high south edge is screened by its own geometry from every relevant viewpoint.**
-
-**Working build-up assumption:**
+**Build-up:**
 
 | Layer (top to bottom) | Spec |
 |---|---|
 | PVDF anthracite aluminium standing seam | Continuous with wall cladding |
 | UV-stable breather membrane | Tyvek UV Façade or Solitex Fronta WA |
 | Counter-battens / sub-frame | A4 / 316 stainless clips |
-| 100–150mm PIR between rafters | Thicker than the 75-100mm wall PIR (heat rises) — Ronan to detail the **wall-to-roof PIR transition** so the foil VB stays continuous through the junction |
+| 100–150mm PIR between rafters | Thicker than the 75–100mm wall PIR (heat rises) — Ronan to detail the **wall-to-roof PIR transition** so the foil VB stays continuous through the junction |
 | Structural OSB or marine ply deck | 18mm |
-| Internal ceiling lining | **Sauna:** cedar T&G (heat-tolerant softwood, standard sauna spec). **Wet room:** **Aquapanel (or equivalent moisture-resistant cement-board) + bathroom-grade paint** — sleek, paintable in any colour (suggest warm white or matt anthracite to echo external cladding), fully waterproof, ~£40-60/m² fitted |
+| Internal ceiling lining | **Sauna:** cedar T&G (heat-tolerant softwood, standard sauna spec). **Wet room:** **Aquapanel (or equivalent moisture-resistant cement-board) + bathroom-grade paint** — paintable in any colour (suggest warm white or matt anthracite to echo external cladding), fully waterproof, ~£40-60/m² fitted |
+
+**Gull deterrent on the roof surface:** a low-profile **stainless post-and-wire grid** across the surface, matching the Part F parapet system — 3-wire layout, posts at ~1m centres, 85–90mm above the standing seam. Same materials, same install team, visually consistent with the parapet deterrent.
 
 **Drainage:** small gutter along the low (north) edge discharging onto the warm-roof tile field, which then drains to the existing roof outlets. No new outlets required.
 
-**Fallback if the pitched option isn't viable** (e.g. visibility splay shows the south edge can't be argued, or the height envelope can't accommodate it after Ronan's real build-up depth is known):
-
-A **near-flat roof (3–5° drainage fall to north)** in the same standing-seam material, with an **integrated stainless post-and-wire bird grid** across the surface (matching the Part F parapet system). Lower profile from all directions, but the wire grid would be visible from the raised dining patio, and gulls habituate harder to flat surfaces — so this is a "last resort" if the height envelope rules out the pitched option.
-
 **What we'd value your steer on:**
 
-- **Visibility splays from realistic vantage points on Bristol Gardens** — drawn lines showing what's actually visible above parapet with the building at its current size, so we can judge whether the south edge of a pitched roof can be argued or whether the height-envelope is strict
-- **Real warm-roof build-up depth** — if a slimmer build-up (e.g. ~180mm vs the 250mm we've assumed) is possible, that's headroom we can spend on pitch
-- **Real parapet height above the new tile FFL** — drives the whole envelope calculation
+- **Confirmation the build-up fits within 1,150mm above parapet** — needs Ronan's real build-up depth and real parapet height above the new tile FFL
 - Roof-to-wall transition — continuous standing-seam wrap, or break at a discrete fascia line?
-- Whether you'd recommend a different roof material that's even thinner / lower-mass than warm-roof + standing seam, to claw back more headroom
+- Wire-grid post fixing detail through the standing seam — needs to be watertight while still serving as a bird deterrent
 
 ---
 
@@ -601,22 +577,17 @@ We've used Morton Parasols before and want to use them again, or an equivalent c
 - Frame: anodised aluminium or powder-coated aluminium (marine-tolerant)
 - Fabric: solution-dyed acrylic (e.g. Sunbrella or equivalent), Brighton coastal exposure
 
-## Bases — key point for the surveyor
+## Bases — per Morton's recommendation
 
-The heavy bases need to sit **under the porcelain tile finish**, not on top of it. So the deck build-up needs to accommodate the base.
+The heavy bases need to sit **under the porcelain tile finish**, not on top of it, so the deck build-up needs to accommodate the base. **We will ask Morton to specify their recommended base detail for both parasol sizes** (3 × 3m and 3 × 4.5m), given Brighton seafront wind exposure, and adopt their preferred fixing approach.
 
-Commercial parasol bases for this size are typically:
-- 80–150kg cast / granite slab type, or
-- Cassette-style steel frame filled with paving slabs on site
-
-We'd like the **base plate(s) recessed into the deck build-up** so the tile finish runs continuously over the top, with only the mast emerging through a sealed sleeve / cup detail. The mast is removable so the cup can be capped flush when the parasol is taken down for winter.
+The mast itself is removable so the surface detail can be capped flush when the parasol is taken down for winter.
 
 ## What we'd value your steer on
 
-- **Recessed base detail** — the best way to set the base into the deck build-up without compromising the tanking, falls, or insulation. Likely a custom steel cassette set at screed level
-- **Wind uplift loads** — a 3 × 4.5m parasol at full Brighton seafront wind exposure is a serious load. We need confidence the deck and base anchorage can take it, even with the parasol furled
-- **Sleeve / cup detail** — how the mast passes through the tile surface, weather-sealed, and capped when removed
-- Equivalent suppliers if you have a preferred specifier for commercial parasols
+- **Coordination of Morton's recommended base detail** with the deck build-up — once Morton has specified, Ronan to confirm the base can be set in cleanly without compromising the tanking, falls or insulation
+- **Wind uplift loads** — a 3 × 4.5m parasol at full Brighton seafront wind exposure is a serious load; structural sign-off on the deck and base anchorage capacity, even with the parasol furled
+- **Sleeve / cup detail at the tile surface** — how the mast passes through the tile, weather-sealed, and capped when removed
 
 ---
 
@@ -646,23 +617,23 @@ We've chosen frameless structural glass throughout for both locations — keeps 
   - Creates a 500mm physical setback between the hot tub and the glass — may help BC accept the guarding line (worth confirming with building control)
   - Adds visual interest at parapet level
 
-## Mounting — top of parapet vs face of parapet
+## Mounting — side-mounted (face-fix to inner face of parapet)
 
-The key question: **does the glass channel sit on top of the parapet wall, or is it bolted to the inner face of the parapet?** This is primarily a wind-loading and waterproofing question.
+**Side-mounted, point-fixed to the inner face of the parapet wall.** The glass panels are clamped with individual stainless point-fixings (or a low-profile inner-face channel) into the inner masonry face of the parapet, projecting upward to the required 1100mm guarding height.
 
-| | Top-mounted (U-channel on coping) | Side-mounted (face-fix to inner face) |
-|---|---|---|
-| Load path | Direct moment + shear into parapet mass — generally more efficient | Cantilever moment pulls on parapet face — higher leverage on fixings |
-| Waterproofing | Requires breaking through coping; careful detail needed | Existing coping/tanking undisturbed |
-| Look from outside | Cleaner — glass appears to grow from wall | Glass sits behind/above coping line |
-| Replacement / maintenance | Whole channel job | Individual clamps replaceable |
+**Why this mounting:**
+
+- **No metal at the top of the glass** — clean frameless top edge across the whole run. Top-mounted channel systems require a visible alu/stainless cap rail that we want to avoid for aesthetic reasons.
+- **Coping and tanking undisturbed** — no penetrations through the top of the parapet, no risk to the existing waterproofing layer beneath the precast coping
+- **Individually replaceable** clamps — easier long-term maintenance than a continuous top channel
+- **Trade-off:** the cantilever load path puts higher leverage on the inner-face fixings, so the masonry condition behind the fixing line needs to be sound. Resin anchors into solid brickwork (with appropriate pull-out testing) are the standard approach for this exposure.
 
 ## What we'd value your steer on
 
-- **Top-mount vs side-mount** — your view, given Brighton seafront wind exposure and the existing parapet construction. Likely needs SE input for wind-load calculations.
-- **Glass thickness / spec** — to be sized by the supplier's engineer once the loading approach is agreed
+- **Inner-face fixing detail** — point-fixed stainless clamps vs a low-profile inner-face channel; SE to confirm pull-out capacity against the existing masonry given Brighton seafront wind loading
+- **Glass thickness / spec** — to be sized by the supplier's engineer once the inner-face fixing detail is agreed (likely 17.5–21.5mm toughened laminated to BS 6180)
 - **Whether the 500mm planter setback** is acceptable to building control as part of the guarding strategy around the hot tub (could allow the glass to be slightly lower than the strict 1100mm-above-rim rule, though we're not banking on this)
-- **Coping replacement** if top-mounted — whether the existing 450mm precast coping can take a channel cut, or needs replacing with a new coping detailed to integrate the channel and tanking
+- **Condition of the inner masonry face** behind the proposed fixing line — confirmation it's sound brickwork suitable for resin-anchored point fixings at this exposure
 
 ---
 
@@ -1551,11 +1522,11 @@ LEFT (south) →                                                ← RIGHT (north
 | 1 | Storage cabinet | ~600mm | General BBQ-adjacent storage (utensils, cleaning kit) |
 | 2 | Storage cabinet | ~600mm | General BBQ-adjacent storage |
 | 3 | BBQ + vented LPG cabinet below | ~900mm | Beefeater Signature 3000E (820mm) + cabinet frame; LPG bottle vented below |
-| 4 | Fridge bay (built ready, fridge deferred per Part P "Fridge" section) | ~600mm | 600mm bay sized for outdoor undercounter fridge — see Fridge section below |
+| 4 | Fridge bay | ~600mm | Beefeater outdoor tropical fridge installed — see Fridge section below |
 | 5 | Sink cabinet | ~600mm | Caple Zero sink + Caple Robo tap above; waste plumbing below |
 | **TOTAL** | | **~3.3m wide × ~0.7m deep × ~0.9m high (worktop height)** | |
 
-Worktop runs continuously over all five modules — single fabricated stainless top with cut-outs for sink, BBQ and (when fitted) fridge ventilation grille at front.
+Worktop runs continuously over all five modules — single fabricated stainless top with cut-outs for sink, BBQ and fridge ventilation grille at front.
 
 ## Components
 
