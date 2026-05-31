@@ -733,7 +733,7 @@ The finished tile level needs to coordinate with:
 
 We want planters built from the **salvaged hardwood decking** removed from the existing terrace. Locations and footprints per the drawings.
 
-**Planter layout** is per the floorplan, designed to **maximise wind defence** along the north and east parapets. Detailed inventory of each planter's dimensions and heights is in the "Sizes" subsection immediately below. The planting scheme — including the **8 olive trees** echoing the established Sussex Square / Kemp Town Enclosures planting — and the windbreak layering is set out in Part N.
+**Planter layout** is per the floorplan, designed to **maximise wind defence** along the north and east parapets. Detailed inventory of each planter's dimensions and heights is in the "Sizes" subsection immediately below. The planting scheme — including the **5 olive trees** echoing the established Sussex Square / Kemp Town Enclosures planting — and the windbreak layering is set out in Part N.
 
 > **For the planting palette, planted-area summary and biodiversity case, see [PART N — PLANTING PALETTE & BIODIVERSITY](#part-n--planting-palette--biodiversity) at the end of this document.**
 
@@ -853,7 +853,7 @@ The make-up below is included **within the planter construction scope** (not a s
 | **4. Lightweight planting medium** (~300–400mm thick) | **Peat-free roof-garden / lightweight planter mix**: ~60% loam-based topsoil + 25% perlite or vermiculite + 15% well-rotted peat-free compost.<br>Pre-blended bagged options acceptable (e.g. Bourne Amenity Topsoil mix, Boughton Loam roof-garden mix, or builder's-merchant lightweight planter mix). | Provides nutrients + drainage + light weight. **Avoid heavy clay topsoil** — it compacts, waterlogs, and is heavy on the structure. |
 | **5. Mulch layer** (~25–50mm) | Composted bark or fine ornamental bark chip on top, around all plants | Retains soil moisture (reduces watering), suppresses weeds, insulates roots in winter, gives a finished look |
 
-### Special note for olive trees (8 in total)
+### Special note for olive trees (5 in total)
 
 Olives need adequate root volume. In the **600mm-deep planters** (most of them), the available rooting depth after the drainage layer is ~400-450mm — adequate for olives if managed. Where olives sit, **no polystyrene under that specific patch** — use clean 10mm gravel only for ~100mm depth, then the soil mix to ~500mm depth. This gives the olives a deeper root run and bit more weight at the base (stability for taller plants in wind).
 
@@ -1148,7 +1148,7 @@ Calculated from the planter inventory in Part J (see Part J "Sizes" subsection f
 
 That's **~17-18% of the total terrace footprint** given over to soft landscape, with the planter runs forming a near-continuous green perimeter around the usable hard-landscaped zones.
 
-In addition: **8 olive trees** as point specimens within the east-edge run / L-shape planters (a substantial vertical planting layer, not captured in the area figure above).
+In addition: **5 olive trees** as point specimens within the east-edge run / L-shape planters (a substantial vertical planting layer, not captured in the area figure above).
 
 ## Planting palette — Sussex Square / Kemp Town vernacular
 
@@ -1165,7 +1165,7 @@ The full list with sizes, growth rate, biodiversity notes and images is in **[`p
 - **Mat / trailing / wall-spill:** *Lithodora diffusa*, *Lysimachia nummularia* 'Aurea', *Sedum / Hylotelephium* 'Purple Emperor', *Iberis sempervirens*, *Cerastium tomentosum*
 - **Coastal specialists:** *Eryngium giganteum* (Miss Willmott's Ghost), *Crambe maritima* (sea kale), *Armeria maritima* (sea thrift), *Glaucium flavum* (yellow horned poppy)
 - **Herbs:** *Foeniculum vulgare*, *Achillea millefolium*, *Origanum vulgare*, *Thymus vulgaris*, *Mentha* sp.
-- **Specimen trees:** **8 × *Olea europaea*** (olives) in the east-edge run
+- **Specimen trees:** **5 × *Olea europaea*** (olives) distributed across the L-shape planters
 
 ## Windbreak planting plan
 
@@ -1182,7 +1182,7 @@ The planting has been designed to provide **wind defence on the north and east p
 - **Pittosporum tobira full species** reserved for the SE L-shape (M2) where the 700mm planter + tall plant gives a proper tall windbreak; **'Wheeler's Dwarf'** (1m compact cultivar) is the alternative
 - **Hot tub east leg (M5):** low planting only (under 300mm at maturity) — east view to Downs preserved
 - **Hot tub north leg (M6):** compact uprights only — glass balustrade on parapet (no climber surface available)
-- **8 olives** distributed as architectural specimens: **3 in N1** (along 7.2m east leg) + **2 in M1** (dining flanks) + **2 in M2** (SE L-shape) + **1 in M3** (east of sauna)
+- **5 olives** distributed as architectural specimens: **2 in N1** (anchoring the 7.2m east leg) + **1 in M1** (dining centre) + **1 in M2** (SE L-shape) + **1 in M3** (east of sauna)
 
 ### Plant lists per planter
 
@@ -1191,11 +1191,11 @@ The planting has been designed to provide **wind defence on the north and east p
 | **M5** | East of hot tub (view preserved) | LOW only: *Sedum* 'Purple Emperor', *Festuca glauca*, *Stachys byzantina*, *Thymus*, *Lavandula* 'Hidcote', *Armeria maritima* (UK coastal native) |
 | **M6** | North of hot tub (300mm, behind glass) | *Hebe pinguifolia* (compact), *Lavandula* 'Hidcote', *Festuca glauca*, *Sedum* |
 | **M7** | West of hot tub | **Back:** *Olearia × haastii* + *Phormium tenax* 'Purpureum' / **Mid:** *Phlomis fruticosa* / **Front:** *Stachys*, *Lavandula*, *Salvia rosmarinus* |
-| **M2** | SE L-shape (700mm tall — strong windbreak) | **Back:** *Pittosporum tobira* (or 'Wheeler's Dwarf', clipped to 1.5m) + 2 olives + *Phormium* 'Purpureum' + 1 *Cynara cardunculus* (silver focal) / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine', *Salvia microphylla* 'Hot Lips' / **Front:** *Stachys*, *Erigeron*, *Salvia rosmarinus*, *Festuca* |
+| **M2** | SE L-shape (700mm tall — strong windbreak) | **Back:** *Pittosporum tobira* (or 'Wheeler's Dwarf', clipped to 1.5m) + 1 olive + *Phormium* 'Purpureum' + 1 *Cynara cardunculus* (silver focal) / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine', *Salvia microphylla* 'Hot Lips' / **Front:** *Stachys*, *Erigeron*, *Salvia rosmarinus*, *Festuca* |
 | **M3** | East of sauna (700mm tall, long edge W-E) | 1 olive / *Phlomis fruticosa* / *Stachys*, *Erigeron*, *Lithodora* |
 | **M4** | North of seating (vertical W-E, 700mm tall) | **Back:** *Olearia × haastii* + *Phormium tenax* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine' / **Front:** *Stachys*, *Lavandula*, *Erigeron* |
-| **M1** | Dining L (500mm) | **Back:** *Olearia × haastii* (or *Pittosporum tobira* 'Wheeler's Dwarf') + 2 olives / **Mid:** *Choisya* 'Sundance' (golden), *Lavandula angustifolia*, *Salvia nemorosa* 'Caradonna' / **Front:** *Stachys*, *Geranium* 'Rozanne', *Erigeron*, *Nepeta × faassenii* |
-| **N1** | East + North L narrow (500mm) | **Back:** *Olearia × haastii* (spaced along run) + 3 olives + *Phormium tenax* + *Cordyline australis* (NE corner) / **Mid:** *Phlomis*, *Brachyglottis*, *Salvia microphylla*, *Olearia × haastii* / **Front:** *Stachys*, *Erigeron*, *Lavandula*, *Salvia rosmarinus*, *Festuca* |
+| **M1** | Dining L (500mm) | **Back:** *Olearia × haastii* (or *Pittosporum tobira* 'Wheeler's Dwarf') + 1 olive (central) / **Mid:** *Choisya* 'Sundance' (golden), *Lavandula angustifolia*, *Salvia nemorosa* 'Caradonna' / **Front:** *Stachys*, *Geranium* 'Rozanne', *Erigeron*, *Nepeta × faassenii* |
+| **N1** | East + North L narrow (500mm) | **Back:** *Olearia × haastii* (spaced along run) + 2 olives (anchoring the east leg) + *Phormium tenax* + *Cordyline australis* (NE corner) / **Mid:** *Phlomis*, *Brachyglottis*, *Salvia microphylla*, *Olearia × haastii* / **Front:** *Stachys*, *Erigeron*, *Lavandula*, *Salvia rosmarinus*, *Festuca* |
 | **N2** | Mid-east 1.2 × 1.2m square | *Pittosporum tobira* 'Wheeler's Dwarf' (1m compact dome) + *Phormium tenax* / *Lavandula* 'Hidcote' underplanting |
 | **N3** | Mid-west 1.2 × 1.2m square (kitchen-adjacent) | *Pittosporum tobira* 'Wheeler's Dwarf' (1m dome) + *Salvia rosmarinus* + *Thymus vulgaris* + *Origanum vulgare* (sensory herbs by outdoor kitchen) |
 
@@ -1211,11 +1211,11 @@ For the full plant palette with mature sizes, growth rates, biodiversity benefit
 
 Photo-realistic visualisations of each planter at maturity. These are AI-generated artist's impressions intended to give a sense of the final mood and planting density — not exact botanical references.
 
-**M1 — Dining L (olives + lavender + Choisya 'Sundance' + perennial mix):**
+**M1 — Dining L (single olive + lavender + Choisya 'Sundance' + perennial mix):**
 
 ![M1 dining L planter](artists-impressions/m1.png)
 
-**M2 — SE L-shape (Pittosporum + olives + Phormium + Cynara cardunculus + mixed mid/front):**
+**M2 — SE L-shape (Pittosporum + 1 olive + Phormium + Cynara cardunculus + mixed mid/front):**
 
 ![M2 SE L-shape](artists-impressions/m2.png)
 
@@ -1239,7 +1239,7 @@ Photo-realistic visualisations of each planter at maturity. These are AI-generat
 
 ![M7 west of hot tub](artists-impressions/m7.png)
 
-**N1 — East + North L narrow (3 olives spaced + Olearia + Phormium + Cordyline at NE corner):**
+**N1 — East + North L narrow (2 olives spaced + Olearia + Phormium + Cordyline at NE corner):**
 
 ![N1 east + north L narrow](artists-impressions/n1.png)
 
@@ -1266,7 +1266,7 @@ Photo-realistic visualisations of each planter at maturity. These are AI-generat
 - **Strong pollinator support** — *Nepeta × faassenii*, *Lavandula*, *Salvia rosmarinus*, *Salvia microphylla* 'Hot Lips', *Salvia nemorosa* 'Caradonna', *Phlomis fruticosa*, *Brachyglottis* 'Sunshine', *Origanum vulgare*, *Geranium* 'Rozanne', *Erigeron karvinskianus*, *Lithodora diffusa* — all in the RHS "Plants for Pollinators" list, providing nectar from early spring (*Lithodora*, *Lavandula*) through to late autumn (*Salvia microphylla*, *Erigeron*).
 - **Seed and overwintering value** — *Sedum* 'Purple Emperor', *Festuca glauca* tussocks, *Cynara cardunculus* seed heads, *Phormium tenax* flower spikes, *Phlomis fruticosa* whorls all left standing through winter provide seed and invertebrate cover for finches, sparrows and overwintering insects.
 - **Coastal-meadow niche** — ***Armeria maritima*** (UK coastal native, in M5), ***Origanum vulgare*** (UK native, in N3), naturalised *Erigeron karvinskianus*, *Salvia rosmarinus*, *Stachys byzantina*, *Lavandula* — together provide the Mediterranean / coastal-meadow biotope characteristic of the Sussex seafront. The broader palette in `planting.md` also includes *Crambe maritima*, *Glaucium flavum* and *Eryngium giganteum* which can be added as native enhancements if BHCC asks.
-- **Vertical layering** — **8 olive trees** distributed across 4 planters (3 in N1, 2 in M1, 2 in M2, 1 in M3) + sub-shrub mid-layer (*Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*, *Cordyline australis*) + perennial / mat understory + drought-tolerant low planting at hot tub — gives multi-tier habitat structure within the locked **~21.0 m² of planted area** (~14-18% of the terrace footprint). The parasols' fabric provides bird-safe cover when retracted.
+- **Vertical layering** — **5 olive trees** distributed across 4 planters (2 in N1, 1 in M1, 1 in M2, 1 in M3) + sub-shrub mid-layer (*Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*, *Cordyline australis*) + perennial / mat understory + drought-tolerant low planting at hot tub — gives multi-tier habitat structure within the locked **~21.0 m² of planted area** (~14-18% of the terrace footprint). The parasols' fabric provides bird-safe cover when retracted.
 - **Specific UK native species in this plan:** *Armeria maritima* (M5), *Origanum vulgare* (N3). **Long-naturalised in S England:** *Erigeron karvinskianus* (multiple planters), *Stachys byzantina* (multiple), *Salvia rosmarinus* (multiple), *Lavandula angustifolia* (multiple). Wider palette has additional UK natives available for substitution if planning officer asks for more native content (see `planting.md`).
 - **No invasive species** — the list deliberately excludes anything on Schedule 9 of the WCA 1981 (e.g. no *Cotoneaster horizontalis*, no *Crocosmia* × *crocosmiiflora*, no *Buddleja davidii* as a primary feature).
 - **EPDM-lined hardwood planters** with lightweight peat-free roof-garden soil mix + bark mulch (see Part J planter make-up) = healthy long-term planting at minimal structural load, not a one-season display.
@@ -1289,7 +1289,7 @@ This subsection sets out **what we've prepared for you**, **what physical featur
 
 **Pre-development baseline:** The existing roof terrace is an **asphalted flat roof with no vegetation**. Under the Statutory Biodiversity Metric this classifies as **"Developed land; sealed surface"** — the lowest distinctiveness band (zero biodiversity units). The proposed scheme therefore starts from zero, and any planting represents net biodiversity gain — the 10% BNG threshold is comfortably exceeded by definition.
 
-**Post-development baseline:** Locked-in **~21.0 m² of planted area** (~14-18% of the terrace footprint, per Part J inventory and Part N "Planted area" subsection) plus **8 olive trees** distributed as point specimens (3 in N1, 2 in M1, 2 in M2, 1 in M3), plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs" (primarily *Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*), "Native species-rich elements" (*Armeria maritima*, *Origanum vulgare*), naturalised wildflowers (*Erigeron*, *Stachys*, *Lavandula*) and "Mixed scrub" texture within hardwood-clad container planters.
+**Post-development baseline:** Locked-in **~21.0 m² of planted area** (~14-18% of the terrace footprint, per Part J inventory and Part N "Planted area" subsection) plus **5 olive trees** distributed as point specimens (2 in N1, 1 in M1, 1 in M2, 1 in M3), plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs" (primarily *Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*), "Native species-rich elements" (*Armeria maritima*, *Origanum vulgare*), naturalised wildflowers (*Erigeron*, *Stachys*, *Lavandula*) and "Mixed scrub" texture within hardwood-clad container planters.
 
 **Native species in this windbreak plan + wider palette available for substitution:**
 
@@ -1371,7 +1371,7 @@ To complete the biodiversity submission, please confirm or produce:
 ## What we'd value your steer on
 
 - Confirmation that the **planter footprints and locations** (Part J inventory + drawings) are structurally acceptable from a roof-load standpoint, particularly the long N1 east-edge run
-- **8 olive trees** — root volume / soil-depth recommendation from a horticultural perspective (current planter depth 600mm; may need locally deeper detail at olive positions)
+- **5 olive trees** — root volume / soil-depth recommendation from a horticultural perspective (current planter depth 600mm; may need locally deeper detail at olive positions)
 - Any plants on the palette you'd flag as **unsuitable for the exposed seafront location** that we should swap out
 - Confirmation of **biodiversity submission route** (SBI vs SSM) and **division of work** per Section E above
 
