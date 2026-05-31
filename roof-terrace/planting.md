@@ -175,4 +175,78 @@ Plants in the palette but **not seen in this photo set** (still legitimate — p
 
 ---
 
+# 🌬️ Windbreak Planting Plan (31 May 2026) — leaning on Sussex Square palette
+
+The terrace planting scheme has been organised to provide **wind defence on the north and east parapets** (the principal wind directions to defend against), while preserving the **east view to the Downs from the hot tub**. The plan deliberately leans on species already in the Sussex Square palette to maximise heritage-continuity (and avoid adding species not seen in the area).
+
+**Companion drawing:** see [`drawings/windbreak-planting-plan-31-5-26.png`](drawings/windbreak-planting-plan-31-5-26.png) for a scale schematic showing each planter's position and proposed plants.
+
+## Species used in the windbreak plan
+
+✅ All species below are **already in the Sussex Square palette** above — no new species added. Symbols indicate role in the windbreak plan:
+
+| Symbol | Role |
+|---|---|
+| **🌳 BACK** | Tall back-row windbreak (1m+ above planter rim) |
+| **🌿 MID** | Mid-layer (0.5-1m above rim) |
+| **🌱 FRONT** | Front-row / trailing (under 0.3m) |
+| **🫒 OLIVE** | Olive trees as architectural specimens |
+| **🌶️ FOCAL** | Architectural focal plants (silver / structure) |
+| **🌬️ FILTER** | Permeable wind-filter role (Cordyline-Phormium combo) |
+
+## Plants used per role
+
+### 🌳 BACK row (tall windbreak — 1m+ above rim)
+- ***Pittosporum tobira*** (full species, ×2 Sussex Square photos) — primary evergreen mass; used in M2, M4, M7, N1, N2 (clipped)
+- ***Cordyline australis*** (×2 Sussex Square) — vertical accent + filter; used at NE corner of N1
+- ***Phormium tenax*** 'Purpureum' (×2 Sussex Square) — bronze sword leaves; M2, M4, M7, N1
+
+### 🌿 MID layer (0.5-1m)
+- ***Phlomis fruticosa*** (×1 Sussex Square) — woolly grey; M2, M3, M4, M7
+- ***Brachyglottis 'Sunshine'*** (×3 Sussex Square) — silver-yellow daisy; M2, M4, N1
+- ***Olearia × haastii*** (×3 Sussex Square via Brachyglottis/Olearia group) — silver mid-shrub; M4, N1
+- ***Salvia microphylla*** 'Hot Lips' (×3 Sussex Square) — red/white bicolor; M2, N1
+- ***Salvia nemorosa*** 'Caradonna' (×1) — purple-black spikes; M1
+- ***Choisya ternata*** 'Sundance' (×2 Sussex Square) — golden mid-shrub; M1 (warm dining accent)
+- ***Hebe pinguifolia*** (×3 Sussex Square via Hebe group) — compact upright; M6 (300mm planter)
+
+### 🌱 FRONT row / trailing
+- ***Stachys byzantina*** (×4 Sussex Square) — silver lamb's ears; M2, M4, M5, M7, N1
+- ***Erigeron karvinskianus*** (×4 Sussex Square) — pink-white daisies; M2, M3, M4, M1, N1
+- ***Lavandula angustifolia*** / 'Hidcote' (×2 Sussex Square) — compact lavender; M1, M4, M6, M7, N1, N2
+- ***Salvia rosmarinus*** (×4 Sussex Square) — rosemary; M2, M7, N1, N3 (kitchen)
+- ***Festuca glauca*** (×1 Sussex Square) — blue tussocks; M2, M5, M6, N1
+- ***Sedum*** / *Hylotelephium* 'Purple Emperor' (×1) — purple succulent rosettes; M5, M6
+- ***Lithodora diffusa*** (×1) — azure-blue mat; M3
+- ***Geranium*** 'Rozanne' (×4 Sussex Square — *Geranium* sp.) — long-flowering blue; M1
+- ***Nepeta × faassenii*** (×6 Sussex Square — most-frequent perennial) — mauve haze; M1
+
+### 🫒 OLIVE distribution (8 total)
+- **N1 east leg:** 3 olives spaced along the 7.2m run
+- **M1 dining L:** 2 olives flanking the dining table
+- **M2 SE L-shape:** 2 olives in the 700mm tall planter
+- **M3 east of sauna:** 1 olive as focal point
+
+### 🌶️ FOCAL (architectural punctuation)
+- ***Cynara cardunculus*** (×3 Sussex Square) — silver cardoon; placed in M2 as bold focal silver
+
+### Kitchen herbs (N3, near outdoor kitchen)
+- ***Salvia rosmarinus*** + ***Thymus vulgaris*** + ***Origanum vulgare*** (all ×1 Sussex Square or palette additions)
+
+### Specifically for east-of-hot-tub planter (M5 — view to Downs preserved)
+- ***Sedum*** 'Purple Emperor' + ***Festuca glauca*** + ***Stachys byzantina*** + ***Thymus*** + ***Lavandula*** 'Hidcote' + ***Armeria maritima*** (UK coastal native)
+- All under 300mm at maturity — **no obstruction to the east view**
+
+## Hot tub windbreak summary (M5–M7)
+
+The hot tub U-shape planters sit at **+150mm above tub rim** — already a structural windbreak base. Planting strategy varies per leg:
+
+| Leg | Direction | View priority | Plant strategy |
+|---|---|---|---|
+| **M5 East** | View to Downs (east) | **Preserve view** | Low planting only (under 300mm at maturity) |
+| **M6 North** | Glass balustrade on parapet (no climber surface) | Wind defence | Compact uprights only (300mm planter depth limits choice) |
+| **M7 West** | Sauna side (no view concern) | Full windbreak | Tall plants — Pittosporum tobira + Phormium + Phlomis |
+
+---
+
 *Working document for the roof terrace project at 22 Sussex Square, Brighton. Not for distribution outside Chris / Bond McCart / planning consultees. Image thumbnails sourced from Wikimedia Commons; click "Wikipedia →" in any row if the image fails to load.*
