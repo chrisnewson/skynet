@@ -14,11 +14,11 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ## Drawings
 
-**Overall plan** (full terrace, including narrow section / FLOOR AREA 1 with lift bulkhead and stair hatch — latest revision **31 May 2026** with redesigned layout):
+**Overall plan** (full terrace, including narrow section / FLOOR AREA 1 with lift bulkhead and stair hatch):
 
 ![Overall floor plan](drawings/full-terrace-31-5-26.png)
 
-**Main section close-up** (FLOOR AREAS 2, 3, 4 — dining, lounge, sauna / wet room building, hot tub — 31 May 2026 revision):
+**Main section close-up** (FLOOR AREAS 2, 3, 4 — dining, lounge, sauna / wet room building, hot tub):
 
 ![Main floor plan](drawings/floorplan-main-31-5-26.png)
 
@@ -35,7 +35,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 - [Part I — Terrace Tiling System](#part-i--terrace-tiling-system)
 - [Part J — Planters](#part-j--planters)
 - [Part K — Outdoor Tap](#part-k--outdoor-tap)
-- [Part L — Existing and New Outdoor Sockets](#part-l--existing-and-new-outdoor-sockets)
+- [Part L — Electrical: Outdoor Sockets and Lighting](#part-l--electrical-outdoor-sockets-and-lighting)
 - [Part M — Roof Build-up & Structure (Asphalt, Insulation, Joists)](#part-m--roof-build-up--structure-asphalt-insulation-joists)
 - [Part N — Planting Palette & Biodiversity](#part-n--planting-palette--biodiversity)
 - [Part O — Storage Units](#part-o--storage-units)
@@ -305,9 +305,6 @@ SOUTH                                            NORTH (door)
 
         ←──── DRY ZONE ──────→  ←──── WET ZONE ────→
                 (~1.0m)                   (~1.15m)
-
-  (The previously-planned cold bucket shower has been removed —
-   replaced by an external cold shower on the north exterior wall.)
 ```
 
 The whole floor is one tanked wet zone — no shower trays, no enclosures, no glass screens.
@@ -349,7 +346,7 @@ The whole floor is one tanked wet zone — no shower trays, no enclosures, no gl
 
 ## External Cold Shower (North Exterior Wall)
 
-Replaces the previously-planned internal Finnish-style cold bucket shower. The bucket shower was dropped because its water would warm up to ambient over time inside the wet room — defeating the point of a post-sauna cold plunge. An external shower on the north (hot-tub-facing) exterior wall of the building draws fresh mains-cold water on demand, stays genuinely cold, and creates a natural circulation path: **sauna → step out onto terrace → cold rinse under the external shower → into the hot tub.**
+An external shower on the north (hot-tub-facing) exterior wall of the building draws fresh mains-cold water on demand. The natural use sequence: **sauna → step out onto terrace → cold rinse under the external shower → into the hot tub.**
 
 - **Position:** mounted on the **north exterior wall** of the sauna/wet room building, ~2m above terrace tile FFL, accessible from the hot tub zone
 - **Shower head:** **simple large fixed rainfall-style stainless head** (~250-300mm Ø) — no flexible hose, no diverter. Plain, robust, marine-grade brass or 316 stainless body.
@@ -407,7 +404,7 @@ Grouped on the terrace wall beside the wet room door, IP55+ weatherproof:
 
 # PART C — SMART CONTROL (HOME ASSISTANT)
 
-We run Home Assistant at home and want to control the switched circuits in the sauna and wet room via Shelly relays. This is the part most likely to be unfamiliar — flagging up front so you and the electrician can factor it in.
+We run Home Assistant at home and want to control all switched and dimmed circuits on the terrace via Shelly devices. Shellys connect **directly to HA over WiFi** using the official Shelly HA integration — no MQTT broker required. WiFi coverage is provided by the relocated UniFi U6 Mesh AP under the south fascia of the sauna/wet room building (see Part L).
 
 | Circuit | Shelly | Notes |
 |---|---|---|
@@ -416,11 +413,13 @@ We run Home Assistant at home and want to control the switched circuits in the s
 | Wet room light | Plus 1 | Behind the switch outside the wet room |
 | Wet room fan | Plus 1 | Behind the fan isolator |
 | Electric shower | None | Standard pull-cord isolator only |
+| Lighting zones 1–6 (terrace) | 6× Shelly Dimmer 2 (or equivalent dimmable Shelly) | One per lighting zone — see Part L for full lighting spec |
+| Door downlights (sauna + wet room eaves) | Shared with Zone 5 or own Shelly Plus 1 | See Part L |
 
 What this needs from the install:
-- Shellys located in dry, cool, accessible places with 2.4GHz WiFi coverage (we'll confirm coverage)
+- Shellys located in dry, cool, accessible places with 2.4GHz WiFi coverage
 - Live and neutral at the back of every switch position (worth flagging early to the electrician)
-- A small DIN-rail enclosure for the heater contactor + Shelly somewhere outside the two rooms
+- A small DIN-rail enclosure for the heater contactor + Shellys + lighting dimmers, somewhere outside the two rooms (a single enclosure for the lot keeps cabling tidy)
 
 ---
 
@@ -430,11 +429,11 @@ We're planning to site a hot tub on the terrace alongside the sauna/wet room bui
 
 > **Awaiting structural engineer.** We're waiting on our SE for: (1) whether any of the shortlisted tubs will work with the **current roof make-up** as it stands, (2) calculations on **doubled-up beams** in the NW quadrant (see Part M), and (3) on that basis, whether he would **steer us toward one tub over another** based on what the structure can carry. Final tub choice will follow that advice.
 
-## Footprint envelope (locked-in 31 May 2026)
+## Footprint envelope
 
 **Maximum hot tub envelope: 170cm wide × 210cm long** (W × L on the drawing — the long axis runs north-south on the terrace).
 
-The previously-considered shortlist has been **filtered to this envelope** below; tubs that don't fit are removed. Final tub still TBC pending SE sign-off on load — but the choice will be made from within this envelope only.
+Shortlist of tubs that fit the envelope is below. Final tub TBC pending SE sign-off on load — the choice will be made from within this envelope only.
 
 ## Shortlist (filtered to ≤170 × 210cm envelope)
 
@@ -468,12 +467,29 @@ Filled weight is shell + water, no occupants. Three adults add **~240kg** to the
 - **[My Hot Tub Mover](https://www.myhottubmover.co.uk/used-hot-tub-sales.html)** — UK-wide pre-owned, fully wet-tested
 - **[H2O Hot Tubs](https://www.h2ohottubs.co.uk/)** (Nottingham) — for the H2O 2000 with strong UK warranty
 
+## Power supply
+
+Most domestic hot tubs in the shortlist envelope are **single-phase 230V** hard-wired.
+
+- **Dedicated 32A radial** from the flat consumer unit, 30mA RCD-protected, with a **rotary isolator within 1m of the tub** (BS 7671 requirements). Some plug-and-play 13A tubs exist but heat very slowly in winter — 32A is the preferred spec.
+- **Supplementary equipotential bonding** of any metal parts within reach of the tub if required by the regs in force at install.
+- Cable route from the flat CU to the tub position to be planned alongside the sauna heater feed and the terrace lighting circuits — flagging early so the electrician can coordinate runs.
+
+## Drainage
+
+A hot tub holds 700–1,500 litres and is drained periodically (2–3× per year for water change, plus the occasional emergency drain).
+
+- **Drain hose connector** at the base of the tub (standard garden-hose thread).
+- **Discharge route:** ideally to an existing rainwater outlet via a short hose, OR a dedicated tundish to a foul connection if available — needs the surveyor's steer on which terrace drain is closest and has the capacity.
+- Flow rate to be checked against the chosen outlet — a 1,000L drain via standard hose takes ~30 min, which should be within typical roof-drain capacity but worth confirming.
+- **Fill:** via the outdoor tap (Part K) + garden hose — no fixed fill plumbing required.
+
 ## What we need from you on this
 
 - Sign-off on **filled load** (with dynamic allowance) for the heaviest realistic option (~1,500kg) on the terrace deck
 - Steer on whether to design for the lightest option (RotoSpa Orbis ~950kg) or build in headroom for any option on the list
 - Crane access vs hand-carry: the RotoSpas can be carried up by two people; acrylic options likely need a crane
-- Drainage: tub will need emptying 2–3× per year — best route to terrace drainage
+- Best drain route on the terrace — which existing outlet to discharge into, and any tundish / trap detail you'd want
 
 ---
 
@@ -485,7 +501,7 @@ The narrow section of the roof terrace currently has three sets of railings. We'
 
 - **Re-site the existing railings** to the new FFL on the narrow terrace. Heights to remain as currently constructed, just shifted up so the railing base matches the new raised tile level.
 - **Add bird wire on top** — stainless post-and-wire system running along the top of each railing.
-- **Remove:** the centre railing, and the short railing joining the centre railing to the west railing (these were redundant under the simplified layout).
+- **Remove:** the centre railing, and the short railing joining the centre railing to the west railing (redundant under the current layout).
 - **Keep:** the east railing and the west railing — both re-sited per above.
 
 ## Bird wire detail
@@ -653,7 +669,7 @@ The key question: **does the glass channel sit on top of the parapet wall, or is
 
 # PART I — TERRACE TILING SYSTEM
 
-**Note on area:** previously specified at 120m². Final tiled area to be **recalculated to exclude the planter footprints** (see PART J) — planters sit on the Protectoboard at asphalt level, with the tile field butting up to their outer faces, so the planter footprints are not tiled. Builder to remeasure once planter positions are finalised on the drawings.
+**Note on area:** Final tiled area to be **calculated to exclude the planter footprints** (see PART J) — planters sit on the Protectoboard at asphalt level, with the tile field butting up to their outer faces, so the planter footprints are not tiled. Builder to remeasure once planter positions are finalised on the drawings.
 
 ## Surface material
 
@@ -733,7 +749,7 @@ The finished tile level needs to coordinate with:
 
 We want planters built from the **salvaged hardwood decking** removed from the existing terrace. Locations and footprints per the drawings.
 
-**Planter layout** is per the 31 May 2026 floorplan revision, which has been redesigned in part to **maximise wind defence** along the north and east parapets. Detailed inventory of each planter's dimensions and heights is in the "Sizes" subsection immediately below. The planting scheme — including the **8 olive trees** echoing the established Sussex Square / Kemp Town Enclosures planting — and the windbreak layering is set out in Part N. See the in-progress "Windbreak planting study" subsection within Part N for zone-by-zone plant choices.
+**Planter layout** is per the floorplan, designed to **maximise wind defence** along the north and east parapets. Detailed inventory of each planter's dimensions and heights is in the "Sizes" subsection immediately below. The planting scheme — including the **8 olive trees** echoing the established Sussex Square / Kemp Town Enclosures planting — and the windbreak layering is set out in Part N.
 
 > **For the planting palette, planted-area summary and biodiversity case, see [PART N — PLANTING PALETTE & BIODIVERSITY](#part-n--planting-palette--biodiversity) at the end of this document.**
 
@@ -749,9 +765,9 @@ We want planters built from the **salvaged hardwood decking** removed from the e
 
 The reference shows the look we're aiming for: salvaged hardwood cladding with random staggered joints, weathered to silver-grey, with a substantial top capping board functioning as a casual sit-ledge. Plants in mixed Mediterranean / coastal palette spilling forward over the rim.
 
-## Build-up (revised 31 May 2026 for cost-efficiency)
+## Build-up
 
-Original spec used a marine ply structural box (carrying over from the storage-unit pattern). On reflection that's over-engineered for a planter — the soil load is well within softwood frame capability, and the EPDM liner inside handles waterproofing. **Simplified to a treated softwood frame with hardwood cladding outside + EPDM lining inside + Brighton pier decking cap on top.**
+Treated softwood frame with hardwood cladding outside, EPDM lining inside, and salvaged Brighton pier decking as the top cap.
 
 | Layer (outside → inside) | Spec | Cost / source |
 |---|---|---|
@@ -799,7 +815,7 @@ The existing decking boards have decking bolts with large through-holes every 80
 | **Saving** | | **~£1,000-1,500** |
 | Plus: faster build (no marine ply box joinery), uses salvaged stock more fully (battens / hidden uses for holed scraps), Brighton pier wood as cap adds character at zero cost |
 
-## Sizes — planter inventory (locked in 31 May 2026)
+## Sizes — planter inventory
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
@@ -840,9 +856,6 @@ This is the key risk where planters sit against the parapet or building wall. Tw
 
 Result: any water that escapes the planter falls onto the Protectoboard / tile void and drains to the existing roof falls — never into a wall.
 
-## Planter shell construction
-
-> **Superseded** — the original "hardwood box as structural" + "marine ply structural" interim spec has been replaced with the simpler softwood-frame approach in the "Build-up" subsection above. See that subsection for the locked-in layered makeup including the salvaged Brighton pier cap.
 
 ## Planter make-up — drainage, soil, mulch — **to be provided and installed by the builders**
 
@@ -914,9 +927,13 @@ Olives need adequate root volume. In the **600mm-deep planters** (most of them),
 
 ---
 
-# PART L — EXISTING AND NEW OUTDOOR SOCKETS
+# PART L — ELECTRICAL: OUTDOOR SOCKETS AND LIGHTING
 
-The terrace currently has **3 existing outdoor electrical sockets** in the main section, in IP-rated protective enclosures. We want to keep all three (relocating two of them) and add **2 new double sockets in the narrow section**.
+This Part covers all 230V outdoor sockets (existing and new) and the full external lighting scheme for the terrace. Hot tub power is in Part D. Smart-control overview is in Part C.
+
+# Section L1 — Outdoor sockets
+
+The terrace currently has **3 existing outdoor electrical sockets** in the main section, in IP-rated protective enclosures. We want to keep all three (relocating two of them) and add **2 new double sockets in the narrow section**, plus an **internal cabinet socket** in the outdoor kitchen for charging battery lights.
 
 ## Main section — 3 existing sockets
 
@@ -933,6 +950,12 @@ The terrace currently has **3 existing outdoor electrical sockets** in the main 
 | **4** | Inside the **storage cupboard at the SW end** of the narrow section | An **existing electrical junction box is already in this cupboard** — pick up the supply from there. IP rating to match the cupboard's enclosure spec. |
 | **5** | On the wall in the **NW corner** of the narrow section | IP66 weatherproof double 13A, mounted at the same height as the main-section sockets (≈500mm above FFL) for consistency. |
 
+## Outdoor kitchen — internal cabinet socket
+
+| # | Position | Notes |
+|---|---|---|
+| **6** | Inside one of the **kitchen base cabinets** (electrician to pick whichever cabinet offers the shortest run from the narrow-section feed) | Double 13A IP54-rated socket for **charging rechargeable battery lights** kept in the cabinet. No fixed task lighting on the outdoor kitchen run — battery lights are lifted out when needed for dining / cooking after dark. |
+
 ## General requirements (all sockets)
 
 - All existing protective enclosures to be reused unless damaged or no longer IP-compliant — replace like-for-like (IP66) if so
@@ -943,7 +966,78 @@ The terrace currently has **3 existing outdoor electrical sockets** in the main 
 
 ## Note on the additional IP66 socket in Part B
 
-The **IP66 socket on the building's external north wall, east end** (specified in Part B — External Switches / Isolators) is **in addition to** the 5 sockets in this Part, not one of them.
+The **IP66 socket on the building's external north wall, east end** (specified in Part B — External Switches / Isolators) is **in addition to** the 6 sockets in this Section, not one of them.
+
+---
+
+# Section L2 — External lighting
+
+## Overview
+
+A single coordinated external lighting scheme — **warm-white 12V LV LED uplighters in planted areas**, plus **two recessed downlights** in the eave/soffit above the sauna and wet room doors. All zoned, dimmable, on Home Assistant via WiFi.
+
+**Design principles:**
+
+- **Warm white** (2700K) throughout — atmospheric, sympathetic to the Regency / heritage character of Sussex Square
+- **Uplighters concealed in planted areas** — the fittings disappear, only the light shows, illuminating foliage and trees from below
+- **Marine-grade fittings** — 316 stainless steel or brass — for a 15–20 year life in coastal salt air
+- **Middle-of-road spec** (Collingwood / Lightpro / In-lite / Techmar). Not premium (Hunza, John Cullen) and not unbranded budget — middle is the durability-vs-cost sweet spot
+- **12V low-voltage plug-and-play** preferred (Lightpro, In-lite, Techmar systems) so fittings can be added, moved or replaced without an electrician
+- **No light visible above the parapet line from the street** — heritage / conservation area
+- **No light pollution** to neighbours or to the registered communal garden of Sussex Square
+
+## Lighting zones
+
+Six dimmable zones, each on its own Shelly:
+
+| Zone | Area | Fittings | Approx count |
+|---|---|---|---|
+| **1** | South-end pot cluster (5 pots) + pots west of N3 | Small spike uplighters in pot soil, one per pot | ~7 |
+| **2** | Narrow section planters **N1 + N2 + N3** | Spike uplighters in planter beds — wash back-row plants up | ~8 |
+| **3** | Dining area — planter **M1** (L-shape) | Uplighters along the M1 run, washing up olives + back-row shrubs | ~6 |
+| **4** | Lounge SE corner — planter **M2** (L-shape) | Uplighters in M2, picking out the olives, Cynara, Phormium uprights | ~6 |
+| **5** | Sauna east side — planter **M3** + door downlights | Uplighters in M3 (washing up the single olive) + 2× door downlights | 3 + 2 |
+| **6** | Hot tub planters — **M5 (east) + M6 (north) + M7 (west)** | Low-glare uplighters, **angled so they don't dazzle anyone sitting in the tub** | ~6 |
+
+**Total estimated:** ~36 uplighters + 2 downlights.
+
+## Fittings — preferred suppliers and types
+
+**Spike uplighters (planted areas — zones 1, 2, 3, 4, 5, 6):**
+
+- **Lightpro Garden Lights** (NL, UK distribution) — 12V LV plug-and-play system. Brass and 316SS spike uplighters, marine-spec, ~£30–50 each. Whole installation runs off one bus with pre-made waterproof connectors.
+- **In-lite** (NL, UK distribution) — similar 12V LV plug-and-play, very robust connectors, slightly premium pricing.
+- **Techmar Garden Lights** — comparable 12V LV system, also widely stocked in UK.
+- Any of the three are acceptable — electrician's choice based on stock and price at install.
+
+**Eave/soffit downlights (zone 5 — sauna and wet room doors):**
+
+- Small (~50–65mm diameter) **IP65 LED downlight** in 316 stainless or anthracite-matched finish, recessed into the underside of the eave/soffit above each door on the north (door) face of the sauna/wet room building.
+- Examples: **Collingwood DL** range, **Astro Minima** in IP65 variant, or marine-spec equivalent.
+- Warm white 2700K, ~3–5W LED, dimmable.
+- **Coordinate with Part A** on the soffit detail — small recessed downlights need a flat soffit area at the door head where they can be set in cleanly.
+
+## Control — Home Assistant via WiFi (no MQTT broker)
+
+- **One Shelly Dimmer 2** (Gen 1, WiFi, 230V mains-side trailing-edge dimmer) **per zone** — connects directly to HA over WiFi via the official Shelly integration. **MQTT broker not required** — WiFi was specifically chosen because the terrace MQTT signal is weak.
+- For each zone: Shelly Dimmer 2 → **mains-dimmable trailing-edge LED driver / 12V LV transformer** → fittings on that zone's plug-and-play bus.
+- Verify the LV transformer is on the Shelly / Lightpro / In-lite **dimmer compatibility list** before ordering — Lightpro and In-lite both publish these.
+- All Shellys live in the **DIN-rail enclosure** that also houses the sauna heater contactor and the Part C control Shellys, so cabling stays in one place.
+- HA scenes will configure typical evening combinations (e.g. "dining only", "hot tub only", "all on low") and a default dusk-to-23:00 schedule for the planter zones.
+- **Manual override:** a single weatherproof momentary push-button beside the dining doors flips an "all terrace lights" master scene in HA, so the system can be used without a phone.
+
+## Cable strategy
+
+- **12V LV cable** routed under the tile build-up where possible (within the pedestal float zone), in conduit at any penetration through the planter walls.
+- For surface-tracked runs (e.g. behind planters along walls), keep the cable concealed behind the planter back face — there's a 25–50mm air gap to the wall (Part J) that's ideal for cable routing.
+- **All 230V mains** stays inside the building / DB enclosure — only **12V LV** runs out onto the terrace surface.
+
+## Lighting we have deliberately ruled out
+
+- **No parapet uplighters / no light fixed above parapet line** — heritage / conservation, light pollution
+- **No stair hatch lighting** — ambient spill from zones 1 + 2 is enough; the hatch is rarely opened after dark
+- **No outdoor kitchen fixed task lighting** — handled by battery rechargeable lights stored in a kitchen cabinet (powered by socket **6** above)
+- **No hot tub external mood lighting** — most tubs include built-in coloured LEDs; we use those for the tub itself
 
 ## Wifi access point on the sauna/wet room building
 
@@ -964,11 +1058,24 @@ To give reliable wifi coverage across the full terrace (hot tub, dining area, sm
 
 ## What we'd value your steer on
 
-- Whether all 3 existing main-section enclosures are worth retaining or if a uniform replacement (matching IP66 spec across all 5 terrace sockets) would be cleaner
+**Sockets:**
+
+- Whether all 3 existing main-section enclosures are worth retaining or if a uniform replacement (matching IP66 spec across all 6 terrace sockets) would be cleaner
 - Confirmation that 500mm above new FFL is a sensible standard height — or your preferred standard
 - Whether the SW cupboard junction box is suitable to pick up from, or needs upgrading
-- **Wifi AP cable feed**: preferred Cat6 cable route from inside the flat (where the PoE injector lives) into the building shell and out under the south fascia — up the south face? through the door head? — and how to weatherproof the cable's exit point through the cladding
+- Best kitchen cabinet to host socket **6** (shortest run, best access for charging)
+
+**WiFi AP:**
+
+- Preferred Cat6 cable route from inside the flat (where the PoE injector lives) into the building shell and out under the south fascia — up the south face? through the door head? — and how to weatherproof the cable's exit point through the cladding
 - Discreet mount point under the south fascia / eaves underside (coordinate with Part A's roof detail)
+
+**Lighting:**
+
+- Confirmation that the **door downlights** can be cleanly recessed into the eave/soffit at the north face of the sauna and wet room doors (depends on the soffit detail coming out of Part A — flat enough area to set in a ~60mm fitting)
+- Whether to install **one zoned transformer with 6 dimmable outputs** vs **6 separate transformers** (one per zone) — practical preference of the electrician
+- **Cable concealment** — confirmation that running 12V LV under the pedestal float zone (with conduit at planter penetrations) is acceptable from a maintenance perspective
+- Whether **socket 6 in the kitchen cabinet** needs higher than IP54 given it's inside a cabinet but on an outdoor structure
 
 ---
 
@@ -1040,9 +1147,9 @@ This section sets out the **approximate planted area**, the **planting palette**
 
 **Companion working document:** the full plant list — with thumbnail images, mature dimensions (H × W), growth rate, biodiversity benefit and Sussex Square frequency for ~60 species — lives in **[`planting.md`](planting.md)** alongside this spec. (Open in a browser; thumbnails are pulled live from Wikimedia Commons.)
 
-## Planted area (locked in 31 May 2026)
+## Planted area
 
-Calculated from the locked-in planter inventory in Part J (see Part J "Sizes" subsection for each planter's dimensions, height and position).
+Calculated from the planter inventory in Part J (see Part J "Sizes" subsection for each planter's dimensions, height and position).
 
 | # | Planter | Footprint | Area |
 |---|---|---|---|
@@ -1081,7 +1188,7 @@ The full list with sizes, growth rate, biodiversity notes and images is in **[`p
 - **Herbs:** *Foeniculum vulgare*, *Achillea millefolium*, *Origanum vulgare*, *Thymus vulgaris*, *Mentha* sp.
 - **Specimen trees:** **8 × *Olea europaea*** (olives) in the east-edge run
 
-## Windbreak planting plan (locked in 31 May 2026)
+## Windbreak planting plan
 
 The planting has been designed to provide **wind defence on the north and east parapets** (the principal wind directions to defend against) while **preserving the east view to the Downs from the hot tub**. The plan deliberately leans on species already in the Sussex Square palette — no new species added.
 
@@ -1119,7 +1226,7 @@ The planting has been designed to provide **wind defence on the north and east p
 
 **West of N3:** Mixed soft pots — *Lavandula*, *Stachys*, herbs. Softens the kitchen-to-N3 transition.
 
-For the full plant palette with mature sizes, growth rates, biodiversity benefits, and Sussex Square photo frequency, see [`planting.md`](planting.md) which now opens with this windbreak plan.
+For the full plant palette with mature sizes, growth rates, biodiversity benefits, and Sussex Square photo frequency, see [`planting.md`](planting.md), which opens with this windbreak plan.
 
 ### Artist's impressions (mid-summer afternoon, ~3 years post-planting)
 
@@ -1175,14 +1282,13 @@ Photo-realistic visualisations of each planter at maturity. These are AI-generat
 
 ## Biodiversity case
 
-(Reviewed and updated 31 May 2026 against the locked-in windbreak planting plan and the revised planter inventory.)
 
-- **Continuity with the protected Kemp Town Enclosures planting** — the palette is drawn from the same Mediterranean / coastal-meadow tradition that already characterises Sussex Square's communal gardens, so the terrace reads as an extension of the registered garden's biodiversity layer rather than an alien intrusion. **Olearia × haastii (×3 in Sussex Square photos)** is the primary mid-tall windbreak shrub in the locked-in plan — well-evidenced in the local heritage planting.
+- **Continuity with the protected Kemp Town Enclosures planting** — the palette is drawn from the same Mediterranean / coastal-meadow tradition that already characterises Sussex Square's communal gardens, so the terrace reads as an extension of the registered garden's biodiversity layer rather than an alien intrusion. **Olearia × haastii (×3 in Sussex Square photos)** is the primary mid-tall windbreak shrub in this plan — well-evidenced in the local heritage planting.
 - **Strong pollinator support** — *Nepeta × faassenii*, *Lavandula*, *Salvia rosmarinus*, *Salvia microphylla* 'Hot Lips', *Salvia nemorosa* 'Caradonna', *Phlomis fruticosa*, *Brachyglottis* 'Sunshine', *Origanum vulgare*, *Geranium* 'Rozanne', *Erigeron karvinskianus*, *Lithodora diffusa* — all in the RHS "Plants for Pollinators" list, providing nectar from early spring (*Lithodora*, *Lavandula*) through to late autumn (*Salvia microphylla*, *Erigeron*).
 - **Seed and overwintering value** — *Sedum* 'Purple Emperor', *Festuca glauca* tussocks, *Cynara cardunculus* seed heads, *Phormium tenax* flower spikes, *Phlomis fruticosa* whorls all left standing through winter provide seed and invertebrate cover for finches, sparrows and overwintering insects.
 - **Coastal-meadow niche** — ***Armeria maritima*** (UK coastal native, in M5), ***Origanum vulgare*** (UK native, in N3), naturalised *Erigeron karvinskianus*, *Salvia rosmarinus*, *Stachys byzantina*, *Lavandula* — together provide the Mediterranean / coastal-meadow biotope characteristic of the Sussex seafront. The broader palette in `planting.md` also includes *Crambe maritima*, *Glaucium flavum* and *Eryngium giganteum* which can be added as native enhancements if BHCC asks.
 - **Vertical layering** — **8 olive trees** distributed across 4 planters (3 in N1, 2 in M1, 2 in M2, 1 in M3) + sub-shrub mid-layer (*Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*, *Cordyline australis*) + perennial / mat understory + drought-tolerant low planting at hot tub — gives multi-tier habitat structure within the locked **~21.0 m² of planted area** (~14-18% of the terrace footprint). The parasols' fabric provides bird-safe cover when retracted.
-- **Specific UK native species in the locked-in plan:** *Armeria maritima* (M5), *Origanum vulgare* (N3). **Long-naturalised in S England:** *Erigeron karvinskianus* (multiple planters), *Stachys byzantina* (multiple), *Salvia rosmarinus* (multiple), *Lavandula angustifolia* (multiple). Wider palette has additional UK natives available for substitution if planning officer asks for more native content (see `planting.md`).
+- **Specific UK native species in this plan:** *Armeria maritima* (M5), *Origanum vulgare* (N3). **Long-naturalised in S England:** *Erigeron karvinskianus* (multiple planters), *Stachys byzantina* (multiple), *Salvia rosmarinus* (multiple), *Lavandula angustifolia* (multiple). Wider palette has additional UK natives available for substitution if planning officer asks for more native content (see `planting.md`).
 - **No invasive species** — the list deliberately excludes anything on Schedule 9 of the WCA 1981 (e.g. no *Cotoneaster horizontalis*, no *Crocosmia* × *crocosmiiflora*, no *Buddleja davidii* as a primary feature).
 - **EPDM-lined hardwood planters** with lightweight peat-free roof-garden soil mix + bark mulch (see Part J planter make-up) = healthy long-term planting at minimal structural load, not a one-season display.
 
@@ -1206,9 +1312,9 @@ This subsection sets out **what we've prepared for you**, **what physical featur
 
 **Post-development baseline:** Locked-in **~21.0 m² of planted area** (~14-18% of the terrace footprint, per Part J inventory and Part N "Planted area" subsection) plus **8 olive trees** distributed as point specimens (3 in N1, 2 in M1, 2 in M2, 1 in M3), plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs" (primarily *Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*), "Native species-rich elements" (*Armeria maritima*, *Origanum vulgare*), naturalised wildflowers (*Erigeron*, *Stachys*, *Lavandula*) and "Mixed scrub" texture within hardwood-clad container planters.
 
-**Native species in the locked-in windbreak plan + wider palette available for substitution:**
+**Native species in this windbreak plan + wider palette available for substitution:**
 
-| Species | Status | In locked-in windbreak plan? |
+| Species | Status | In this windbreak plan? |
 |---|---|---|
 | *Armeria maritima* — sea thrift | UK coastal native | **YES** — M5 (east of hot tub, low planting) |
 | *Origanum vulgare* — wild marjoram | UK native | **YES** — N3 (kitchen-adjacent sensory herbs) |
@@ -1295,7 +1401,7 @@ To complete the biodiversity submission, please confirm or produce:
 
 # PART O — STORAGE UNITS
 
-**Revised 31 May 2026 — consolidated from four units to two.** Two longer outdoor storage cabinets — one on the narrow section, one on the main section — **both built from salvaged hardwood deck boards** (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves — not chest-style with top-opening lids.
+Two outdoor storage cabinets — one on the narrow section, one on the main section — **both built from salvaged hardwood deck boards** (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves.
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
@@ -1310,7 +1416,7 @@ All dimensions to be confirmed by Bond McCart on the drawings.
 
 ## Construction principle
 
-Cabinet-style units, broadly the same material family as the planters (Part J) but **simplified** — no EPDM membrane. Sealed marine ply on the inside is sufficient for dry-goods / cushion storage; the EPDM in the planters is there because they hold soil and water, which storage doesn't.
+Cabinet-style units, built from salvaged hardwood with a sealed marine ply inner box. No EPDM membrane — the units hold dry goods / cushions, not soil and water, so marine ply with sealed corners is sufficient.
 
 ### Walls (bottom → outside)
 
@@ -1411,7 +1517,7 @@ Cushion / fabric storage needs **passive airflow** to prevent damp:
 
 # PART P — OUTDOOR KITCHEN
 
-**Revised 31 May 2026 — linear (not L-shape) layout.** An outdoor kitchen on the **narrow section** comprising **5 modules in a single straight run** under a continuous stainless worktop: two storage cabinets on the left, the BBQ in the centre (with vented LPG cabinet below), then fridge and sink cabinets on the right.
+An outdoor kitchen on the **narrow section** comprising **5 modules in a single straight run** under a continuous stainless worktop: two storage cabinets on the left, the BBQ in the centre (with vented LPG cabinet below), then fridge and sink cabinets on the right.
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
@@ -1430,7 +1536,7 @@ LEFT (south) →                                                ← RIGHT (north
 ## Position and footprint
 
 - **Narrow section, against the west parapet** (top edge of narrow in drawing) — exact position per 31 May drawing
-- **Linear straight run** (no longer L-shape as previously)
+- **Linear straight run**
 - Approximate module widths (5 modules total):
 
 | Module (L to R) | Function | Approx width | Notes |
@@ -1453,7 +1559,7 @@ Built to match the storage units and planters:
 - **Frame / inner:** marine ply (sealed at joints with marine epoxy)
 - **Doors / access panels:** hardwood-fronted, stainless hinges and handles
 
-### BBQ — gas bottle (locked-in spec)
+### BBQ — gas bottle
 
 - **Model:** **Beefeater Signature 3000E 4-burner built-in** — ~£896 (sale; £995 RRP)
   - 304 stainless seam-welded body, porcelain enamel construction, cast iron grates
@@ -1472,7 +1578,7 @@ Built to match the storage units and planters:
 - **Safety isolation:** in-line stainless ball valve on the gas hose (for emergency shut-off without disturbing the bottle)
 - **Spare bottle:** stored off-terrace (Chris's garage) — keeps the cabinet smaller and avoids two-bottle ventilation complexity
 
-### Sink (locked-in spec)
+### Sink
 
 - **Model:** **Caple Zero 1 Bowl 400 × 450mm in brushed stainless steel** — £346
   - Single bowl, brushed finish (hides water spotting/salt aerosol marks outdoors)
@@ -1481,7 +1587,7 @@ Built to match the storage units and planters:
   - Includes 90mm chrome basket strainer waste + overflow
   - Cut-out: 379 × 429mm; minimum base unit 400mm
 
-### Tap (locked-in spec)
+### Tap
 
 - **Model:** **Caple Robo brushed stainless monobloc** — ~£190 (sale; £254 RRP)
   - Brushed stainless finish (matches Caple Zero sink)
@@ -1491,7 +1597,7 @@ Built to match the storage units and planters:
   - 5-year Caple guarantee
   - 352mm tall × 195mm spout reach
 
-### Worktop (locked-in spec)
+### Worktop
 
 - **Material:** **304 stainless steel, brushed / satin finish** — fabricated to size with cut-outs for sink, BBQ head and (eventually) fridge ventilation grille. ~£500-£800 for the **3.3m × 0.7m** piece needed for the linear 5-module layout
   - **Brushed finish is essential outdoors** — polished stainless shows every water spot, raindrop and salt-aerosol mark within weeks at a coastal site. Brushed absorbs the marks into the grain direction and stays looking premium.
@@ -1500,7 +1606,7 @@ Built to match the storage units and planters:
   - 304 grade is adequate here — the worktop is sheltered by the cabinet structure and the south parapet. 316 reserved for fully-exposed elements (cladding, parapet bird-wire).
 - **Alternative:** stone (granite or slate) ~£300-£600, heavier, premium look but more porous and stain-prone — only if Chris later prefers the stone aesthetic
 
-### Fridge — under-counter (locked-in spec)
+### Fridge — under-counter
 
 - **Model:** **Beefeater Single Door Outdoor Tropical Fridge, 118L** — £1,299
   - **IPX4 splash-protected**, tested to 43°C ambient — engineered for outdoor kitchens
@@ -1554,13 +1660,13 @@ Built to match the storage units and planters:
 | BBQ head | Beefeater Signature 3000E 4-burner built-in | £896 |
 | Sink | Caple Zero 1 Bowl 400×450mm brushed stainless | £346 |
 | Tap | Caple Robo brushed stainless monobloc (cold-only) | £190 |
-| Worktop | **304 brushed stainless, 3.3m × 0.7m fabricated (revised 31 May for linear 5-module layout)** | **~£500-£800** |
+| Worktop | **304 brushed stainless, 3.3m × 0.7m fabricated** | **~£500-£800** |
 | Cabinet | **Salvaged hardwood + marine ply inner (5 modules, ~3.3m run)** | **~£500-£700** |
 | Fridge | Beefeater Single Door Outdoor Tropical 118L | £1,299 |
 | Plumbing / hardware | Pipe fittings, vents, hinges, drain trap, gas bottle, ball valve | ~£200 |
 | **TOTAL** | | **~£3,931-£4,431** |
 
-The linear 5-module layout has pushed total to ~£4,000-4,400 (vs the original £3k cap and the £3,531 of the L-shape design). The increase is primarily the longer worktop and additional cabinet modules.
+Total: ~£4,000-4,400 across the 5-module linear layout.
 
 ## What we'd value your steer on
 
