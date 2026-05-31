@@ -743,6 +743,58 @@ We want planters built from the **salvaged hardwood decking** removed from the e
 - Tile field butts up to the outside face of each planter
 - Planters are **freestanding boxes** — they do not rely on the parapet or any other wall for structural or weatherproofing function
 - Built with stainless steel fixings throughout
+- **Aim** — reference image:
+
+![Planter reference image](artists-impressions/planters.png)
+
+The reference shows the look we're aiming for: salvaged hardwood cladding with random staggered joints, weathered to silver-grey, with a substantial top capping board functioning as a casual sit-ledge. Plants in mixed Mediterranean / coastal palette spilling forward over the rim.
+
+## Build-up (revised 31 May 2026 for cost-efficiency)
+
+Original spec used a marine ply structural box (carrying over from the storage-unit pattern). On reflection that's over-engineered for a planter — the soil load is well within softwood frame capability, and the EPDM liner inside handles waterproofing. **Simplified to a treated softwood frame with hardwood cladding outside + EPDM lining inside + Brighton pier decking cap on top.**
+
+| Layer (outside → inside) | Spec | Cost / source |
+|---|---|---|
+| **Cap board (top sit-ledge)** | **Salvaged Brighton pier decking, 100×50mm** — 2 boards side by side (200mm total seat width) screwed to top frame rails with stainless A4/316 screws (plug-cut or face-fixed) | **Free** (Chris's salvage stock — iconic Brighton wood, adds heritage character) |
+| **Cladding** | **Salvaged hardwood deck boards, cut to 700–900mm random staggered lengths**, joints between courses MUST NOT line up (running-bond / random stagger only). Boards screwed into frame uprights through stainless A4/316 fixings. | **Free** (salvage) — see "Salvaged hardwood — handling the existing bolt holes" subsection below |
+| **Breathable membrane** | Inside face of cladding before EPDM | ~£5-10/planter |
+| **EPDM liner** | 1.0–1.2mm continuous, dressed up all four sides + 50mm onto top edge (trapped under the cap board) | ~£20-40/planter depending on size |
+| **Frame** | **50×50mm treated softwood (e.g. C16-graded UC4 treated)** — 4 corner posts (full height), top + bottom horizontal rails, intermediate vertical uprights at ~400mm centres. **Concealed structure** — never exposed to weather, treated to UC4 (in-ground) standard for belt-and-braces. | ~£15-25/planter materials |
+| **Cross-bracing** | Diagonal softwood bracing within frame for L-shape and longer planters (>2m) to handle soil thrust | Included in frame |
+| **Base** | Sloped 1% to drain; drainage holes through frame bottom + EPDM (then geotextile cap inside) | Standard |
+| **Bearers** | Treated softwood or stainless feet, ~25mm | Standard |
+
+**Why this works structurally:**
+- Soil + saturated lightweight mix exerts hydrostatic-like load on planter walls
+- 50×50mm treated softwood uprights at 400mm centres comfortably handle 600-700mm soil depth + perimeter water saturation
+- Same construction as ground-level garden planters that hold soil for decades
+- Marine ply was structurally over-spec'd; softwood frame is the conventional answer
+
+**Why the cap is special:**
+- Brighton pier wood is **iconic and salvageable** — same wood that's been carrying the seaside crowds for over a century
+- 50mm thick × 100mm wide × 2 boards = **substantial 200mm × 50mm capping** that supports casual sitting
+- Visually anchors the planter — gives a "bench-like" architectural finish
+- Caps the EPDM rim cleanly (no exposed liner edge)
+
+## Salvaged hardwood — handling the existing bolt holes
+
+The existing decking boards have decking bolts with large through-holes every 800mm. Approach:
+
+1. **Cut and discard hole sections** — cut boards into clean **700–900mm sections** between bolt holes (loses ~10-15% of total board length as waste — acceptable)
+2. **Staggered courses** — cladding installed in **running-bond / random stagger pattern** — joints between adjacent courses must NEVER line up vertically (read as patchwork). Random length variation within 700-900mm range looks intentional and crafted.
+3. **Use holed scraps for hidden uses** — battens, internal frame fillers, sacrificial bearers — anywhere not visible
+4. **Hardwood oil finish** (Osmo, Owatrol D1 Pro, ~£25/L covering ~10m² per coat) — applied to all visible cladding + cap. Re-oiled annually. Unifies colour, blends old + new sections.
+
+**Important: brief the builder that joint alignment between courses is a quality requirement** — if courses line up vertically, the result looks accidental, not intentional.
+
+## Estimated total cost vs original spec
+
+| | Original (marine ply box) | Revised (softwood frame) |
+|---|---|---|
+| Materials per planter (~3-5m run) | ~£140-200 | ~£40-70 |
+| Across ~10 planters | ~£1,500-2,200 | ~£400-700 |
+| **Saving** | | **~£1,000-1,500** |
+| Plus: faster build (no marine ply box joinery), uses salvaged stock more fully (battens / hidden uses for holed scraps), Brighton pier wood as cap adds character at zero cost |
 
 ## Sizes — planter inventory (locked in 31 May 2026)
 
@@ -787,12 +839,7 @@ Result: any water that escapes the planter falls onto the Protectoboard / tile v
 
 ## Planter shell construction
 
-| Layer (inside → out) | Spec | Purpose |
-|---|---|---|
-| Liner | **EPDM rubber** (1.0–1.2mm), continuous, no PVC | Waterproof, root-resistant, food-safe, 30–50 year life. Keeps soil contained and prevents leaching onto terrace tiles. |
-| Liner support | Timber inner faces lined with breathable membrane between liner and timber | Allows any moisture between liner and timber to escape |
-| Hardwood box | Reused decking, stainless fixings | Structural box |
-| Bearers | Treated softwood or stainless feet, ~25mm | Lifts hardwood off Protectoboard so the base ventilates and doesn't sit in standing water |
+> **Superseded** — the original "hardwood box as structural" + "marine ply structural" interim spec has been replaced with the simpler softwood-frame approach in the "Build-up" subsection above. See that subsection for the locked-in layered makeup including the salvaged Brighton pier cap.
 
 ## Planter make-up — drainage, soil, mulch — **to be provided and installed by the builders**
 
