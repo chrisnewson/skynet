@@ -1207,6 +1207,77 @@ The planting has been designed to provide **wind defence on the north and east p
 
 For the full plant palette with mature sizes, growth rates, biodiversity benefits, and Sussex Square photo frequency, see [`planting.md`](planting.md), which opens with this windbreak plan.
 
+### Shopping list — planting schedule
+
+Quantities derived from the per-planter plant lists above + movable pots. Sizes are **supply pot size at delivery** — chosen for "instant impact, but not extreme" (presentable starting size, not maximum statement size). Costs are approximate UK retail / specialist-nursery indicative ranges; a single trade order would typically come in below the upper end.
+
+**Tier 1 — Specimen trees**
+
+| Species | Common name | Qty | Supply size | Where | Unit £ | Subtotal £ |
+|---|---|---|---|---|---|---|
+| *Olea europaea* | Olive (multi-stem) | 5 | 15L pot, ~2–2.5m tall, multi-stem | 2 N1 + 1 M1 + 1 M2 + 1 M3 | ~£100–150 | ~£500–750 |
+| *Olea europaea* | Olive — feature specimen for south-end pot | 1 | 25L+ pot, ~2m+, gnarled multi-stem | South-end movable pot cluster | ~£200–300 | ~£200–300 |
+
+**Tier 2 — Tall structural / windbreak shrubs (back row)**
+
+| Species | Common name | Qty | Supply size | Where | Unit £ | Subtotal £ |
+|---|---|---|---|---|---|---|
+| *Olearia × haastii* | Daisy bush (primary windbreak) | 14 | 5–7L pot, ~60–80cm | 4 M1 + 3 M4 + 2 M7 + 5 N1 | ~£18–28 | ~£250–390 |
+| *Phormium tenax* 'Purpureum' | Bronze New Zealand flax | 8 | 5–10L pot, ~60–80cm | 2 M2 + 2 M4 + 1 M7 + 2 N1 + 1 N2 | ~£25–40 | ~£200–320 |
+| *Phormium tenax* (green) | New Zealand flax | 1 | 5–10L pot | South-end pot | ~£25–35 | ~£25–35 |
+| *Pittosporum tobira* (full species) | Japanese pittosporum | 2 | 7–10L pot, 80–100cm — clipped to ~1.5m on site | M2 (back) | ~£25–40 | ~£50–80 |
+| *Pittosporum tobira* 'Wheeler's Dwarf' | Compact 1m dome | 2 | 5L pot, ~40–50cm | N2 + N3 (1 each) | ~£20–30 | ~£40–60 |
+| *Cordyline australis* | Cabbage palm (NE corner accent) | 1 | 5–10L pot, ~90–120cm | N1 (NE corner) | ~£25–40 | ~£25–40 |
+| *Cordyline australis* (compact) | Cabbage palm | 1 | 5L pot, ~60–80cm | South-end pot | ~£20–30 | ~£20–30 |
+| *Cynara cardunculus* | Cardoon (silver focal) | 1 | 5L pot | M2 | ~£15–25 | ~£15–25 |
+
+**Tier 3 — Mid shrubs**
+
+| Species | Common name | Qty | Supply size | Where | Unit £ | Subtotal £ |
+|---|---|---|---|---|---|---|
+| *Phlomis fruticosa* | Jerusalem sage | 9 | 3L pot | 2 M2 + 1 M3 + 2 M4 + 1 M7 + 3 N1 | ~£10–15 | ~£90–135 |
+| *Brachyglottis* 'Sunshine' | Silver/yellow daisy shrub | 7 | 3L pot | 2 M2 + 2 M4 + 3 N1 | ~£10–15 | ~£70–105 |
+| *Choisya ternata* 'Sundance' | Golden Mexican orange | 2 | 5L pot | M1 | ~£18–25 | ~£35–50 |
+| *Salvia microphylla* 'Hot Lips' | Bicolour shrubby sage | 5 | 2–3L pot | 2 M2 + 3 N1 | ~£8–12 | ~£40–60 |
+| *Salvia nemorosa* 'Caradonna' | Dark-stem purple-spike salvia | 3 | 2L pot | M1 | ~£7–10 | ~£20–30 |
+| *Salvia rosmarinus* | Rosemary | 13 | 2–3L pot | 3 M2 + 2 M7 + 4 N1 + 3 N3 + 1 south-end pot | ~£8–12 | ~£100–155 |
+| *Lavandula angustifolia* | English lavender | 17 | 2–3L pot | 5 M1 + 3 M4 + 2 M7 + 5 N1 + 1 south-end + 1 west-of-N3 pot | ~£8–12 | ~£135–205 |
+| *Lavandula angustifolia* 'Hidcote' (compact) | Compact lavender | 8 | 2L pot | 2 M5 + 2 M6 + 4 N2 | ~£7–10 | ~£55–80 |
+| *Hebe pinguifolia* | Compact silver-leaved hebe | 2 | 2L pot | M6 | ~£7–10 | ~£15–20 |
+
+**Tier 4 — Perennials and front row**
+
+| Species | Common name | Qty | Supply size | Where | Unit £ | Subtotal £ |
+|---|---|---|---|---|---|---|
+| *Nepeta × faassenii* | Catmint | 4 | 1–2L pot | M1 | ~£6–9 | ~£25–35 |
+| *Geranium* 'Rozanne' | Hardy geranium | 4 | 1–2L pot | M1 | ~£7–10 | ~£30–40 |
+| *Stachys byzantina* | Lamb's ears | 27 | 1L / 9cm pot | All planter front edges + 1 west-of-N3 pot | ~£4–6 | ~£110–160 |
+| *Erigeron karvinskianus* | Mexican fleabane | 27 | 1L / 9cm pot | M1, M2, M3, M4, N1 fronts | ~£4–6 | ~£110–160 |
+| *Festuca glauca* | Blue fescue grass | 12 | 1L / 9cm pot | M2, M5, M6, N1 | ~£4–6 | ~£50–70 |
+| *Sedum / Hylotelephium* 'Purple Emperor' | Purple-leaved sedum | 5 | 1–2L pot | 3 M5 + 2 M6 | ~£5–8 | ~£25–40 |
+| *Thymus vulgaris* | Common thyme | 10 | 9cm pot | 5 M5 + 4 N3 + 1 west-of-N3 pot | ~£3–5 | ~£30–50 |
+| *Origanum vulgare* | Wild marjoram (UK native) | 4 | 9cm pot | 3 N3 + 1 west-of-N3 pot | ~£3–5 | ~£12–20 |
+| *Armeria maritima* | Sea thrift (UK coastal native) | 4 | 1L / 9cm pot | M5 | ~£4–6 | ~£15–25 |
+| *Lithodora diffusa* | Azure-blue carpet | 2 | 1–2L pot | M3 | ~£5–8 | ~£10–15 |
+
+**Totals**
+
+| Tier | Plants | Estimated cost |
+|---|---|---|
+| 1 — Specimen trees | 6 | ~£700–1,050 |
+| 2 — Tall shrubs | 30 | ~£625–990 |
+| 3 — Mid shrubs | 66 | ~£560–840 |
+| 4 — Perennials / front row | 99 | ~£415–615 |
+| **Grand total — plants only** | **~201** | **~£2,300–3,500** |
+
+**Notes for the nursery / supplier:**
+
+- The 5 planted-out olives in particular benefit from **multi-stem, gnarled forms** rather than tall single-trunk standards — the gnarled trunk is the visual signature of Sussex Square's olive plantings and what the heritage continuity argument leans on
+- *Pittosporum tobira* full species in M2 to be **clipped to ~1.5m max height** on site to stay within the 700mm planter's wind-defence zone without overtopping the parapet sightline from Bristol Gardens
+- A **10–15% contingency** on top of these counts is sensible (replacements during establishment, fill-out gaps in year 2)
+- All container plants ideally **peat-free supplied**
+- **Trade-discount** of 20–30% off these retail figures is typical for a single specialist-nursery order
+
 ### Artist's impressions (mid-summer afternoon, ~3 years post-planting)
 
 Photo-realistic visualisations of each planter at maturity. These are AI-generated artist's impressions intended to give a sense of the final mood and planting density — not exact botanical references.
@@ -1582,7 +1653,6 @@ Built to match the storage units and planters:
   - Grain direction to run parallel to the front edge of the worktop (matches the sink's brushed grain)
   - Heat-resistant (BBQ-adjacent), lightweight (good for roof load)
   - 304 grade is adequate here — the worktop is sheltered by the cabinet structure and the south parapet. 316 reserved for fully-exposed elements (cladding, parapet bird-wire).
-- **Alternative:** stone (granite or slate) ~£300-£600, heavier, premium look but more porous and stain-prone — only if Chris later prefers the stone aesthetic
 
 ### Fridge — under-counter
 
