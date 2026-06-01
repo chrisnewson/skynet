@@ -52,6 +52,8 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 **Floor area — no extra bulk on the roof.** Measured from the scaled drawings, the pre-app sauna/store was a long, low box of roughly **4.5 m × 1.7 m ≈ 7.6 m²**, running some 4.5 m along the parapet. The refined sauna + wet room sits within a compact, near-square footprint of about **2.5 m × 2.9 m ≈ 7.5 m²** — *the same enclosed area the officers already accepted in principle, with no increase in built mass* — but reshaped so its longest face is cut by roughly a third (4.5 m down to about 3 m) and pulled well back from the edge.
 
+> *Ronan — these footprint figures were scaled off the PDF drawings (A_GA_210 vs 26005 GA 100), not surveyed. Could you sanity-check them against your dimensioned plans before they go into the submission, so the comparison is robust?*
+
 **Every change reduces impact, in line with what was asked:**
 
 - **Set back 3 m from the Bristol Gardens parapet** (was 0.6 m). This directly meets Heritage Officer Lance Penman's explicit request to *"set further back by about 3–4 m from the parapet … to avoid it being prominently visible from that street."* The single biggest driver of streetscene visibility is fully addressed.
