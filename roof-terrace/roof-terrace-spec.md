@@ -54,6 +54,8 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 > *Ronan — these footprint figures were scaled off the PDF drawings (A_GA_210 vs 26005 GA 100), not surveyed. Could you sanity-check them against your dimensioned plans before they go into the submission, so the comparison is robust?*
 
+**One honest change — the wet room.** Pre-app the building was sauna + store; it is now sauna + wet room. This arose later in design for a practical reason: the nearest WC is the full length of the terrace away, down the internal stair and along the flat's corridor — impractical for a terrace built around a sauna and hot tub. With the store moved out to the low outdoor cabinets, the freed internal volume now holds a compact WC and shower. This is a change of *internal use only* — it adds nothing to the external footprint, height or massing the officers assessed, and from the street the building still reads simply as the sauna. The one new element is concealed foul drainage.
+
 **Every change reduces impact, in line with what was asked:**
 
 - **Set back 3 m from the Bristol Gardens parapet** (was 0.6 m). This directly meets Heritage Officer Lance Penman's explicit request to *"set further back by about 3–4 m from the parapet … to avoid it being prominently visible from that street."* The single biggest driver of streetscene visibility is fully addressed.
@@ -63,7 +65,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 - **Less intervention in the historic structure.** The pre-app proposed a lattice of new steel members fixed into the existing parapet to carry the hot tub. On the structural engineer's advice we have adopted a lighter, less disruptive solution — doubling the timber joists beneath the hot tub — reducing the new steelwork introduced into the listed fabric.
 - **Middle railing removed to cut roof clutter.** In discussion at the meeting the officers suggested removing the central (third) railing to reduce clutter on the roof; we have done so in response, retaining and re-siting the east and west railings. One less element breaking the rear skyline seen from Bristol Gardens.
 - **Southern parasol rotated 180°** and both confirmed fully retractable, as requested.
-- **Biodiversity improved, not just protected.** A bare asphalt roof becomes a densely planted terrace — pollinator-friendly planters along the parapets, olive trees and a coastal palette, with bee bricks built into the storage — delivering measurable biodiversity net gain and answering the BNG demonstration and Biodiversity Checklist the officers required (Part N). The greening is a positive for the conservation area in its own right.
+- **Biodiversity improved, not just protected.** A bare asphalt roof becomes a densely planted terrace — pollinator-friendly planters, olive trees and a coastal palette, with bee bricks in the storage — delivering measurable biodiversity net gain and answering the BNG demonstration and Biodiversity Checklist the officers required (Part N).
 
 **Net effect:** the same accepted footprint, pulled back and lowered in prominence; the store and the plain timber gone; less new steel in the historic structure; the middle railing cleared; and a bare roof turned green. This is not a departure from the pre-app design — it is that design improved along exactly the lines the officers set out, and remains comfortably *less than substantial harm*.
 
