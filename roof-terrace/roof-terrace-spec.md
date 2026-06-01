@@ -24,6 +24,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ## Contents
 
+- [Planning Case — Why the Refined Scheme Merits Support](#planning-case--why-the-refined-scheme-merits-support)
 - [Part A — Sauna](#part-a--sauna)
 - [Part B — Wet Room](#part-b--wet-room)
 - [Part C — Smart Control (Home Assistant)](#part-c--smart-control-home-assistant)
@@ -40,6 +41,26 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 - [Part N — Planting Palette & Biodiversity](#part-n--planting-palette--biodiversity)
 - [Part O — Storage Units](#part-o--storage-units)
 - [Part P — Outdoor Kitchen](#part-p--outdoor-kitchen)
+
+---
+
+# Planning Case — Why the Refined Scheme Merits Support
+
+*For Ronan: why the refined proposal answers the pre-application advice (PRE2025/00255, 30 April 2026) and sits more comfortably with the Grade I listed building and the Kemp Town Conservation Area than the scheme the officers already found acceptable.*
+
+**The starting point was positive.** At pre-app the officers concluded the proposal was *"likely to be considered acceptable, in terms of its impact on the grade I listed building and neighbouring amenity,"* subject to adjustments to reduce the sauna/store's visibility from the Bristol Gardens streetscene. The refined scheme keeps everything they accepted — porcelain tiles, the level changes, the concealed steel support, inner-face glass guarding, the hot tub (not visible from the street), and retractable parasols — and reworks only the one element they flagged.
+
+**Floor area — no net increase in built mass.** Measured from the scaled drawings, the pre-app sauna/store was a long, low box of roughly **4.5 m × 1.7 m ≈ 7.6 m²**, running some 4.5 m along the north–south axis hard against the parapet. The refined sauna + wet room occupies a compact, near-square footprint of about **2.5 m × 2.9 m ≈ 7.5 m²** — *the same enclosed area the officers already accepted in principle* — but its longest dimension is cut by a third (4.5 m down to about 3 m), and its usable internal floor is actually **smaller** (~5.7 m² vs ~6.9 m²). The roof gains no additional built bulk.
+
+**Every change reduces impact, in line with what was asked:**
+
+- **Set back 3 m from the Sussex Row parapet** (was 0.6 m). This directly meets Heritage Officer Lance Penman's explicit request to *"set further back by about 3–4 m from the parapet … to avoid it being prominently visible from that street."* The single biggest driver of streetscene visibility is fully addressed.
+- **The store has left the roofline.** Planning Officer Charlie Partridge suggested splitting the combined sauna/store, using *"a separate store of a lower height."* We go further: storage moves into two low outdoor cabinets sitting below parapet height (Part O), removing the store from the elevated structure altogether.
+- **Height kept low** — 1,150 mm above the parapet with an essentially flat roof, the height shown on the drawings considered at pre-app and unchanged here.
+- **A more permanent, recessive finish.** Officers felt plain weathering timber was *"not ideal"* and asked for something more refined. The PVDF marine-aluminium standing seam in anthracite is durable, low-reflectance and reads quietly against the brick flank wall — aligned with their steer.
+- **Southern parasol rotated 180°** and both confirmed fully retractable, as requested.
+
+**Net effect:** the same accepted footprint, pulled back, lowered in prominence, with both the store and the plain timber removed. This is not a departure from the pre-app design — it is that design improved along exactly the lines the officers set out, and remains comfortably *less than substantial harm*.
 
 ---
 
@@ -256,7 +277,7 @@ Systems considered, all of which publish coastal warranties at marine specificat
 **Internal dimensions:** 2.15m (north–south) × 0.9m (east–west)
 **Minimum internal ceiling height:** 2.15m (same as sauna — single internal ceiling height across the whole building)
 
-> **Change from pre-application — note for planning:** The pre-app drawings showed a **sauna + storage** combined building. Storage has been **redistributed into two lower outdoor cabinets** (see Part O), which sit below the parapet height and are essentially hidden from the streetscene. This freed up the internal volume to accommodate a **wet room (with WC)** as an addition. **The building's external footprint is unchanged from pre-app** — same shape, same setbacks, same height envelope — and the planning officer's preferred form is preserved. The wet room is purely an internal subdivision of space planning already accepted in principle.
+> **Change from pre-application — note for planning:** The pre-app drawings showed a combined **sauna + store**. In the refined scheme the store moves out of the elevated structure into two low outdoor cabinets below parapet height (see Part O), and the freed volume becomes a **wet room (with WC)**. The **enclosed footprint is broadly unchanged in area** (~7.5 m², no greater than the ~7.6 m² already accepted), but the structure has been **reshaped into a compact mass and set back 3 m from the Sussex Row parapet** (was 0.6 m) — directly answering the pre-app advice. See the [Planning Case](#planning-case--why-the-refined-scheme-merits-support) section for the full comparison.
 
 ## Layout
 
