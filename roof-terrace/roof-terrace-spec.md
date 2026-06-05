@@ -82,6 +82,12 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 > - **External roof height ~1,293mm above parapet** — *increased from the 1,150mm in the revised heritage statement* because inverting the whole main roof section raised the finished floor level (see Part M). **This exceeds the pre-app figure by ~143mm and must be re-presented to planning.** Ronan to confirm the final figure once the inverted build-up depth is fixed.
 > All Part A design assumptions must respect these limits.
 
+## Internal plan
+
+![Sauna internal layout plan](drawings/sauna-internal-plan-5-6-26.png)
+
+*Working layout sketch (indicative, not to construction standard).* Heater in the **SE** corner; two-tier **west bench** (650mm deep) with a **single straight lower step**; **south corner return seat**; **clear-glass door opening out** at the north; **window 300mm off the north wall**. **North = right**, matching the GA drawings.
+
 ## Floor
 
 - Tanked (continuous with adjacent wet room), screeded to fall, R11 porcelain tile to match the rest of the terrace
