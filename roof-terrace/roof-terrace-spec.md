@@ -111,17 +111,21 @@ L-shape wraparound, two-tier on both walls, all in the same untreated whitewood/
 | Upper bench, south wall | 950mm | 550mm | 1.5m (less heater clearance) |
 | Lower bench/step, south wall | 450mm | 350mm | 1.5m (less heater clearance) |
 
-The upper bench wraps around the corner so two people can lie at right angles. The south-east end of the south wall benches (nearest the heater in the SE corner) needs to be cut back by approximately **250–300mm** to maintain clearance from the Harvia Cilindro PC90E heater body (360mm wide × 340mm deep) and its guard rail. Final dimensions to be confirmed against the manufacturer's installation manual.
+The bench is a **two-tier L wrapping the SW corner**. **One person lies full-length** on the 2.15m west bench; the south leg gives a second person a seat / reclined leg-room around the corner (the 1.5m south wall is too short to lie along on its own). The **lower step runs the southern part of the west wall and stops short of the north (door) end**, so you step onto clear floor as you enter — not onto the bench. The south-leg benches are **cut back at the SE end by ~250–300mm** for clearance to the Harvia Cilindro PC90E (360 × 340mm) and its guard rail in the SE corner — final clearances per the manufacturer's manual.
 
 ## Door
 
-- North wall, 600mm clear opening
-- Pre-made outdoor sauna door, solid cedar, weatherproof frame and threshold — suppliers worth considering include **Finnmark Sauna** (UK), **Auroom** (Estonia/UK), **Tylö Helo** (Sweden), **Harvia** (Finland). Final choice likely tied to the kit-vs-site-built decision (see "What we'd value your steer on"), since door + interior typically come from one supplier.
-- Solid timber, no glazing
-- Magnetic catch, 50N+ pull force (we want it wind-resistant); wooden handles
-- Outward-opening, with restrictor chain to limit swing in wind
-- **Hold-open mechanism for venting between sessions** — marine A4 stainless or solid brass cabin-hook (or sprung friction hold-open arm) fixed to the external wall so the door can be held at ~30–45° for passive airing without slamming in the wind. Chosen for simplicity, marine durability and one-handed release.
-- Approximate cost: £250–450
+- North wall, 600mm clear opening, **clear of the bench** (you step onto open floor on entry — see benches above)
+- **Glass sauna door** *(revised 5 June 2026 — was solid cedar).* Toughened safety glass leaf in a timber (cedar) or marine-grade aluminium frame.
+- **Must be an outdoor / weatherproof-rated assembly — not a standard indoor sauna-cabin glass door.** It needs to be insulated (sealed double/triple glazing or a properly weather-sealed external sauna door), with full-perimeter weather seals and a weathered threshold, because this door is the external face of the building on an exposed coastal roof. Most catalogue glass sauna doors are for indoor cabins — confirm the external/coastal rating with the supplier.
+- **Glass finish to decide:** clear, bronze/grey tint, or frosted — frosted/tint gives privacy from the terrace; clear keeps it open and lets the sauna glow out in the evening.
+- **Coastal hardware:** A4/316 stainless or solid brass hinges, catch and handle only.
+- Magnetic catch, 50N+ pull (wind-resistant); heat-tolerant (timber / cool-touch) handle.
+- Outward-opening, with restrictor to limit swing in wind.
+- **Hold-open for venting between sessions** — marine A4 stainless / solid brass cabin-hook (or sprung friction arm) on the external wall, holding the door at ~30–45° for passive airing.
+- **Heat-loss note:** a glazed door loses more heat than an insulated timber one — consistent with doors/windows being the main heat path (see Walls and Ceiling). Accepted for the look, and mitigated by the door being **diagonally opposite the heater** (SE) and well sealed.
+- Suppliers: sauna specialists do glass doors — **Finnmark, Auroom, Tylö Helo, Harvia** — subject to the outdoor-rating check above.
+- Approximate cost: £400–800 (outdoor-rated glazed unit)
 
 ## Window
 
