@@ -41,6 +41,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 - [Part N — Planting Palette & Biodiversity](#part-n--planting-palette--biodiversity)
 - [Part O — Storage Units](#part-o--storage-units)
 - [Part P — Outdoor Kitchen](#part-p--outdoor-kitchen)
+- [Part Q — Terrace Access (Study Door / Window)](#part-q--terrace-access-study-door--window)
 
 ---
 
@@ -508,7 +509,7 @@ The narrow section of the roof terrace currently has three sets of railings. We'
 ## Changes
 
 - **Re-site the existing railings** to the new FFL on the narrow terrace, shifted up so the railing base matches the new raised tile level.
-- **Raise the railing height** — *new from the 4 June meeting.* Because the new build-up raises the floor level, the retained railings will need to be **made taller by adding something on top** to keep an adequate guarding height. The method is **still to be decided** — options floated were tensioned wires (one or more), or a timber upstand with wires on top. This is part of our scope.
+- **Raise the railing height** — *new from the 4 June meeting; reduced by the 5 June level change.* Because the narrow section is **now kept on the lowest pedestals** (see Part M "Levels across the terrace"), the floor level on the narrow terrace barely rises, so the retained railings need **little or no added height** — revisit once the narrow FFL is fixed. If any rise is needed, options floated were tensioned wires (one or more) or a timber upstand with wires on top. This is part of our scope.
 - **Add bird wire on top** — stainless post-and-wire system running along the top of each railing. (May be combined with the height-raising above.)
 - **Remove:** the centre railing, and the short railing joining the centre railing to the west railing (redundant under the current layout).
 - **Keep:** the east railing and the west railing — both re-sited per above.
@@ -1155,6 +1156,26 @@ Inverting the whole main section will **raise the finished floor level (FFL) abo
 - The **glass guarding heights** (Part H), measured from FFL / hot tub rim
 - The **railing re-siting / raising** on the narrow section (Part E)
 
+## Levels across the terrace — two levels, three steps
+
+*Revised 5 June 2026 — supersedes the earlier idea of raising the whole narrow section up over the lift over-run.* The terrace will now have **two deliberate levels:**
+
+| Area | Level | How it's achieved |
+|---|---|---|
+| **Narrow section (Floor Area 1)** | **Low** — kept as low as possible | Tiles on the **lowest pedestal height** on the warm-roof build-up. No longer raised up over the lift over-run. |
+| **Main section (Floor Areas 2/3/4)** | **High** | Tiles on **tall adjustable pedestals** — our supplier has a pedestal covering the **350–500mm** height range — on the inverted build-up. |
+
+- **3 steps up** lead from the low narrow section (Floor Area 1) to the higher main section (Floor Area 2).
+- **Lift over-run:** no longer built over. Its top is re-detailed as a **planter + a narrower cupboard** (Chris to detail further — see Parts J and O).
+- **Level access from the study:** keeping the narrow section low, combined with **dropping the study door/window sill by 170mm** (see Part Q), gives a level / near-level threshold from the study straight onto the narrow terrace.
+
+**For Ronan / Building Control:**
+
+- **Step detail** — going, rise and nosings for the 3 steps, and whether a **handrail / guarding** is required at the level change (Approved Document K).
+- **Tall pedestals (350–500mm)** on the main section need lateral stability at that height (stabilisers / bracing / restraint rails), and the acoustic pads (Part I) must still seat correctly at full extension — confirm with the pedestal supplier.
+- **Narrow-section railing raising (Part E) reduces** — with the narrow floor now barely rising, the retained railings need little or no added height; revisit Part E once the narrow FFL is fixed.
+- **Drainage falls** on each level, and at the step line, to be set out so water sheds correctly on both levels.
+
 ## Protectoboard over the entire terrace
 
 We want **Protectoboard installed over the top of the asphalt across the whole terrace** — both the inverted main section and the warm narrow section. This protects the membrane from:
@@ -1177,6 +1198,8 @@ No acoustic underlay mat above the Protectoboard (Protectoboard alone is the sub
 ### Doors-vs-build-up — likely resolved by the whole-section inverted approach
 
 Previously the hot tub zone was to be built ~200mm higher than the surrounding warm roof, which raised a question about how the outward-opening sauna / wet room doors would clear the step. With the **whole main section now at one inverted level**, that step should disappear and the terrace outside the doors should be at a single consistent level. **To be confirmed by Ronan** once the build-up heights are fixed, but the earlier three-way confusion (lower / higher / intermediate build-up) is expected to fall away — along with the old "400mm vs 200mm raised floor" discrepancy.
+
+This single consistent level applies to the **main section** (Floor Areas 2/3/4), where the sauna / wet room doors sit. The **narrow section is now deliberately lower**, with **3 steps** up to the main section — see "Levels across the terrace" above.
 
 ## Plumbing — set out drainage before the roof is closed
 
@@ -1835,3 +1858,24 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 - **Whether the kitchen unit's base needs to be on stainless feet** like the storage units, or sit directly on the Protectoboard (to be coordinated with the waste pipe routing)
 - **Confirmation of 3.3m total kitchen length** — fits within the available west-parapet run on the narrow section
 - **Cabinet layout sequence** — confirm L-to-R reads: Storage / Storage / BBQ / Fridge / Sink (or whether you'd prefer the BBQ at one end with all storage / utility one side)
+
+---
+
+# PART Q — TERRACE ACCESS: STUDY DOOR / WINDOW
+
+*New item, 5 June 2026.* Access from the flat onto the terrace is via the existing **door/window from the study** at the **south end of the narrow terrace**. We want to turn this into a proper level threshold.
+
+## Change
+
+- **Lower the sill by 170mm** so it sits **flush / level with the internal study floor**, giving a level (or near-level) threshold out onto the narrow terrace — which is now kept low (see Part M, "Levels across the terrace").
+- This requires a **new door/window unit** to suit the lowered opening.
+
+## Planning
+
+- **This alteration to the building fabric will require planning approval / Listed Building Consent** (a change to an opening / fenestration on a Grade I listed building). To be included in the full application alongside the other heritage items (sauna height, cladding, etc.).
+
+## What we'd value your steer on
+
+- **Detailing of the lowered opening** — structural head/sill, weathering, and a watertight **level-threshold** detail onto the terrace (e.g. a threshold drainage channel so water can't track back inside at the flush junction).
+- **Specification of the new door/window** — thermal performance, security, and a conservation-appropriate appearance for the listed building.
+- **Heritage justification** for the altered opening, for the application.
