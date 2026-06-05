@@ -18,7 +18,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ![Overall floor plan](drawings/full-terrace-31-5-26.png)
 
-**Main section close-up** (FLOOR AREAS 2, 3, 4 — dining, lounge, sauna / wet room building, hot tub):
+**Main section close-up** (FLOOR AREAS 2, 3, 4 — dining, lounge, sauna / wet room building, hot tub) — *note: Floor Area 4 is being merged into Floor Area 3 and the levels revised (see Part M, "Levels across the terrace"); drawings to be updated:*
 
 ![Main floor plan](drawings/floorplan-main-31-5-26.png)
 
@@ -1156,25 +1156,29 @@ Inverting the whole main section will **raise the finished floor level (FFL) abo
 - The **glass guarding heights** (Part H), measured from FFL / hot tub rim
 - The **railing re-siting / raising** on the narrow section (Part E)
 
-## Levels across the terrace — two levels, three steps
+## Levels across the terrace — three levels
 
-*Revised 5 June 2026 — supersedes the earlier idea of raising the whole narrow section up over the lift over-run.* The terrace will now have **two deliberate levels:**
+*Revised 5 June 2026 — supersedes both the earlier idea of raising the whole narrow section up over the lift over-run, and the idea that the whole main section sits at one high level.* The terrace will now read as **three levels**, set by pedestal height:
 
 | Area | Level | How it's achieved |
 |---|---|---|
-| **Narrow section (Floor Area 1)** | **Low** — kept as low as possible | Tiles on the **lowest pedestal height** on the warm-roof build-up. No longer raised up over the lift over-run. |
-| **Main section (Floor Areas 2/3/4)** | **High** | Tiles on **tall adjustable pedestals** — our supplier has a pedestal covering the **350–500mm** height range — on the inverted build-up. |
+| **Narrow section (Floor Area 1)** | **Low** — kept as low as possible | **Lowest pedestal height** on the warm-roof build-up. No longer raised up over the lift over-run. |
+| **Dining (Floor Area 2)** | **High** — the one raised zone | **Tall adjustable pedestals** — our supplier has a pedestal covering the **350–500mm** range — on the inverted build-up. |
+| **Hot tub + seating/lounge + SE end of the large terrace (Floor Area 3)** | **Low** | Pedestals at **~100mm above the Protectoboard**, on the inverted build-up. |
 
-- **3 steps up** lead from the low narrow section (Floor Area 1) to the higher main section (Floor Area 2).
+**Floor Area 4 is deleted** — its area is absorbed into Floor Area 3 (Chris updating the drawings).
+
+- **3 steps up** lead from the lower terrace up to the **raised dining zone (Floor Area 2)**. This is the same FA2/FA3 transition the Part J planters already sit on — **M2 and M3 run along the stair line and double as the fall-protection edge at the FA2 drop**.
 - **Lift over-run:** no longer built over. Its top is re-detailed as a **planter + a narrower cupboard** (Chris to detail further — see Parts J and O).
 - **Level access from the study:** keeping the narrow section low, combined with **dropping the study door/window sill by 170mm** (see Part Q), gives a level / near-level threshold from the study straight onto the narrow terrace.
 
 **For Ronan / Building Control:**
 
-- **Step detail** — going, rise and nosings for the 3 steps, and whether a **handrail / guarding** is required at the level change (Approved Document K).
-- **Tall pedestals (350–500mm)** on the main section need lateral stability at that height (stabilisers / bracing / restraint rails), and the acoustic pads (Part I) must still seat correctly at full extension — confirm with the pedestal supplier.
-- **Narrow-section railing raising (Part E) reduces** — with the narrow floor now barely rising, the retained railings need little or no added height; revisit Part E once the narrow FFL is fixed.
-- **Drainage falls** on each level, and at the step line, to be set out so water sheds correctly on both levels.
+- **Step detail** — going, rise and nosings for the 3 steps up to Floor Area 2, and whether a **handrail / guarding** is required at the level change (Approved Document K).
+- **Tall pedestals (350–500mm)** are under **Floor Area 2 only** and need lateral stability at that height (stabilisers / bracing / restraint rails), with the acoustic pads (Part I) still seating correctly at full extension — confirm with the pedestal supplier. Floor Areas 1 and 3 are on low pedestals.
+- **Sauna / wet room door thresholds** open onto the **low Floor Area 3** — confirm the threshold detail from the building floor (on the Protectoboard) to the ~100mm-pedestal tile level outside.
+- **Narrow-section railing raising (Part E) reduces** — with the narrow floor now barely rising, the retained railings need little or no added height; revisit once the narrow FFL is fixed.
+- **Drainage falls** on each level, and at the step line, to be set out so water sheds correctly across all three levels.
 
 ## Protectoboard over the entire terrace
 
@@ -1197,9 +1201,9 @@ No acoustic underlay mat above the Protectoboard (Protectoboard alone is the sub
 
 ### Doors-vs-build-up — likely resolved by the whole-section inverted approach
 
-Previously the hot tub zone was to be built ~200mm higher than the surrounding warm roof, which raised a question about how the outward-opening sauna / wet room doors would clear the step. With the **whole main section now at one inverted level**, that step should disappear and the terrace outside the doors should be at a single consistent level. **To be confirmed by Ronan** once the build-up heights are fixed, but the earlier three-way confusion (lower / higher / intermediate build-up) is expected to fall away — along with the old "400mm vs 200mm raised floor" discrepancy.
+Previously the hot tub zone was to be built ~200mm higher than the surrounding warm roof, which raised a question about how the outward-opening sauna / wet room doors would clear the step. The **roof build-up under the whole main section is now one continuous inverted system**, so the earlier three-way confusion (lower / higher / intermediate build-up) and the old "400mm vs 200mm raised floor" discrepancy fall away at the *structural deck* level.
 
-This single consistent level applies to the **main section** (Floor Areas 2/3/4), where the sauna / wet room doors sit. The **narrow section is now deliberately lower**, with **3 steps** up to the main section — see "Levels across the terrace" above.
+**The finished tile level, however, deliberately varies by pedestal height** (5 June): the **dining zone (Floor Area 2) is raised** on tall 350–500mm pedestals, while the **hot tub / seating / SE area (Floor Area 3) stays low** on ~100mm pedestals — see "Levels across the terrace" above. The **sauna / wet room doors open onto the low Floor Area 3**, so **Ronan to confirm that door-threshold detail** (building floor on the Protectoboard ↔ the ~100mm-pedestal tile level outside). The **3 steps** connect the lower areas up to the raised Floor Area 2.
 
 ## Plumbing — set out drainage before the roof is closed
 
