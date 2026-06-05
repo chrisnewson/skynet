@@ -73,7 +73,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 # PART A — SAUNA
 
-**Internal dimensions:** 1.57m (east–west) × 2.15m (north–south)
+**Internal dimensions:** 1.5m (east–west) × 2.15m (north–south)
 **Minimum internal ceiling height:** 2.15m (same as wet room — single internal ceiling height across the whole building)
 
 > **Binding constraints from pre-application (PRE2025/00255):**
@@ -91,8 +91,9 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 This is a working assumption — final makeup to follow your steer (see "What we'd value your steer on" below).
 
-- **Insulation:** 75–100mm PIR (e.g. Celotex/Kingspan) in stud cavity, preferred over mineral wool for better thermal performance per mm of wall thickness — we're targeting the minimum viable external wall thickness (see footprint discussion below)
-- **Foil vapour barrier** on the interior face of the insulation, fully taped, continuous around all junctions (especially the partition–external-wall corner)
+- **Insulation — walls: 100mm PIR** (e.g. Celotex/Kingspan) in the stud cavity (fits a standard 100mm stud), preferred over mineral wool for better thermal performance per mm — kept thin to protect internal space and terrace footprint. Achieves U ≈ 0.24 W/m²K, within our ≤0.27 target. Going to 150mm would save only ~60W of wall loss (a few £/yr) at the cost of internal space, so 100mm is the deliberate choice.
+- **Insulation — roof/ceiling: 150mm PIR** — thicker than the walls because heat rises and the ceiling is the hottest surface, and there is **no space penalty overhead** (it sits within the 1,150mm-above-parapet build-up zone). See the Roof section.
+- **Foil vapour barrier** on the interior face of the insulation, fully taped, continuous around all junctions — **especially the partition–external-wall corner *and* the wall-to-roof junction**. The hot ceiling sees the most heat and moisture, so any gap at the wall-to-roof corner drives damp into the PIR and the cold roof void (rot / corrosion of the standing-seam roof from below). **Ronan to detail both junctions.**
 - **25mm ventilated batten cavity** between the foil VB and the internal lining, to let the timber breathe between sessions
 - **Internal lining:** untreated kiln-dried softwood tongue-and-groove — cedar, aspen, thermo-aspen, or spruce; final choice to follow the kit supplier's recommendation if kit-route is taken (see below)
 - All fixings stainless steel
@@ -106,8 +107,8 @@ L-shape wraparound, two-tier on both walls, all in the same untreated whitewood/
 |---|---|---|---|
 | Upper bench, west wall | 950mm | 550mm | 2.15m |
 | Lower bench/step, west wall | 450mm | 350mm | 2.15m |
-| Upper bench, south wall | 950mm | 550mm | 1.57m (less heater clearance) |
-| Lower bench/step, south wall | 450mm | 350mm | 1.57m (less heater clearance) |
+| Upper bench, south wall | 950mm | 550mm | 1.5m (less heater clearance) |
+| Lower bench/step, south wall | 450mm | 350mm | 1.5m (less heater clearance) |
 
 The upper bench wraps around the corner so two people can lie at right angles. The south-east end of the south wall benches (nearest the heater in the SE corner) needs to be cut back by approximately **250–300mm** to maintain clearance from the Harvia Cilindro PC90E heater body (360mm wide × 340mm deep) and its guard rail. Final dimensions to be confirmed against the manufacturer's installation manual.
 
@@ -215,7 +216,7 @@ We'd like the **external** length and width of the sauna/wet room building kept 
 
 **External walls** — thinnest viable makeup that retains good sauna thermal performance (we're aiming for U-value ≤ ~0.27 W/m²K) and is appropriate for coastal/exposed roof terrace conditions:
 
-- Can we use 75 mm or 100 mm PIR in the stud cavity rather than mineral wool, to get better thermal performance per mm of thickness?
+- We've settled on **100mm PIR in the walls and 150mm in the roof** (rather than mineral wool) for better performance per mm. Does that suit the exposure, and are you comfortable with **PIR at sauna temperatures** behind the foil VB + cedar lining, or would you prefer traditional rock/mineral wool on the hot faces?
 - Is a rigid 25 mm ventilated rain-screen cavity essential, or can a back-ventilated cladding detail direct to sheathing save thickness on this coastal site?
 - What is the thinnest external wall makeup you'd be comfortable specifying for this exposure?
 
@@ -241,7 +242,7 @@ We'd like the **external** length and width of the sauna/wet room building kept 
 
 Systems considered, all of which publish coastal warranties at marine specification: **Kalzip** (UK default), **Riverclack** (Italian, well-proven coastal), **PREFA** (Austrian, broad colour range), **VMZINC Pigmento Aluminium**.
 
-**Build-up impact:** ~30mm total (panel ~1mm + ventilated batten cavity ~25mm + clips). No change to our 75–100mm PIR + foil VB insulation plan — cladding is a rainscreen only.
+**Build-up impact:** ~30mm total (panel ~1mm + ventilated batten cavity ~25mm + clips). No change to our 100mm wall / 150mm roof PIR + foil VB insulation plan — cladding is a rainscreen only.
 
 **What we'd value your steer on:**
 
@@ -263,7 +264,7 @@ Systems considered, all of which publish coastal warranties at marine specificat
 | PVDF anthracite aluminium standing seam | Continuous with wall cladding |
 | UV-stable breather membrane | Tyvek UV Façade or Solitex Fronta WA |
 | Counter-battens / sub-frame | A4 / 316 stainless clips |
-| 100–150mm PIR between rafters | Thicker than the 75–100mm wall PIR (heat rises) — Ronan to detail the **wall-to-roof PIR transition** so the foil VB stays continuous through the junction |
+| 150mm PIR between rafters | Thicker than the 100mm wall PIR — heat rises and the ceiling is the hottest surface, and there is no space penalty overhead. Ronan to detail the **wall-to-roof PIR / foil-VB junction** so the vapour barrier stays continuous through the corner |
 | Structural OSB or marine ply deck | 18mm |
 | Internal ceiling lining | **Sauna:** cedar T&G (heat-tolerant softwood, standard sauna spec). **Wet room:** **Aquapanel (or equivalent moisture-resistant cement-board) + bathroom-grade paint** — paintable in any colour (suggest warm white or matt anthracite to echo external cladding), fully waterproof, ~£40-60/m² fitted |
 
@@ -281,8 +282,10 @@ Systems considered, all of which publish coastal warranties at marine specificat
 
 # PART B — WET ROOM
 
-**Internal dimensions:** 2.15m (north–south) × 0.9m (east–west)
+**Internal dimensions:** 2.15m (north–south) × **940mm wide (east–west), narrowing to 720mm** where the room doglegs around the existing terrace wall.
 **Minimum internal ceiling height:** 2.15m (same as sauna — single internal ceiling height across the whole building)
+
+> **Wet room doglegs around the terrace wall.** The room is **940mm wide** in its wider section and **steps in to 720mm** where it passes the existing terrace wall; length (north–south) stays 2.15m. The fittings (WC, basin, shower) and the drain run need setting out against the **720mm pinch point** to confirm everything still has working clearance. *Ronan / kit supplier to confirm the exact position of the step and which fittings it affects.*
 
 > **Change from pre-application — note for planning:** The pre-app drawings showed a combined **sauna + store**. In the refined scheme the store moves out of the elevated structure into two low outdoor cabinets below parapet height (see Part O), and the freed volume becomes a **wet room (with WC)**. The **enclosed footprint is broadly unchanged in area** (~7.5 m², no greater than the ~7.6 m² already accepted), but the structure has been **reshaped into a compact mass and set back 3 m from the Bristol Gardens parapet** (was 0.6 m) — directly answering the pre-app advice. See the [Planning Case](#planning-case--why-the-refined-scheme-merits-support) section for the full comparison.
 
@@ -302,7 +305,7 @@ SOUTH                                            NORTH (door)
         └──────────────────────┴──────┴═════════════════┘
                                        ↑
                   ║ Linear drain runs east-west across
-                  ║ the full 0.9m floor width, in the
+                  ║ the full floor width, in the
                   ║ wet zone (north end of room)
 
         BOTTOM/EAST WALL (clear standing space)
@@ -313,7 +316,7 @@ SOUTH                                            NORTH (door)
 
 The whole floor is one tanked wet zone — no shower trays, no enclosures, no glass screens.
 
-**Drain position (the key dimension):** linear drain across the full 0.9m room width, located **1050mm from the north (door) wall**. The floor falls 1:80 from both directions toward the drain — wet zone slopes south, dry zone slopes north.
+**Drain position (the key dimension):** linear drain across the full room width at its line, located **1050mm from the north (door) wall**. The floor falls 1:80 from both directions toward the drain — wet zone slopes south, dry zone slopes north. *(Drain length = room width at that line — 940mm or 720mm depending on which side of the dogleg step it falls; confirm against the final step position.)*
 
 ## Floor
 
