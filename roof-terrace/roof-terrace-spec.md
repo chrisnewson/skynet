@@ -60,7 +60,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 - **Set back 3 m from the Bristol Gardens parapet** (was 0.6 m). This directly meets Heritage Officer Lance Penman's explicit request to *"set further back by about 3–4 m from the parapet … to avoid it being prominently visible from that street."* The single biggest driver of streetscene visibility is fully addressed.
 - **The store has left the roofline.** Planning Officer Charlie Partridge suggested splitting the combined sauna/store, using *"a separate store of a lower height."* We go further: storage moves into two low outdoor cabinets sitting below parapet height (Part O), removing the store from the elevated structure altogether.
-- **Height kept low** — 1,150 mm above the parapet with an essentially flat roof, the height shown on the drawings considered at pre-app and unchanged here.
+- **Height kept low** — an essentially flat roof at **~1,293 mm above the parapet**. This is **~143 mm higher than the 1,150 mm shown at pre-app**; the increase comes from raising the finished floor level when the whole main roof section was inverted (a roofing-robustness improvement agreed with IKO and the contractors — see Part M), not from the building growing in itself. The structure stays low and flat, but we will **re-present the revised height to planning**. *(Ronan to confirm the final figure once the inverted build-up depth is fixed.)*
 - **A more permanent, recessive finish.** Officers felt plain weathering timber was *"not ideal"* and asked for something more refined. The PVDF marine-aluminium standing seam in anthracite is durable, low-reflectance and reads quietly against the brick flank wall — aligned with their steer.
 - **Less intervention in the historic structure.** The pre-app proposed a lattice of new steel members fixed into the existing parapet to carry the hot tub. On the structural engineer's advice we have adopted a lighter, less disruptive solution — doubling the timber joists beneath the hot tub — reducing the new steelwork introduced into the listed fabric.
 - **Middle railing removed to cut roof clutter.** In discussion at the meeting the officers suggested removing the central (third) railing to reduce clutter on the roof; we have done so in response, retaining and re-siting the east and west railings. One less element breaking the rear skyline seen from Bristol Gardens.
@@ -74,11 +74,11 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 # PART A — SAUNA
 
 **Internal dimensions:** 1.5m (east–west) × 2.15m (north–south)
-**Minimum internal ceiling height:** 2.15m (same as wet room — single internal ceiling height across the whole building)
+**Minimum internal ceiling height:** 2.1m (2100mm — same as wet room; single internal ceiling height across the whole building)
 
 > **Binding constraints from pre-application (PRE2025/00255):**
 > - **Setback ≥ 3m from north parapet edge** — conceded in revised submission to planning (was originally 600mm; revised to match heritage officer's 3-4m ask)
-> - **Maximum external roof height 1,150mm above parapet** — per the revised heritage statement
+> - **External roof height ~1,293mm above parapet** — *increased from the 1,150mm in the revised heritage statement* because inverting the whole main roof section raised the finished floor level (see Part M). **This exceeds the pre-app figure by ~143mm and must be re-presented to planning.** Ronan to confirm the final figure once the inverted build-up depth is fixed.
 > All Part A design assumptions must respect these limits.
 
 ## Floor
@@ -92,7 +92,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 This is a working assumption — final makeup to follow your steer (see "What we'd value your steer on" below).
 
 - **Insulation — walls: 100mm PIR** (e.g. Celotex/Kingspan) in the stud cavity (fits a standard 100mm stud), preferred over mineral wool for better thermal performance per mm — kept thin to protect internal space and terrace footprint. Achieves U ≈ 0.24 W/m²K, within our ≤0.27 target. Going to 150mm would save only ~60W of wall loss (a few £/yr) at the cost of internal space, so 100mm is the deliberate choice.
-- **Insulation — roof/ceiling: 150mm PIR** — thicker than the walls because heat rises and the ceiling is the hottest surface, and there is **no space penalty overhead** (it sits within the 1,150mm-above-parapet build-up zone). See the Roof section.
+- **Insulation — roof/ceiling: 150mm PIR** — thicker than the walls because heat rises and the ceiling is the hottest surface, and there is **no space penalty overhead** (it sits within the ~1,293mm-above-parapet build-up zone). See the Roof section.
 - **Foil vapour barrier** on the interior face of the insulation, fully taped, continuous around all junctions — **especially the partition–external-wall corner *and* the wall-to-roof junction**. The hot ceiling sees the most heat and moisture, so any gap at the wall-to-roof corner drives damp into the PIR and the cold roof void (rot / corrosion of the standing-seam roof from below). **Ronan to detail both junctions.**
 - **25mm ventilated batten cavity** between the foil VB and the internal lining, to let the timber breathe between sessions
 - **Internal lining:** untreated kiln-dried softwood tongue-and-groove — cedar, aspen, thermo-aspen, or spruce; final choice to follow the kit supplier's recommendation if kit-route is taken (see below)
@@ -257,7 +257,7 @@ Systems considered, all of which publish coastal warranties at marine specificat
 
 **Form: basically flat** — a near-flat warm roof with a minimal drainage fall (3–5° to north, just enough to shed water), in **continuous PVDF anthracite aluminium standing seam wrapping over from the wall cladding** so the building reads as a single skin.
 
-**Why flat:** the revised heritage statement sets the binding height at **1,150mm above parapet**, which the flat form sits within comfortably (warm-roof build-up + standing seam ≈ 250–300mm above internal ceiling, all within the envelope). The earlier pitched form was driven by the older 900mm envelope and the gull-avoidance threshold — the revised height + the bird-wire grid below now make a flat form viable and visually simpler from every public viewpoint.
+**Why flat:** the flat form keeps the structure as low as possible above the parapet. The current height is **~1,293mm above parapet** (flat roof = warm-roof build-up + standing seam ≈ 250–300mm above the internal ceiling). This is **~143mm above the 1,150mm in the revised heritage statement** — the increase comes from the higher finished floor level after inverting the whole main roof section (Part M), not from the building itself growing — and **will need re-presenting to planning**. The earlier pitched form was driven by the older 900mm envelope and the gull-avoidance threshold; the flat form + the bird-wire grid below remain viable and visually simpler from every public viewpoint.
 
 **Build-up:**
 
@@ -276,7 +276,7 @@ Systems considered, all of which publish coastal warranties at marine specificat
 
 **What we'd value your steer on:**
 
-- **Confirmation the build-up fits within 1,150mm above parapet** — needs Ronan's real build-up depth and real parapet height above the new tile FFL
+- **Confirmation of the final roof height above parapet** — currently ~1,293mm (up from the 1,150mm pre-app figure, driven by the raised FFL); needs Ronan's real build-up depth and real parapet height above the new tile FFL, and re-presentation to planning
 - Roof-to-wall transition — continuous standing-seam wrap, or break at a discrete fascia line?
 - Wire-grid post fixing detail through the standing seam — needs to be watertight while still serving as a bird deterrent
 
@@ -285,7 +285,7 @@ Systems considered, all of which publish coastal warranties at marine specificat
 # PART B — WET ROOM
 
 **Internal dimensions:** 2.15m (north–south) × **940mm wide (east–west), narrowing to 720mm** where the room doglegs around the existing terrace wall.
-**Minimum internal ceiling height:** 2.15m (same as sauna — single internal ceiling height across the whole building)
+**Minimum internal ceiling height:** 2.1m (2100mm — same as sauna; single internal ceiling height across the whole building)
 
 > **Wet room doglegs around the terrace wall.** The room is **940mm wide** in its wider section and **steps in to 720mm** where it passes the existing terrace wall; length (north–south) stays 2.15m. The fittings (WC, basin, shower) and the drain run need setting out against the **720mm pinch point** to confirm everything still has working clearance. *Ronan / kit supplier to confirm the exact position of the step and which fittings it affects.*
 
@@ -1151,7 +1151,7 @@ The lead upstands are expected to work with these build-ups.
 
 Inverting the whole main section will **raise the finished floor level (FFL) above the current 31 May drawings.** The exact rise depends on IKO's confirmed insulation depth. Ronan needs to quantify it because it affects:
 
-- The relationship of the FFL to the parapet, and therefore the **1,150mm-above-parapet height envelope** for the sauna/wet room building (heritage constraint — Part A)
+- The relationship of the FFL to the parapet, and therefore the **roof height above parapet** for the sauna/wet room building — now ~1,293mm, up from the 1,150mm accepted at pre-app (heritage constraint — Part A); the increase needs re-presenting to planning
 - The **glass guarding heights** (Part H), measured from FFL / hot tub rim
 - The **railing re-siting / raising** on the narrow section (Part E)
 
@@ -1218,7 +1218,7 @@ Our structural engineer (**Conscious Engineering Design Ltd**) has issued **draf
 
 ## What we'd value your steer on
 
-- The **finished roof height** rise from inverting the whole main section — your figure, and its effect on the 1,150mm-above-parapet envelope (Part A) and glass guarding heights (Part H)
+- The **finished roof height** rise from inverting the whole main section — your figure, and its effect on the above-parapet height (now ~1,293mm vs the 1,150mm pre-app figure — Part A) and glass guarding heights (Part H)
 - Inverted-to-warm junction detail where the main section meets the narrow section
 - Asphalt-to-building junction and door threshold detail — watertight, and allowing the outward-opening doors to clear, now the building sits on the Protectoboard
 - Coordination with the SE on whether doubled E–W joists in the NW quadrant are sufficient, or whether the steel needs to take more
