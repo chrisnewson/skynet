@@ -431,7 +431,7 @@ What this needs from the install:
 
 We're planning to site a hot tub on the terrace alongside the sauna/wet room building. Including this here because the **structural loading on the terrace deck is the critical question for you**, and the model choice drives weight, footprint, and electrical supply. Final model TBC; shortlist below in our preferred order.
 
-> **Awaiting structural engineer.** We're waiting on our SE for: (1) whether any of the shortlisted tubs will work with the **current roof make-up** as it stands, (2) calculations on **doubled-up beams** in the NW quadrant (see Part M), and (3) on that basis, whether he would **steer us toward one tub over another** based on what the structure can carry. Final tub choice will follow that advice.
+> **Structural engineer — draft calculations received (3 June 2026).** Our SE (Conscious Engineering Design Ltd) has confirmed that a **light tub** (a RotoSpa-class tub, ~970kg filled, ~369 kg/m²) works on the **existing structure with no strengthening**, and that the existing steel beam has capacity (see Part M). That check used a lighter tub than our shortlist, so the open question is now **which of our heavier candidates the structure can carry**. We're asking the SE to re-check the **heaviest realistic candidate** (the Marquis Spirit, ~1,280kg / ~365 kg/m²) and to express the result as a **maximum filled weight + maximum load per m²**, so we can buy any tub that comes in under both limits. Final tub choice follows that.
 
 ## Footprint envelope
 
@@ -459,9 +459,9 @@ Shortlist of tubs that fit the envelope is below. Final tub TBC pending SE sign-
 - H2O 2000 Series (210 × 180cm — 10cm over on width)
 - Sunbeach SB355L (225 × 180cm — over on both dims)
 
-**Next:** the shortlist has narrowed to one (or two with the marginal Marquis). Chris to either confirm Fisher 3 as the chosen tub, or research additional rectangular tubs in the 170 × 210cm envelope to broaden the field before deciding.
+**Next:** the SE is re-checking the heaviest realistic candidate (Marquis Spirit) to set a **weight limit we can buy within** (see Part M). Within that limit the Fisher 3 is our likely choice; the limit also keeps the door open to a suitable pre-owned premium tub if one comes up.
 
-Filled weight is shell + water, no occupants. Three adults add **~240kg** to the static structural load (full body mass — displacement only reduces the bather's *immersed* weight, not the load on the terrace). Add ~10–15% for dynamic loading on top.
+Filled weight (shell + water, no occupants) is the figure we compare tubs on. **Occupant and dynamic allowances are for the SE to apply** within his calculation. The **kg/m²** column is the load-per-area that drives the joist check — our SE designed the joists for ~369 kg/m², which sits at or above every tub that fits the envelope, so the joists are not expected to be the constraint; the higher total weight on the steel beam is the thing being confirmed.
 
 ## Recommended suppliers
 
@@ -490,8 +490,8 @@ A hot tub holds 700–1,500 litres and is drained periodically (2–3× per year
 
 ## What we need from you on this
 
-- Sign-off on **filled load** (with dynamic allowance) for the Fisher 3 — ~1,120kg filled, +~240kg three adults, +~10–15% dynamic
-- Crane access route up to the terrace (Fisher 3 is acrylic — likely needs a crane lift)
+- **Filled-load sign-off** sits with our SE (see Part M) — he's re-checking the heaviest realistic tub and will give us a maximum filled weight + maximum load per m² to buy within
+- Crane access route up to the terrace (acrylic tubs likely need a crane lift)
 - Best drain route on the terrace — which existing outlet to discharge into, and any tundish / trap detail you'd want
 
 ---
@@ -1185,11 +1185,20 @@ The roofing contractors can **insert and cap drainage penetrations** for us to c
 
 ## Structure — joists and steel
 
-Our structural engineer is currently working up the calculations. Working assumptions to be confirmed:
+Our structural engineer (**Conscious Engineering Design Ltd**) has issued **draft calculations** (SET 1, dated 3 June 2026). This part of the building was **built in 2011**, so the members are modern and the engineer has **measured them on site** rather than assuming sizes.
 
-- **Doubled joists** in the **NW quadrant of the main roof terrace** (the hot tub zone), running **east–west**, to take the hot tub load
-- **Existing steel beam** runs **north–south**, approximately along the top edge of where the parasol sits in the **NE corner** — calcs to confirm whether this needs strengthening for the new loads in this zone
-- **Doubling joists is an accepted fallback** — the meeting confirmed all parties are comfortable doubling up joists where the calculations require it; they saw no problem with it. Ideally no reinforcement is needed, but doubling is on the table.
+**Headline findings (draft):**
+
+- **Existing roof joists** — 50 × 225mm C24 at 400mm centres, running **east–west** — **PASS with no strengthening** for a **light hot tub** (a RotoSpa-class tub, ~970kg filled, ~369 kg/m² load intensity), at ~57% of bending capacity.
+- **Existing steel beam** — UKB 305 × 165 × 46, grade S275, running **north–south** (along the top edge of where the parasol sits in the NE corner) — **has capacity** for the same case, with large headroom (~36% utilised; lateral-torsional buckling governs).
+
+**Still draft — to be confirmed:**
+
+- **Final hot tub.** The check used a lighter tub than our shortlist. The engineer is to re-check the joists and beam against the **heaviest model we're realistically considering** (the Marquis Spirit, ~1,280kg / ~365 kg/m²), so we can buy any tub within a confirmed weight limit (see Part D). On a load-per-m² basis every tub that fits our footprint envelope sits at or below the 369 kg/m² already designed for, so the joists are not expected to need strengthening; the open question is the higher total weight on the beam.
+- **Sauna / wet room building.** Not yet in the calculations. The sauna sits a metre or two from the hot tub, so it lands on **different joists** (a separate joist check still to come) but on the **same steel beam** — so the beam must be re-checked for the combined sauna + tub load once the building's construction is defined.
+- **Decking / pedestal + inverted build-up load.** The calc used an assumed 0.4 kN/m² for the tile finish; the real figure from the inverted build-up (above / Part I) is to be confirmed to the engineer.
+
+**Doubled joists** in the **NW quadrant** (the hot tub zone) were previously assumed as a fallback. The draft calc shows a light tub needs **none**; whether a heavier tub triggers doubling will come out of the re-check. All parties confirmed at the 4 June meeting they are comfortable doubling joists where the calculations require it; they saw no problem with it.
 
 ## Programme / phasing (from the 4 June meeting)
 
