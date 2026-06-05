@@ -14,6 +14,8 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ## Drawings
 
+> **These plans are indicative** — Chris's own layout sketches, not construction drawings. The **written dimensions in each PART are the accurate figures and take precedence** — please don't scale off the images. Ronan's drawings remain the authoritative set.
+
 **Overall plan** (full terrace, updated 5 June 2026) — narrow section / **Floor Area 1** (minimal pedestal height) with stores, outdoor kitchen, lift bulkhead and stair hatch; **Floor Area 2** dining (4 × 5m, **500mm raised, steps up on the east side**); **Floor Area 3** lounge / hot tub (minimal pedestal height, L-shape round to the hot tub); sauna / wet room building and stores. *(Reflects the revised levels in Part M and the deletion of the old Floor Area 4.)*
 
 ![Overall floor plan](drawings/full-terrace-5-6-26.jpg)
