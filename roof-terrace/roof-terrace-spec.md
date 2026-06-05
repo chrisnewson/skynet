@@ -50,7 +50,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 **The starting point was positive.** At pre-app the officers concluded the proposal was *"likely to be considered acceptable, in terms of its impact on the grade I listed building and neighbouring amenity,"* subject to adjustments to reduce the sauna/store's visibility from the Bristol Gardens streetscene. The refined scheme keeps everything they accepted — porcelain tiles, the level changes, inner-face glass guarding, the hot tub (not visible from the street), and retractable parasols — and reworks only the one element they flagged.
 
-**Floor area — no extra bulk on the roof.** Measured from the scaled drawings, the pre-app sauna/store was a long, low box of roughly **4.5 m × 1.7 m ≈ 7.6 m²**, running some 4.5 m along the parapet. The refined sauna + wet room sits within a compact, near-square footprint of about **2.5 m × 2.9 m ≈ 7.5 m²** — *the same enclosed area the officers already accepted in principle, with no increase in built mass* — but reshaped so its longest face is cut by roughly a third (4.5 m down to about 3 m) and pulled well back from the edge.
+**Floor area — no extra bulk on the roof.** Measured from the scaled drawings, the pre-app sauna/store was a long, low box of roughly **4.5 m × 1.7 m ≈ 7.6 m²**, running some 4.5 m along the parapet. The refined sauna + wet room sits within a compact, near-square footprint of about **2.49 m × 2.90 m ≈ 7.2 m²** — *the same enclosed area the officers already accepted in principle, with no increase in built mass* — but reshaped so its longest face is cut by roughly a third (4.5 m down to about 2.9 m) and pulled well back from the edge.
 
 > *Ronan — these footprint figures were scaled off the PDF drawings (A_GA_210 vs 26005 GA 100), not surveyed. Could you sanity-check them against your dimensioned plans before they go into the submission, so the comparison is robust?*
 
@@ -210,9 +210,11 @@ We haven't decided whether the sauna interior — internal cedar T&G lining, foi
 
 We'd value your view on which route makes sense, and which supplier(s) you've worked with before or would recommend approaching. If kit-route is taken, the chosen supplier feeds back wall makeup, vapour barrier, electrical, drainage and ventilation requirements for the shell.
 
-### Targeting minimum external building footprint
+### External building footprint
 
-We'd like the **external** length and width of the sauna/wet room building kept as small as possible, to leave maximum surrounding terrace space. We accept this trades against insulation performance and weatherproofing robustness, and we'd value your steer on where the sensible limit sits.
+**External dimensions (current design): 2902mm (east–west) × 2488mm (north–south)** — a bounding footprint of **~7.22 m²** (a little less once the dogleg notch around the terrace wall is taken out), which sits **within the ~7.6 m² accepted at pre-application**. These reconcile with the internal rooms (sauna 1.5m + wet room 940mm E–W) at external walls of ~170mm and a ~110mm partition — consistent with our 100mm-PIR wall makeup.
+
+We've kept the building as small as practical to leave maximum surrounding terrace space, accepting that this trades against insulation/weatherproofing thickness. We'd still value your steer on the wall makeup below.
 
 **External walls** — thinnest viable makeup that retains good sauna thermal performance (we're aiming for U-value ≤ ~0.27 W/m²K) and is appropriate for coastal/exposed roof terrace conditions:
 
@@ -287,7 +289,7 @@ Systems considered, all of which publish coastal warranties at marine specificat
 
 > **Wet room doglegs around the terrace wall.** The room is **940mm wide** in its wider section and **steps in to 720mm** where it passes the existing terrace wall; length (north–south) stays 2.15m. The fittings (WC, basin, shower) and the drain run need setting out against the **720mm pinch point** to confirm everything still has working clearance. *Ronan / kit supplier to confirm the exact position of the step and which fittings it affects.*
 
-> **Change from pre-application — note for planning:** The pre-app drawings showed a combined **sauna + store**. In the refined scheme the store moves out of the elevated structure into two low outdoor cabinets below parapet height (see Part O), and the freed volume becomes a **wet room (with WC)**. The **enclosed footprint is broadly unchanged in area** (~7.5 m², no greater than the ~7.6 m² already accepted), but the structure has been **reshaped into a compact mass and set back 3 m from the Bristol Gardens parapet** (was 0.6 m) — directly answering the pre-app advice. See the [Planning Case](#planning-case--why-the-refined-scheme-merits-support) section for the full comparison.
+> **Change from pre-application — note for planning:** The pre-app drawings showed a combined **sauna + store**. In the refined scheme the store moves out of the elevated structure into two low outdoor cabinets below parapet height (see Part O), and the freed volume becomes a **wet room (with WC)**. The **enclosed footprint is broadly unchanged in area** (~7.22 m² bounding, within the ~7.6 m² already accepted), but the structure has been **reshaped into a compact mass and set back 3 m from the Bristol Gardens parapet** (was 0.6 m) — directly answering the pre-app advice. See the [Planning Case](#planning-case--why-the-refined-scheme-merits-support) section for the full comparison.
 
 ## Layout
 
@@ -677,7 +679,7 @@ We've chosen frameless structural glass throughout for both locations — keeps 
 
 | Subtraction | Approx m² |
 |---|---|
-| Sauna/wet room building external footprint (~2.87 × 2.55m) | ~7.3 |
+| Sauna/wet room building external footprint (~2.90 × 2.49m) | ~7.2 |
 | Hot tub (Fisher 3 — 2.07 × 1.53m) | ~3.2 |
 | Outdoor kitchen run (~3.3 × 0.7m) | ~2.3 |
 | 2× storage units (1.96 + 2.16m²) | ~4.1 |
