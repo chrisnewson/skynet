@@ -269,7 +269,7 @@ Systems considered, all of which publish coastal warranties at marine specificat
 
 **Gull deterrent on the roof surface:** a low-profile **stainless post-and-wire grid** across the surface, matching the Part F parapet system — 3-wire layout, posts at ~1m centres, 85–90mm above the standing seam. Same materials, same install team, visually consistent with the parapet deterrent.
 
-**Drainage:** small gutter along the low (north) edge discharging onto the warm-roof tile field, which then drains to the existing roof outlets. No new outlets required.
+**Drainage:** small gutter along the low (north) edge discharging onto the terrace tile field below, which then drains to the existing roof outlets. No new outlets required.
 
 **What we'd value your steer on:**
 
@@ -502,8 +502,9 @@ The narrow section of the roof terrace currently has three sets of railings. We'
 
 ## Changes
 
-- **Re-site the existing railings** to the new FFL on the narrow terrace. Heights to remain as currently constructed, just shifted up so the railing base matches the new raised tile level.
-- **Add bird wire on top** — stainless post-and-wire system running along the top of each railing.
+- **Re-site the existing railings** to the new FFL on the narrow terrace, shifted up so the railing base matches the new raised tile level.
+- **Raise the railing height** — *new from the 4 June meeting.* Because the new build-up raises the floor level, the retained railings will need to be **made taller by adding something on top** to keep an adequate guarding height. The method is **still to be decided** — options floated were tensioned wires (one or more), or a timber upstand with wires on top. This is part of our scope.
+- **Add bird wire on top** — stainless post-and-wire system running along the top of each railing. (May be combined with the height-raising above.)
 - **Remove:** the centre railing, and the short railing joining the centre railing to the west railing (redundant under the current layout).
 - **Keep:** the east railing and the west railing — both re-sited per above.
 
@@ -667,19 +668,20 @@ We've chosen frameless structural glass throughout for both locations — keeps 
 
 # PART I — TERRACE TILING SYSTEM
 
-**Estimated tiled area: ~82m²** (down from ~120m² gross terrace footprint, once all non-tiled elements are subtracted).
+**Estimated tiled area: ~103m²** (of the ~120m² gross terrace footprint, once the building, hot tub, kitchen and storage footprints are subtracted).
+
+> **Change from the 4 June meeting:** the agreed approach is now to **tile the whole roof area and build the planters on top of the finished tile field**, rather than building the planters off the Protectoboard to reduce the tiling area. So **planters are no longer subtracted** from the tiled area — which raises the net figure from ~82m² to ~103m². (See Part J.)
 
 | Subtraction | Approx m² |
 |---|---|
 | Sauna/wet room building external footprint (~2.87 × 2.55m) | ~7.3 |
 | Hot tub (Fisher 3 — 2.07 × 1.53m) | ~3.2 |
-| All planters (Part J inventory total) | ~21.0 |
 | Outdoor kitchen run (~3.3 × 0.7m) | ~2.3 |
 | 2× storage units (1.96 + 2.16m²) | ~4.1 |
-| **Total subtracted** | **~37.9** |
-| **Net tiled area (gross 120m² − subtractions)** | **~82m²** |
+| **Total subtracted** | **~16.9** |
+| **Net tiled area (gross 120m² − subtractions)** | **~103m²** |
 
-Movable pots are not subtracted — they sit on the tile finish. Parasol bases are recessed cassettes with tile running over the top (Part G), so not subtracted.
+Planters are **not** subtracted — they are built on top of the finished tiles (4 June meeting). Movable pots also sit on the tile finish. Parasol bases are recessed cassettes with tile running over the top (Part G), so not subtracted.
 
 > **Note for the surveyor:** these figures are derived from the Part J planter inventory and Part D/O/P footprints in this spec. **Please remeasure precisely against the latest drawings before contractors price the tile order** — small footprint changes (e.g. final hot tub model, kitchen module widths, planter realignments) shift the figure by several m². A 10–15% overage is to be ordered on top of the verified net area and stored in the client's garage at Sussex Square for future repairs.
 
@@ -711,11 +713,11 @@ We want acoustic isolation specced proportionally to what's underneath each part
 
 | Zone | What's below | Pedestal spec |
 |---|---|---|
-| **Main (large) section** | Habitable rooms (bedrooms / living) | **Double-isolated** — padded head + padded base (e.g. Buzon BC-PH range + base pad accessory, or Eterno Ivica AntiNoise / SE with PVC base pad) |
-| **Narrow section** | Less acoustically sensitive | **Padded head only** (standard SE / DPH spec) |
+| **Main (large) section** | Habitable rooms (bedrooms / living) | **Double-isolated** — rubber pads **top *and* bottom** (e.g. Buzon BC-PH range + base pad accessory, or Eterno Ivica AntiNoise / SE with PVC base pad) |
+| **Narrow section** | Less acoustically sensitive | **Single pad** — one rubber pad only (the 4 June meeting noted a base/bottom pad; a padded head is the more usual arrangement — either single-pad route is acceptable) |
 | **Around the lift bulkhead** | Lift shaft (no occupants below) | **Basic pedestals** — no acoustic premium needed |
 
-Both Buzon and Eterno Ivica offer base pads as a standard accessory; the cost premium for double-isolation is small (typically £1–3 per pedestal over head-only).
+This matches the rubber-pad arrangement noted in the Part M build-up tables (top + bottom on the main section, single pad on the narrow). Both Buzon and Eterno Ivica offer base pads as a standard accessory; the cost premium for double-isolation is small (typically £1–3 per pedestal over head-only).
 
 **Sanity check we'd value your steer on:** we've assumed the narrow section is over less sensitive space (utility, plant, or non-bedroom rooms). If it's actually over a habitable room, the acoustic spec for that section should be upgraded to match the main section.
 
@@ -767,8 +769,8 @@ We want planters built from the **salvaged hardwood decking** removed from the e
 
 ## Construction principle
 
-- Planters sit **on top of the Protectoboard**, at asphalt level (i.e. below the tile finish)
-- Tile field butts up to the outside face of each planter
+- **Change from the 4 June meeting:** planters now sit **on top of the finished tile field**, *not* built off the Protectoboard below the tiles. The whole roof is tiled first, then the planters are built on top (see Part I). This is simpler than working the planter bases into the tile build-up, and is the agreed approach.
+- Tile runs continuously **underneath** each planter; a protective pad / bearer layer sits between the planter base and the tiles to spread the load and protect the surface
 - Planters are **freestanding boxes** — they do not rely on the parapet or any other wall for structural or weatherproofing function
 - Built with stainless steel fixings throughout
 - **Aim** — reference image:
@@ -789,8 +791,8 @@ Treated softwood frame with hardwood cladding outside, EPDM lining inside, and s
 | **EPDM liner** | 1.0–1.2mm continuous, dressed up all four sides + 50mm onto top edge (trapped under the cap board) | ~£20-40/planter depending on size |
 | **Frame** | **50×50mm treated softwood (e.g. C16-graded UC4 treated)** — 4 corner posts (full height), top + bottom horizontal rails, intermediate vertical uprights at ~400mm centres. **Concealed structure** — never exposed to weather, treated to UC4 (in-ground) standard for belt-and-braces. | ~£15-25/planter materials |
 | **Cross-bracing** | Diagonal softwood bracing within frame for L-shape and longer planters (>2m) to handle soil thrust | Included in frame |
-| **Base** | Sloped 1% to drain; drainage holes through frame bottom + EPDM (then geotextile cap inside) | Standard |
-| **Bearers** | Treated softwood or stainless feet, ~25mm | Standard |
+| **Base** | Sloped 1% to drain; drainage holes through frame bottom + EPDM (then geotextile cap inside). Discharge falls onto the tile field below and drains away through the open tile joints (Part I) | Standard |
+| **Bearers** | Treated softwood or stainless feet, ~25mm — raise the base off the tiles for drainage airflow and to protect the tile surface (planter now sits on the finished tiles) | Standard |
 
 **Why this works structurally:**
 - Soil + saturated lightweight mix exerts hydrostatic-like load on planter walls
@@ -831,7 +833,7 @@ The existing decking boards have decking bolts with large through-holes every 80
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
-**General depth convention:** Most planters are **600mm total footprint** (570mm planter box + 30mm air gap to the wall behind), which aligns exactly with one 600mm porcelain tile width. Heights are stated as visible above the relevant tile FFL — the planter is constructed taller below the tile finish (depth of the tile/pedestal build-up, typically 60–150mm).
+**General depth convention:** Most planters are **600mm total footprint** (570mm planter box + 30mm air gap to the wall behind), which aligns exactly with one 600mm porcelain tile width. Heights are stated as visible above the tile FFL — and since planters now sit **on top of the finished tiles** (4 June meeting), the visible height is essentially the full constructed height of the box.
 
 ### Narrow section
 
@@ -1090,18 +1092,67 @@ To give reliable wifi coverage across the full terrace (hot tub, dining area, sm
 
 This section is foundational to most others — please read alongside PART D (hot tub), PART I (tiling), and PART J (planters), since loads from those land here.
 
-## Roof build-up — two systems
+> **Major change since the pre-application and the 31 May drawings — agreed at the 4 June 2026 meeting** (Chris, Ronan, IKO, Sussex Asphalt, Seaview, Coastal Surveyors). The build-up below **supersedes the earlier "warm roof everywhere, inverted only under the hot tub" approach.** The exact layer specifications (insulation depth, vapour-control-layer position) are **provisional pending IKO's written confirmation** of the make-up — this section will be updated when that confirmation arrives.
 
-| Zone | Build-up | Reason |
+## Roof build-up — two systems (by section, not by zone)
+
+The two roof sections now get different systems:
+
+| Section | System | Reason |
 |---|---|---|
-| **Bulk of the terrace** (both narrow and main sections, except the hot tub zone) | **Warm roof** — insulation above structural deck, asphalt waterproofing on top | Standard, well understood, suits the loads from tiles / pedestals / furniture |
-| **Hot tub zone** (NW quadrant of the main section) | **Inverted roof** — asphalt waterproofing on the deck, then insulation, then ballast / build-up to finish | Inverted construction takes the hot tub's concentrated load **without invalidating the asphalt warranty** — the membrane sits below the load and is protected |
+| **Main (large) section** — the whole area | **Inverted roof** (whole section) — asphalt waterproofing on the deck, insulation above it, then membrane / Protectoboard / pedestals / tiles | Recommended by **IKO** and agreed by all parties. Inverting the whole main section is the most robust solution everyone was comfortable with, keeps the membrane protected below the insulation and load, and was said to make **the roof outlast the building**. It also lets the bulk of the works proceed without anything legally risky ahead of planning consent. |
+| **Narrow section** | **Warm roof** — insulation above the deck, vapour control layer, asphalt waterproofing on top, then Protectoboard / pedestals / tiles | Standard warm-roof construction. Being warm, it needs **no ballast** while works pause, so the narrow section can be finished completely as soon as its roof is done. |
 
-The hot tub zone is therefore **built up approximately 200mm higher than the rest of the terrace** to accommodate the inverted layers. (Note: the floor plan currently shows "400mm raised floor" in this area — discrepancy to be reconciled in the detailing.)
+### Existing make-up (confirmed by opening the roof up — both sections)
+
+| Layer (top to bottom) | Notes |
+|---|---|
+| 20mm asphalt | Existing waterproofing |
+| 18mm board | **Decayed from moisture** |
+| 120mm foil-backed insulation | |
+| 18mm board | The two board layers surprised everyone — unusual to find two |
+| Joists | Existing structure |
+
+### Proposed main (large) section — fully inverted *(provisional, pending IKO written confirmation)*
+
+| Layer (top to bottom) | Notes |
+|---|---|
+| Tiles | Porcelain on pedestals (Part I) |
+| Pedestals | **Rubber acoustic pads top *and* bottom** in this section (most sound isolation — see Part I) |
+| Protectoboard | Over the whole area (see below) |
+| Water-flow / filter membrane | |
+| 220–240mm insulation | Inverted-roof insulation, above the asphalt |
+| 20mm asphalt | Waterproofing on the deck |
+| Vapour control layer | *Position to be confirmed by IKO — Chris noted the order here may be wrong* |
+| 18mm board | |
+| Joists | |
+
+### Proposed narrow section — warm roof *(provisional, pending IKO written confirmation)*
+
+| Layer (top to bottom) | Notes |
+|---|---|
+| Tiles | Porcelain on pedestals (Part I) |
+| Pedestals | **Rubber acoustic pads on bottom only** in this section (less sound isolation needed — see Part I) |
+| Protectoboard | |
+| 20mm asphalt | Waterproofing on top |
+| Vapour control layer | |
+| 160mm insulation | Warm-roof insulation, above the deck |
+| 18mm board | |
+| Joists | |
+
+The lead upstands are expected to work with these build-ups.
+
+## Finished roof height — needs quantifying
+
+Inverting the whole main section will **raise the finished floor level (FFL) above the current 31 May drawings.** The exact rise depends on IKO's confirmed insulation depth. Ronan needs to quantify it because it affects:
+
+- The relationship of the FFL to the parapet, and therefore the **1,150mm-above-parapet height envelope** for the sauna/wet room building (heritage constraint — Part A)
+- The **glass guarding heights** (Part H), measured from FFL / hot tub rim
+- The **railing re-siting / raising** on the narrow section (Part E)
 
 ## Protectoboard over the entire terrace
 
-We want **Protectoboard installed over the top of the asphalt across the whole terrace** — both the warm-roof and inverted-roof zones. This protects the membrane from:
+We want **Protectoboard installed over the top of the asphalt across the whole terrace** — both the inverted main section and the warm narrow section. This protects the membrane from:
 
 - Pedestal point loads from the tile system (Part I)
 - Planter bases and their drainage discharge (Part J)
@@ -1111,26 +1162,26 @@ We want **Protectoboard installed over the top of the asphalt across the whole t
 
 No acoustic underlay mat above the Protectoboard (Protectoboard alone is the substrate for the pedestals — see Part I).
 
-## Building footprint — no asphalt under the building
+## Building footprint — built on top of the Protectoboard
 
-- **No asphalt under the sauna / wet room building** — the asphalt is dressed up to the building itself
-- The building sits on its own structural slab / base
-- **Building base is likely to start ~200mm lower than the surrounding warm-roof tile FFL**, because there's no warm-roof insulation layer under the building. This keeps the external building height lower (helping with the heritage officer's "minimise visibility from Bristol Gardens" steer in the pre-app response). **Subject to SE confirmation** that this build-up makes sense structurally and that the doors / threshold geometry resolves cleanly against the surrounding tile field.
-- We need to finalise the **detail just outside the building line** so the doors can open without fouling on the asphalt upstand or any threshold trim — this is one of the items needing Ronan's input
+**Change agreed at the 4 June meeting:** the sauna / wet room building will now be **built on top of the Protectoboard**, on the inverted main-section build-up — *not* on its own lower slab with the asphalt dressed up to the building line (the earlier approach, now superseded).
 
-### Doors-vs-build-up — Chris is confused about this
+- This keeps the build-up continuous under the building and is simpler to detail.
+- All drainage / service penetrations under the building footprint must be set out **before** the roof is closed up (see Plumbing note below).
 
-The sauna and wet room doors open outward (Parts A and B). The hot tub zone immediately east of the building is on the higher **inverted roof build-up** (~200mm taller than the surrounding warm-roof terrace). Chris isn't clear how this resolves:
+### Doors-vs-build-up — likely resolved by the whole-section inverted approach
 
-- If the area immediately outside the doors is at the **higher inverted-roof level**, the doors might not open cleanly — the threshold geometry needs designing
-- If the area is at the **lower warm-roof level**, then there's a step between the doors and the hot tub zone — needs designing too
-- Possibly a **third, intermediate build-up** in the strip between the building and the hot tub is the right answer
+Previously the hot tub zone was to be built ~200mm higher than the surrounding warm roof, which raised a question about how the outward-opening sauna / wet room doors would clear the step. With the **whole main section now at one inverted level**, that step should disappear and the terrace outside the doors should be at a single consistent level. **To be confirmed by Ronan** once the build-up heights are fixed, but the earlier three-way confusion (lower / higher / intermediate build-up) is expected to fall away — along with the old "400mm vs 200mm raised floor" discrepancy.
 
-Flagging this as something Ronan should pick up alongside the asphalt-to-building junction detail.
+## Plumbing — set out drainage before the roof is closed
+
+The roofing contractors can **insert and cap drainage penetrations** for us to connect to in the follow-up fit-out — *but only if they have the exact locations in advance*. The exact positions of all drainage / waste penetrations (sauna floor drain, wet room linear drain and wastes, hot tub drain, external shower) must be issued to the roofing contractor **before the main roof is closed up**. See Parts A, B and D.
 
 ## Action — detailing required from Ronan Bond
 
-> **Note for Ronan Bond:** please provide the build-up details (warm roof, inverted roof, transition between the two, asphalt-to-building junction including the door-threshold detail) **as a matter of urgency** so they can be discussed with our surveyor, **Sussex Asphalt**, and **Seaview**.
+> **Note for Ronan Bond:** please provide the build-up details (inverted main section, warm narrow section, the junction between the two, asphalt-to-building junction including the door-threshold detail) **as a matter of urgency** so they can be discussed with our surveyor, **IKO**, **Sussex Asphalt**, **Seaview** and **Coastal Surveyors**. **Seaview need a specification of works as soon as possible to get it costed** — scheduling is difficult at this time of year and getting the spec to them quickly is key.
+
+**Building Control:** Sussex Asphalt are taking the plan to Building Control to check it.
 
 ## Structure — joists and steel
 
@@ -1138,12 +1189,24 @@ Our structural engineer is currently working up the calculations. Working assump
 
 - **Doubled joists** in the **NW quadrant of the main roof terrace** (the hot tub zone), running **east–west**, to take the hot tub load
 - **Existing steel beam** runs **north–south**, approximately along the top edge of where the parasol sits in the **NE corner** — calcs to confirm whether this needs strengthening for the new loads in this zone
+- **Doubling joists is an accepted fallback** — the meeting confirmed all parties are comfortable doubling up joists where the calculations require it; they saw no problem with it. Ideally no reinforcement is needed, but doubling is on the table.
+
+## Programme / phasing (from the 4 June meeting)
+
+*For Ronan's awareness — the contractors' intended sequence:*
+
+- **Flat roof works start w/c 24 July** — the largest part of the job; they want to start early on it.
+- The **main (large) section is done first**, then the narrow section. The large area must be **cleared of decking etc. beforehand**, with everything moved onto the narrow section. Once the main roof is ready, the narrow-section contents move across onto it.
+- The freshly-laid inverted insulation on the main section **needs ballast holding it down** until the tiling system goes on. Plant pots / items on the roof can serve as interim ballast, but ideally the contractors lay the **Protectoboard and tiling straight after finishing the roof**.
+- **~¾ of the main section can be tiled as soon as that part of the roof is finished**, holding off only on the **sauna and hot tub area until planning consent is through**.
+- The **narrow section can be finished completely** as soon as its roof is done (warm roof, no ballast needed).
+- **Scaffold:** the downstairs neighbours are OK with the scaffold staying up a little longer than the main job, but not for months. We may need to **get materials onto the roof early** and hold off on the **sauna build until planning comes through** — at which point builders could access through the building.
 
 ## What we'd value your steer on
 
-- Warm-roof vs inverted-roof transition detail at the boundary of the hot tub zone — clean step, or a tapered transition?
-- Asphalt-to-building junction and door threshold detail — needs to be both watertight and allow the outward-opening doors to clear
-- Whether the ~200mm build-up in the hot tub zone is the right figure or should be larger (vs the "400mm" shown on the current drawing)
+- The **finished roof height** rise from inverting the whole main section — your figure, and its effect on the 1,150mm-above-parapet envelope (Part A) and glass guarding heights (Part H)
+- Inverted-to-warm junction detail where the main section meets the narrow section
+- Asphalt-to-building junction and door threshold detail — watertight, and allowing the outward-opening doors to clear, now the building sits on the Protectoboard
 - Coordination with the SE on whether doubled E–W joists in the NW quadrant are sufficient, or whether the steel needs to take more
 
 ---
