@@ -694,13 +694,16 @@ We've chosen frameless structural glass throughout for both locations — keeps 
 | Subtraction | Approx m² |
 |---|---|
 | Sauna/wet room building external footprint (~2.90 × 2.49m) | ~7.2 |
-| Hot tub (Fisher 3 — 2.07 × 1.53m) | ~3.2 |
+| Hot tub (~2.07 × 1.53m) | ~3.2 |
 | Outdoor kitchen run (~3.3 × 0.7m) | ~2.3 |
-| 2× storage units (1.96 + 2.16m²) | ~4.1 |
-| **Total subtracted** | **~16.9** |
-| **Net tiled area (gross 120m² − subtractions)** | **~103m²** |
+| Storage units — Store 1 (~0.8) + Store 2 (~1.2) + Store 3 (TBC) + Store 4 (~2.2) | ~4.2+ |
+| **Lift over-run** — concealed by the N4 planter (Part J); only a minimal tile border here | ~3.5 |
+| **Total subtracted** | **~20.4** |
+| **Net tiled area (gross 120m² − subtractions)** | **~100m²** |
 
-Planters are **not** subtracted — they are built on top of the finished tiles (4 June meeting). Movable pots also sit on the tile finish. Parasol bases are recessed cassettes with tile running over the top (Part G), so not subtracted.
+**Tiling around the lift over-run is specced as the absolute minimum needed to conceal it** — the N4 planter (Part J) sits over the over-run, built to line up exactly with the surrounding tile field, so only a thin concealing border is tiled there rather than the full over-run footprint.
+
+Planters are **not** subtracted — they are built on top of the finished tiles (4 June meeting). Movable pots also sit on the tile finish. Parasol bases are recessed cassettes with tile running over the top (Part G), so not subtracted. **Exception:** the **N4 lift-over-run planter** *is* subtracted, because there the planter replaces the tiling (only a minimal concealing border is laid) rather than sitting on top of a tiled field.
 
 > **Note for the surveyor:** these figures are derived from the Part J planter inventory and Part D/O/P footprints in this spec. **Please remeasure precisely against the latest drawings before contractors price the tile order** — small footprint changes (e.g. final hot tub model, kitchen module widths, planter realignments) shift the figure by several m². A 10–15% overage is to be ordered on top of the verified net area and stored in the client's garage at Sussex Square for future repairs.
 
@@ -861,6 +864,7 @@ The existing decking boards have decking bolts with large through-holes every 80
 | **N1** | **L-shaped planter** along east + north parapets of narrow | **7.2m long leg (along east parapet) + 1.8m short leg (along north parapet)** × 600mm deep | **500mm** | Wraps the NE corner of narrow. The corner is mitred / continuous. |
 | **N2** | Square planter — east side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | **Built as a single integrated construction with N1** — they share a wall where they meet on the east parapet side |
 | **N3** | Square planter — west side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | Adjoins the outdoor kitchen (Part P) on its north face — kitchen and planter meet but are independent constructions |
+| **N4** | **Lift over-run planter** *(new 5 June)* | **1.9m × 2.1m** — occupies the **full lift over-run footprint** | TBC (built over the lift over-run) | Replaces tiling over the lift over-run. **Built to line up exactly with the surrounding tiling** (its edges align with the tile field). Tiling around it is kept to the **absolute minimum needed to conceal the over-run** (Part I). Sits over the lift shaft — basic pedestals, no occupants below (Part M); Ronan to confirm build-up, EPDM lining and drainage discharge over the shaft. |
 
 ### Main section
 
@@ -980,7 +984,7 @@ The terrace currently has **3 existing outdoor electrical sockets** in the main 
 
 | # | Position | Notes |
 |---|---|---|
-| **4** | Inside the **storage cupboard at the SW end** of the narrow section | An **existing electrical junction box is already in this cupboard** — pick up the supply from there. IP rating to match the cupboard's enclosure spec. |
+| **4** | Inside **Store 2** (the Litter Robot store, Part O) | Powers the **Litter Robot** (240V). Pick up the supply from the **existing electrical conduits/junction box at the base of the adjacent Stores 1/3**. IP rating to match the cabinet enclosure. |
 | **5** | On the wall in the **NW corner** of the narrow section | IP66 weatherproof double 13A, mounted at the same height as the main-section sockets (≈500mm above FFL) for consistency. |
 
 ## Outdoor kitchen — internal cabinet socket
@@ -1595,18 +1599,22 @@ To complete the biodiversity submission, please confirm or produce:
 
 # PART O — STORAGE UNITS
 
-Two outdoor storage cabinets — one on the narrow section, one on the main section — **both built from salvaged hardwood deck boards** (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves.
+**Four** outdoor storage cabinets — **three on the narrow section (Stores 1–3), one on the main section (Store 4)** — all built from salvaged hardwood deck boards (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves.
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
 ## Inventory
 
-| # | Position | Footprint | Notes |
-|---|---|---|---|
-| **1 — Narrow section store** | Narrow section (exact position per 31 May drawing — TBC if west parapet run or south wall) | **2.30m wide × 0.85m deep × 1.10m high** | Houses the cat's **Litter Robot 4 or 5** + side shelves for general storage + **cat flap** in front face. Contains the electrical junction box used as pickup for socket #4 (Part L). Bee bricks integrated into one external face (see Part N enhancements). |
-| **2 — Main section store** | SE area of main section (between lounge and east parapet, per 31 May drawing) | **1.80m wide × 1.20m deep × ~1.10m high *(height TBC)*** | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions. Optional **child-safe lock** if hot tub chemicals stored here. |
+*(Revised 5 June 2026 to match the latest drawings.)*
 
-All dimensions to be confirmed by Bond McCart on the drawings.
+| # | Position | Footprint (W × D) | Notes |
+|---|---|---|---|
+| **1 — Narrow, general** | Narrow section (per 5 June drawing) | **1.10 × 0.75m** × height TBC (below parapet) | Fills its space. **Existing plumbing + electrical conduits run at the base** — boxed in; **cupboard storage above and to the side** of the conduits. Bee bricks integrated into an external face (Part N). |
+| **2 — Narrow, Litter Robot** | Narrow section (per 5 June drawing) | **1.10 × 1.10m** × height TBC | Houses the cat's **Litter Robot 4/5** — the 1.10m depth gives the room the LR needs (it's ~686mm deep plus cat-landing space). **Cat flap** in the front face + **240V power** (Part L). |
+| **3 — Narrow, conduit cover** | Narrow section (per 5 June drawing) | fills its space (TBC) | **Boxes in currently-exposed plumbing + electrical conduits** at the base; **cupboard storage above.** |
+| **4 — Main (NE) store** | NE of the main section | **1.80 × 1.20m** × ~1.10m (TBC) | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions. **Child-safe lock** if hot tub chemicals stored here. |
+
+All dimensions and positions to be confirmed by Bond McCart on the drawings.
 
 ## Construction principle
 
@@ -1645,8 +1653,9 @@ Because access is via front doors, the roof is a **fixed sloped top** with no op
 ### Internal shelves
 
 - 18mm marine ply, ~250-300mm deep, full width of unit
-- **Narrow section store (with Litter Robot):** **no shelf in the LR's bay** (~800mm wide reserved for LR + drawer access). The remaining ~1.5m of width is divided into 2-3 vertical bays with **2-3 stacked shelves each at ~250-300mm spacing**.
-- **Main section store:** **2-3 vertical bays** of shelving (full-width single shelves, or divided depending on what's stored). Sized to fit the hot tub cover when folded as one option.
+- **Store 2 (Litter Robot):** **no shelf at LR level** — the LR takes most of the bay; any spare width can take a narrow shelf above.
+- **Stores 1 and 3:** the existing conduits are boxed in at the **base**; **cupboard storage / shelves above** (and, for Store 1, to the side of the conduits).
+- **Store 4 (main):** **2-3 vertical bays** of shelving (full-width single shelves, or divided depending on what's stored). Sized to fit the hot tub cover when folded as one option.
 - Stainless ply support cleats screwed to the side walls
 
 ### Base
@@ -1665,29 +1674,29 @@ Because access is via front doors, the roof is a **fixed sloped top** with no op
 - **Lock:** child-safe lock specifically on unit #4 if hot tub chemicals stored there
 - **All exposed fixings:** A4 / 316 stainless. **Internal / hidden bracketry and shelf cleats can be A2 / 304** (cost saving — A2 is fine where it's not exposed to salt aerosol).
 
-## Litter Robot + cat-flap detail (Narrow section store only)
+## Litter Robot + cat-flap detail (Store 2)
 
-The narrow section store (#1) houses the cat's **Litter Robot 4 or 5** (self-cleaning litter box) in one bay, with general storage shelves alongside. The cat enters via a front-mounted cat flap to use the litter box; the front doors open for the owner to access for emptying / shelf contents.
+**Store 2** houses the cat's **Litter Robot 4 or 5** (self-cleaning litter box). The cat enters via a front-mounted cat flap to use the litter box; the front doors open for the owner to empty the waste drawer and lift the unit for cleaning.
 
-**Litter Robot fit (LR4 / LR5):**
+**Litter Robot fit (LR4 — verified dims 559 × 686 × 749mm):**
 
-| | Dimension | Fits in Narrow store (2.30m × 0.85m × 1.10m) |
+| | Dimension | Fits in Store 2 (1.10 × 1.10m)? |
 |---|---|---|
-| LR4 / LR5 width | ~700mm | ✅ — leaves ~1.6m width for side shelves and other storage |
-| LR4 / LR5 depth | ~610mm + ~150mm front clearance for waste-drawer slide-out = ~760mm | ⚠️ — 0.85m depth is just enough; **waste-drawer must slide out forward through the door, not sideways** — confirm front-face geometry works |
-| LR4 / LR5 height | ~749mm | ✅ — 1.10m internal height gives ~350mm clearance above |
+| LR width | 559mm | ✅ — ~540mm spare for the cat flap landing / a side shelf |
+| LR depth + cat landing | 686mm + ~250mm in front of the raised entrance for the cat to come through the flap and step up ≈ 940mm | ✅ — 1.10m depth accommodates it (the waste drawer pulls out the front through the open doors) |
+| LR height | 749mm | ✅ — needs ~820mm internal min; set Store 2 height accordingly |
 
-**Power:** Litter Robot needs 240V mains. Already provided: **socket #4 (Part L)** is inside Storage #1.
+**Power:** Litter Robot needs 240V mains — **socket #4 (Part L) is in Store 2**, fed from the existing electrical conduits at the base of the adjacent Stores 1/3.
 
 **WiFi:** Litter Robot has an app — UniFi network already covers the terrace.
 
 **Cat flap:**
 - **Brand:** **SureFlap Microchip Cat Flap** (DualScan or standard, ~£80-120) — best balance of weatherproof construction, long-term reliability, and microchip locking to keep neighbourhood cats out. Well-reviewed on coastal sites.
 - **Size:** standard ~165 × 175mm cutout
-- **Position:** ~150mm above floor, on the vertical front face of the narrow section store in the LR bay (so the cat enters directly onto the LR's access mat)
+- **Position:** ~150mm above floor, on the vertical front face of **Store 2**, aligned with the LR entrance (so the cat enters and steps up into the LR)
 - **Weatherproofing:** small rain hood / drip edge above the flap
 - **Power:** battery-only (4× AA) — no wiring needed
-- **Internal coordination:** flap position must not conflict with the existing junction box / socket #4. Confirm internal layout with Ronan.
+- **Internal coordination:** flap position must leave the LR landing/step-up zone clear, and not conflict with socket #4 in Store 2. Confirm internal layout with Ronan.
 
 **A separate cat flap from the flat → terrace** is planned (location TBC — probably in one of the existing flat-to-terrace doors). Bond McCart to detail.
 
@@ -1696,13 +1705,13 @@ The narrow section store (#1) houses the cat's **Litter Robot 4 or 5** (self-cle
 Cushion / fabric storage needs **passive airflow** to prevent damp:
 - **Small ventilation slots** (~50mm × 10mm × 2) low-level on the front face, screened with stainless mesh insect grille
 - The hardwood outer cladding's natural board gaps also breathe
-- For Storage #1, the cat flap doubles as a large air-exchange path
+- For Store 2 (Litter Robot), the cat flap doubles as a large air-exchange path
 
 ## What we'd value your steer on
 
-- **Confirmation of the 2 positions** on the drawings and exact footprints (narrow store positioning along which parapet / wall)
-- **Litter Robot waste-drawer clearance** — the 0.85m depth on the narrow store is tight; confirm the LR4/5 waste drawer slides cleanly out through the door without snagging
-- **Main store internal height** — using ~1.10m to match the narrow store, or different?
+- **Confirmation of the 4 positions** on the drawings and exact footprints (Stores 1–3 along the narrow section; Store 4 NE of main)
+- **Store 3 footprint** — confirm the size needed to box in the exposed conduits, with cupboard above
+- **Store heights** — all to sit below parapet height; confirm internal heights (Store 2 needs ≥~820mm internal for the LR)
 - **Hardware finish** — brushed stainless vs powder-coated black (to match the building cladding)
 - **Cat-flap brand confirmation** — SureFlap Microchip recommended
 - **Separate cat flap from flat → terrace** — location TBC, for Ronan to detail
@@ -1711,7 +1720,7 @@ Cushion / fabric storage needs **passive airflow** to prevent damp:
 
 # PART P — OUTDOOR KITCHEN
 
-An outdoor kitchen on the **narrow section** comprising **5 modules in a single straight run** under a continuous stainless worktop: two storage cabinets on the left, the BBQ in the centre (with vented LPG cabinet below), then fridge and sink cabinets on the right.
+An outdoor kitchen on the **narrow section** comprising **5 modules in a single straight run** under a continuous stainless worktop. *Order revised 5 June 2026* (left → right): **cupboard, fridge, BBQ, sink, drawer unit.** The **right-hand (north) unit is partially obscured by the steps up to Floor Area 2**, so it's a **top drawer only, sealed below**; the sink has moved next to the BBQ, and the fridge to the left of the BBQ with a cupboard beyond it.
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
@@ -1724,13 +1733,14 @@ An outdoor kitchen on the **narrow section** comprising **5 modules in a single 
 ## Layout
 
 ```
-LEFT (south) →                                                ← RIGHT (north)
+LEFT (south) →                                                ← RIGHT (north, by steps)
 ┌──────────┬──────────┬──────────────┬──────────┬──────────┐
-│ STORAGE  │ STORAGE  │     BBQ      │  FRIDGE  │   SINK   │
-│ CAB 1    │ CAB 2    │   (in-built  │   bay    │   cab    │
-│          │          │  + LPG below)│          │          │
+│ CUPBOARD │  FRIDGE  │     BBQ      │   SINK   │  DRAWER  │
+│          │   bay    │   (in-built  │   cab    │ top only │
+│          │          │  + LPG below)│          │ sealed ▼ │
 └──────────┴──────────┴──────────────┴──────────┴──────────┘
        ←—— continuous stainless worktop above all modules ——→
+   (right unit partly under the FA2 steps → drawer at top, sealed below)
 ```
 
 ## Position and footprint
@@ -1741,11 +1751,11 @@ LEFT (south) →                                                ← RIGHT (north
 
 | Module (L to R) | Function | Approx width | Notes |
 |---|---|---|---|
-| 1 | Storage cabinet | ~600mm | General BBQ-adjacent storage (utensils, cleaning kit) |
-| 2 | Storage cabinet | ~600mm | General BBQ-adjacent storage |
+| 1 | Cupboard | ~600mm | General BBQ storage (utensils, cleaning kit) |
+| 2 | Fridge bay | ~600mm | Beefeater outdoor tropical fridge — front-vented; see Fridge section below |
 | 3 | BBQ + vented LPG cabinet below | ~900mm | Beefeater Signature 3000E (820mm) + cabinet frame; LPG bottle vented below |
-| 4 | Fridge bay | ~600mm | Beefeater outdoor tropical fridge installed — see Fridge section below |
-| 5 | Sink cabinet | ~600mm | Caple Zero sink + Caple Robo tap above; waste plumbing below |
+| 4 | Sink cabinet | ~600mm | Caple Zero sink + Caple Robo tap above; waste plumbing below |
+| 5 | **Drawer unit (by the steps)** | ~600mm | **Top drawer only, sealed below** — this unit is partly under the FA2 steps, so no lower-cupboard access |
 | **TOTAL** | | **~3.3m wide × ~0.7m deep × ~0.9m high (worktop height)** | |
 
 Worktop runs continuously over all five modules — single fabricated stainless top with cut-outs for sink, BBQ and fridge ventilation grille at front.
@@ -1813,7 +1823,7 @@ Built to match the storage units and planters:
   - Lockable, digital thermostat (0–10°C), fan-assisted frost-free with auto defrost
   - Dimensions: 555W × 495D × 850H mm — fits a standard 600mm cabinet bay with margin
   - Matches the BBQ brand (Beefeater) — visual continuity in stainless finish
-- **Position:** in module 4 (between BBQ and sink) per the linear layout above, worktop running continuously over the top
+- **Position:** module 2 — **to the left of the BBQ** (revised 5 June), with a cupboard beyond it; worktop running continuously over the top
 - **Power:** plugs into a 13A socket inside the cabinet (junction off **Socket #5** in Part L — single feed, switched on at the wall when needed)
 - **Ventilation:** front-vented unit — keep front grille clear and ensure cabinet bay has the recommended manufacturer airgap above and behind
 
@@ -1874,7 +1884,7 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 - **Whether to install a second socket** flush with the worktop area, or to keep using socket #5 only
 - **Whether the kitchen unit's base needs to be on stainless feet** like the storage units, or sit directly on the Protectoboard (to be coordinated with the waste pipe routing)
 - **Confirmation of 3.3m total kitchen length** — fits within the available west-parapet run on the narrow section
-- **Cabinet layout sequence** — confirm L-to-R reads: Storage / Storage / BBQ / Fridge / Sink (or whether you'd prefer the BBQ at one end with all storage / utility one side)
+- **Cabinet layout** — confirmed 5 June as **Cupboard / Fridge / BBQ / Sink / Drawer unit** (L→R). The right (north) unit is a **top drawer only, sealed below**, as it's partly under the FA2 steps — confirm how far the steps overlap it so we fix the drawer width
 
 ---
 
