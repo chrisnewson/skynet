@@ -102,26 +102,27 @@ This is a working assumption — final makeup to follow your steer (see "What we
 
 ## Benches
 
-L-shape wraparound, two-tier on both walls, all in the same untreated whitewood/spruce:
+Upper bench is an **L wrapping the SW corner**; the lower step is a **single straight section** along the west wall. All in the same untreated whitewood/spruce:
 
 | Position | Height (FFL) | Depth | Length |
 |---|---|---|---|
-| Upper bench, west wall | 950mm | 550mm | 2.15m |
-| Lower bench/step, west wall | 450mm | 350mm | 2.15m |
-| Upper bench, south wall | 950mm | 550mm | 1.5m (less heater clearance) |
-| Lower bench/step, south wall | 450mm | 350mm | 1.5m (less heater clearance) |
+| Upper bench, west wall (main lie / löyly) | 950mm | **650mm** | 2.15m |
+| Upper bench, south wall (corner return seat) | 950mm | 650mm | ~0.95m (to the heater) |
+| Lower step — **single straight section**, west wall | 450mm | 350mm | runs the southern length, stops clear of the door |
 
-The bench is a **two-tier L wrapping the SW corner**. **One person lies full-length** on the 2.15m west bench; the south leg gives a second person a seat / reclined leg-room around the corner (the 1.5m south wall is too short to lie along on its own). The **lower step runs the southern part of the west wall and stops short of the north (door) end**, so you step onto clear floor as you enter — not onto the bench. The south-leg benches are **cut back at the SE end by ~250–300mm** for clearance to the Harvia Cilindro PC90E (360 × 340mm) and its guard rail in the SE corner — final clearances per the manufacturer's manual.
+*Revised 5 June 2026:* the **west bench depth is increased to 650mm** so its step front lines up with the south bench / heater line — that lets the **lower step be one clean straight section** instead of jogging round the corner. Total west bench depth is now ~1000mm (650 + 350 step), leaving a ~500mm clear strip down the east side.
+
+**One person lies full-length** on the 2.15m west bench; the south leg is a **corner return seat** for a second person (the 1.5m south wall is too short to lie along on its own), using the west step / floor for feet. The **lower step stops short of the north (door) end**, so you step onto clear floor as you enter — not onto the bench. The south return is **cut back at the SE end** for clearance to the Harvia Cilindro PC90E (360 × 340mm) and its guard rail in the SE corner — final clearances per the manufacturer's manual.
 
 ## Door
 
 - North wall, 600mm clear opening, **clear of the bench** (you step onto open floor on entry — see benches above)
 - **Glass sauna door** *(revised 5 June 2026 — was solid cedar).* Toughened safety glass leaf in a timber (cedar) or marine-grade aluminium frame.
 - **Must be an outdoor / weatherproof-rated assembly — not a standard indoor sauna-cabin glass door.** It needs to be insulated (sealed double/triple glazing or a properly weather-sealed external sauna door), with full-perimeter weather seals and a weathered threshold, because this door is the external face of the building on an exposed coastal roof. Most catalogue glass sauna doors are for indoor cabins — confirm the external/coastal rating with the supplier.
-- **Glass finish to decide:** clear, bronze/grey tint, or frosted — frosted/tint gives privacy from the terrace; clear keeps it open and lets the sauna glow out in the evening.
+- **Glass finish: CLEAR** *(decided 5 June — no privacy needed at this position).* Keeps it open and lets the sauna glow out across the terrace in the evening.
 - **Coastal hardware:** A4/316 stainless or solid brass hinges, catch and handle only.
 - Magnetic catch, 50N+ pull (wind-resistant); heat-tolerant (timber / cool-touch) handle.
-- Outward-opening, with restrictor to limit swing in wind.
+- **Outward-opening** (swings out onto the terrace — keeps the swing out of the small sauna and is the right way for egress), with restrictor to limit swing in wind. Needs clear swing space on the terrace side.
 - **Hold-open for venting between sessions** — marine A4 stainless / solid brass cabin-hook (or sprung friction arm) on the external wall, holding the door at ~30–45° for passive airing.
 - **Heat-loss note:** a glazed door loses more heat than an insulated timber one — consistent with doors/windows being the main heat path (see Walls and Ceiling). Accepted for the look, and mitigated by the door being **diagonally opposite the heater** (SE) and well sealed.
 - Suppliers: sauna specialists do glass doors — **Finnmark, Auroom, Tylö Helo, Harvia** — subject to the outdoor-rating check above.
@@ -129,7 +130,7 @@ The bench is a **two-tier L wrapping the SW corner**. **One person lies full-len
 
 ## Window
 
-- East wall, positioned toward the **north end** of the wall (view to the NE)
+- East wall, with a **300mm gap to the north wall** so it isn't jammed into the NE corner — the window's north edge sits 300mm off the north wall, and the 1200mm window runs south from there (north edge ≈1850mm, south edge ≈650mm along the 2150mm east wall). View to the NE/E.
 - **1200mm wide × 800mm tall**, single pane, **FIXED** (non-opening) — ventilation is handled by the dedicated inlet/outlet vents, so an opening sauna window is not required
 - Sill at 1100mm from FFL
 - **Frame:** cedar or other heat-tolerant softwood on the interior face; external face can be aluminium-clad if needed for weatherproofing — **NOT aluminium internally** (would burn skin at sauna interior temperature)
