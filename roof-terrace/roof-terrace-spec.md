@@ -696,14 +696,13 @@ We've chosen frameless structural glass throughout for both locations — keeps 
 | Sauna/wet room building external footprint (~2.90 × 2.49m) | ~7.2 |
 | Hot tub (~2.07 × 1.53m) | ~3.2 |
 | Outdoor kitchen run (~3.3 × 0.7m) | ~2.3 |
-| Storage units — Store 1 (~0.8) + Store 2 (~1.2) + Store 3 (TBC) + Store 4 (~2.2) | ~4.2+ |
-| **Lift over-run** — concealed by the N4 planter (Part J); only a minimal tile border here | ~3.5 |
-| **Total subtracted** | **~20.4** |
-| **Net tiled area (gross 120m² − subtractions)** | **~100m²** |
+| Storage units — Store 1 (~0.8) + Store 2 (~1.2) + Store 3 (~0.6) + Store 4 (~2.2) | ~4.8 |
+| **Total subtracted** | **~17.5** |
+| **Net tiled area (gross 120m² − subtractions)** | **~102m²** |
 
-**Tiling around the lift over-run is specced as the absolute minimum needed to conceal it** — the N4 planter (Part J) sits over the over-run, built to line up exactly with the surrounding tile field, so only a thin concealing border is tiled there rather than the full over-run footprint.
+**The lift bulkhead is tiled over** (concealing the structure), with the tiling adding **as little extra area as possible beyond the existing bulkhead footprint** — i.e. tile the bulkhead itself, don't spread a tiled apron around it. The **N4 planter (Part J) then matches that tiled bulkhead footprint exactly** and sits on top. So the bulkhead area is part of the tiled field and is **not** subtracted.
 
-Planters are **not** subtracted — they are built on top of the finished tiles (4 June meeting). Movable pots also sit on the tile finish. Parasol bases are recessed cassettes with tile running over the top (Part G), so not subtracted. **Exception:** the **N4 lift-over-run planter** *is* subtracted, because there the planter replaces the tiling (only a minimal concealing border is laid) rather than sitting on top of a tiled field.
+Planters are **not** subtracted — they are built on top of the finished tiles (4 June meeting). This includes the **N4 lift-over-run planter**, which sits on top of the tiled bulkhead. Movable pots also sit on the tile finish. Parasol bases are recessed cassettes with tile running over the top (Part G), so not subtracted.
 
 > **Note for the surveyor:** these figures are derived from the Part J planter inventory and Part D/O/P footprints in this spec. **Please remeasure precisely against the latest drawings before contractors price the tile order** — small footprint changes (e.g. final hot tub model, kitchen module widths, planter realignments) shift the figure by several m². A 10–15% overage is to be ordered on top of the verified net area and stored in the client's garage at Sussex Square for future repairs.
 
@@ -864,7 +863,7 @@ The existing decking boards have decking bolts with large through-holes every 80
 | **N1** | **L-shaped planter** along east + north parapets of narrow | **7.2m long leg (along east parapet) + 1.8m short leg (along north parapet)** × 600mm deep | **500mm** | Wraps the NE corner of narrow. The corner is mitred / continuous. |
 | **N2** | Square planter — east side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | **Built as a single integrated construction with N1** — they share a wall where they meet on the east parapet side |
 | **N3** | Square planter — west side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | Adjoins the outdoor kitchen (Part P) on its north face — kitchen and planter meet but are independent constructions |
-| **N4** | **Lift over-run planter** *(new 5 June)* | **1.9m × 2.1m** — occupies the **full lift over-run footprint** | TBC (built over the lift over-run) | Replaces tiling over the lift over-run. **Built to line up exactly with the surrounding tiling** (its edges align with the tile field). Tiling around it is kept to the **absolute minimum needed to conceal the over-run** (Part I). Sits over the lift shaft — basic pedestals, no occupants below (Part M); Ronan to confirm build-up, EPDM lining and drainage discharge over the shaft. |
+| **N4** | **Lift over-run planter** *(new 5 June)* — low aromatic herbs | **1.9m × 2.1m** — **matches the tiled lift-bulkhead footprint exactly** | Box per standard planter build; **planting kept low, <700mm total** | The lift bulkhead is **tiled over with minimal extra area** beyond its existing footprint (Part I), and this planter is built **on top, matching that footprint exactly**. Built like the other planters (salvaged hardwood, EPDM-lined, drainage layer — see Construction). Sits over the lift shaft — basic pedestals, no occupants below (Part M); Ronan to confirm build-up, EPDM lining and drainage discharge over the shaft. **Planting:** low fragrant herbs — see plant list below. |
 
 ### Main section
 
@@ -914,7 +913,7 @@ Olives need adequate root volume. In the **600mm-deep planters** (most of them),
 
 - Lightweight make-up (polystyrene + gravel + lightweight soil): **~250–350 kg/m² saturated**
 - Compared to heavy make-up (all gravel + heavy topsoil): ~600–800 kg/m² saturated
-- **Saving:** ~300–400 kg/m² for the SE to take care of (significant on a ~21m² planted area)
+- **Saving:** ~300–400 kg/m² for the SE to take care of (significant on a ~25m² planted area)
 
 ### What the builders should include in their planter price
 
@@ -1186,7 +1185,7 @@ Inverting the whole main section will **raise the finished floor level (FFL) abo
 **Floor Area 4 is deleted** — its area is absorbed into Floor Area 3 (Chris updating the drawings).
 
 - **3 steps up** lead from the lower terrace up to the **raised dining zone (Floor Area 2)**. This is the same FA2/FA3 transition the Part J planters already sit on — **M2 and M3 run along the stair line and double as the fall-protection edge at the FA2 drop**.
-- **Lift over-run:** no longer built over. Its top is re-detailed as a **planter + a narrower cupboard** (Chris to detail further — see Parts J and O).
+- **Lift over-run:** no longer built up over. Its top is **tiled over (minimal extra area beyond the bulkhead)**, with the **N4 low-herb planter built on top, matching that footprint exactly** (Parts I and J).
 - **Level access from the study:** keeping the narrow section low, combined with **dropping the study door/window sill by 170mm** (see Part Q), gives a level / near-level threshold from the study straight onto the narrow terrace.
 
 **For Ronan / Building Control:**
@@ -1285,7 +1284,8 @@ Calculated from the planter inventory in Part J (see Part J "Sizes" subsection f
 | N1 | L-shape east + north parapets (7.2m + 1.8m legs × 600mm; less corner overlap) | | **5.04 m²** |
 | N2 | Square, east side mid-narrow (1.2 × 1.2m, built integral with N1) | | **1.44 m²** |
 | N3 | Square, west side mid-narrow adjoining kitchen (1.2 × 1.2m) | | **1.44 m²** |
-| | Narrow subtotal | | **~7.92 m²** |
+| N4 | Lift over-run planter (1.9 × 2.1m), low fragrant herbs | | **~4.0 m²** |
+| | Narrow subtotal | | **~11.9 m²** |
 | **MAIN SECTION** | | | |
 | M1 | L-shape in dining (FA2) (5m + 1.8m × 600mm; less corner overlap) | | **3.72 m²** |
 | M2 | L-shape SE main (4m + 3m × 600mm; less corner overlap) | | **3.84 m²** |
@@ -1293,9 +1293,9 @@ Calculated from the planter inventory in Part J (see Part J "Sizes" subsection f
 | M4 | North of seating (3m × 600mm) | | **1.80 m²** |
 | M5-M7 | Hot tub U-shape (east 2m × 600mm + north 2.1m × 300mm + west 2m × 600mm) | | **3.03 m²** |
 | | Main subtotal | | **~13.11 m²** |
-| **TOTAL planted area** | | | **~21.0 m²** |
+| **TOTAL planted area** | | | **~25.0 m²** |
 
-That's **~17-18% of the total terrace footprint** given over to soft landscape, with the planter runs forming a near-continuous green perimeter around the usable hard-landscaped zones.
+That's **~21% of the total terrace footprint** given over to soft landscape (up from ~21.0 m² with the addition of the N4 lift-over-run herb planter), with the planter runs forming a near-continuous green perimeter around the usable hard-landscaped zones.
 
 In addition: **5 olive trees** as point specimens within the east-edge run / L-shape planters (a substantial vertical planting layer, not captured in the area figure above).
 
@@ -1347,6 +1347,9 @@ The planting has been designed to provide **wind defence on the north and east p
 | **N1** | East + North L narrow (500mm) | **Back:** *Olearia × haastii* (spaced along run) + 2 olives (anchoring the east leg) + *Phormium tenax* + *Cordyline australis* (NE corner) / **Mid:** *Phlomis*, *Brachyglottis*, *Salvia microphylla*, *Olearia × haastii* / **Front:** *Stachys*, *Erigeron*, *Lavandula*, *Salvia rosmarinus*, *Festuca* |
 | **N2** | Mid-east 1.2 × 1.2m square | *Pittosporum tobira* 'Wheeler's Dwarf' (1m compact dome) + *Phormium tenax* / *Lavandula* 'Hidcote' underplanting |
 | **N3** | Mid-west 1.2 × 1.2m square (kitchen-adjacent) | *Pittosporum tobira* 'Wheeler's Dwarf' (1m dome) + *Salvia rosmarinus* + *Thymus vulgaris* + *Origanum vulgare* (sensory herbs by outdoor kitchen) |
+| **N4** | Lift over-run planter (1.9 × 2.1m) — **fragrant herb bed, all <700mm** | **Trailing over the edges:** *Salvia rosmarinus* 'Prostratus' (prostrate rosemary) all round / **Body:** upright *Salvia rosmarinus*, *Lavandula angustifolia* 'Hidcote', *Thymus vulgaris* + creeping thyme, *Origanum vulgare*, *Santolina chamaecyparissus* (cotton lavender), *Salvia microphylla* 'Hot Lips' — a low Mediterranean herb mound, all kept under 700mm. A sensory, bee-friendly feature in the middle of the narrow terrace. |
+
+*N4's body planting also draws on existing palette herbs — upright **Salvia rosmarinus**, **Lavandula** 'Hidcote', **Thymus**, **Origanum**, **Salvia microphylla** — so the per-species quantities/costs above will rise slightly once N4's mix is finalised against the planted area.*
 
 ### Movable pots (5 at south end of narrow + scatter west of N3)
 
@@ -1406,6 +1409,8 @@ Quantities derived from the per-planter plant lists above + movable pots. Sizes 
 | *Sedum / Hylotelephium* 'Purple Emperor' | Purple-leaved sedum | 5 | 1–2L pot | 3 M5 + 2 M6 | ~£5–8 | ~£25–40 |
 | *Thymus vulgaris* | Common thyme | 10 | 9cm pot | 5 M5 + 4 N3 + 1 west-of-N3 pot | ~£3–5 | ~£30–50 |
 | *Origanum vulgare* | Wild marjoram (UK native) | 4 | 9cm pot | 3 N3 + 1 west-of-N3 pot | ~£3–5 | ~£12–20 |
+| *Salvia rosmarinus* 'Prostratus' | Prostrate / trailing rosemary | ~6 | 2–3L pot | N4 (trailing over all edges) | ~£8–12 | ~£50–70 |
+| *Santolina chamaecyparissus* | Cotton lavender | ~4 | 2L pot | N4 | ~£6–10 | ~£25–40 |
 | *Armeria maritima* | Sea thrift (UK coastal native) | 4 | 1L / 9cm pot | M5 | ~£4–6 | ~£15–25 |
 | *Lithodora diffusa* | Azure-blue carpet | 2 | 1–2L pot | M3 | ~£5–8 | ~£10–15 |
 
@@ -1483,10 +1488,10 @@ Photo-realistic visualisations of each planter at maturity. These are AI-generat
 
 
 - **Continuity with the protected Kemp Town Enclosures planting** — the palette is drawn from the same Mediterranean / coastal-meadow tradition that already characterises Sussex Square's communal gardens, so the terrace reads as an extension of the registered garden's biodiversity layer rather than an alien intrusion. **Olearia × haastii (×3 in Sussex Square photos)** is the primary mid-tall windbreak shrub in this plan — well-evidenced in the local heritage planting.
-- **Strong pollinator support** — *Nepeta × faassenii*, *Lavandula*, *Salvia rosmarinus*, *Salvia microphylla* 'Hot Lips', *Salvia nemorosa* 'Caradonna', *Phlomis fruticosa*, *Brachyglottis* 'Sunshine', *Origanum vulgare*, *Geranium* 'Rozanne', *Erigeron karvinskianus*, *Lithodora diffusa* — all in the RHS "Plants for Pollinators" list, providing nectar from early spring (*Lithodora*, *Lavandula*) through to late autumn (*Salvia microphylla*, *Erigeron*).
+- **Strong pollinator support** — *Nepeta × faassenii*, *Lavandula*, *Salvia rosmarinus*, *Salvia microphylla* 'Hot Lips', *Salvia nemorosa* 'Caradonna', *Phlomis fruticosa*, *Brachyglottis* 'Sunshine', *Origanum vulgare*, *Geranium* 'Rozanne', *Erigeron karvinskianus*, *Lithodora diffusa* — all in the RHS "Plants for Pollinators" list, providing nectar from early spring (*Lithodora*, *Lavandula*) through to late autumn (*Salvia microphylla*, *Erigeron*). The new **N4 fragrant-herb bed** (rosemary incl. prostrate, lavender, thyme, oregano, *Santolina*, *Salvia microphylla*) adds a concentrated, long-flowering pollinator magnet and a sensory feature in the heart of the narrow terrace — all RHS "Plants for Pollinators".
 - **Seed and overwintering value** — *Sedum* 'Purple Emperor', *Festuca glauca* tussocks, *Cynara cardunculus* seed heads, *Phormium tenax* flower spikes, *Phlomis fruticosa* whorls all left standing through winter provide seed and invertebrate cover for finches, sparrows and overwintering insects.
 - **Coastal-meadow niche** — ***Armeria maritima*** (UK coastal native, in M5), ***Origanum vulgare*** (UK native, in N3), naturalised *Erigeron karvinskianus*, *Salvia rosmarinus*, *Stachys byzantina*, *Lavandula* — together provide the Mediterranean / coastal-meadow biotope characteristic of the Sussex seafront. The broader palette in `planting.md` also includes *Crambe maritima*, *Glaucium flavum* and *Eryngium giganteum* which can be added as native enhancements if BHCC asks.
-- **Vertical layering** — **5 olive trees** distributed across 4 planters (2 in N1, 1 in M1, 1 in M2, 1 in M3) + sub-shrub mid-layer (*Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*, *Cordyline australis*) + perennial / mat understory + drought-tolerant low planting at hot tub — gives multi-tier habitat structure within the locked **~21.0 m² of planted area** (~14-18% of the terrace footprint). The parasols' fabric provides bird-safe cover when retracted.
+- **Vertical layering** — **5 olive trees** distributed across 4 planters (2 in N1, 1 in M1, 1 in M2, 1 in M3) + sub-shrub mid-layer (*Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*, *Cordyline australis*) + perennial / mat understory + drought-tolerant low planting at hot tub — gives multi-tier habitat structure within the **~25.0 m² of planted area** (~21% of the terrace footprint, incl. the new N4 fragrant-herb bed). The parasols' fabric provides bird-safe cover when retracted.
 - **Specific UK native species in this plan:** *Armeria maritima* (M5), *Origanum vulgare* (N3). **Long-naturalised in S England:** *Erigeron karvinskianus* (multiple planters), *Stachys byzantina* (multiple), *Salvia rosmarinus* (multiple), *Lavandula angustifolia* (multiple). Wider palette has additional UK natives available for substitution if planning officer asks for more native content (see `planting.md`).
 - **No invasive species** — the list deliberately excludes anything on Schedule 9 of the WCA 1981 (e.g. no *Cotoneaster horizontalis*, no *Crocosmia* × *crocosmiiflora*, no *Buddleja davidii* as a primary feature).
 - **EPDM-lined hardwood planters** with lightweight peat-free roof-garden soil mix + bark mulch (see Part J planter make-up) = healthy long-term planting at minimal structural load, not a one-season display.
@@ -1509,7 +1514,7 @@ This subsection sets out **what we've prepared for you**, **what physical featur
 
 **Pre-development baseline:** The existing roof terrace is an **asphalted flat roof with no vegetation**. Under the Statutory Biodiversity Metric this classifies as **"Developed land; sealed surface"** — the lowest distinctiveness band (zero biodiversity units). The proposed scheme therefore starts from zero, and any planting represents net biodiversity gain — the 10% BNG threshold is comfortably exceeded by definition.
 
-**Post-development baseline:** Locked-in **~21.0 m² of planted area** (~14-18% of the terrace footprint, per Part J inventory and Part N "Planted area" subsection) plus **5 olive trees** distributed as point specimens (2 in N1, 1 in M1, 1 in M2, 1 in M3), plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs" (primarily *Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*), "Native species-rich elements" (*Armeria maritima*, *Origanum vulgare*), naturalised wildflowers (*Erigeron*, *Stachys*, *Lavandula*) and "Mixed scrub" texture within hardwood-clad container planters.
+**Post-development baseline:** Locked-in **~25.0 m² of planted area** (~21% of the terrace footprint, per Part J inventory and Part N "Planted area" subsection — including the N4 fragrant-herb bed over the lift over-run) plus **5 olive trees** distributed as point specimens (2 in N1, 1 in M1, 1 in M2, 1 in M3), plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs" (primarily *Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*), "Native species-rich elements" (*Armeria maritima*, *Origanum vulgare*), naturalised wildflowers (*Erigeron*, *Stachys*, *Lavandula*) and "Mixed scrub" texture within hardwood-clad container planters.
 
 **Native species in this windbreak plan + wider palette available for substitution:**
 
@@ -1609,10 +1614,12 @@ To complete the biodiversity submission, please confirm or produce:
 
 | # | Position | Footprint (W × D) | Notes |
 |---|---|---|---|
-| **1 — Narrow, general** | Narrow section (per 5 June drawing) | **1.10 × 0.75m** × height TBC (below parapet) | Fills its space. **Existing plumbing + electrical conduits run at the base** — boxed in; **cupboard storage above and to the side** of the conduits. Bee bricks integrated into an external face (Part N). |
-| **2 — Narrow, Litter Robot** | Narrow section (per 5 June drawing) | **1.10 × 1.10m** × height TBC | Houses the cat's **Litter Robot 4/5** — the 1.10m depth gives the room the LR needs (it's ~686mm deep plus cat-landing space). **Cat flap** in the front face + **240V power** (Part L). |
-| **3 — Narrow, conduit cover** | Narrow section (per 5 June drawing) | fills its space (TBC) | **Boxes in currently-exposed plumbing + electrical conduits** at the base; **cupboard storage above.** |
-| **4 — Main (NE) store** | NE of the main section | **1.80 × 1.20m** × ~1.10m (TBC) | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions. **Child-safe lock** if hot tub chemicals stored here. |
+| **1 — Narrow, general** | Narrow section (per 5 June drawing) | **1.10 × 0.75m** × **~1.0m high** | Fills its space. **Existing plumbing + electrical conduits run at the base** — boxed in; **cupboard storage above and to the side** of the conduits. Bee bricks integrated into an external face (Part N). |
+| **2 — Narrow, Litter Robot** | Narrow section (per 5 June drawing) | **1.10 × 1.10m** × **~1.0m high** | Houses the cat's **Litter Robot 4/5** — the 1.10m depth gives the room the LR needs (~686mm deep + cat-landing space); ~1.0m height leaves ~900mm+ internal, clear of the 749mm LR. **Cat flap** in the front face + **240V power** (Part L). |
+| **3 — Narrow, conduit cover** | Narrow section (per 5 June drawing) | **0.85 × 0.75m** × **~1.0m high** | **Boxes in currently-exposed plumbing + electrical conduits** at the base; **cupboard storage above.** |
+| **4 — Main (NE) store** | NE of the main section | **1.80 × 1.20m** × **~1.2m high** | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions. **Child-safe lock** if hot tub chemicals stored here. |
+
+> **Heights:** the three narrow-section stores are **~1.0m high to line up with the narrow-section railings** (Part E) for a clean, consistent line; **Store 4 is ~1.2m high**. All sit below parapet height.
 
 All dimensions and positions to be confirmed by Bond McCart on the drawings.
 
@@ -1710,8 +1717,7 @@ Cushion / fabric storage needs **passive airflow** to prevent damp:
 ## What we'd value your steer on
 
 - **Confirmation of the 4 positions** on the drawings and exact footprints (Stores 1–3 along the narrow section; Store 4 NE of main)
-- **Store 3 footprint** — confirm the size needed to box in the exposed conduits, with cupboard above
-- **Store heights** — all to sit below parapet height; confirm internal heights (Store 2 needs ≥~820mm internal for the LR)
+- **Heights confirmed (5 June):** narrow stores ~1.0m (to line up with the railings), Store 4 ~1.2m, all below parapet — confirm Store 2 internal height clears the 749mm LR with a bit of headroom
 - **Hardware finish** — brushed stainless vs powder-coated black (to match the building cladding)
 - **Cat-flap brand confirmation** — SureFlap Microchip recommended
 - **Separate cat flap from flat → terrace** — location TBC, for Ronan to detail
