@@ -14,13 +14,13 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ## Drawings
 
-**Overall plan** (full terrace, including narrow section / FLOOR AREA 1 with lift bulkhead and stair hatch):
+**Overall plan** (full terrace, updated 5 June 2026) — narrow section / **Floor Area 1** (minimal pedestal height) with stores, outdoor kitchen, lift bulkhead and stair hatch; **Floor Area 2** dining (4 × 5m, **500mm raised, steps up on the east side**); **Floor Area 3** lounge / hot tub (minimal pedestal height, L-shape round to the hot tub); sauna / wet room building and stores. *(Reflects the revised levels in Part M and the deletion of the old Floor Area 4.)*
 
-![Overall floor plan](drawings/full-terrace-31-5-26.png)
+![Overall floor plan](drawings/full-terrace-5-6-26.jpg)
 
-**Main section close-up** (FLOOR AREAS 2, 3, 4 — dining, lounge, sauna / wet room building, hot tub) — *note: Floor Area 4 is being merged into Floor Area 3 and the levels revised (see Part M, "Levels across the terrace"); drawings to be updated:*
+**Main section close-up** (updated 5 June 2026) — Floor Area 2 (raised dining), Floor Area 3 (lounge / hot tub), the sauna / wet room building with room dimensions, and the main-section store:
 
-![Main floor plan](drawings/floorplan-main-31-5-26.png)
+![Main section plan](drawings/large-terrace-5-6-26.jpg)
 
 ## Contents
 
@@ -1174,7 +1174,7 @@ Inverting the whole main section will **raise the finished floor level (FFL) abo
 | Area | Level | How it's achieved |
 |---|---|---|
 | **Narrow section (Floor Area 1)** | **Low** — kept as low as possible | **Lowest pedestal height** on the warm-roof build-up. No longer raised up over the lift over-run. |
-| **Dining (Floor Area 2)** | **High** — the one raised zone | **Tall adjustable pedestals** — our supplier has a pedestal covering the **350–500mm** range — on the inverted build-up. |
+| **Dining (Floor Area 2)** | **High** — the one raised zone, **≈500mm raised** (per the 5 June drawing) | **Tall adjustable pedestals** — our supplier has a pedestal covering the **350–500mm** range — on the inverted build-up. Steps up on the east side. |
 | **Hot tub + seating/lounge + SE end of the large terrace (Floor Area 3)** | **Low** | Pedestals at **~100mm above the Protectoboard**, on the inverted build-up. |
 
 **Floor Area 4 is deleted** — its area is absorbed into Floor Area 3 (Chris updating the drawings).
