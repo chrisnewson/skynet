@@ -863,7 +863,7 @@ The existing decking boards have decking bolts with large through-holes every 80
 | **N1** | **L-shaped planter** along east + north parapets of narrow | **7.2m long leg (along east parapet) + 1.8m short leg (along north parapet)** × 600mm deep | **500mm** | Wraps the NE corner of narrow. The corner is mitred / continuous. |
 | **N2** | Square planter — east side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | **Built as a single integrated construction with N1** — they share a wall where they meet on the east parapet side |
 | **N3** | Square planter — west side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | Adjoins the outdoor kitchen (Part P) on its north face — kitchen and planter meet but are independent constructions |
-| **N4** | **Lift over-run planter** *(new 5 June)* — low aromatic herbs | **1.9m × 2.1m** — **matches the tiled lift-bulkhead footprint exactly** | Box per standard planter build; **planting kept low, <700mm total** | The lift bulkhead is **tiled over with minimal extra area** beyond its existing footprint (Part I), and this planter is built **on top, matching that footprint exactly**. Built like the other planters (salvaged hardwood, EPDM-lined, drainage layer — see Construction). Sits over the lift shaft — basic pedestals, no occupants below (Part M); Ronan to confirm build-up, EPDM lining and drainage discharge over the shaft. **Planting:** low fragrant herbs — see plant list below. |
+| **N4** | **Lift over-run planter** *(new 5 June)* — low aromatic herbs | **1.9m × 2.1m** — **matches the tiled lift-bulkhead footprint exactly** | **400mm box** (planting kept <700mm total) | The lift bulkhead is **tiled over with minimal extra area** beyond its existing footprint (Part I), and this planter is built **on top, matching that footprint exactly**. Built exactly like the other planters (salvaged hardwood, EPDM-lined, drainage layer) and **drains through onto the tiled surface like the others** — no special over-shaft drainage detail. Sits over the lift shaft — basic pedestals, no occupants below (Part M). **Planting:** low fragrant herbs — see plant list below. |
 
 ### Main section
 
@@ -880,6 +880,7 @@ The existing decking boards have decking bolts with large through-holes every 80
 | Height | Where | Why |
 |---|---|---|
 | **500mm** above FFL | Narrow section L-shape (N1), narrow squares (N2, N3), dining L (M1) | Standard planter height — frames the use zones without dominating |
+| **400mm** (box) | Lift over-run planter (N4) | Kept low as it sits on the raised, tiled bulkhead; planting kept <700mm total so the feature stays low |
 | **700mm** above FA3 FFL or terrace FFL | SE L (M2), east-of-sauna (M3), north-of-seating (M4) | Substantial windbreak height for the lounge / FA3 zone; also doubles as a fall-protection edge where M2 sits next to the raised FA2 stair drop |
 | **+150mm above hot tub rim** | Hot tub U (M5–M7) | Maximum sensible wind defence for the hot tub without dominating the view from the lounge |
 
