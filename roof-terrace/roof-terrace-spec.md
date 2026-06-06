@@ -464,11 +464,14 @@ Shortlist of tubs that fit the envelope is below. Final tub TBC pending SE sign-
 |---|---|---|---|---|---|---|---|
 | 1 | [Fisher 3](https://fisherspas.com/) | NZ designed (Vortex) | Rectangular | 207 × 153 × 82cm | 1,121 | 354 | £3,500–5,500 |
 
-**Marginal — 3cm over envelope on length, otherwise fits:**
+**Marginal — slightly over the 210cm envelope length, otherwise fit:**
 
 | # | Model | Origin | Shape | Dimensions | Filled (kg) | kg/m² | Price |
 |---|---|---|---|---|---|---|---|
-| (M) | [Pre-owned Marquis Spirit](https://www.hunsburyhottubs.co.uk/hot-tubs/pre-owned/) | USA (Oregon) | Rectangular | 213 × 165 × 91cm | 1,280 | 365 | £3,500–5,500 |
+| (M) | [Pre-owned Marquis Spirit](https://www.hunsburyhottubs.co.uk/hot-tubs/pre-owned/) | USA (Oregon) | Rectangular | 213 × 165 × 91cm (+3cm long) | 1,280 | 365 | £3,500–5,500 |
+| (H) | [Hydropool Serenity 4300](https://www.hydropoolspasandhottubs.co.uk/product/serenity-4300/) | **Canada** (genuine) | Rectangular | 216 × 158 × 86cm (+6cm long) | 1,163 | 342 | ~£7,295 (new) |
+
+**On the radar — Hydropool Serenity 4300 (added 6 June):** the one Hydropool that gets near the envelope. Worth keeping in view for its **patented self-cleaning** (filters all the water every ~15 min — a real plus on a roof terrace that's awkward to drain) and **genuine Canadian build**. Structurally it's comfortable — at **1,163 kg / 342 kg/m² it sits *inside* the Marquis Spirit bounding check** (1,280 / 365), so if that passes, this is covered. The catches: it's **~6cm over the envelope on length** and **~£7,295 new — over our £6k cap** (pre-owned Hydropool is rare in the UK). A premium "if the budget stretches" option, not the value pick.
 
 **Removed (don't fit 170 × 210cm envelope):**
 - RotoSpa Orbis (183cm dia round — too wide)
