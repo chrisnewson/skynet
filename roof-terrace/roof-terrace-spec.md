@@ -732,6 +732,12 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 
 **Preferred systems:** Buzon DPH with rubber shims, or Eterno Ivica SE range. Either acceptable. Builder may source either subject to confirming spec compliance.
 
+> **⚠ Load-bearing — planters and hot tub: detail to the pedestal manufacturer's recommendations.** Two concentrated loads sit on the pedestal-and-tile field and **must not point-load a tile mid-span**:
+> - **Planters** (Part J) — ~250–350 kg/m² saturated, sitting on bearers on top of the tiles
+> - **Hot tub** (Part D) — ~1,160–1,280 kg over ~3.2 m² ≈ **~360–400 kg/m²**
+>
+> Their support is to be designed **per the pedestal manufacturer's (Buzon / Eterno Ivica) published load tables and technical guidance** — closer-spaced/extra pedestals on the load lines, the correct head/base rating, and load spread so the path is bearer → tile-over-pedestal → pedestal → Protectoboard → deck. **Issue the planter footprints (Part J) and the final hot-tub footprint (Part D) to the pedestal supplier and the SE before the pedestal grid is set out.** The hot tub may instead warrant a continuous load-spreading base — confirm with the pedestal supplier / SE which approach they recommend.
+
 ## Acoustic isolation — zoned by sensitivity of space below
 
 We want acoustic isolation specced proportionally to what's underneath each part of the terrace, rather than uniform across the whole 120m². Three zones:
