@@ -728,6 +728,7 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 - Padded head pedestals only — no unpadded basic systems
 - Self-levelling head strongly preferred
 - Pedestal base wide enough to distribute load over Protectoboard without point-loading damage
+- **Extra pedestals under the planters:** the planters (Part J) are built **on top of the finished tiles** and are heavy (~250–350 kg/m² saturated). Add pedestals under the **planter bearer lines** so the planter load transfers tile → pedestal → Protectoboard, never onto the unsupported middle of a tile. Planter footprints (Part J inventory) to be issued to the tiler **before the pedestal grid is set out**.
 
 **Preferred systems:** Buzon DPH with rubber shims, or Eterno Ivica SE range. Either acceptable. Builder may source either subject to confirming spec compliance.
 
@@ -794,7 +795,7 @@ We want planters built from the **salvaged hardwood decking** removed from the e
 ## Construction principle
 
 - **Change from the 4 June meeting:** planters now sit **on top of the finished tile field**, *not* built off the Protectoboard below the tiles. The whole roof is tiled first, then the planters are built on top (see Part I). This is simpler than working the planter bases into the tile build-up, and is the agreed approach.
-- Tile runs continuously **underneath** each planter; a protective pad / bearer layer sits between the planter base and the tiles to spread the load and protect the surface
+- Tile runs continuously **underneath** each planter. The planter sits on **bearers/feet on protective pads**, raised ~25mm off the tile, so that: (a) its weight is spread and carried down to the **pedestals below** rather than point-loading the middle of a tile; (b) there's a continuous **drainage + air gap** under the box; and (c) the porcelain is protected. See **"Sitting on the tiles — drainage & load"** below.
 - Planters are **freestanding boxes** — they do not rely on the parapet or any other wall for structural or weatherproofing function
 - Built with stainless steel fixings throughout
 - **Aim** — reference image:
@@ -815,8 +816,8 @@ Treated softwood frame with hardwood cladding outside, EPDM lining inside, and s
 | **EPDM liner** | 1.0–1.2mm continuous, dressed up all four sides + 50mm onto top edge (trapped under the cap board) | ~£20-40/planter depending on size |
 | **Frame** | **50×50mm treated softwood (e.g. C16-graded UC4 treated)** — 4 corner posts (full height), top + bottom horizontal rails, intermediate vertical uprights at ~400mm centres. **Concealed structure** — never exposed to weather, treated to UC4 (in-ground) standard for belt-and-braces. | ~£15-25/planter materials |
 | **Cross-bracing** | Diagonal softwood bracing within frame for L-shape and longer planters (>2m) to handle soil thrust | Included in frame |
-| **Base** | Sloped 1% to drain; drainage holes through frame bottom + EPDM (then geotextile cap inside). Discharge falls onto the tile field below and drains away through the open tile joints (Part I) | Standard |
-| **Bearers** | Treated softwood or stainless feet, ~25mm — raise the base off the tiles for drainage airflow and to protect the tile surface (planter now sits on the finished tiles) | Standard |
+| **Base** | Sloped ~1% to the drain holes; **25–30mm weep holes through the timber base + EPDM at ~600mm centres**, each with a geotextile cap inside. Water weeps onto the tile field and drains away through the **open (un-grouted) tile joints** (Part I) → Protectoboard → roof falls. | Standard |
+| **Bearers** | **Treated softwood / stainless bearers on rubber pads**, raising the base **~25mm off the tiles** — gives the under-planter **drainage + air gap** (water escapes, tile dries, no ponding/staining) and protects the porcelain. **Bearer lines to align over the tile pedestals below** so the load transfers feet → tile → pedestal (coordinate the pedestal grid under planters with the tiler — Part I). | Standard |
 
 **Why this works structurally:**
 - Soil + saturated lightweight mix exerts hydrostatic-like load on planter walls
@@ -894,7 +895,7 @@ This is the key risk where planters sit against the parapet or building wall. Tw
 1. **Freestanding back panel** — every planter has its own timber back wall (built integrally), so the planter contains itself. The parapet/building wall is never the back of the planter.
 2. **Air gap** — **30mm** between the planter's back panel and the wall behind, to allow ventilation and a clear visual inspection route.
 
-Result: any water that escapes the planter falls onto the Protectoboard / tile void and drains to the existing roof falls — never into a wall.
+Result: any water that escapes the planter falls onto the **finished tiles** and drains away through the open tile joints to the roof falls — never into a wall.
 
 
 ## Planter make-up — drainage, soil, mulch — **to be provided and installed by the builders**
@@ -928,18 +929,28 @@ Olives need adequate root volume. In the **600mm-deep planters** (most of them),
 5. Labour for layered installation
 6. Disposal of any excess materials
 
-## Drainage from planters
+## Sitting on the tiles — drainage & load
 
-- Drainage holes through the **liner and timber base** at ~600mm centres, 25–30mm diameter
-- Geotextile cap over each hole inside, to prevent media loss
-- Water discharges onto Protectoboard, follows the asphalt falls to existing terrace drainage
-- **No drainage discharged toward walls or into the tile pedestal void in a way that could pool**
+Now the planters sit **on top of the finished tile field** (not built into the roof build-up), two things need detailing well: how water gets *out*, and how the weight gets *down* without cracking a tile. The open-jointed tiling (Part I) actually makes the drainage easy.
+
+**Drainage path (out of the box → off the roof):**
+- **Weep holes** through the EPDM liner and timber base at **~600mm centres, 25–30mm dia**, each with a **geotextile cap** inside to stop drainage media washing out.
+- Base **sloped ~1%** to the weep holes.
+- Water **weeps onto the finished tiles**, runs to the nearest **open (un-grouted) tile joint**, drops to the **Protectoboard** below, and follows the asphalt/roof falls to the existing terrace drains (Part I / Part M).
+- The box is **raised ~25mm on bearers/pads** (Build-up, above), so there's a **continuous gap under it** — water can't be trapped, and the tile dries between rains (no ponding, algae or staining under the planter).
+- **Don't dam the falls:** where a long planter runs across the slope, make sure water can still get past — the under-planter gap and open joints handle this, but the builder/tiler should check no planter sits hard against a drainage channel or outlet.
+- **No discharge toward walls** — the freestanding back panel + 30mm air gap (above) keep water off the parapet/building.
+
+**Load transfer (down to structure, not into a tile):**
+- A planted box is heavy (~250–350 kg/m² saturated). It must **not** bear on the unsupported middle of a tile.
+- **Set the planter's bearers/feet over the pedestal positions below**, on rubber pads, so the load path is **bearer → tile (directly over a pedestal) → pedestal → Protectoboard → deck**.
+- This needs **coordinating the pedestal grid under each planter with the tiler** (Part I) — extra pedestals added on the planter bearer lines where needed. Flag the planter footprints to the tiler before the pedestals are set out.
 
 ## What we'd value your steer on
 
 - **EPDM vs alternative liner** — happy to use HDPE or butyl if you have a preference for this exposure
 - **Salvageable hardwood quantity** — assumes we have enough sound boards for the run shown on the drawings. Contingency strategy if short
-- **Bearer / foot detail** — best way to lift the hardwood off the Protectoboard without point-loading the membrane
+- **Bearer / foot detail on the tiles** — best way to carry the planter on the finished tiles: bearer/pad spacing and **aligning them over the pedestals below** so the load transfers without cracking a tile; to be confirmed against the tiling pedestal layout (Part I)
 
 ---
 
