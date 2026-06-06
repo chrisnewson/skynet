@@ -59,6 +59,8 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 **One honest change — the wet room.** Pre-app the building was sauna + store; it is now sauna + wet room. This arose later in design for a practical reason: the nearest WC is the full length of the terrace away, down the internal stair and along the flat's corridor — impractical for a terrace built around a sauna and hot tub. With the store moved out to the low outdoor cabinets, the freed internal volume now holds a compact WC and shower. This is a change of *internal use only* — it adds nothing to the external footprint, height or massing the officers assessed, and from the street the building still reads simply as the sauna. The one new element is concealed foul drainage.
 
+**A second honest change — the study door to the terrace.** Access from the flat onto the terrace is through an existing door/window off the study at the south end of the narrow section. To give a safe, **level threshold** onto the (now lower) narrow terrace, we propose to **lower its sill by ~170mm to internal floor level** — which means a **new door/window unit** in the existing opening (Part Q). We're flagging this openly: it **modestly enlarges the existing opening downward** rather than forming any new opening in historic fabric, and it sits at **roof-terrace level on a rear elevation, not visible from the principal Sussex Square frontage**. We'd welcome the conservation officer's steer on a sympathetic frame and threshold detail, which we'll develop with Bond McCart. Listed Building Consent will be sought for this alongside the rest of the works.
+
 **Every change reduces impact, in line with what was asked:**
 
 - **Set back 3 m from the Bristol Gardens parapet** (was 0.6 m). This directly meets Heritage Officer Lance Penman's explicit request to *"set further back by about 3–4 m from the parapet … to avoid it being prominently visible from that street."* The single biggest driver of streetscene visibility is fully addressed.
@@ -1341,9 +1343,9 @@ The full list with sizes, growth rate, biodiversity notes and images is in **[`p
 
 The planting has been designed to provide **wind defence on the north and east parapets** (the principal wind directions to defend against) while **preserving the east view to the Downs from the hot tub**. The plan deliberately leans on species already in the Sussex Square palette — no new species added.
 
-**Companion drawing:** [`drawings/windbreak-planting-plan-31-5-26.png`](drawings/windbreak-planting-plan-31-5-26.png) — scale schematic showing each planter and proposed plants.
+**Companion drawing:** [`drawings/windbreak-planting-plan-6-6-26.png`](drawings/windbreak-planting-plan-6-6-26.png) — to-scale schematic showing each planter and proposed plants (v10, 6 June: 4 stores, N4 herb planter, reordered kitchen).
 
-![Windbreak planting plan schematic](drawings/windbreak-planting-plan-31-5-26.png)
+![Windbreak planting plan schematic](drawings/windbreak-planting-plan-6-6-26.png)
 
 ### Design principles
 
@@ -1926,7 +1928,7 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 
 ## Planning
 
-- **This alteration to the building fabric will require planning approval / Listed Building Consent** (a change to an opening / fenestration on a Grade I listed building). To be included in the full application alongside the other heritage items (sauna height, cladding, etc.).
+- **This alteration to the building fabric will require planning approval / Listed Building Consent** (a change to an opening / fenestration on a Grade I listed building). To be included in the full application alongside the other heritage items (sauna height, cladding, etc.). **Now also set out in the [Planning Case](#planning-case--why-the-refined-scheme-merits-support) ("A second honest change — the study door")** so the heritage officer sees it up front (it was not part of the pre-app).
 
 ## What we'd value your steer on
 
