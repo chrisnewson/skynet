@@ -629,7 +629,10 @@ We've used Morton Parasols before and want to use them again, or an equivalent c
   - **Sofa: 4 × 3m** (i.e. a 3 × 4m rectangle)
 - **Frame:** marine-grade aluminium with **stainless fittings** (salt-air corrosion is the real enemy here, more than the wind rating)
 - **Fabric:** solution-dyed acrylic (Recasens / Sunbrella or equivalent), Brighton coastal exposure
-- **Model — being finalised.** Shortlist: **Bambrella Hurricane Side Wind** (marine-grade, does 3×3 + 3×4, integral clip-on heaters/LED, ~£1.5–3.1k each — note brand reviews are mixed; the *aluminium Hurricane* is the well-rated one, the *bamboo* models aren't), **SHADEmakers** (UK-made, cleaner reputation, ~£5k), or **Tuuci** (marine gold standard, ~£11k). *The Morton **Malaga** is a cantilever but **square/octagonal only — no rectangle**, so it can't do the sofa size.*
+- **Model — being finalised, two real options:**
+  - **Bambrella Hurricane Side Wind** — marine-grade aluminium + stainless fittings, does **3×3 + 3×4 (rectangle)**, 360° rotation + 45° tilt, integral clip-on heaters/LED, ~£1.5–3.1k each. *(Buy the aluminium Hurricane — the well-reviewed model; the bamboo Bambrellas aren't.)*
+  - **Morton Malaga** — the cantilever we've used for years (proven, good reviews), but **square/octagonal only — no rectangle**, so the sofa would be a **~4×4 square** not 4×3; worth asking Morton for a **marine-spec** version for the salt air.
+  - *Since we'll furl in strong wind on a weighted base anyway, the choice is really about **shape (rectangle vs square sofa) and marine build**, not wind rating.*
 
 ## Bases — recessed on the Protectoboard, no roof penetration *(decided 7 June 2026)*
 
