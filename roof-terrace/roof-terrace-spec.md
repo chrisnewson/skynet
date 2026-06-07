@@ -624,28 +624,28 @@ We've used Morton Parasols before and want to use them again, or an equivalent c
 
 ## What we need
 
-- **2× parasols**, freestanding, commercial / storm-resistant grade
-  - 1× **3m × 3m** (square)
-  - 1× **3m × 4.5m** (rectangular)
-- Frame: anodised aluminium or powder-coated aluminium (marine-tolerant)
-- Fabric: solution-dyed acrylic (e.g. Sunbrella or equivalent), Brighton coastal exposure
+- **2× side-pole (cantilever) parasols** — clear underneath (like the Morton Malaga we've had for years), **marine / corrosion-grade** for the exposed seafront:
+  - **Dining: 3 × 3m** (fabric size — ~2 × 3m would do, but ~3m is the practical minimum on these ranges)
+  - **Sofa: 4 × 3m** (i.e. a 3 × 4m rectangle)
+- **Frame:** marine-grade aluminium with **stainless fittings** (salt-air corrosion is the real enemy here, more than the wind rating)
+- **Fabric:** solution-dyed acrylic (Recasens / Sunbrella or equivalent), Brighton coastal exposure
+- **Model — being finalised.** Shortlist: **Bambrella Hurricane Side Wind** (marine-grade, does 3×3 + 3×4, integral clip-on heaters/LED, ~£1.5–3.1k each — note brand reviews are mixed; the *aluminium Hurricane* is the well-rated one, the *bamboo* models aren't), **SHADEmakers** (UK-made, cleaner reputation, ~£5k), or **Tuuci** (marine gold standard, ~£11k). *The Morton **Malaga** is a cantilever but **square/octagonal only — no rectangle**, so it can't do the sofa size.*
 
-## Bases — per Morton's recommendation
+## Bases — recessed on the Protectoboard, no roof penetration *(decided 7 June 2026)*
 
-The terrace is a **floating pedestal-and-tile floor** (Part I), so a heavy parasol base can go one of two ways — and the suppliers need to agree which:
+The waterproofing (asphalt) on this inverted roof is at the very bottom, on the structural deck — so **we are not penetrating the roof.** Each parasol base will be a **free-standing weighted base set down on the IKO Protectoboard** (in the pedestal void), with the **mast rising through a collar/sleeve at the tile plane.** The tile floor then gives the mast **lateral restraint**, which is far more stable than a base sitting on the tile surface. *(Alternatively a base can be ballasted/housed within a planter, using its mass and footprint.)*
 
-- **On top of the tiles** — a free-standing weighted base sitting on the tile surface, or
-- **Below the tiles** — base set into the pedestal void / fixed to the structure, with the mast passing up through a sealed sleeve in the tile.
+**Why not a fixed base:** a true anchored fixing would have to connect down through the insulation **and** the asphalt to the deck — a deliberate waterproofed penetration of the one watertight skin, against IKO's "invert the whole roof so it outlasts the building" approach. **We're not doing that.** The consequence we accept: on a weighted base the parasol is **furled in strong wind** — so we're buying for **marine-grade build, not for a wind rating we can't fully exploit.**
 
-**This needs resolving for the dining-area parasol in particular** (over the raised FA2, where the pedestal void is deep — ~500mm). Because the base is heavy and the floor is a floating pedestal system, **the pedestal supplier (Buzon / Eterno Ivica — Part I) and the parasol supplier (Morton) must liaise to agree the detail** — load transfer down to the pedestals/structure, recess depth, mast penetration and wind-uplift anchorage. **We'll ask Morton to specify their recommended base for both sizes** (3 × 3m and 3 × 4.5m) at Brighton seafront wind exposure, and coordinate it with the pedestal layout.
+**Loads:** the base is heavy (**~140–280kg**) and bears **base → Protectoboard → 220mm (compressible) insulation → asphalt → deck**, so it must be **spread** (load-spreading plate / adequate footprint) to stay within the insulation's compressive limit — **designed with Eterno Ivica, IKO and the SE** (Part I).
 
-The mast itself is removable so the surface detail can be capped flush when the parasol is taken down for winter.
+The mast lifts out so the surface can be capped flush over winter; the base stays in the void.
 
 ## What we'd value your steer on
 
-- **On-top-vs-below decision + pedestal/parasol liaison** — agree whether each base (especially the **dining parasol**) sits on the tiles or in the pedestal void, between Morton and the pedestal supplier; then Ronan to confirm the chosen detail works with the build-up (falls, tanking, load path)
-- **Wind uplift loads** — a 3 × 4.5m parasol at full Brighton seafront wind exposure is a serious load; structural sign-off on the deck and base anchorage capacity, even with the parasol furled
-- **Sleeve / cup detail at the tile surface** — how the mast passes through the tile, weather-sealed, and capped when removed
+- **Recessed-base detail** — base on the Protectoboard, mast collar at the tile plane, **load spread** so neither the 20mm tile nor the compressible insulation is overloaded; **set out before the roof is closed up and tiled** (Eterno Ivica + IKO + SE)
+- **Drainage past the recessed base** — it sits in the inverted-roof drainage void, so water must still flow past it to the outlets (IKO)
+- **Mast collar / cap detail** at the tile surface — weather-sealed, and capped flush when the parasol is removed
 
 ---
 
@@ -740,9 +740,9 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 **Chosen system: Eterno Ivica** (SE self-levelling range) — *confirmed 7 June 2026* (Buzon DPH was the alternative). The Eterno Ivica system is designed for ~100 kg/m² with pedestals at the slab corners; at our pedestal heights (350–500mm on the main section) **mid-edge and central pedestals are also required** per their guidance — and **more again under concentrated loads** (below).
 
 > **⚠ Load-bearing — planters, hot tub and parasol bases: detail to the pedestal manufacturer's recommendations.** These concentrated loads sit on the pedestal-and-tile field and **must not point-load a tile mid-span**:
-> - **Planters** (Part J) — ~250–350 kg/m² saturated, sitting on bearers on top of the tiles
+> - **Planters** (Part J) — heavy **sustained** loads, ~250–350 kg/m² saturated, in long runs on top of the tiles. **The pedestal grid must be designed around every planter** — extra pedestals on the planter bearer lines — and the **sustained weight on the compressible 220mm insulation** checked for long-term compression. **Issue every planter footprint to Eterno Ivica + the SE.**
 > - **Hot tub** (Part D) — ~1,160–1,280 kg over ~3.2 m² ≈ **~360–400 kg/m²**
-> - **Parasol bases** (Part G) — heavy, and able to sit **either on top of the tiles or in the pedestal void**. The **dining-area parasol** in particular (on the raised FA2) needs the **pedestal supplier and the parasol supplier (Morton) to liaise** on whether the base sits on or below the tiles, how the load and wind-uplift are carried, and the mast penetration through the tile.
+> - **Parasol bases** (Part G) — heavy (~140–280kg), **recessed on the Protectoboard with the mast collared at the tile plane** (no roof penetration, decided 7 Jun). Load to be spread and designed with Eterno Ivica + IKO + SE.
 >
 > Their support is to be designed **per Eterno Ivica's published load tables and IKO's point-load guidance** — extra/closer-spaced pedestals on the load lines, the correct pedestal rating, and load spread so the path is base/bearer → tile-over-pedestals → pedestals → **IKO Protectoboard → 220mm (compressible) insulation → asphalt → deck**.
 >
