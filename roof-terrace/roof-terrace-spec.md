@@ -626,13 +626,15 @@ We've used Morton Parasols before and want to use them again, or an equivalent c
 
 - **2× side-pole (cantilever) parasols** — clear underneath (like the Morton Malaga we've had for years), **marine / corrosion-grade** for the exposed seafront:
   - **Dining: 3 × 3m** (square)
-  - **Sofa: 4 × 4m** (square) — covers the ~4 × 3m sofa footprint; chosen **square** to avoid the cantilever rectangle-orientation question (on a side-post the long axis is model-fixed; 360° rotation only *aims* it) and to give a **matching square pair**. *A Bambrella 3 × 4m rectangle remains an option only if they confirm its long side reaches **away** from the post.*
+  - **Sofa: ~4m of cover** — the available shape depends on the brand: **Malaga → 4 × 4m square**; **Bambrella → 3 × 4m rectangle** (the Bambrella Hurricane's largest *square* is only 3.4m, so it can't do 4×4 — its sofa option is the rectangle). Both cover the ~4 × 3m sofa footprint. *(For the Bambrella rectangle, confirm the long side reaches **away** from the post; and ask if a 4×4 square is possible as a special.)*
 - **Frame:** marine-grade aluminium with **stainless fittings** (salt-air corrosion is the real enemy here, more than the wind rating)
 - **Fabric:** solution-dyed acrylic (Recasens / Sunbrella or equivalent), Brighton coastal exposure
-- **Model — being finalised.** With both parasols now **square (3×3 + 4×4)**, **both options can do them**, so it's a straight call on build / reviews / price:
-  - **Bambrella Hurricane Side Wind** — marine-grade aluminium + stainless fittings, 360° rotation + 45° tilt, integral clip-on heaters/LED, ~£1.5–3.1k each. *(Buy the aluminium Hurricane — the well-reviewed model; the bamboo Bambrellas aren't.)*
-  - **Morton Malaga** — the cantilever we've used for years (proven, cleaner reviews); ask Morton for a **marine-spec** version for the salt air.
-  - *Wind rating is moot (we furl on a weighted base), so the decision is **marine build + track record**, not wind.*
+- **Model — being finalised; the sofa shape maps to the brand** (Malaga is square-only; Bambrella's max square is 3.4m):
+  - **Morton Malaga** → **3×3 + 4×4 square** pair. Proven, cleaner reviews; **marine version available** + **stainless fittings throughout** as standard; gas-spring "easy-up"; 100mm aluminium mast; **heating + LED available** (incl. battery-LED); from **~£2,900**.
+  - **Bambrella Hurricane Side Wind** → **3×3 square + 3×4 rectangle**. Marine-grade aluminium + stainless; 360° rotation + 45° tilt; integral heaters/LED (mast-internal wiring); **~£1.5–3.1k each**. *(Buy the aluminium Hurricane, not bamboo; confirm the rectangle's orientation.)*
+  - *Wind rating is moot (we furl on a weighted base), so the call is **marine build + track record + price + square-vs-rectangle shape** — and the two are close.* **Getting quotes for both (7 June).**
+
+**Heating / lighting & side panels (both):** both offer integrated **infra-red heating + LED lighting** (Bambrella's is clearly integral — mast-internal wiring, LED in the frame extrusion; Morton's exact fitment to confirm, with a battery-LED fallback). **Neither cantilever offers full side panels** — both do **valances** (short fabric drops for low sun) only. Actual side/wind screening would come from **separate screens** (Morton "terrace screens") or our planters/glass windbreak — not the parasol.
 
 ## Bases — recessed on the Protectoboard, no roof penetration *(decided 7 June 2026)*
 
