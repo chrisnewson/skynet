@@ -625,14 +625,14 @@ We've used Morton Parasols before and want to use them again, or an equivalent c
 ## What we need
 
 - **2× side-pole (cantilever) parasols** — clear underneath (like the Morton Malaga we've had for years), **marine / corrosion-grade** for the exposed seafront:
-  - **Dining: 3 × 3m** (fabric size — ~2 × 3m would do, but ~3m is the practical minimum on these ranges)
-  - **Sofa: 4 × 3m** (i.e. a 3 × 4m rectangle)
+  - **Dining: 3 × 3m** (square)
+  - **Sofa: 4 × 4m** (square) — covers the ~4 × 3m sofa footprint; chosen **square** to avoid the cantilever rectangle-orientation question (on a side-post the long axis is model-fixed; 360° rotation only *aims* it) and to give a **matching square pair**. *A Bambrella 3 × 4m rectangle remains an option only if they confirm its long side reaches **away** from the post.*
 - **Frame:** marine-grade aluminium with **stainless fittings** (salt-air corrosion is the real enemy here, more than the wind rating)
 - **Fabric:** solution-dyed acrylic (Recasens / Sunbrella or equivalent), Brighton coastal exposure
-- **Model — being finalised, two real options:**
-  - **Bambrella Hurricane Side Wind** — marine-grade aluminium + stainless fittings, does **3×3 + 3×4 (rectangle)**, 360° rotation + 45° tilt, integral clip-on heaters/LED, ~£1.5–3.1k each. *(Buy the aluminium Hurricane — the well-reviewed model; the bamboo Bambrellas aren't.)*
-  - **Morton Malaga** — the cantilever we've used for years (proven, good reviews), but **square/octagonal only — no rectangle**, so the sofa would be a **~4×4 square** not 4×3; worth asking Morton for a **marine-spec** version for the salt air.
-  - *Since we'll furl in strong wind on a weighted base anyway, the choice is really about **shape (rectangle vs square sofa) and marine build**, not wind rating.*
+- **Model — being finalised.** With both parasols now **square (3×3 + 4×4)**, **both options can do them**, so it's a straight call on build / reviews / price:
+  - **Bambrella Hurricane Side Wind** — marine-grade aluminium + stainless fittings, 360° rotation + 45° tilt, integral clip-on heaters/LED, ~£1.5–3.1k each. *(Buy the aluminium Hurricane — the well-reviewed model; the bamboo Bambrellas aren't.)*
+  - **Morton Malaga** — the cantilever we've used for years (proven, cleaner reviews); ask Morton for a **marine-spec** version for the salt air.
+  - *Wind rating is moot (we furl on a weighted base), so the decision is **marine build + track record**, not wind.*
 
 ## Bases — recessed on the Protectoboard, no roof penetration *(decided 7 June 2026)*
 
