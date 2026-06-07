@@ -632,13 +632,18 @@ We've used Morton Parasols before and want to use them again, or an equivalent c
 
 ## Bases — per Morton's recommendation
 
-The heavy bases need to sit **under the porcelain tile finish**, not on top of it, so the deck build-up needs to accommodate the base. **We will ask Morton to specify their recommended base detail for both parasol sizes** (3 × 3m and 3 × 4.5m), given Brighton seafront wind exposure, and adopt their preferred fixing approach.
+The terrace is a **floating pedestal-and-tile floor** (Part I), so a heavy parasol base can go one of two ways — and the suppliers need to agree which:
+
+- **On top of the tiles** — a free-standing weighted base sitting on the tile surface, or
+- **Below the tiles** — base set into the pedestal void / fixed to the structure, with the mast passing up through a sealed sleeve in the tile.
+
+**This needs resolving for the dining-area parasol in particular** (over the raised FA2, where the pedestal void is deep — ~500mm). Because the base is heavy and the floor is a floating pedestal system, **the pedestal supplier (Buzon / Eterno Ivica — Part I) and the parasol supplier (Morton) must liaise to agree the detail** — load transfer down to the pedestals/structure, recess depth, mast penetration and wind-uplift anchorage. **We'll ask Morton to specify their recommended base for both sizes** (3 × 3m and 3 × 4.5m) at Brighton seafront wind exposure, and coordinate it with the pedestal layout.
 
 The mast itself is removable so the surface detail can be capped flush when the parasol is taken down for winter.
 
 ## What we'd value your steer on
 
-- **Coordination of Morton's recommended base detail** with the deck build-up — once Morton has specified, Ronan to confirm the base can be set in cleanly without compromising the tanking, falls or insulation
+- **On-top-vs-below decision + pedestal/parasol liaison** — agree whether each base (especially the **dining parasol**) sits on the tiles or in the pedestal void, between Morton and the pedestal supplier; then Ronan to confirm the chosen detail works with the build-up (falls, tanking, load path)
 - **Wind uplift loads** — a 3 × 4.5m parasol at full Brighton seafront wind exposure is a serious load; structural sign-off on the deck and base anchorage capacity, even with the parasol furled
 - **Sleeve / cup detail at the tile surface** — how the mast passes through the tile, weather-sealed, and capped when removed
 
@@ -707,7 +712,7 @@ We've chosen frameless structural glass throughout for both locations — keeps 
 
 **The lift bulkhead is tiled over** (concealing the structure), with the tiling adding **as little extra area as possible beyond the existing bulkhead footprint** — i.e. tile the bulkhead itself, don't spread a tiled apron around it. The **N4 planter (Part J) then matches that tiled bulkhead footprint exactly** and sits on top. So the bulkhead area is part of the tiled field and is **not** subtracted.
 
-Planters are **not** subtracted — they are built on top of the finished tiles (4 June meeting). This includes the **N4 lift-over-run planter**, which sits on top of the tiled bulkhead. Movable pots also sit on the tile finish. Parasol bases are recessed cassettes with tile running over the top (Part G), so not subtracted.
+Planters are **not** subtracted — they are built on top of the finished tiles (4 June meeting). This includes the **N4 lift-over-run planter**, which sits on top of the tiled bulkhead. Movable pots also sit on the tile finish. Parasol bases — whether set in the pedestal void (mast through a sealed tile sleeve) or as a weighted base on top of the tiles — are not subtracted; the on-top-vs-below detail is to be agreed between the pedestal and parasol suppliers (see the load-bearing note above and Part G).
 
 > **Note for the surveyor:** these figures are derived from the Part J planter inventory and Part D/O/P footprints in this spec. **Please remeasure precisely against the latest drawings before contractors price the tile order** — small footprint changes (e.g. final hot tub model, kitchen module widths, planter realignments) shift the figure by several m². A 10–15% overage is to be ordered on top of the verified net area and stored in the client's garage at Sussex Square for future repairs.
 
@@ -734,11 +739,12 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 
 **Preferred systems:** Buzon DPH with rubber shims, or Eterno Ivica SE range. Either acceptable. Builder may source either subject to confirming spec compliance.
 
-> **⚠ Load-bearing — planters and hot tub: detail to the pedestal manufacturer's recommendations.** Two concentrated loads sit on the pedestal-and-tile field and **must not point-load a tile mid-span**:
+> **⚠ Load-bearing — planters, hot tub and parasol bases: detail to the pedestal manufacturer's recommendations.** These concentrated loads sit on the pedestal-and-tile field and **must not point-load a tile mid-span**:
 > - **Planters** (Part J) — ~250–350 kg/m² saturated, sitting on bearers on top of the tiles
 > - **Hot tub** (Part D) — ~1,160–1,280 kg over ~3.2 m² ≈ **~360–400 kg/m²**
+> - **Parasol bases** (Part G) — heavy, and able to sit **either on top of the tiles or in the pedestal void**. The **dining-area parasol** in particular (on the raised FA2) needs the **pedestal supplier and the parasol supplier (Morton) to liaise** on whether the base sits on or below the tiles, how the load and wind-uplift are carried, and the mast penetration through the tile.
 >
-> Their support is to be designed **per the pedestal manufacturer's (Buzon / Eterno Ivica) published load tables and technical guidance** — closer-spaced/extra pedestals on the load lines, the correct head/base rating, and load spread so the path is bearer → tile-over-pedestal → pedestal → Protectoboard → deck. **Issue the planter footprints (Part J) and the final hot-tub footprint (Part D) to the pedestal supplier and the SE before the pedestal grid is set out.** The hot tub may instead warrant a continuous load-spreading base — confirm with the pedestal supplier / SE which approach they recommend.
+> Their support is to be designed **per the pedestal manufacturer's (Buzon / Eterno Ivica) published load tables and technical guidance** — closer-spaced/extra pedestals on the load lines, the correct head/base rating, and load spread so the path is bearer → tile-over-pedestal → pedestal → Protectoboard → deck. **Issue the planter footprints (Part J), the final hot-tub footprint (Part D) and the parasol base positions (Part G) to the pedestal supplier and the SE before the pedestal grid is set out.** The hot tub may instead warrant a continuous load-spreading base — confirm with the pedestal supplier / SE which approach they recommend.
 
 ## Acoustic isolation — zoned by sensitivity of space below
 
@@ -863,6 +869,10 @@ The existing decking boards have decking bolts with large through-holes every 80
 | Plus: faster build (no marine ply box joinery), uses salvaged stock more fully (battens / hidden uses for holed scraps), Brighton pier wood as cap adds character at zero cost |
 
 ## Sizes — planter inventory
+
+**Main-section planter layout** (planters labelled on the drawing — cross-reference with the table below; the full terrace incl. the narrow-section planters N1–N4 is in the [Drawings](#drawings) section):
+
+![Main section planter layout](drawings/large-terrace-5-6-26.jpg)
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
@@ -1343,9 +1353,9 @@ The full list with sizes, growth rate, biodiversity notes and images is in **[`p
 
 The planting has been designed to provide **wind defence on the north and east parapets** (the principal wind directions to defend against) while **preserving the east view to the Downs from the hot tub**. The plan deliberately leans on species already in the Sussex Square palette — no new species added.
 
-**Companion drawing:** [`drawings/windbreak-planting-plan-6-6-26.png`](drawings/windbreak-planting-plan-6-6-26.png) — to-scale schematic showing each planter and proposed plants (v10, 6 June: 4 stores, N4 herb planter, reordered kitchen).
+**Companion drawing:** the planters are now labelled (N1–N4, M1–M7) directly on the GA drawings — full terrace below, and the main-section close-up by the table in [Part J](#part-j--planters). Cross-reference the codes with the per-planter plant lists in this Part.
 
-![Windbreak planting plan schematic](drawings/windbreak-planting-plan-6-6-26.png)
+![Full terrace — planters labelled N1–N4, M1–M7](drawings/full-terrace-5-6-26.jpg)
 
 ### Design principles
 
