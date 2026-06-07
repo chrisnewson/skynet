@@ -737,14 +737,18 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 - Pedestal base wide enough to distribute load over Protectoboard without point-loading damage
 - **Extra pedestals under the planters:** the planters (Part J) are built **on top of the finished tiles** and are heavy (~250–350 kg/m² saturated). Add pedestals under the **planter bearer lines** so the planter load transfers tile → pedestal → Protectoboard, never onto the unsupported middle of a tile. Planter footprints (Part J inventory) to be issued to the tiler **before the pedestal grid is set out**.
 
-**Preferred systems:** Buzon DPH with rubber shims, or Eterno Ivica SE range. Either acceptable. Builder may source either subject to confirming spec compliance.
+**Chosen system: Eterno Ivica** (SE self-levelling range) — *confirmed 7 June 2026* (Buzon DPH was the alternative). The Eterno Ivica system is designed for ~100 kg/m² with pedestals at the slab corners; at our pedestal heights (350–500mm on the main section) **mid-edge and central pedestals are also required** per their guidance — and **more again under concentrated loads** (below).
 
 > **⚠ Load-bearing — planters, hot tub and parasol bases: detail to the pedestal manufacturer's recommendations.** These concentrated loads sit on the pedestal-and-tile field and **must not point-load a tile mid-span**:
 > - **Planters** (Part J) — ~250–350 kg/m² saturated, sitting on bearers on top of the tiles
 > - **Hot tub** (Part D) — ~1,160–1,280 kg over ~3.2 m² ≈ **~360–400 kg/m²**
 > - **Parasol bases** (Part G) — heavy, and able to sit **either on top of the tiles or in the pedestal void**. The **dining-area parasol** in particular (on the raised FA2) needs the **pedestal supplier and the parasol supplier (Morton) to liaise** on whether the base sits on or below the tiles, how the load and wind-uplift are carried, and the mast penetration through the tile.
 >
-> Their support is to be designed **per the pedestal manufacturer's (Buzon / Eterno Ivica) published load tables and technical guidance** — closer-spaced/extra pedestals on the load lines, the correct head/base rating, and load spread so the path is bearer → tile-over-pedestal → pedestal → Protectoboard → deck. **Issue the planter footprints (Part J), the final hot-tub footprint (Part D) and the parasol base positions (Part G) to the pedestal supplier and the SE before the pedestal grid is set out.** The hot tub may instead warrant a continuous load-spreading base — confirm with the pedestal supplier / SE which approach they recommend.
+> Their support is to be designed **per Eterno Ivica's published load tables and IKO's point-load guidance** — extra/closer-spaced pedestals on the load lines, the correct pedestal rating, and load spread so the path is base/bearer → tile-over-pedestals → pedestals → **IKO Protectoboard → 220mm (compressible) insulation → asphalt → deck**.
+>
+> **The 220mm inverted-roof insulation is compressible** — so a concentrated load (e.g. a **parasol base of ~140–280kg**, or the hot tub) must be spread over enough pedestals / Protectoboard that the pressure stays within **both** the 20mm-porcelain tile rating **and** the insulation's compressive limit. Don't stand a heavy base on bare tiles.
+>
+> **Issue the planter footprints (Part J), the hot-tub footprint (Part D) and the parasol base positions (Part G) to Eterno Ivica, IKO and the SE before the pedestal grid is set out.** Ways to handle heavy bases: a **load-spreading plate** over several pedestals; a **continuous base** for the hot tub; or **ballasting/anchoring a parasol within a planter** (using the planter's mass and footprint — which could also let a parasol be properly anchored despite the no-fix inverted roof). Confirm the chosen approach with the suppliers and SE.
 
 ## Acoustic isolation — zoned by sensitivity of space below
 
@@ -1172,11 +1176,10 @@ The two roof sections now get different systems:
 
 | Layer (top to bottom) | Notes |
 |---|---|
-| Tiles | Porcelain on pedestals (Part I) |
-| Pedestals | **Rubber acoustic pads top *and* bottom** in this section (most sound isolation — see Part I) |
-| Protectoboard | Over the whole area (see below) |
-| Water-flow / filter membrane | |
-| 220–240mm insulation | Inverted-roof insulation, above the asphalt |
+| Tiles | 20mm porcelain on pedestals (Part I) |
+| Pedestals | **Eterno Ivica** (chosen 7 Jun), **rubber acoustic pads top *and* bottom** in this section (most sound isolation — see Part I) |
+| **IKO Protectoboard** | Over the whole area — protects the membrane/insulation and **spreads pedestal + point loads onto the insulation** (see below) |
+| **220mm insulation** | Inverted-roof insulation (IKO), above the asphalt — **compressible**, so concentrated loads (hot tub, parasol bases) must be spread (Part I) |
 | 20mm asphalt | Waterproofing on the deck |
 | Vapour control layer | *Position to be confirmed by IKO — Chris noted the order here may be wrong* |
 | 18mm board | |
