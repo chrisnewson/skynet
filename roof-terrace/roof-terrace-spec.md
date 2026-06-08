@@ -27,6 +27,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 ## Contents
 
 - [Planning Case — Why the Refined Scheme Merits Support](#planning-case--why-the-refined-scheme-merits-support)
+- [Programme & Phasing — Two-Phase Delivery](#programme--phasing--two-phase-delivery)
 - [Part A — Sauna](#part-a--sauna)
 - [Part B — Wet Room](#part-b--wet-room)
 - [Part C — Smart Control (Home Assistant)](#part-c--smart-control-home-assistant)
@@ -76,7 +77,66 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ---
 
+# Programme & Phasing — Two-Phase Delivery
+
+*For Ronan, and for the contractors (Sussex Asphalt, Seaview, IKO): how the works are split into two phases, and — most importantly — what **Phase 1 must build in now** so **Phase 2 isn't trapped** later.*
+
+## Why two phases
+
+The **flat-roof replacement is going ahead as a separate job**, with **scaffolding up for about 12 weeks**. That scaffold window is our one cheap opportunity to get materials onto the roof. Re-scaffolding later is expensive and the downstairs neighbours won't accept the scaffold for months. So the terrace fit-out is split by **planning status**:
+
+- **Phase 1 — works we believe need no planning consent**: drainage through the new roof, tiling, planters, the outdoor kitchen, planting — plus the other non-building terrace works (railings, parapet bird deterrent, outdoor tap, storage, electrical first-fix + lighting, and the **dining-area glass**). These proceed alongside / straight after the roof job.
+- **Phase 2 — works that need planning permission / Listed Building Consent**: the **sauna/wet-room building**, the **parasols**, the **hot tub**, the **hot-tub glazing**, and the **study door/window** alteration (Part Q). These wait for consent.
+
+> **⚠ The guiding principle — bury it now, or you can't do it later.** Once the roof is closed, the tiling is down, and the scaffold has gone, you cannot cheaply go back for roof penetrations, buried service runs, the pedestal clusters under future heavy loads, or the lifting of heavy materials onto the roof. **So Phase 1 must include every hidden provision Phase 2 will need.** The "Phase-1 provisions that unlock Phase 2" list below is the critical part of this whole section.
+
+> **Planning-boundary caveat (please confirm).** We've *assumed* the Phase-1 items above fall outside planning / Listed Building Consent — but on a **Grade I** listed building that line isn't obvious, and we're not the experts. **Ronan / the conservation officer to confirm which items genuinely need consent** — in particular the **dining-area glass**, the **parapet bird deterrent** (fixing into the listed coping), and the **railings** top-up. If any of these need LBC, they move to Phase 2.
+
+## Phase classification — every Part
+
+> **Split** = the Part is delivered across both phases (e.g. first-fix now, final connection later).
+
+| Part | Phase | Phasing note |
+|---|---|---|
+| **A — Sauna** | **2** | Building — needs consent. *Phase-1 provision:* floor-drain penetration through the roof + heater/light/socket cabling first-fix. |
+| **B — Wet Room** | **2** | Building — needs consent. *Phase-1 provision:* WC soil + linear-drain + basin + electric-shower + external-shower penetrations, and electrical first-fix. |
+| **C — Smart Control** | **Split** | Terrace/lighting Shellys with Phase 1; the sauna-heater contactor with Phase 2. |
+| **D — Hot Tub** | **2** | Arrives by **crane** in Phase 2 (see below). *Phase-1 provision:* 32A radial first-fix, drain penetration, pedestal/continuous-base area set out, footprint left tile-ready. |
+| **E — Railings** | **1** | Terrace works. Confirm the retained railings + wire top-up need no LBC. |
+| **F — Parapet Bird Deterrent** | **1** | Confirm the LBC position for fixing into the listed coping. |
+| **G — Parasols** | **2** | "Umbrellas" — with the building. *Phase-1 provision:* pedestal clusters / load-spread positions (or planter-ballast) for the two bases set out **before** the pedestal grid is fixed. |
+| **H — Fall Protection (Glass)** | **Split** | **Dining-area glass → Phase 1** (with the raised FA2 dining floor, so its 500mm fall edge is guarded from day one). **Hot-tub glass → Phase 2** (with the tub). Both fix into parapet masonry — **no roof lock-in**, so the hot-tub glass can wait. |
+| **I — Tiling** | **1** | Tile the bulk in Phase 1, **but leave the sauna/wet-room and hot-tub footprints un-tiled / tile-ready**, and **set out all Phase-2 pedestal clusters now** (hot tub, parasols, building). |
+| **J — Planters** | **1** | Most in Phase 1. The **hot-tub U-shape (M5–M7)** and the **building-interfacing planters (M3, and M2/M3 on the FA2/FA3 stair line)** wait until the Phase-2 building/tub zone is built. |
+| **K — Outdoor Tap** | **1** | — |
+| **L — Electrical / Lighting** | **Split** | First-fix cabling, terrace lighting and terrace sockets in Phase 1; the building door downlights and the sauna/wet-room/hot-tub final connections in Phase 2. |
+| **M — Roof Build-up & Structure** | **1** | The roof job itself + the tiling substrate. Carries the critical penetration and levels provisions. |
+| **N — Planting** | **1** | Follows the planters; the hot-tub-zone planting waits for Phase 2. |
+| **O — Storage** | **1** | Stores 1–4. |
+| **P — Outdoor Kitchen** | **1** | Narrow section. Lay the sink-waste run to the foul stack under FA2 in Phase 1. |
+| **Q — Study Door / Window** | **2** | Fenestration change → LBC. *Phase-1 provision:* set the narrow-section tile FFL so the future lowered, level threshold will work. |
+
+## Phase-1 provisions that unlock Phase 2 (the "do it now or regret it" list)
+
+These are Phase-2 items, but they **must be physically built / set out during Phase 1**, because the closed roof, the tiling and the removed scaffold make them impractical to add afterwards:
+
+1. **All roof penetrations — including the Phase-2 ones — set out and capped before the roofer closes up.** The sauna floor drain, the wet-room linear drain + basin + electric-shower + external-shower, the **WC 110mm soil**, and the **hot-tub drain** all pierce the roof. The roofing contractor can insert and cap them for us to connect later — *but only if they have the exact positions in advance* (Part M). **This is the single highest-risk item: a missed penetration can't be added without opening the new roof.**
+2. **Service first-fix under the tiles — capped and labelled.** Hot-tub **32A radial** (Part D), sauna **40A heater feed** (Part A), wet-room **electric-shower 45A + light + fan** (Part B), terrace sockets (Part L), and the **cold-water tees** for the tap, kitchen, external shower and wet room (Parts K, P, B). Routed in the pedestal void before the tile finish goes down.
+3. **Pedestal clusters / load-spread positions set out under every future heavy load — before the pedestal grid is fixed.** The hot tub, the two parasol bases, and the building footprint (Part I). Adding pedestals under a finished tile field means lifting tiles.
+4. **Leave the building + hot-tub footprints un-tiled (tile-ready), and protect the un-tiled inverted insulation.** The exposed inverted-roof insulation in those zones **needs ballast / weather protection through the consent wait** (Part M). The stored Phase-2 materials (below) can double as interim ballast.
+5. **Set the narrow-section tile FFL to suit the Phase-2 lowered study threshold** (Part Q), so the level access works once the new door/window goes in.
+
+## Materials on site during the scaffold window
+
+Hoist up **for both phases** while the scaffold is here, and stage in the **building / hot-tub zone** (which is left un-tiled anyway): tiles + pedestals, planter / storage / kitchen timber, PIR insulation, cladding, **glass panels (dining + hot-tub)**, parasols + weighted bases, the sauna kit, and the doors + window.
+
+> **The hot tub is the exception.** At ~1,100–1,280kg and ~2.1 × 1.5m it can't be winched up a domestic scaffold — both the weight and the size rule it out. It needs a **lorry-mounted (HIAB) or mobile crane that lifts up and over**, which is **scheduled independently of the scaffold**. So the hot tub **comes later, in Phase 2, by crane, once consent is through** — it does not need to come up during the scaffold window. *(Confirm the crane access route / reach now, per Part D, so it isn't a late surprise.)*
+
+---
+
 # PART A — SAUNA
+
+> **🗓 Phase 2** (needs planning/LBC). *Phase-1 provisions to build in now:* the sauna floor-drain roof penetration, and the heater/light/socket cabling first-fix. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 **Internal dimensions:** 1.5m (east–west) × 2.15m (north–south)
 **Minimum internal ceiling height:** 2.1m (2100mm — same as wet room; single internal ceiling height across the whole building)
@@ -303,6 +363,8 @@ Systems considered, all of which publish coastal warranties at marine specificat
 
 # PART B — WET ROOM
 
+> **🗓 Phase 2** (needs planning/LBC). *Phase-1 provisions to build in now:* the WC soil, linear-drain, basin, electric-shower and external-shower roof penetrations, plus the electrical first-fix. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
 **Internal dimensions:** 2.15m (north–south) × **940mm wide (east–west), narrowing to 720mm** where the room doglegs around the existing terrace wall.
 **Minimum internal ceiling height:** 2.1m (2100mm — same as sauna; single internal ceiling height across the whole building)
 
@@ -432,6 +494,8 @@ Grouped on the terrace wall beside the wet room door, IP55+ weatherproof:
 
 # PART C — SMART CONTROL (HOME ASSISTANT)
 
+> **🗓 Phase 1 + 2 (split).** Terrace/lighting Shellys with Phase 1; the sauna-heater contactor with Phase 2. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
 We run Home Assistant at home and want to control all switched and dimmed circuits on the terrace via Shelly devices. Shellys connect **directly to HA over WiFi** using the official Shelly HA integration — no MQTT broker required. WiFi coverage is provided by the relocated UniFi U6 Mesh AP under the south fascia of the sauna/wet room building (see Part L).
 
 | Circuit | Shelly | Notes |
@@ -452,6 +516,8 @@ What this needs from the install:
 ---
 
 # PART D — HOT TUB
+
+> **🗓 Phase 2** (needs planning/LBC). It arrives **by crane in Phase 2**, scheduled independently of the scaffold (it's too heavy/bulky to winch up — see [Programme & Phasing](#programme--phasing--two-phase-delivery)). *Phase-1 provisions to build in now:* the 32A radial first-fix, the drain roof penetration, the pedestal/continuous-base area set out, and the footprint left tile-ready.
 
 We're planning to site a hot tub on the terrace alongside the sauna/wet room building. Including this here because the **structural loading on the terrace deck is the critical question for you**, and the model choice drives weight, footprint, and electrical supply. Final model TBC; shortlist below in our preferred order.
 
@@ -518,12 +584,14 @@ A hot tub holds 700–1,500 litres and is drained periodically (2–3× per year
 ## What we need from you on this
 
 - **Filled-load sign-off** sits with our SE (see Part M) — he's re-checking the heaviest realistic tub and will give us a maximum filled weight + maximum load per m² to buy within
-- Crane access route up to the terrace (acrylic tubs likely need a crane lift)
+- Crane access route up to the terrace. The tub is too heavy/bulky to winch up the scaffold, so it comes **by lorry/mobile crane in Phase 2** once consent is through (independent of the scaffold — see [Programme & Phasing](#programme--phasing--two-phase-delivery)). Please confirm the crane reach / access route **now**, so the later lift isn't a surprise.
 - Best drain route on the terrace — which existing outlet to discharge into, and any tundish / trap detail you'd want
 
 ---
 
 # PART E — RAILINGS
+
+> **🗓 Phase 1** (terrace works). Confirm with Ronan/conservation officer that the retained railings + wire top-up need no LBC. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 The narrow section of the roof terrace currently has three sets of railings. Per the **4 June meeting**, we'll **keep the railings exactly where they are — same position, same height** — no re-siting, no cladding, no replacement. The only addition is **wires (or a low timber upstand + wires) on top**, which does two jobs in one: makes up the small extra guarding height and bird-proofs them. *(The narrow section now stays on the lowest pedestals — Part M — so the floor barely rises and the railings don't need moving.)*
 
@@ -549,6 +617,8 @@ The narrow section of the roof terrace currently has three sets of railings. Per
 ---
 
 # PART F — PARAPET BIRD DETERRENT (POST AND WIRE)
+
+> **🗓 Phase 1** (terrace works). Confirm the LBC position for fixing into the listed coping. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 The main parapet walls currently have bird spikes. They work but look bad. We want to replace them with a low-visibility post-and-wire system on the 450mm-wide precast concrete coping.
 
@@ -622,6 +692,8 @@ Not brand-specific. Any proprietary bird post-and-wire system meeting this spec 
 
 # PART G — PARASOLS
 
+> **🗓 Phase 2** ("umbrellas" — with the building). Bring the parasols + weighted bases up during the scaffold window and store them. *Phase-1 provision to build in now:* the pedestal clusters / load-spread positions (or planter-ballast) for the two bases, set out **before** the pedestal grid is fixed. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
 We've used Morton Parasols before and want to use them again, or an equivalent commercial-grade alternative. Reference: [Morton Malaga commercial parasol](https://www.mortonparasols.com/commercial/malaga/).
 
 ## What we need
@@ -659,6 +731,8 @@ The mast lifts out so the surface can be capped flush over winter.
 ---
 
 # PART H — FALL PROTECTION (GLASS BALUSTRADES & PLANTERS)
+
+> **🗓 Phase 1 + 2 (split).** The **dining-area glass goes in with Phase 1**, alongside the raised FA2 dining floor, so its 500mm fall edge is guarded from day one *(confirm with Ronan that this glass doesn't itself need LBC)*. The **hot-tub glass is Phase 2**, arriving with the tub. Both fix into the parapet masonry (no roof penetration), so the hot-tub run can wait without locking anything in. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 Two locations need fall protection to comply with Approved Doc K (1100mm above the standing level):
 
@@ -705,6 +779,8 @@ We've chosen frameless structural glass throughout for both locations — keeps 
 ---
 
 # PART I — TERRACE TILING SYSTEM
+
+> **🗓 Phase 1** — but with two Phase-2 carve-outs. **Leave the sauna/wet-room and hot-tub footprints un-tiled (tile-ready)** until those Phase-2 elements are built, and **set out all the Phase-2 pedestal clusters now** (hot tub, parasol bases, building footprint) before the pedestal grid is fixed. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 **Estimated tiled area: ~103m²** (of the ~120m² gross terrace footprint, once the building, hot tub, kitchen and storage footprints are subtracted).
 
@@ -812,6 +888,8 @@ The finished tile level needs to coordinate with:
 ---
 
 # PART J — PLANTERS
+
+> **🗓 Phase 1** — most planters. The **hot-tub U-shape (M5–M7)** and the **building-interfacing planters (M3, and M2/M3 on the FA2/FA3 stair line)** wait until the Phase-2 building/tub zone is built. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 We want planters built from the **salvaged hardwood decking** removed from the existing terrace. Locations and footprints per the drawings.
 
@@ -986,6 +1064,8 @@ Now the planters sit **on top of the finished tile field** (not built into the r
 
 # PART K — OUTDOOR TAP
 
+> **🗓 Phase 1.** Lay the cold-water tee + pipe run in the first-fix before tiling. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
 ## Remove
 
 - Existing plastic pipe water supply run on the terrace
@@ -1009,6 +1089,8 @@ Now the planters sit **on top of the finished tile field** (not built into the r
 ---
 
 # PART L — ELECTRICAL: OUTDOOR SOCKETS AND LIGHTING
+
+> **🗓 Phase 1 + 2 (split).** First-fix cabling (incl. the capped Phase-2 feeds), terrace lighting and terrace sockets go in with Phase 1; the building door downlights and the sauna/wet-room/hot-tub final connections are Phase 2. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 This Part covers all 230V outdoor sockets (existing and new) and the full external lighting scheme for the terrace. Hot tub power is in Part D. Smart-control overview is in Part C.
 
@@ -1157,6 +1239,8 @@ To give reliable wifi coverage across the full terrace (hot tub, dining area, sm
 
 # PART M — ROOF BUILD-UP & STRUCTURE (ASPHALT, INSULATION, JOISTS)
 
+> **🗓 Phase 1** — the roof job itself + the tiling substrate. This Part carries the **critical Phase-1 provisions** (roof penetrations, levels, ballast of the un-tiled zones). See [Programme & Phasing](#programme--phasing--two-phase-delivery), and the "Programme / phasing" subsection below.
+
 This section is foundational to most others — please read alongside PART D (hot tub), PART I (tiling), and PART J (planters), since loads from those land here.
 
 > **Major change since the pre-application and the 31 May drawings — agreed at the 4 June 2026 meeting** (Chris, Ronan, IKO, Sussex Asphalt, Seaview, Coastal Surveyors). The build-up below **supersedes the earlier "warm roof everywhere, inverted only under the hot tub" approach.** The exact layer specifications (insulation depth, vapour-control-layer position) are **provisional pending IKO's written confirmation** of the make-up — this section will be updated when that confirmation arrives.
@@ -1267,7 +1351,9 @@ Previously the hot tub zone was to be built ~200mm higher than the surrounding w
 
 ## Plumbing — set out drainage before the roof is closed
 
-The roofing contractors can **insert and cap drainage penetrations** for us to connect to in the follow-up fit-out — *but only if they have the exact locations in advance*. The exact positions of all drainage / waste penetrations (sauna floor drain, wet room linear drain and wastes, hot tub drain, external shower) must be issued to the roofing contractor **before the main roof is closed up**. See Parts A, B and D.
+The roofing contractors can **insert and cap drainage penetrations** for us to connect to in the follow-up fit-out — *but only if they have the exact locations in advance*. The exact positions of all drainage / waste penetrations (sauna floor drain, wet room linear drain and wastes, **WC 110mm soil**, hot tub drain, external shower) must be issued to the roofing contractor **before the main roof is closed up**. See Parts A, B and D.
+
+> **This is Phase-1 provision #1 — the single highest-risk item in the whole phasing plan** ([Programme & Phasing](#programme--phasing--two-phase-delivery)). The sauna, wet room and hot tub are all **Phase 2**, but their roof penetrations must go in **now**, during the Phase-1 roof works, because a penetration missed before the roof is closed cannot be added later without opening the new roof.
 
 ## Action — detailing required from Ronan Bond
 
@@ -1294,9 +1380,11 @@ Our structural engineer (**Conscious Engineering Design Ltd**) has issued **draf
 
 ## Programme / phasing (from the 4 June meeting)
 
+> **The full two-phase framework is now in the [Programme & Phasing](#programme--phasing--two-phase-delivery) section near the top of this document — that is the single source of truth.** The notes below are the contractors' intended on-site *sequence* from the 4 June meeting, which feeds into it.
+
 *For Ronan's awareness — the contractors' intended sequence:*
 
-- **Flat roof works start w/c 24 July** — the largest part of the job; they want to start early on it.
+- **Flat roof works start w/c 24 July** — the largest part of the job; they want to start early on it. *(⚠ Date to confirm — Chris now expects the roof job to start sooner; the scaffold window, not this date, is the binding constraint.)*
 - The **main (large) section is done first**, then the narrow section. The large area must be **cleared of decking etc. beforehand**, with everything moved onto the narrow section. Once the main roof is ready, the narrow-section contents move across onto it.
 - The freshly-laid inverted insulation on the main section **needs ballast holding it down** until the tiling system goes on. Plant pots / items on the roof can serve as interim ballast, but ideally the contractors lay the **Protectoboard and tiling straight after finishing the roof**.
 - **~¾ of the main section can be tiled as soon as that part of the roof is finished**, holding off only on the **sauna and hot tub area until planning consent is through**.
@@ -1313,6 +1401,8 @@ Our structural engineer (**Conscious Engineering Design Ltd**) has issued **draf
 ---
 
 # PART N — PLANTING PALETTE & BIODIVERSITY
+
+> **🗓 Phase 1** — follows the planters. The hot-tub-zone planting waits for Phase 2 (with M5–M7). The biodiversity enhancements on the building (sparrow/bat boxes) are Phase 2; the bee bricks on the store are Phase 1. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 This section sets out the **approximate planted area**, the **planting palette**, and the **biodiversity case** for the full Listed Building Application — in particular for the **Biodiversity Net Gain (BNG)** demonstration and **Biodiversity Checklist** requirements that the planning officer raised at pre-application (PRE2025/00255).
 
@@ -1652,6 +1742,8 @@ To complete the biodiversity submission, please confirm or produce:
 
 # PART O — STORAGE UNITS
 
+> **🗓 Phase 1** — Stores 1–4 (none depend on the building). See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
 **Four** outdoor storage cabinets — **three on the narrow section (Stores 1–3), one on the main section (Store 4)** — all built from salvaged hardwood deck boards (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves.
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
@@ -1773,6 +1865,8 @@ Cushion / fabric storage needs **passive airflow** to prevent damp:
 ---
 
 # PART P — OUTDOOR KITCHEN
+
+> **🗓 Phase 1** (narrow section). Lay the sink-waste run to the foul stack under FA2, and the cold-water tee, in the first-fix before tiling. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 An outdoor kitchen on the **narrow section** comprising **5 modules in a single straight run** under a continuous stainless worktop. *Order revised 5 June 2026* (left → right): **cupboard, fridge, BBQ, sink, drawer unit.** The **right-hand (north) unit is partially obscured by the steps up to Floor Area 2**, so it's a **top drawer only, sealed below**; the sink has moved next to the BBQ, and the fridge to the left of the BBQ with a cupboard beyond it.
 
@@ -1943,6 +2037,8 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 ---
 
 # PART Q — TERRACE ACCESS: STUDY DOOR / WINDOW
+
+> **🗓 Phase 2** (fenestration change → LBC). *Phase-1 provision to build in now:* set the narrow-section tile FFL so the future lowered, level threshold will work once the new door/window goes in. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 *New item, 5 June 2026.* Access from the flat onto the terrace is via the existing **door/window from the study** at the **south end of the narrow terrace**. We want to turn this into a proper level threshold.
 
