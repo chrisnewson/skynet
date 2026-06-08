@@ -68,7 +68,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 - **Height kept low** — an essentially flat roof at **~1,293 mm above the parapet**. This is **~143 mm higher than the 1,150 mm shown at pre-app**; the increase comes from raising the finished floor level when the whole main roof section was inverted (a roofing-robustness improvement agreed with IKO and the contractors — see Part M), not from the building growing in itself. The structure stays low and flat, but we will **re-present the revised height to planning**. *(Ronan to confirm the final figure once the inverted build-up depth is fixed.)*
 - **A more permanent, recessive finish.** Officers felt plain weathering timber was *"not ideal"* and asked for something more refined. The PVDF marine-aluminium standing seam in anthracite is durable, low-reflectance and reads quietly against the brick flank wall — aligned with their steer.
 - **Less intervention in the historic structure.** The pre-app proposed a lattice of new steel members fixed into the existing parapet to carry the hot tub. On the structural engineer's advice we have adopted a lighter, less disruptive solution — doubling the timber joists beneath the hot tub — reducing the new steelwork introduced into the listed fabric.
-- **Middle railing removed to cut roof clutter.** In discussion at the meeting the officers suggested removing the central (third) railing to reduce clutter on the roof; we have done so in response, retaining and re-siting the east and west railings. One less element breaking the rear skyline seen from Bristol Gardens.
+- **Middle railing removed to cut roof clutter.** In discussion at the meeting the officers suggested removing the central (third) railing to reduce clutter on the roof; we have done so in response, retaining the east and west railings (kept in place). One less element breaking the rear skyline seen from Bristol Gardens.
 - **Southern parasol rotated 180°** and both confirmed fully retractable, as requested.
 - **Biodiversity improved, not just protected.** A bare asphalt roof becomes a densely planted terrace — pollinator-friendly planters, olive trees and a coastal palette, with bee bricks in the storage — delivering measurable biodiversity net gain and answering the BNG demonstration and Biodiversity Checklist the officers required (Part N).
 
@@ -286,15 +286,18 @@ Systems considered, all of which publish coastal warranties at marine specificat
 | Structural OSB or marine ply deck | 18mm |
 | Internal ceiling lining | **Sauna:** cedar T&G (heat-tolerant softwood, standard sauna spec). **Wet room:** **Aquapanel (or equivalent moisture-resistant cement-board) + bathroom-grade paint** — paintable in any colour (suggest warm white or matt anthracite to echo external cladding), fully waterproof, ~£40-60/m² fitted |
 
-**Gull deterrent on the roof surface:** a low-profile **stainless post-and-wire grid** across the surface, matching the Part F parapet system — 3-wire layout, posts at ~1m centres, 85–90mm above the standing seam. Same materials, same install team, visually consistent with the parapet deterrent.
+> **Standing-seam roof vs membrane — worth Ronan's steer.** A continuous standing-seam *wrap* (walls + roof in one metal) is a deliberate, smart look — **but at 3–5° it's at the low-pitch limit for standing seam** (most systems want ≥3°, some more). Two routes: **(a)** confirm the chosen system is rated for this low pitch; or **(b)** more robust/cheaper — **standing seam on the (visible) walls + a single-ply membrane on the near-flat roof**, which is barely seen above the 1,293mm parapet. *(One point for keeping metal on the roof: the gull grid clamps to the seams without penetration — below.)*
+
+**Gull deterrent on the roof surface:** a low-profile **stainless post-and-wire grid** across the surface, matching the Part F parapet system — 3-wire layout, posts at ~1m centres, 85–90mm above the surface. **Posts fix via non-penetrating seam clamps that grip the raised standing seams — no holes in the roof** (the standard way to mount anything on standing seam). *(If the roof is a membrane instead, posts sit on weighted or adhered bases — still no penetration.)* Same materials and install team as the parapet deterrent, visually consistent.
 
 **Drainage:** small gutter along the low (north) edge discharging onto the terrace tile field below, which then drains to the existing roof outlets. No new outlets required.
 
 **What we'd value your steer on:**
 
 - **Confirmation of the final roof height above parapet** — currently ~1,293mm (up from the 1,150mm pre-app figure, driven by the raised FFL); needs Ronan's real build-up depth and real parapet height above the new tile FFL, and re-presentation to planning
+- **Standing seam vs single-ply membrane on the near-flat (3–5°) roof** — confirm the standing-seam system suits this low pitch, or put a membrane on the roof and keep standing seam on the (visible) walls (see note above)
 - Roof-to-wall transition — continuous standing-seam wrap, or break at a discrete fascia line?
-- Wire-grid post fixing detail through the standing seam — needs to be watertight while still serving as a bird deterrent
+- Wire-grid post fixing — **non-penetrating seam clamps** on the standing seam (no roof penetration); confirm the clamp type, or the equivalent weighted/adhered base if the roof becomes a membrane
 
 ---
 
@@ -522,15 +525,14 @@ A hot tub holds 700–1,500 litres and is drained periodically (2–3× per year
 
 # PART E — RAILINGS
 
-The narrow section of the roof terrace currently has three sets of railings. We've decided to **keep the railings as they are** — no cladding, no replacement — and simply **re-site them to align with the new finished floor level (FFL)** on the narrow section. A bird-wire system goes on top.
+The narrow section of the roof terrace currently has three sets of railings. Per the **4 June meeting**, we'll **keep the railings exactly where they are — same position, same height** — no re-siting, no cladding, no replacement. The only addition is **wires (or a low timber upstand + wires) on top**, which does two jobs in one: makes up the small extra guarding height and bird-proofs them. *(The narrow section now stays on the lowest pedestals — Part M — so the floor barely rises and the railings don't need moving.)*
 
 ## Changes
 
-- **Re-site the existing railings** to the new FFL on the narrow terrace, shifted up so the railing base matches the new raised tile level.
-- **Raise the railing height** — *new from the 4 June meeting; reduced by the 5 June level change.* Because the narrow section is **now kept on the lowest pedestals** (see Part M "Levels across the terrace"), the floor level on the narrow terrace barely rises, so the retained railings need **little or no added height** — revisit once the narrow FFL is fixed. If any rise is needed, options floated were tensioned wires (one or more) or a timber upstand with wires on top. This is part of our scope.
-- **Add bird wire on top** — stainless post-and-wire system running along the top of each railing. (May be combined with the height-raising above.)
+- **Keep the existing railings in place, at their current height.**
+- **Add height + bird-proofing on top** — **tensioned stainless wires**, or a **low timber upstand with wires on top**, fixed to the railing tops. One element makes up the extra guarding height **and** acts as the gull/pigeon deterrent. Method (wires alone vs timber + wires) to be confirmed.
 - **Remove:** the centre railing, and the short railing joining the centre railing to the west railing (redundant under the current layout).
-- **Keep:** the east railing and the west railing — both re-sited per above.
+- **Keep:** the east and west railings, both in place.
 
 ## Bird wire detail
 
@@ -540,7 +542,7 @@ The narrow section of the roof terrace currently has three sets of railings. We'
 
 ## What we'd value your steer on
 
-- **Re-siting detail** — best method for re-siting the existing railings cleanly at the new FFL (fixings into the new build-up, waterproofing at base, junction with new tile level)
+- **Top-up detail** — best way to add the extra height + wires to the railing tops (wires alone vs a low timber upstand + wires), and the fixing into the existing railing top profile
 - **Removal of the centre / short railings** — confirm no structural role
 - **Bird wire mount detail** at the railing tops (compatible with existing railing top profile)
 
@@ -636,20 +638,22 @@ We've used Morton Parasols before and want to use them again, or an equivalent c
 
 **Heating / lighting & side panels (both):** both offer integrated **infra-red heating + LED lighting** (Bambrella's is clearly integral — mast-internal wiring, LED in the frame extrusion; Morton's exact fitment to confirm, with a battery-LED fallback). **Neither cantilever offers full side panels** — both do **valances** (short fabric drops for low sun) only. Actual side/wind screening would come from **separate screens** (Morton "terrace screens") or our planters/glass windbreak — not the parasol.
 
-## Bases — recessed on the Protectoboard, no roof penetration *(decided 7 June 2026)*
+## Bases — weighted, on the tiles, no roof penetration *(revised 8 June 2026)*
 
-The waterproofing (asphalt) on this inverted roof is at the very bottom, on the structural deck — so **we are not penetrating the roof.** Each parasol base will be a **free-standing weighted base set down on the IKO Protectoboard** (in the pedestal void), with the **mast rising through a collar/sleeve at the tile plane.** The tile floor then gives the mast **lateral restraint**, which is far more stable than a base sitting on the tile surface. *(Alternatively a base can be ballasted/housed within a planter, using its mass and footprint.)*
+We are **not penetrating the roof** (the asphalt waterproofing sits at the very bottom on the deck; piercing it is against IKO's "invert the whole roof so it outlasts the building" approach). So each parasol base is a **free-standing weighted base sitting on the tiles.**
 
-**Why not a fixed base:** a true anchored fixing would have to connect down through the insulation **and** the asphalt to the deck — a deliberate waterproofed penetration of the one watertight skin, against IKO's "invert the whole roof so it outlasts the building" approach. **We're not doing that.** The consequence we accept: on a weighted base the parasol is **furled in strong wind** — so we're buying for **marine-grade build, not for a wind rating we can't fully exploit.**
+**Why on the tiles, not recessed:** we'd looked at recessing the base down on the Protectoboard (mast collared at the tile plane for extra stability), but the pedestal-void depths rule it out — the **dining area (FA2) is raised ~500mm** (recessing that deep is impractical, so **the dining parasol base must sit on the tiles**) and the **sofa area (FA3) is only ~100mm** (too shallow for a chunky weighted base). So both bases sit on the tile surface. *(A base could alternatively be ballasted/housed within a planter, using its mass + footprint — worth exploring for the sofa.)*
 
-**Loads:** the base is heavy (**~140–280kg**) and bears **base → Protectoboard → 220mm (compressible) insulation → asphalt → deck**, so it must be **spread** (load-spreading plate / adequate footprint) to stay within the insulation's compressive limit — **designed with Eterno Ivica, IKO and the SE** (Part I).
+**Consequence:** on a weighted surface base the parasol is **furled in strong wind** — so we're buying for **marine-grade build, not for a wind rating we can't exploit.**
 
-The mast lifts out so the surface can be capped flush over winter; the base stays in the void.
+**Loads (critical):** the base is heavy (**~140–280kg**) and bears **base → tile → pedestals → Protectoboard → 220mm (compressible) insulation → deck.** It must **not** point-load a 20mm porcelain tile, so it needs a **load-spreading plate bearing over a cluster of extra pedestals** (load through pedestal heads, not unsupported tile), keeping the pressure within both the tile and insulation limits — **designed with Eterno Ivica, IKO and the SE** (Part I).
+
+The mast lifts out so the surface can be capped flush over winter.
 
 ## What we'd value your steer on
 
-- **Recessed-base detail** — base on the Protectoboard, mast collar at the tile plane, **load spread** so neither the 20mm tile nor the compressible insulation is overloaded; **set out before the roof is closed up and tiled** (Eterno Ivica + IKO + SE)
-- **Drainage past the recessed base** — it sits in the inverted-roof drainage void, so water must still flow past it to the outlets (IKO)
+- **On-tile base detail** — load-spreading plate over a cluster of extra pedestals so neither the 20mm tile nor the compressible insulation is overloaded; **set out before the pedestal grid is fixed** (Eterno Ivica + IKO + SE)
+- **Whether to ballast/anchor the sofa parasol within a planter** instead, using its mass + footprint
 - **Mast collar / cap detail** at the tile surface — weather-sealed, and capped flush when the parasol is removed
 
 ---
@@ -747,7 +751,7 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 > **⚠ Load-bearing — planters, hot tub and parasol bases: detail to the pedestal manufacturer's recommendations.** These concentrated loads sit on the pedestal-and-tile field and **must not point-load a tile mid-span**:
 > - **Planters** (Part J) — heavy **sustained** loads, ~250–350 kg/m² saturated, in long runs on top of the tiles. **The pedestal grid must be designed around every planter** — extra pedestals on the planter bearer lines — and the **sustained weight on the compressible 220mm insulation** checked for long-term compression. **Issue every planter footprint to Eterno Ivica + the SE.**
 > - **Hot tub** (Part D) — ~1,160–1,280 kg over ~3.2 m² ≈ **~360–400 kg/m²**
-> - **Parasol bases** (Part G) — heavy (~140–280kg), **recessed on the Protectoboard with the mast collared at the tile plane** (no roof penetration, decided 7 Jun). Load to be spread and designed with Eterno Ivica + IKO + SE.
+> - **Parasol bases** (Part G) — heavy (~140–280kg), **weighted, sitting on the tiles** (the dining FA2 is raised ~500mm so it can't recess; no roof penetration). Need a **load-spreading plate over a cluster of extra pedestals** — designed with Eterno Ivica + IKO + SE.
 >
 > Their support is to be designed **per Eterno Ivica's published load tables and IKO's point-load guidance** — extra/closer-spaced pedestals on the load lines, the correct pedestal rating, and load spread so the path is base/bearer → tile-over-pedestals → pedestals → **IKO Protectoboard → 220mm (compressible) insulation → asphalt → deck**.
 >
@@ -778,7 +782,7 @@ Open joints throughout, as dictated by the pedestal head's spacer tabs (typicall
 The finished tile level needs to coordinate with:
 - **Sauna and wet room door thresholds** — pedestal + tile build-up is typically 60–150mm above the asphalt depending on falls
 - **Hot tub base** — recessed under-tile base detail (see PART D)
-- **Parasol bases** — recessed under-tile cassettes (see PART G)
+- **Parasol bases** — heavy weighted bases on the tiles, load-spread over a cluster of pedestals (see PART G)
 - **Linear drain in wet room** — continuity of tanking and falls
 - **Lift bulkhead** — tiling must clear the bulkhead and not bridge or trap services
 - **Emergency staircase access** — full unobstructed access to the stair head must be maintained at all times
@@ -863,7 +867,6 @@ The existing decking boards have decking bolts with large through-holes every 80
 2. **Staggered courses** — cladding installed in **running-bond / random stagger pattern** — joints between adjacent courses must NEVER line up vertically (read as patchwork). Random length variation within 700-900mm range looks intentional and crafted.
 3. **Use holed scraps for hidden uses** — battens, internal frame fillers, sacrificial bearers — anywhere not visible
 4. **Finish — none** (zero ongoing maintenance). Salvaged hardwood + Brighton pier decking are both naturally durable species that weather to silver-grey over 1-2 years bare. This is exactly the look shown in the reference image above, and matches the Brighton seafront / Sussex Square heritage aesthetic. **No oil, no varnish, no annual retreatment.**
-   - **Exception — the Brighton pier cap (sit-ledge):** one-time light hand-sand and slight edge-bevel at install only, to remove any splinter risk where people sit. No coating required. Optional: single coat of penetrating decking saturator on cap edges only (~£25 once, never reapplied) as belt-and-braces against splintering.
    - Avoid oils / varnishes / paints — they need annual reapplication and look worse than bare wood if missed. The whole project is designed for low maintenance.
 
 **Important: brief the builder that joint alignment between courses is a quality requirement** — if courses line up vertically, the result looks accidental, not intentional.
@@ -1211,7 +1214,7 @@ Inverting the whole main section will **raise the finished floor level (FFL) abo
 
 - The relationship of the FFL to the parapet, and therefore the **roof height above parapet** for the sauna/wet room building — now ~1,293mm, up from the 1,150mm accepted at pre-app (heritage constraint — Part A); the increase needs re-presenting to planning
 - The **glass guarding heights** (Part H), measured from FFL / hot tub rim
-- The **railing re-siting / raising** on the narrow section (Part E)
+- The **railing height top-up** (wires / timber + wires) on the narrow section (Part E)
 
 ## Levels across the terrace — three levels
 
