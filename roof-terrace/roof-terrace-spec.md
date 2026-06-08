@@ -83,7 +83,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ## Why two phases
 
-The **flat-roof replacement is going ahead as a separate job**, with **scaffolding up for about 12 weeks**. That scaffold window is our one cheap opportunity to get materials onto the roof. Re-scaffolding later is expensive and the downstairs neighbours won't accept the scaffold for months. So the terrace fit-out is split by **planning status**:
+The **flat-roof replacement is going ahead as a separate job**. **Scaffolding goes up w/c 6 July 2026 for an anticipated 12 weeks** — so it comes down around **late September 2026** (≈ 28 Sept). That window — roughly **early July to late September 2026** — is our one cheap opportunity to get materials onto the roof. Re-scaffolding later is expensive and the downstairs neighbours won't accept the scaffold for months. So the terrace fit-out is split by **planning status**:
 
 - **Phase 1 — works we believe need no planning consent**: drainage through the new roof, tiling, planters, the outdoor kitchen, planting — plus the other non-building terrace works (railings, parapet bird deterrent, outdoor tap, storage, electrical first-fix + lighting, and the **dining-area glass**). These proceed alongside / straight after the roof job.
 - **Phase 2 — works that need planning permission / Listed Building Consent**: the **sauna/wet-room building**, the **parasols**, the **hot tub**, the **hot-tub glazing**, and the **study door/window** alteration (Part Q). These wait for consent.
@@ -127,6 +127,8 @@ These are Phase-2 items, but they **must be physically built / set out during Ph
 5. **Set the narrow-section tile FFL to suit the Phase-2 lowered study threshold** (Part Q), so the level access works once the new door/window goes in.
 
 ## Materials on site during the scaffold window
+
+> **Why staging matters: the scaffold likely comes down before consent arrives.** The scaffold is down around **late September 2026**, but Listed Building Consent on a Grade I building usually takes a couple of months from validation — so Phase 2 probably **cannot be built before the scaffold goes**. That makes staging the Phase-2 materials up now (and the hot tub by crane later) the expected path, not a contingency.
 
 Hoist up **for both phases** while the scaffold is here, and stage in the **building / hot-tub zone** (which is left un-tiled anyway): tiles + pedestals, planter / storage / kitchen timber, PIR insulation, cladding, **glass panels (dining + hot-tub)**, parasols + weighted bases, the sauna kit, and the doors + window.
 
@@ -281,7 +283,7 @@ Our structural engineer (**Conscious Engineering Design Ltd**) has issued **draf
 
 *For Ronan's awareness — the contractors' intended sequence:*
 
-- **Flat roof works start w/c 24 July** — the largest part of the job; they want to start early on it. *(⚠ Date to confirm — Chris now expects the roof job to start sooner; the scaffold window, not this date, is the binding constraint.)*
+- **Scaffold up w/c 6 July 2026, anticipated ~12 weeks** (down ~late September 2026). The flat roof works — the largest part of the job — happen within that window; they want to start early on it. *(The 4 June meeting had pencilled w/c 24 July for the roof works; confirm the exact roof-works start against the 6 July scaffold date. Either way the scaffold window — early July to late Sept — is the binding constraint.)*
 - The **main (large) section is done first**, then the narrow section. The large area must be **cleared of decking etc. beforehand**, with everything moved onto the narrow section. Once the main roof is ready, the narrow-section contents move across onto it.
 - The freshly-laid inverted insulation on the main section **needs ballast holding it down** until the tiling system goes on. Plant pots / items on the roof can serve as interim ballast, but ideally the contractors lay the **Protectoboard and tiling straight after finishing the roof**.
 - **~¾ of the main section can be tiled as soon as that part of the roof is finished**, holding off only on the **sauna and hot tub area until planning consent is through**.
