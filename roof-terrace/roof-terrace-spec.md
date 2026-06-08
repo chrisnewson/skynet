@@ -16,7 +16,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 > **These plans are indicative** — Chris's own layout sketches, not construction drawings. The **written dimensions in each PART are the accurate figures and take precedence** — please don't scale off the images. Ronan's drawings remain the authoritative set.
 
-**Overall plan** (full terrace, updated 5 June 2026) — narrow section / **Floor Area 1** (minimal pedestal height) with stores, outdoor kitchen, lift bulkhead and stair hatch; **Floor Area 2** dining (4 × 5m, **500mm raised, steps up on the east side**); **Floor Area 3** lounge / hot tub (minimal pedestal height, L-shape round to the hot tub); sauna / wet room building and stores. *(Reflects the revised levels in Part M and the deletion of the old Floor Area 4.)*
+**Overall plan** (full terrace, updated 5 June 2026) — narrow section / **Floor Area 1** (minimal pedestal height) with stores, outdoor kitchen, lift bulkhead and stair hatch; **Floor Area 2** dining (4 × 5m, **500mm raised, steps up on the east side**); **Floor Area 3** lounge / hot tub (minimal pedestal height, L-shape round to the hot tub); sauna / wet room building and stores. *(Reflects the revised levels in Part A and the deletion of the old Floor Area 4.)*
 
 ![Overall floor plan](drawings/full-terrace-5-6-26.jpg)
 
@@ -28,22 +28,22 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 - [Planning Case — Why the Refined Scheme Merits Support](#planning-case--why-the-refined-scheme-merits-support)
 - [Programme & Phasing — Two-Phase Delivery](#programme--phasing--two-phase-delivery)
-- [Part A — Sauna](#part-a--sauna)
-- [Part B — Wet Room](#part-b--wet-room)
-- [Part C — Smart Control (Home Assistant)](#part-c--smart-control-home-assistant)
-- [Part D — Hot Tub](#part-d--hot-tub)
-- [Part E — Railings](#part-e--railings)
-- [Part F — Parapet Bird Deterrent (Post and Wire)](#part-f--parapet-bird-deterrent-post-and-wire)
-- [Part G — Parasols](#part-g--parasols)
-- [Part H — Fall Protection (Glass Balustrades & Planters)](#part-h--fall-protection-glass-balustrades--planters)
-- [Part I — Terrace Tiling System](#part-i--terrace-tiling-system)
-- [Part J — Planters](#part-j--planters)
-- [Part K — Outdoor Tap](#part-k--outdoor-tap)
-- [Part L — Electrical: Outdoor Sockets and Lighting](#part-l--electrical-outdoor-sockets-and-lighting)
-- [Part M — Roof Build-up & Structure (Asphalt, Insulation, Joists)](#part-m--roof-build-up--structure-asphalt-insulation-joists)
-- [Part N — Planting Palette & Biodiversity](#part-n--planting-palette--biodiversity)
-- [Part O — Storage Units](#part-o--storage-units)
-- [Part P — Outdoor Kitchen](#part-p--outdoor-kitchen)
+- [Part A — Roof Build-up & Structure (Asphalt, Insulation, Joists)](#part-a--roof-build-up--structure-asphalt-insulation-joists)
+- [Part B — Terrace Tiling System](#part-b--terrace-tiling-system)
+- [Part C — Planters](#part-c--planters)
+- [Part D — Planting Palette & Biodiversity](#part-d--planting-palette--biodiversity)
+- [Part E — Outdoor Tap](#part-e--outdoor-tap)
+- [Part F — Outdoor Kitchen](#part-f--outdoor-kitchen)
+- [Part G — Storage Units](#part-g--storage-units)
+- [Part H — Railings](#part-h--railings)
+- [Part I — Parapet Bird Deterrent (Post and Wire)](#part-i--parapet-bird-deterrent-post-and-wire)
+- [Part J — Smart Control (Home Assistant)](#part-j--smart-control-home-assistant)
+- [Part K — Electrical: Outdoor Sockets and Lighting](#part-k--electrical-outdoor-sockets-and-lighting)
+- [Part L — Fall Protection (Glass Balustrades & Planters)](#part-l--fall-protection-glass-balustrades--planters)
+- [Part M — Sauna](#part-m--sauna)
+- [Part N — Wet Room](#part-n--wet-room)
+- [Part O — Hot Tub](#part-o--hot-tub)
+- [Part P — Parasols](#part-p--parasols)
 - [Part Q — Terrace Access (Study Door / Window)](#part-q--terrace-access-study-door--window)
 
 ---
@@ -65,13 +65,13 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 **Every change reduces impact, in line with what was asked:**
 
 - **Set back 3 m from the Bristol Gardens parapet** (was 0.6 m). This directly meets Heritage Officer Lance Penman's explicit request to *"set further back by about 3–4 m from the parapet … to avoid it being prominently visible from that street."* The single biggest driver of streetscene visibility is fully addressed.
-- **The store has left the roofline.** Planning Officer Charlie Partridge suggested splitting the combined sauna/store, using *"a separate store of a lower height."* We go further: storage moves into two low outdoor cabinets sitting below parapet height (Part O), removing the store from the elevated structure altogether.
-- **Height kept low** — an essentially flat roof at **~1,293 mm above the parapet**. This is **~143 mm higher than the 1,150 mm shown at pre-app**; the increase comes from raising the finished floor level when the whole main roof section was inverted (a roofing-robustness improvement agreed with IKO and the contractors — see Part M), not from the building growing in itself. The structure stays low and flat, but we will **re-present the revised height to planning**. *(Ronan to confirm the final figure once the inverted build-up depth is fixed.)*
+- **The store has left the roofline.** Planning Officer Charlie Partridge suggested splitting the combined sauna/store, using *"a separate store of a lower height."* We go further: storage moves into two low outdoor cabinets sitting below parapet height (Part G), removing the store from the elevated structure altogether.
+- **Height kept low** — an essentially flat roof at **~1,293 mm above the parapet**. This is **~143 mm higher than the 1,150 mm shown at pre-app**; the increase comes from raising the finished floor level when the whole main roof section was inverted (a roofing-robustness improvement agreed with IKO and the contractors — see Part A), not from the building growing in itself. The structure stays low and flat, but we will **re-present the revised height to planning**. *(Ronan to confirm the final figure once the inverted build-up depth is fixed.)*
 - **A more permanent, recessive finish.** Officers felt plain weathering timber was *"not ideal"* and asked for something more refined. The PVDF marine-aluminium standing seam in anthracite is durable, low-reflectance and reads quietly against the brick flank wall — aligned with their steer.
 - **Less intervention in the historic structure.** The pre-app proposed a lattice of new steel members fixed into the existing parapet to carry the hot tub. On the structural engineer's advice we have adopted a lighter, less disruptive solution — doubling the timber joists beneath the hot tub — reducing the new steelwork introduced into the listed fabric.
 - **Middle railing removed to cut roof clutter.** In discussion at the meeting the officers suggested removing the central (third) railing to reduce clutter on the roof; we have done so in response, retaining the east and west railings (kept in place). One less element breaking the rear skyline seen from Bristol Gardens.
 - **Southern parasol rotated 180°** and both confirmed fully retractable, as requested.
-- **Biodiversity improved, not just protected.** A bare asphalt roof becomes a densely planted terrace — pollinator-friendly planters, olive trees and a coastal palette, with bee bricks in the storage — delivering measurable biodiversity net gain and answering the BNG demonstration and Biodiversity Checklist the officers required (Part N).
+- **Biodiversity improved, not just protected.** A bare asphalt roof becomes a densely planted terrace — pollinator-friendly planters, olive trees and a coastal palette, with bee bricks in the storage — delivering measurable biodiversity net gain and answering the BNG demonstration and Biodiversity Checklist the officers required (Part D).
 
 **Net effect:** the same accepted footprint, pulled back and lowered in prominence; the store and the plain timber gone; less new steel in the historic structure; the middle railing cleared; and a bare roof turned green. This is not a departure from the pre-app design — it is that design improved along exactly the lines the officers set out, and remains comfortably *less than substantial harm*.
 
@@ -98,693 +98,212 @@ The **flat-roof replacement is going ahead as a separate job**, with **scaffoldi
 
 | Part | Phase | Phasing note |
 |---|---|---|
-| **A — Sauna** | **2** | Building — needs consent. *Phase-1 provision:* floor-drain penetration through the roof + heater/light/socket cabling first-fix. |
-| **B — Wet Room** | **2** | Building — needs consent. *Phase-1 provision:* WC soil + linear-drain + basin + electric-shower + external-shower penetrations, and electrical first-fix. |
-| **C — Smart Control** | **Split** | Terrace/lighting Shellys with Phase 1; the sauna-heater contactor with Phase 2. |
-| **D — Hot Tub** | **2** | Arrives by **crane** in Phase 2 (see below). *Phase-1 provision:* 32A radial first-fix, drain penetration, pedestal/continuous-base area set out, footprint left tile-ready. |
-| **E — Railings** | **1** | Terrace works. Confirm the retained railings + wire top-up need no LBC. |
-| **F — Parapet Bird Deterrent** | **1** | Confirm the LBC position for fixing into the listed coping. |
-| **G — Parasols** | **2** | "Umbrellas" — with the building. *Phase-1 provision:* pedestal clusters / load-spread positions (or planter-ballast) for the two bases set out **before** the pedestal grid is fixed. |
-| **H — Fall Protection (Glass)** | **Split** | **Dining-area glass → Phase 1** (with the raised FA2 dining floor, so its 500mm fall edge is guarded from day one). **Hot-tub glass → Phase 2** (with the tub). Both fix into parapet masonry — **no roof lock-in**, so the hot-tub glass can wait. |
-| **I — Tiling** | **1** | Tile the bulk in Phase 1, **but leave the sauna/wet-room and hot-tub footprints un-tiled / tile-ready**, and **set out all Phase-2 pedestal clusters now** (hot tub, parasols, building). |
-| **J — Planters** | **1** | Most in Phase 1. The **hot-tub U-shape (M5–M7)** and the **building-interfacing planters (M3, and M2/M3 on the FA2/FA3 stair line)** wait until the Phase-2 building/tub zone is built. |
-| **K — Outdoor Tap** | **1** | — |
-| **L — Electrical / Lighting** | **Split** | First-fix cabling, terrace lighting and terrace sockets in Phase 1; the building door downlights and the sauna/wet-room/hot-tub final connections in Phase 2. |
-| **M — Roof Build-up & Structure** | **1** | The roof job itself + the tiling substrate. Carries the critical penetration and levels provisions. |
-| **N — Planting** | **1** | Follows the planters; the hot-tub-zone planting waits for Phase 2. |
-| **O — Storage** | **1** | Stores 1–4. |
-| **P — Outdoor Kitchen** | **1** | Narrow section. Lay the sink-waste run to the foul stack under FA2 in Phase 1. |
+| **A — Roof Build-up & Structure** | **1** | The roof job itself + the tiling substrate. Carries the critical penetration and levels provisions. |
+| **B — Tiling** | **1** | Tile the bulk in Phase 1, **but leave the sauna/wet-room and hot-tub footprints un-tiled / tile-ready**, and **set out all Phase-2 pedestal clusters now** (hot tub, parasols, building). |
+| **C — Planters** | **1** | Most in Phase 1. The **hot-tub U-shape (M5–M7)** and the **building-interfacing planters (M3, and M2/M3 on the FA2/FA3 stair line)** wait until the Phase-2 building/tub zone is built. |
+| **D — Planting** | **1** | Follows the planters; the hot-tub-zone planting waits for Phase 2. |
+| **E — Outdoor Tap** | **1** | — |
+| **F — Outdoor Kitchen** | **1** | Narrow section. Lay the sink-waste run to the foul stack under FA2 in Phase 1. |
+| **G — Storage** | **1** | Stores 1–4. |
+| **H — Railings** | **1** | Terrace works. Confirm the retained railings + wire top-up need no LBC. |
+| **I — Parapet Bird Deterrent** | **1** | Confirm the LBC position for fixing into the listed coping. |
+| **J — Smart Control** | **Split** | Terrace/lighting Shellys with Phase 1; the sauna-heater contactor with Phase 2. |
+| **K — Electrical / Lighting** | **Split** | First-fix cabling, terrace lighting and terrace sockets in Phase 1; the building door downlights and the sauna/wet-room/hot-tub final connections in Phase 2. |
+| **L — Fall Protection (Glass)** | **Split** | **Dining-area glass → Phase 1** (with the raised FA2 dining floor, so its 500mm fall edge is guarded from day one). **Hot-tub glass → Phase 2** (with the tub). Both fix into parapet masonry — **no roof lock-in**, so the hot-tub glass can wait. |
+| **M — Sauna** | **2** | Building — needs consent. *Phase-1 provision:* floor-drain penetration through the roof + heater/light/socket cabling first-fix. |
+| **N — Wet Room** | **2** | Building — needs consent. *Phase-1 provision:* WC soil + linear-drain + basin + electric-shower + external-shower penetrations, and electrical first-fix. |
+| **O — Hot Tub** | **2** | Arrives by **crane** in Phase 2 (see below). *Phase-1 provision:* 32A radial first-fix, drain penetration, pedestal/continuous-base area set out, footprint left tile-ready. |
+| **P — Parasols** | **2** | "Umbrellas" — with the building. *Phase-1 provision:* pedestal clusters / load-spread positions (or planter-ballast) for the two bases set out **before** the pedestal grid is fixed. |
 | **Q — Study Door / Window** | **2** | Fenestration change → LBC. *Phase-1 provision:* set the narrow-section tile FFL so the future lowered, level threshold will work. |
 
 ## Phase-1 provisions that unlock Phase 2 (the "do it now or regret it" list)
 
 These are Phase-2 items, but they **must be physically built / set out during Phase 1**, because the closed roof, the tiling and the removed scaffold make them impractical to add afterwards:
 
-1. **All roof penetrations — including the Phase-2 ones — set out and capped before the roofer closes up.** The sauna floor drain, the wet-room linear drain + basin + electric-shower + external-shower, the **WC 110mm soil**, and the **hot-tub drain** all pierce the roof. The roofing contractor can insert and cap them for us to connect later — *but only if they have the exact positions in advance* (Part M). **This is the single highest-risk item: a missed penetration can't be added without opening the new roof.**
-2. **Service first-fix under the tiles — capped and labelled.** Hot-tub **32A radial** (Part D), sauna **40A heater feed** (Part A), wet-room **electric-shower 45A + light + fan** (Part B), terrace sockets (Part L), and the **cold-water tees** for the tap, kitchen, external shower and wet room (Parts K, P, B). Routed in the pedestal void before the tile finish goes down.
-3. **Pedestal clusters / load-spread positions set out under every future heavy load — before the pedestal grid is fixed.** The hot tub, the two parasol bases, and the building footprint (Part I). Adding pedestals under a finished tile field means lifting tiles.
-4. **Leave the building + hot-tub footprints un-tiled (tile-ready), and protect the un-tiled inverted insulation.** The exposed inverted-roof insulation in those zones **needs ballast / weather protection through the consent wait** (Part M). The stored Phase-2 materials (below) can double as interim ballast.
+1. **All roof penetrations — including the Phase-2 ones — set out and capped before the roofer closes up.** The sauna floor drain, the wet-room linear drain + basin + electric-shower + external-shower, the **WC 110mm soil**, and the **hot-tub drain** all pierce the roof. The roofing contractor can insert and cap them for us to connect later — *but only if they have the exact positions in advance* (Part A). **This is the single highest-risk item: a missed penetration can't be added without opening the new roof.**
+2. **Service first-fix under the tiles — capped and labelled.** Hot-tub **32A radial** (Part O), sauna **40A heater feed** (Part M), wet-room **electric-shower 45A + light + fan** (Part N), terrace sockets (Part K), and the **cold-water tees** for the tap, kitchen, external shower and wet room (Parts E, F, N). Routed in the pedestal void before the tile finish goes down.
+3. **Pedestal clusters / load-spread positions set out under every future heavy load — before the pedestal grid is fixed.** The hot tub, the two parasol bases, and the building footprint (Part B). Adding pedestals under a finished tile field means lifting tiles.
+4. **Leave the building + hot-tub footprints un-tiled (tile-ready), and protect the un-tiled inverted insulation.** The exposed inverted-roof insulation in those zones **needs ballast / weather protection through the consent wait** (Part A). The stored Phase-2 materials (below) can double as interim ballast.
 5. **Set the narrow-section tile FFL to suit the Phase-2 lowered study threshold** (Part Q), so the level access works once the new door/window goes in.
 
 ## Materials on site during the scaffold window
 
 Hoist up **for both phases** while the scaffold is here, and stage in the **building / hot-tub zone** (which is left un-tiled anyway): tiles + pedestals, planter / storage / kitchen timber, PIR insulation, cladding, **glass panels (dining + hot-tub)**, parasols + weighted bases, the sauna kit, and the doors + window.
 
-> **The hot tub is the exception.** At ~1,100–1,280kg and ~2.1 × 1.5m it can't be winched up a domestic scaffold — both the weight and the size rule it out. It needs a **lorry-mounted (HIAB) or mobile crane that lifts up and over**, which is **scheduled independently of the scaffold**. So the hot tub **comes later, in Phase 2, by crane, once consent is through** — it does not need to come up during the scaffold window. *(Confirm the crane access route / reach now, per Part D, so it isn't a late surprise.)*
+> **The hot tub is the exception.** At ~1,100–1,280kg and ~2.1 × 1.5m it can't be winched up a domestic scaffold — both the weight and the size rule it out. It needs a **lorry-mounted (HIAB) or mobile crane that lifts up and over**, which is **scheduled independently of the scaffold**. So the hot tub **comes later, in Phase 2, by crane, once consent is through** — it does not need to come up during the scaffold window. *(Confirm the crane access route / reach now, per Part O, so it isn't a late surprise.)*
 
 ---
 
-# PART A — SAUNA
+# PART A — ROOF BUILD-UP & STRUCTURE (ASPHALT, INSULATION, JOISTS)
 
-> **🗓 Phase 2** (needs planning/LBC). *Phase-1 provisions to build in now:* the sauna floor-drain roof penetration, and the heater/light/socket cabling first-fix. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 1** — the roof job itself + the tiling substrate. This Part carries the **critical Phase-1 provisions** (roof penetrations, levels, ballast of the un-tiled zones). See [Programme & Phasing](#programme--phasing--two-phase-delivery), and the "Programme / phasing" subsection below.
 
-**Internal dimensions:** 1.5m (east–west) × 2.15m (north–south)
-**Minimum internal ceiling height:** 2.1m (2100mm — same as wet room; single internal ceiling height across the whole building)
+This section is foundational to most others — please read alongside PART O (hot tub), PART B (tiling), and PART C (planters), since loads from those land here.
 
-> **Binding constraints from pre-application (PRE2025/00255):**
-> - **Setback ≥ 3m from north parapet edge** — conceded in revised submission to planning (was originally 600mm; revised to match heritage officer's 3-4m ask)
-> - **External roof height ~1,293mm above parapet** — *increased from the 1,150mm in the revised heritage statement* because inverting the whole main roof section raised the finished floor level (see Part M). **This exceeds the pre-app figure by ~143mm and must be re-presented to planning.** Ronan to confirm the final figure once the inverted build-up depth is fixed.
-> All Part A design assumptions must respect these limits.
+> **Major change since the pre-application and the 31 May drawings — agreed at the 4 June 2026 meeting** (Chris, Ronan, IKO, Sussex Asphalt, Seaview, Coastal Surveyors). The build-up below **supersedes the earlier "warm roof everywhere, inverted only under the hot tub" approach.** The exact layer specifications (insulation depth, vapour-control-layer position) are **provisional pending IKO's written confirmation** of the make-up — this section will be updated when that confirmation arrives.
 
-## Internal plan
+## Roof build-up — two systems (by section, not by zone)
 
-![Sauna internal layout plan](drawings/sauna-internal-plan-5-6-26.png)
+The two roof sections now get different systems:
 
-*Working layout sketch (indicative, not to construction standard).* Heater in the **SE** corner; two-tier **west bench** (650mm deep) with a **single straight lower step**; **south corner return seat**; **clear-glass door opening out** at the north; **window 300mm off the north wall**. **North = right**, matching the GA drawings.
-
-## Floor
-
-- Tanked (continuous with adjacent wet room), screeded to fall, R11 porcelain tile to match the rest of the terrace
-- Removable softwood duckboards laid on top of the tile (flat-pack kit, e.g. Finnmark, ~£80–150)
-- Stainless steel high-temperature drain connected to the terrace drainage
-
-## Walls and Ceiling
-
-This is a working assumption — final makeup to follow your steer (see "What we'd value your steer on" below).
-
-- **Insulation — walls: 100mm PIR** (e.g. Celotex/Kingspan) in the stud cavity (fits a standard 100mm stud), preferred over mineral wool for better thermal performance per mm — kept thin to protect internal space and terrace footprint. Achieves U ≈ 0.24 W/m²K, within our ≤0.27 target. Going to 150mm would save only ~60W of wall loss (a few £/yr) at the cost of internal space, so 100mm is the deliberate choice.
-- **Insulation — roof/ceiling: 150mm PIR** — thicker than the walls because heat rises and the ceiling is the hottest surface, and there is **no space penalty overhead** (it sits within the ~1,293mm-above-parapet build-up zone). See the Roof section.
-- **Foil vapour barrier** on the interior face of the insulation, fully taped, continuous around all junctions — **especially the partition–external-wall corner *and* the wall-to-roof junction**. The hot ceiling sees the most heat and moisture, so any gap at the wall-to-roof corner drives damp into the PIR and the cold roof void (rot / corrosion of the standing-seam roof from below). **Ronan to detail both junctions.**
-- **25mm ventilated batten cavity** between the foil VB and the internal lining, to let the timber breathe between sessions
-- **Internal lining:** untreated kiln-dried softwood tongue-and-groove — cedar, aspen, thermo-aspen, or spruce; final choice to follow the kit supplier's recommendation if kit-route is taken (see below)
-- All fixings stainless steel
-- **Internal partition (sauna ↔ wet room)** to be substantially slimmer than the external walls — see footprint discussion below
-
-## Benches
-
-Upper bench is an **L wrapping the SW corner**; the lower step is a **single straight section** along the west wall. All in the same untreated whitewood/spruce:
-
-| Position | Height (FFL) | Depth | Length |
-|---|---|---|---|
-| Upper bench, west wall (main lie / löyly) | 950mm | **650mm** | 2.15m |
-| Upper bench, south wall (corner return seat) | 950mm | 650mm | ~0.95m (to the heater) |
-| Lower step — **single straight section**, west wall | 450mm | 350mm | runs the southern length, stops clear of the door |
-
-*Revised 5 June 2026:* the **west bench depth is increased to 650mm** so its step front lines up with the south bench / heater line — that lets the **lower step be one clean straight section** instead of jogging round the corner. Total west bench depth is now ~1000mm (650 + 350 step), leaving a ~500mm clear strip down the east side.
-
-**One person lies full-length** on the 2.15m west bench; the south leg is a **corner return seat** for a second person (the 1.5m south wall is too short to lie along on its own), using the west step / floor for feet. The **lower step stops short of the north (door) end**, so you step onto clear floor as you enter — not onto the bench. The south return is **cut back at the SE end** for clearance to the Harvia Cilindro PC90E (360 × 340mm) and its guard rail in the SE corner — final clearances per the manufacturer's manual.
-
-## Door
-
-- North wall, 600mm clear opening, **clear of the bench** (you step onto open floor on entry — see benches above)
-- **Glass sauna door** *(revised 5 June 2026 — was solid cedar).* Toughened safety glass leaf in a timber (cedar) or marine-grade aluminium frame.
-- **Must be an outdoor / weatherproof-rated assembly — not a standard indoor sauna-cabin glass door.** It needs to be insulated (sealed double/triple glazing or a properly weather-sealed external sauna door), with full-perimeter weather seals and a weathered threshold, because this door is the external face of the building on an exposed coastal roof. Most catalogue glass sauna doors are for indoor cabins — confirm the external/coastal rating with the supplier.
-- **Glass finish: CLEAR** *(decided 5 June — no privacy needed at this position).* Keeps it open and lets the sauna glow out across the terrace in the evening.
-- **Coastal hardware:** A4/316 stainless or solid brass hinges, catch and handle only.
-- Magnetic catch, 50N+ pull (wind-resistant); heat-tolerant (timber / cool-touch) handle.
-- **Outward-opening** (swings out onto the terrace — keeps the swing out of the small sauna and is the right way for egress), with restrictor to limit swing in wind. Needs clear swing space on the terrace side.
-- **Hold-open for venting between sessions** — marine A4 stainless / solid brass cabin-hook (or sprung friction arm) on the external wall, holding the door at ~30–45° for passive airing.
-- **Heat-loss note:** a glazed door loses more heat than an insulated timber one — consistent with doors/windows being the main heat path (see Walls and Ceiling). Accepted for the look, and mitigated by the door being **diagonally opposite the heater** (SE) and well sealed.
-- Suppliers: sauna specialists do glass doors — **Finnmark, Auroom, Tylö Helo, Harvia** — subject to the outdoor-rating check above.
-- Approximate cost: £400–800 (outdoor-rated glazed unit)
-
-## Window
-
-- East wall, with a **300mm gap to the north wall** so it isn't jammed into the NE corner — the window's north edge sits 300mm off the north wall, and the 1200mm window runs south from there (north edge ≈1850mm, south edge ≈650mm along the 2150mm east wall). View to the NE/E.
-- **1200mm wide × 800mm tall**, single pane, **FIXED** (non-opening) — ventilation is handled by the dedicated inlet/outlet vents, so an opening sauna window is not required
-- Sill at 1100mm from FFL
-- **Frame:** cedar or other heat-tolerant softwood on the interior face; external face can be aluminium-clad if needed for weatherproofing — **NOT aluminium internally** (would burn skin at sauna interior temperature)
-- Triple-glazed (4-12-4-12-4), argon-filled, low-E coatings **rated for sauna interior temperatures**, warm edge spacers — chosen for thermal retention given rooftop exposure
-- Compression seals: EPDM or silicone (heat/humidity tolerant)
-- External manual roller blackout blind on exterior above (sized to cover full 1200mm width)
-- **To be specified in coordination with the kit supplier if kit-route is taken** — sauna-rated window assemblies are typically supplied or specified by the sauna specialist, not a domestic window supplier
-
-## Heater
-
-- **Harvia Cilindro PC90E** — 9.0 kW, 240V single-phase electric sauna heater, ~90 kg stone capacity, cylindrical floor-standing column positioned in the south-east corner
-- Large stone mass for sustained, authentic löyly. Stones loaded loosely around a central heating column.
-- Physical: ~1150mm tall × 360mm wide × 340mm deep, plus guard rail clearance of ~100–150mm around it
-- Approximate UK price £1,100–1,400 (heater only; stones usually included)
-- 25–35 min heat-up time to 90°C; managed via Home Assistant scheduling (Part C — Shelly Plus 1PM + 40A contactor)
-- **Heat shield panel** above the heater is recommended given the radiant output of the 9 kW column heater
-- 10mm² silicon-rated cable to a fused spur in the corner (cable rated comfortably above the 37.5 A continuous draw)
-- Heater guard rail (usually supplied with unit)
-- **Note:** previous spec assumed a Harvia Vega 4 kW — undersized for this volume and small stone mass = poor löyly. Superseded.
-- **Sourcing note:** The PC90E is the 240V single-phase factory variant of the Cilindro PC90 line. Most UK retailers stock the standard PC90 (400V 3-phase); UK sauna suppliers should be able to source the PC90E directly, or alternatively wire a standard PC90 for 230V single-phase per the Harvia installation manual.
-
-### Electrical assumption (to be verified)
-
-This section assumes:
-- **Single-phase 240V supply** to the flat (the standard for UK residential — but to be confirmed by electrical survey of 22 Sussex Square)
-- **40A circuit** can be accommodated in the consumer unit (37.5 A continuous heater draw sits comfortably within a 40 A breaker rating)
-- Three-phase supply, if available, would open up the higher-output Cilindro PC110 (10.8 kW, 3-phase only) — but we are not relying on this
-
-**To check with electrician at first opportunity:**
-1. Confirm single-phase 240V supply (vs three-phase) at 22 Sussex Square
-2. Confirm a dedicated 40A circuit can be added to the consumer unit, or whether the consumer unit needs upgrading first
-3. Confirm the sauna supplier can source the PC90E specifically, or wire a standard PC90 for 230V single-phase per Harvia's installation manual
-
-## Ventilation
-
-Passive only:
-- 100mm inlet vent low on south or east wall, ~100mm from floor (near heater)
-- 100mm outlet vent high on west or south wall, ~300mm from ceiling
-
-## Lighting
-
-- **2× sauna-rated LED ceiling fittings** (e.g. Cariitti, Tylö, Harvia) — purpose-made for sauna heat, ~£80–150 each
-- Light switch outdoors on the terrace, beside the sauna door — IP55+ weatherproof
-
-## Sockets (For Future Office / Bedroom Conversion)
-
-We want this room to be convertible to an office or bedroom in future without retrofitting power, so:
-
-- 2× IP54 double sockets at 300mm from FFL
-- Socket 1: east wall, under the window at the north end (for a desk facing the view)
-- Socket 2: north wall (general / bedside use)
-- Dedicated 20A radial circuit
-- Both sockets clear of the south-east heater corner
-- Used only when the room is cold
-
-## External Switches / Isolators (Sauna Side)
-
-Grouped on the terrace wall beside the sauna door, IP55+ weatherproof:
-- Sauna light switch (Shelly Plus 1 behind)
-- 40A DP rotary isolator for the sauna heater (manual override / safety isolation) — sized for up to ~9kW single-phase heater (see Heater section)
-
-## What we'd value your steer on
-
-### Kit-supplied sauna interior vs site-built
-
-We haven't decided whether the sauna interior — internal cedar T&G lining, foil vapour barrier, vented batten cavity, benches, heater installation, glass door, controls, sauna lighting — should be **site-built** by your team, or supplied as a **cut-to-size indoor sauna kit** from a sauna specialist who would install the interior into the shell you've built.
-
-**Argument for kit:**
-- Sauna-specific details (vapour barrier continuity, vented gap behind cedar, heater clearances, drain penetrations) handled by people who do this for a living, warranty-backed
-- Frees your scope to focus on the shell, which is standard outbuilding work
-- Door comes from the same supplier, coordinated finish
-
-**Argument for site-built:**
-- Slightly lower total cost if it all goes well
-- Total control over internal finish details (bench layout, timber choice, reclaimed materials, etc.)
-
-**Suppliers worth contacting against our internal dimensions:**
-
-- **Finnmark Sauna** — UK (Leeds); cut-to-size indoor kits, outdoor doors, components, heaters
-- **Auroom** — Estonia with UK distribution; premium modern aesthetic, custom indoor kits
-- **Tylö Helo** — Sweden; established broad-range supplier, kits and components
-- **Harvia** — Finland; large industry presence, full kits and heaters
-
-We'd value your view on which route makes sense, and which supplier(s) you've worked with before or would recommend approaching. If kit-route is taken, the chosen supplier feeds back wall makeup, vapour barrier, electrical, drainage and ventilation requirements for the shell.
-
-### External building footprint
-
-**External dimensions (current design): 2902mm (east–west) × 2488mm (north–south)** — a bounding footprint of **~7.22 m²** (a little less once the dogleg notch around the terrace wall is taken out), which sits **within the ~7.6 m² accepted at pre-application**. These reconcile with the internal rooms (sauna 1.5m + wet room 940mm E–W) at external walls of ~170mm and a ~110mm partition — consistent with our 100mm-PIR wall makeup.
-
-We've kept the building as small as practical to leave maximum surrounding terrace space, accepting that this trades against insulation/weatherproofing thickness. We'd still value your steer on the wall makeup below.
-
-**External walls** — thinnest viable makeup that retains good sauna thermal performance (we're aiming for U-value ≤ ~0.27 W/m²K) and is appropriate for coastal/exposed roof terrace conditions:
-
-- We've settled on **100mm PIR in the walls and 150mm in the roof** (rather than mineral wool) for better performance per mm. Does that suit the exposure, and are you comfortable with **PIR at sauna temperatures** behind the foil VB + cedar lining, or would you prefer traditional rock/mineral wool on the hot faces?
-- Is a rigid 25 mm ventilated rain-screen cavity essential, or can a back-ventilated cladding detail direct to sheathing save thickness on this coastal site?
-- What is the thinnest external wall makeup you'd be comfortable specifying for this exposure?
-
-**Internal partition (sauna ↔ wet room)** — we're much less worried about wet-room warmth than sauna heat loss. In fact some heat leak into the wet room is welcome (pre-warms it for post-sauna showering). So the partition can be substantially slimmer than the external walls — perhaps 50 mm stud with mineral wool, no external weatherproofing layers. Would you agree, and is there anything (structural bracing, fire separation, regs) that requires it to be heavier?
-
-**Vapour barrier continuity at the partition–external wall junction** — however the partition is built, the foil VB on the sauna face needs to be continuous around the corner with the external-wall VB. Any gap there is where moisture finds its way into the insulation long-term. We'd value your detailing on that junction.
-
-### External cladding (whole building)
-
-**Working choice: PVDF-coated marine-grade aluminium standing seam** (e.g. Kalzip, Riverclack, PREFA), in anthracite/charcoal — target RAL 7016 / 7022 / 7024. Applies to all four external walls of the combined sauna/wet room building.
-
-**Why aluminium standing seam over the alternatives we looked at:**
-
-- **Zinc and copper** (the other common standing-seam metals): seagull droppings are acidic (uric acid, pH ~3–4) and permanently etch the patina on both, leaving accumulating white or green halo marks. PVDF-coated aluminium is chemically inert to uric acid — droppings wash off in the rain with no ghost marking.
-- **Equitone Tectiva fibre cement panels**: strong runner-up — similar coastal performance, ~£500–800 cheaper for our ~28 m² of cladding. Loses on continuous-skin aesthetic, build-up depth (~40mm vs ~30mm), and warranty length. Sensible fallback if metal is rejected.
-- **Timber (cedar / Accoya / charred Accoya)**: planning preferred a longer-life finish than wood. Even charred Accoya — the best engineered-wood option we found — needs re-oiling every 8–10 years and ages less predictably than coated aluminium.
-
-**Specification points that determine whether the system lasts 40 years or pits in 5:**
-
-- **Marine-grade alloy** — aluminium 3003-H44, 3105-H44 or 5005. Mill-finish or anodised-only aluminium pits in salt aerosol; the alloy series matters here.
-- **PVDF (Kynar 500 / Hylar 5000) factory coating** at minimum 25μm dry-film thickness. PVDF is UV-stable, hydrophobic, and salt-spray-resistant — documented on UK coastal commercial projects with 30+ year service records.
-- **A4 / 316 stainless steel fasteners and clips only.** A2/304 stainless pits in marine atmosphere within a couple of years; galvanised steel sets up galvanic corrosion against the aluminium and rots the panels from behind.
-
-Systems considered, all of which publish coastal warranties at marine specification: **Kalzip** (UK default), **Riverclack** (Italian, well-proven coastal), **PREFA** (Austrian, broad colour range), **VMZINC Pigmento Aluminium**.
-
-**Build-up impact:** ~30mm total (panel ~1mm + ventilated batten cavity ~25mm + clips). No change to our 100mm wall / 150mm roof PIR + foil VB insulation plan — cladding is a rainscreen only.
-
-**What we'd value your steer on:**
-
-- Acceptance of standing-seam aesthetic in the Kemp Town Conservation Area. Anthracite/charcoal is our target tone — discreet, recessive against the cream Regency stucco context, and hides gull marks best. If planning push back on metal, our fallback is Equitone Tectiva in mid-grey (TE20/TE30).
-- Preferred system manufacturer from the four shortlisted above.
-- Roof-to-wall transition — wrap continuously in one material, or break with a different roof system?
-- Detailing of parapet, window reveal and door reveal terminations.
-
-### Roof of the sauna/wet room building
-
-**Form: basically flat** — a near-flat warm roof with a minimal drainage fall (3–5° to north, just enough to shed water), in **continuous PVDF anthracite aluminium standing seam wrapping over from the wall cladding** so the building reads as a single skin.
-
-**Why flat:** the flat form keeps the structure as low as possible above the parapet. The current height is **~1,293mm above parapet** (flat roof = warm-roof build-up + standing seam ≈ 250–300mm above the internal ceiling). This is **~143mm above the 1,150mm in the revised heritage statement** — the increase comes from the higher finished floor level after inverting the whole main roof section (Part M), not from the building itself growing — and **will need re-presenting to planning**. The earlier pitched form was driven by the older 900mm envelope and the gull-avoidance threshold; the flat form + the bird-wire grid below remain viable and visually simpler from every public viewpoint.
-
-**Build-up:**
-
-| Layer (top to bottom) | Spec |
-|---|---|
-| PVDF anthracite aluminium standing seam | Continuous with wall cladding |
-| UV-stable breather membrane | Tyvek UV Façade or Solitex Fronta WA |
-| Counter-battens / sub-frame | A4 / 316 stainless clips |
-| 150mm PIR between rafters | Thicker than the 100mm wall PIR — heat rises and the ceiling is the hottest surface, and there is no space penalty overhead. Ronan to detail the **wall-to-roof PIR / foil-VB junction** so the vapour barrier stays continuous through the corner |
-| Structural OSB or marine ply deck | 18mm |
-| Internal ceiling lining | **Sauna:** cedar T&G (heat-tolerant softwood, standard sauna spec). **Wet room:** **Aquapanel (or equivalent moisture-resistant cement-board) + bathroom-grade paint** — paintable in any colour (suggest warm white or matt anthracite to echo external cladding), fully waterproof, ~£40-60/m² fitted |
-
-> **Standing-seam roof vs membrane — worth Ronan's steer.** A continuous standing-seam *wrap* (walls + roof in one metal) is a deliberate, smart look — **but at 3–5° it's at the low-pitch limit for standing seam** (most systems want ≥3°, some more). Two routes: **(a)** confirm the chosen system is rated for this low pitch; or **(b)** more robust/cheaper — **standing seam on the (visible) walls + a single-ply membrane on the near-flat roof**, which is barely seen above the 1,293mm parapet. *(One point for keeping metal on the roof: the gull grid clamps to the seams without penetration — below.)*
-
-**Gull deterrent on the roof surface:** a low-profile **stainless post-and-wire grid** across the surface, matching the Part F parapet system — 3-wire layout, posts at ~1m centres, 85–90mm above the surface. **Posts fix via non-penetrating seam clamps that grip the raised standing seams — no holes in the roof** (the standard way to mount anything on standing seam). *(If the roof is a membrane instead, posts sit on weighted or adhered bases — still no penetration.)* Same materials and install team as the parapet deterrent, visually consistent.
-
-**Drainage:** small gutter along the low (north) edge discharging onto the terrace tile field below, which then drains to the existing roof outlets. No new outlets required.
-
-**What we'd value your steer on:**
-
-- **Confirmation of the final roof height above parapet** — currently ~1,293mm (up from the 1,150mm pre-app figure, driven by the raised FFL); needs Ronan's real build-up depth and real parapet height above the new tile FFL, and re-presentation to planning
-- **Standing seam vs single-ply membrane on the near-flat (3–5°) roof** — confirm the standing-seam system suits this low pitch, or put a membrane on the roof and keep standing seam on the (visible) walls (see note above)
-- Roof-to-wall transition — continuous standing-seam wrap, or break at a discrete fascia line?
-- Wire-grid post fixing — **non-penetrating seam clamps** on the standing seam (no roof penetration); confirm the clamp type, or the equivalent weighted/adhered base if the roof becomes a membrane
-
----
-
-# PART B — WET ROOM
-
-> **🗓 Phase 2** (needs planning/LBC). *Phase-1 provisions to build in now:* the WC soil, linear-drain, basin, electric-shower and external-shower roof penetrations, plus the electrical first-fix. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
-
-**Internal dimensions:** 2.15m (north–south) × **940mm wide (east–west), narrowing to 720mm** where the room doglegs around the existing terrace wall.
-**Minimum internal ceiling height:** 2.1m (2100mm — same as sauna; single internal ceiling height across the whole building)
-
-> **Wet room doglegs around the terrace wall.** The room is **940mm wide** in its wider section and **steps in to 720mm** where it passes the existing terrace wall; length (north–south) stays 2.15m. The fittings (WC, basin, shower) and the drain run need setting out against the **720mm pinch point** to confirm everything still has working clearance. *Ronan / kit supplier to confirm the exact position of the step and which fittings it affects.*
-
-> **Change from pre-application — note for planning:** The pre-app drawings showed a combined **sauna + store**. In the refined scheme the store moves out of the elevated structure into two low outdoor cabinets below parapet height (see Part O), and the freed volume becomes a **wet room (with WC)**. The **enclosed footprint is broadly unchanged in area** (~7.22 m² bounding, within the ~7.6 m² already accepted), but the structure has been **reshaped into a compact mass and set back 3 m from the Bristol Gardens parapet** (was 0.6 m) — directly answering the pre-app advice. See the [Planning Case](#planning-case--why-the-refined-scheme-merits-support) section for the full comparison.
-
-## Layout
-
-```
-SOUTH                                            NORTH (door)
-
-                  TOP/WEST WALL (2.15m)
-        ┌──────────────────────┬──────┬═════════════════┐
-        │                      │      ║                 │
-        │                      │ SINK ║   ELECTRIC      │
-        │       TOILET         │ on   ║   SHOWER        │ ← DOOR
-        │    on south wall     │ west ║  on west wall   │
-        │                      │ wall ║                 │
-        │                      │      ║                 │
-        └──────────────────────┴──────┴═════════════════┘
-                                       ↑
-                  ║ Linear drain runs east-west across
-                  ║ the full floor width, in the
-                  ║ wet zone (north end of room)
-
-        BOTTOM/EAST WALL (clear standing space)
-
-        ←──── DRY ZONE ──────→  ←──── WET ZONE ────→
-                (~1.0m)                   (~1.15m)
-```
-
-The whole floor is one tanked wet zone — no shower trays, no enclosures, no glass screens.
-
-**Drain position (the key dimension):** linear drain across the full room width at its line, located **1050mm from the north (door) wall**. The floor falls 1:80 from both directions toward the drain — wet zone slopes south, dry zone slopes north. *(Drain length = room width at that line — 940mm or 720mm depending on which side of the dogleg step it falls; confirm against the final step position.)*
-
-## Floor
-
-- Liquid tanking continuous with sauna, walls tanked to 1800mm minimum (full height in wet zone)
-- Sand/cement screed to falls (1:80) toward the linear drain
-- Stainless steel linear drain as above
-- R11 porcelain floor tile, epoxy grout
-
-## Walls
-
-- Cement-board substrate (Hardiebacker, Aquapanel) on stud
-- Porcelain wall tile to ceiling, epoxy grout
-- Silicone to all internal corners and around fittings
-
-## Toilet
-
-- Standard wall-hung WC, ~520–560mm projection (e.g. Roca The Gap, Vitra S20, Geberit iCon)
-- Centred on south wall
-- Concealed cistern in stud framing behind
-
-## Sink
-
-- Wall-hung basin, approx 450mm wide × 350mm projection
-- Single cold tap (no hot water in this room)
-- Top/west wall, immediately north of the toilet
-
-## Electric Shower
-
-- 10.5kW unit (e.g. Mira Sport Max, Triton T90SR, Aqualisa Quartz Electric)
-- Top/west wall, north end of wet zone
-- Cold supply only
-- Dedicated 10mm² circuit, 45A RCBO
-- Ceiling pull-cord isolator within the room, away from the spray zone
-
-## External Cold Shower (North Exterior Wall)
-
-An external shower on the north (hot-tub-facing) exterior wall of the building draws fresh mains-cold water on demand. The natural use sequence: **sauna → step out onto terrace → cold rinse under the external shower → into the hot tub.**
-
-- **Position:** mounted on the **north exterior wall** of the sauna/wet room building, ~2m above terrace tile FFL, accessible from the hot tub zone
-- **Shower head:** **simple large fixed rainfall-style stainless head** (~250-300mm Ø) — no flexible hose, no diverter. Plain, robust, marine-grade brass or 316 stainless body.
-- **Tap:** **single cold lever tap**, surface-mounted brass/stainless, simple quarter-turn or full-turn ceramic-disc cartridge. No mixer (cold-only). Sample: Hansgrohe Croma E or simpler outdoor brass garden-shower lever.
-- **Supply:** tee off the existing terrace cold supply (same as Part K outdoor tap and Part P kitchen sink). Copper, no plastic on exposed runs.
-- **Frost protection:** internal isolation valve and drain-down point so the external run can be drained for winter — consistent with Part K
-- **Drainage:** water falls onto the terrace tiles and drains via the existing tile pedestal void to the existing roof falls. No new drain or gully required. (The tiles slope correctly per Part I.)
-- **Privacy:** the shower is in an open position visible from the hot tub area only — no screening needed (it's a quick rinse, not a full body wash). If privacy is wanted later, a slim freestanding hardwood screen could be added without changing the plumbing.
-
-## Plumbing Summary
-
-- **Cold water only** — taken from existing terrace supply at south wall
-- Cold runs to: toilet cistern (south wall), sink tap (south end of west wall), then along west wall to the electric shower at north end. Separate tee off the terrace supply feeds the **external cold shower** on the north exterior wall.
-- Toilet waste: 110mm soil pipe south to existing soil stack
-- Sink waste: bottle trap, connected to terrace drainage
-- Linear drain: 50mm waste south to terrace drainage
-- External shower drainage: free-falls onto the terrace tile field; drains via pedestal void to the existing roof falls
-
-## Door
-
-- North wall, 762mm leaf
-- Pre-made external cedar door — same supplier as the sauna door, so they match in appearance
-- Weatherproof frame, threshold, compression seals
-- Outward-opening (the current drawing shows inward — please amend)
-- Restrictor chain
-- Approximate cost: £350–600
-
-## Ventilation
-
-- Inline duct extractor fan in ceiling void, ducted out through nearest external wall
-- 15 L/s minimum, IP44 minimum
-- Humidity sensor + overrun timer
-- E.g. Vent-Axia ACM Inline, Manrose CF200T (~£50–80)
-
-## Lighting
-
-- 3× IP65 LED downlights in ceiling, warm white (3000K)
-- Light switch outdoors on the terrace, beside the wet room door — IP55+ weatherproof
-
-## External Switches / Isolators (Wet Room Side)
-
-Grouped on the terrace wall beside the wet room door, IP55+ weatherproof:
-- Wet room light switch (Shelly Plus 1 behind)
-- 3-pole fan isolator (for the extractor fan)
-- 45A DP isolator for the electric shower (in addition to the internal pull-cord)
-
-## External Socket (Terrace)
-
-- 1× IP66 weatherproof double 13A socket on the building's external north wall, east end
-- Mounted at ~450mm FFL
-- Dedicated 20A radial circuit, RCD protected
-- Integral switches; lockable cover optional
-
----
-
-# PART C — SMART CONTROL (HOME ASSISTANT)
-
-> **🗓 Phase 1 + 2 (split).** Terrace/lighting Shellys with Phase 1; the sauna-heater contactor with Phase 2. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
-
-We run Home Assistant at home and want to control all switched and dimmed circuits on the terrace via Shelly devices. Shellys connect **directly to HA over WiFi** using the official Shelly HA integration — no MQTT broker required. WiFi coverage is provided by the relocated UniFi U6 Mesh AP under the south fascia of the sauna/wet room building (see Part L).
-
-| Circuit | Shelly | Notes |
+| Section | System | Reason |
 |---|---|---|
-| Sauna heater (~37.5A continuous) | Plus 1PM + **40A contactor** | Shelly switches the contactor coil, contactor switches the heater. The 1PM gives us power monitoring in HA. 40A sized for the Harvia Cilindro PC90E 9 kW single-phase heater specified in Part A. |
-| Sauna light | Plus 1 | Behind the switch outside the sauna |
-| Wet room light | Plus 1 | Behind the switch outside the wet room |
-| Wet room fan | Plus 1 | Behind the fan isolator |
-| Electric shower | None | Standard pull-cord isolator only |
-| Lighting zones 1–6 (terrace) | 6× Shelly Dimmer 2 (or equivalent dimmable Shelly) | One per lighting zone — see Part L for full lighting spec |
-| Door downlights (sauna + wet room eaves) | Shared with Zone 5 or own Shelly Plus 1 | See Part L |
+| **Main (large) section** — the whole area | **Inverted roof** (whole section) — asphalt waterproofing on the deck, insulation above it, then membrane / Protectoboard / pedestals / tiles | Recommended by **IKO** and agreed by all parties. Inverting the whole main section is the most robust solution everyone was comfortable with, keeps the membrane protected below the insulation and load, and was said to make **the roof outlast the building**. It also lets the bulk of the works proceed without anything legally risky ahead of planning consent. |
+| **Narrow section** | **Warm roof** — insulation above the deck, vapour control layer, asphalt waterproofing on top, then Protectoboard / pedestals / tiles | Standard warm-roof construction. Being warm, it needs **no ballast** while works pause, so the narrow section can be finished completely as soon as its roof is done. |
 
-What this needs from the install:
-- Shellys located in dry, cool, accessible places with 2.4GHz WiFi coverage
-- Live and neutral at the back of every switch position (worth flagging early to the electrician)
-- A small DIN-rail enclosure for the heater contactor + Shellys + lighting dimmers, somewhere outside the two rooms (a single enclosure for the lot keeps cabling tidy)
+### Existing make-up (confirmed by opening the roof up — both sections)
 
----
+| Layer (top to bottom) | Notes |
+|---|---|
+| 20mm asphalt | Existing waterproofing |
+| 18mm board | **Decayed from moisture** |
+| 120mm foil-backed insulation | |
+| 18mm board | The two board layers surprised everyone — unusual to find two |
+| Joists | Existing structure |
 
-# PART D — HOT TUB
+### Proposed main (large) section — fully inverted *(provisional, pending IKO written confirmation)*
 
-> **🗓 Phase 2** (needs planning/LBC). It arrives **by crane in Phase 2**, scheduled independently of the scaffold (it's too heavy/bulky to winch up — see [Programme & Phasing](#programme--phasing--two-phase-delivery)). *Phase-1 provisions to build in now:* the 32A radial first-fix, the drain roof penetration, the pedestal/continuous-base area set out, and the footprint left tile-ready.
+| Layer (top to bottom) | Notes |
+|---|---|
+| Tiles | 20mm porcelain on pedestals (Part B) |
+| Pedestals | **Eterno Ivica** (chosen 7 Jun), **rubber acoustic pads top *and* bottom** in this section (most sound isolation — see Part B) |
+| **IKO Protectoboard** | Over the whole area — protects the membrane/insulation and **spreads pedestal + point loads onto the insulation** (see below) |
+| **220mm insulation** | Inverted-roof insulation (IKO), above the asphalt — **compressible**, so concentrated loads (hot tub, parasol bases) must be spread (Part B) |
+| 20mm asphalt | Waterproofing on the deck |
+| Vapour control layer | *Position to be confirmed by IKO — Chris noted the order here may be wrong* |
+| 18mm board | |
+| Joists | |
 
-We're planning to site a hot tub on the terrace alongside the sauna/wet room building. Including this here because the **structural loading on the terrace deck is the critical question for you**, and the model choice drives weight, footprint, and electrical supply. Final model TBC; shortlist below in our preferred order.
+### Proposed narrow section — warm roof *(provisional, pending IKO written confirmation)*
 
-> **Structural engineer — draft calculations received (3 June 2026).** Our SE (Conscious Engineering Design Ltd) has confirmed that a **light tub** (a RotoSpa-class tub, ~970kg filled, ~369 kg/m²) works on the **existing structure with no strengthening**, and that the existing steel beam has capacity (see Part M). That check used a lighter tub than our shortlist, so the open question is now **which of our heavier candidates the structure can carry**. We're asking the SE to re-check the **heaviest realistic candidate** (the Marquis Spirit, ~1,280kg / ~365 kg/m²) and to express the result as a **maximum filled weight + maximum load per m²**, so we can buy any tub that comes in under both limits. Final tub choice follows that.
+| Layer (top to bottom) | Notes |
+|---|---|
+| Tiles | Porcelain on pedestals (Part B) |
+| Pedestals | **Rubber acoustic pads on bottom only** in this section (less sound isolation needed — see Part B) |
+| Protectoboard | |
+| 20mm asphalt | Waterproofing on top |
+| Vapour control layer | |
+| 160mm insulation | Warm-roof insulation, above the deck |
+| 18mm board | |
+| Joists | |
 
-## Footprint envelope
+The lead upstands are expected to work with these build-ups.
 
-**Maximum hot tub envelope: 170cm wide × 210cm long** (W × L on the drawing — the long axis runs north-south on the terrace).
+## Finished roof height — needs quantifying
 
-Shortlist of tubs that fit the envelope is below. Final tub TBC pending SE sign-off on load — the choice will be made from within this envelope only.
+Inverting the whole main section will **raise the finished floor level (FFL) above the current 31 May drawings.** The exact rise depends on IKO's confirmed insulation depth. Ronan needs to quantify it because it affects:
 
-## Shortlist (filtered to ≤170 × 210cm envelope)
+- The relationship of the FFL to the parapet, and therefore the **roof height above parapet** for the sauna/wet room building — now ~1,293mm, up from the 1,150mm accepted at pre-app (heritage constraint — Part M); the increase needs re-presenting to planning
+- The **glass guarding heights** (Part L), measured from FFL / hot tub rim
+- The **railing height top-up** (wires / timber + wires) on the narrow section (Part H)
 
-| # | Model | Origin | Shape | Dimensions | Filled (kg) | kg/m² | Price |
-|---|---|---|---|---|---|---|---|
-| 1 | [Fisher 3](https://fisherspas.com/) | NZ designed (Vortex) | Rectangular | 207 × 153 × 82cm | 1,121 | 354 | £3,500–5,500 |
+## Levels across the terrace — three levels
 
-**Marginal — slightly over the 210cm envelope length, otherwise fit:**
+*Revised 5 June 2026 — supersedes both the earlier idea of raising the whole narrow section up over the lift over-run, and the idea that the whole main section sits at one high level.* The terrace will now read as **three levels**, set by pedestal height:
 
-| # | Model | Origin | Shape | Dimensions | Filled (kg) | kg/m² | Price |
-|---|---|---|---|---|---|---|---|
-| (M) | [Pre-owned Marquis Spirit](https://www.hunsburyhottubs.co.uk/hot-tubs/pre-owned/) | USA (Oregon) | Rectangular | 213 × 165 × 91cm (+3cm long) | 1,280 | 365 | £3,500–5,500 |
-| (H) | [Hydropool Serenity 4300](https://www.hydropoolspasandhottubs.co.uk/product/serenity-4300/) | **Canada** (genuine) | Rectangular | 216 × 158 × 86cm (+6cm long) | 1,163 | 342 | ~£7,295 (new) |
+| Area | Level | How it's achieved |
+|---|---|---|
+| **Narrow section (Floor Area 1)** | **Low** — kept as low as possible | **Lowest pedestal height** on the warm-roof build-up. No longer raised up over the lift over-run. |
+| **Dining (Floor Area 2)** | **High** — the one raised zone, **≈500mm raised** (per the 5 June drawing) | **Tall adjustable pedestals** — our supplier has a pedestal covering the **350–500mm** range — on the inverted build-up. Steps up on the east side. |
+| **Hot tub + seating/lounge + SE end of the large terrace (Floor Area 3)** | **Low** | Pedestals at **~100mm above the Protectoboard**, on the inverted build-up. |
 
-**On the radar — Hydropool Serenity 4300 (added 6 June):** the one Hydropool that gets near the envelope. Worth keeping in view for its **patented self-cleaning** (filters all the water every ~15 min — a real plus on a roof terrace that's awkward to drain) and **genuine Canadian build**. Structurally it's comfortable — at **1,163 kg / 342 kg/m² it sits *inside* the Marquis Spirit bounding check** (1,280 / 365), so if that passes, this is covered. The catches: it's **~6cm over the envelope on length** and **~£7,295 new — over our £6k cap** (pre-owned Hydropool is rare in the UK). A premium "if the budget stretches" option, not the value pick.
+**Floor Area 4 is deleted** — its area is absorbed into Floor Area 3 (Chris updating the drawings).
 
-**Removed (don't fit 170 × 210cm envelope):**
-- RotoSpa Orbis (183cm dia round — too wide)
-- RotoSpa QuatroSpa (200cm dia round — too wide)
-- Pre-owned Hot Spring Hot Spot (213 × 213cm — too big both dims)
-- Pre-owned Jacuzzi J-200 (213 × 213cm — too big both dims)
-- H2O 2000 Series (210 × 180cm — 10cm over on width)
-- Sunbeach SB355L (225 × 180cm — over on both dims)
+- **3 steps up** lead from the lower terrace up to the **raised dining zone (Floor Area 2)**. This is the same FA2/FA3 transition the Part C planters already sit on — **M2 and M3 run along the stair line and double as the fall-protection edge at the FA2 drop**.
+- **Lift over-run:** no longer built up over. Its top is **tiled over (minimal extra area beyond the bulkhead)**, with the **N4 low-herb planter built on top, matching that footprint exactly** (Parts B and C).
+- **Level access from the study:** keeping the narrow section low, combined with **dropping the study door/window sill by 170mm** (see Part Q), gives a level / near-level threshold from the study straight onto the narrow terrace.
 
-**Next:** the SE is re-checking the heaviest realistic candidate (Marquis Spirit) to set a **weight limit we can buy within** (see Part M). Within that limit the Fisher 3 is our likely choice; the limit also keeps the door open to a suitable pre-owned premium tub if one comes up.
+**For Ronan / Building Control:**
 
-Filled weight (shell + water, no occupants) is the figure we compare tubs on. **Occupant and dynamic allowances are for the SE to apply** within his calculation. The **kg/m²** column is the load-per-area that drives the joist check — our SE designed the joists for ~369 kg/m², which sits at or above every tub that fits the envelope, so the joists are not expected to be the constraint; the higher total weight on the steel beam is the thing being confirmed.
+- **Step detail** — going, rise and nosings for the 3 steps up to Floor Area 2, and whether a **handrail / guarding** is required at the level change (Approved Document K).
+- **Tall pedestals (350–500mm)** are under **Floor Area 2 only** and need lateral stability at that height (stabilisers / bracing / restraint rails), with the acoustic pads (Part B) still seating correctly at full extension — confirm with the pedestal supplier. Floor Areas 1 and 3 are on low pedestals.
+- **Sauna / wet room door thresholds** open onto the **low Floor Area 3** — confirm the threshold detail from the building floor (on the Protectoboard) to the ~100mm-pedestal tile level outside.
+- **Narrow-section railing raising (Part H) reduces** — with the narrow floor now barely rising, the retained railings need little or no added height; revisit once the narrow FFL is fixed.
+- **Drainage falls** on each level, and at the step line, to be set out so water sheds correctly across all three levels.
 
-## Recommended suppliers
+## Protectoboard over the entire terrace
 
-- **[RotoSpa](https://www.rotospa.co.uk/)** — direct from manufacturer for the Orbis / QuatroSpa
-- **[Hunsbury Hot Tubs](https://www.hunsburyhottubs.co.uk/hot-tubs/pre-owned/)** (Northampton) — dedicated pre-owned premium specialist; Hot Spring, Jacuzzi, Marquis
-- **[Happy Hot Tubs](https://www.happyhottubs.co.uk/shop-hot-tubs/pre-owned-off-display-hot-tubs)** (7 UK showrooms incl. Sussex) — wet-testing of pre-owned and ex-display
-- **[My Hot Tub Mover](https://www.myhottubmover.co.uk/used-hot-tub-sales.html)** — UK-wide pre-owned, fully wet-tested
-- **[H2O Hot Tubs](https://www.h2ohottubs.co.uk/)** (Nottingham) — for the H2O 2000 with strong UK warranty
+We want **Protectoboard installed over the top of the asphalt across the whole terrace** — both the inverted main section and the warm narrow section. This protects the membrane from:
 
-## Power supply
+- Pedestal point loads from the tile system (Part B)
+- Planter bases and their drainage discharge (Part C)
+- Hot tub base (Part O)
+- Parasol bases and any other recessed cassettes (Part P)
+- Foot traffic during installation and any future maintenance
 
-Most domestic hot tubs in the shortlist envelope are **single-phase 230V** hard-wired.
+No acoustic underlay mat above the Protectoboard (Protectoboard alone is the substrate for the pedestals — see Part B).
 
-- **Dedicated 32A radial** from the flat consumer unit, 30mA RCD-protected, with a **rotary isolator within 1m of the tub** (BS 7671 requirements). Some plug-and-play 13A tubs exist but heat very slowly in winter — 32A is the preferred spec.
-- **Supplementary equipotential bonding** of any metal parts within reach of the tub if required by the regs in force at install.
-- Cable route from the flat CU to the tub position to be planned alongside the sauna heater feed and the terrace lighting circuits — flagging early so the electrician can coordinate runs.
+## Building footprint — built on top of the Protectoboard
 
-## Drainage
+**Change agreed at the 4 June meeting:** the sauna / wet room building will now be **built on top of the Protectoboard**, on the inverted main-section build-up — *not* on its own lower slab with the asphalt dressed up to the building line (the earlier approach, now superseded).
 
-A hot tub holds 700–1,500 litres and is drained periodically (2–3× per year for water change, plus the occasional emergency drain).
+- This keeps the build-up continuous under the building and is simpler to detail.
+- All drainage / service penetrations under the building footprint must be set out **before** the roof is closed up (see Plumbing note below).
 
-- **Drain hose connector** at the base of the tub (standard garden-hose thread).
-- **Discharge route:** ideally to an existing rainwater outlet via a short hose, OR a dedicated tundish to a foul connection if available — needs the surveyor's steer on which terrace drain is closest and has the capacity.
-- Flow rate to be checked against the chosen outlet — a 1,000L drain via standard hose takes ~30 min, which should be within typical roof-drain capacity but worth confirming.
-- **Fill:** via the outdoor tap (Part K) + garden hose — no fixed fill plumbing required.
+### Doors-vs-build-up — likely resolved by the whole-section inverted approach
 
-## What we need from you on this
+Previously the hot tub zone was to be built ~200mm higher than the surrounding warm roof, which raised a question about how the outward-opening sauna / wet room doors would clear the step. The **roof build-up under the whole main section is now one continuous inverted system**, so the earlier three-way confusion (lower / higher / intermediate build-up) and the old "400mm vs 200mm raised floor" discrepancy fall away at the *structural deck* level.
 
-- **Filled-load sign-off** sits with our SE (see Part M) — he's re-checking the heaviest realistic tub and will give us a maximum filled weight + maximum load per m² to buy within
-- Crane access route up to the terrace. The tub is too heavy/bulky to winch up the scaffold, so it comes **by lorry/mobile crane in Phase 2** once consent is through (independent of the scaffold — see [Programme & Phasing](#programme--phasing--two-phase-delivery)). Please confirm the crane reach / access route **now**, so the later lift isn't a surprise.
-- Best drain route on the terrace — which existing outlet to discharge into, and any tundish / trap detail you'd want
+**The finished tile level, however, deliberately varies by pedestal height** (5 June): the **dining zone (Floor Area 2) is raised** on tall 350–500mm pedestals, while the **hot tub / seating / SE area (Floor Area 3) stays low** on ~100mm pedestals — see "Levels across the terrace" above. The **sauna / wet room doors open onto the low Floor Area 3**, so **Ronan to confirm that door-threshold detail** (building floor on the Protectoboard ↔ the ~100mm-pedestal tile level outside). The **3 steps** connect the lower areas up to the raised Floor Area 2.
 
----
+## Plumbing — set out drainage before the roof is closed
 
-# PART E — RAILINGS
+The roofing contractors can **insert and cap drainage penetrations** for us to connect to in the follow-up fit-out — *but only if they have the exact locations in advance*. The exact positions of all drainage / waste penetrations (sauna floor drain, wet room linear drain and wastes, **WC 110mm soil**, hot tub drain, external shower) must be issued to the roofing contractor **before the main roof is closed up**. See Parts M, N and O.
 
-> **🗓 Phase 1** (terrace works). Confirm with Ronan/conservation officer that the retained railings + wire top-up need no LBC. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **This is Phase-1 provision #1 — the single highest-risk item in the whole phasing plan** ([Programme & Phasing](#programme--phasing--two-phase-delivery)). The sauna, wet room and hot tub are all **Phase 2**, but their roof penetrations must go in **now**, during the Phase-1 roof works, because a penetration missed before the roof is closed cannot be added later without opening the new roof.
 
-The narrow section of the roof terrace currently has three sets of railings. Per the **4 June meeting**, we'll **keep the railings exactly where they are — same position, same height** — no re-siting, no cladding, no replacement. The only addition is **wires (or a low timber upstand + wires) on top**, which does two jobs in one: makes up the small extra guarding height and bird-proofs them. *(The narrow section now stays on the lowest pedestals — Part M — so the floor barely rises and the railings don't need moving.)*
+## Action — detailing required from Ronan Bond
 
-## Changes
+> **Note for Ronan Bond:** please provide the build-up details (inverted main section, warm narrow section, the junction between the two, asphalt-to-building junction including the door-threshold detail) **as a matter of urgency** so they can be discussed with our surveyor, **IKO**, **Sussex Asphalt**, **Seaview** and **Coastal Surveyors**. **Seaview need a specification of works as soon as possible to get it costed** — scheduling is difficult at this time of year and getting the spec to them quickly is key.
 
-- **Keep the existing railings in place, at their current height.**
-- **Add height + bird-proofing on top** — **tensioned stainless wires**, or a **low timber upstand with wires on top**, fixed to the railing tops. One element makes up the extra guarding height **and** acts as the gull/pigeon deterrent. Method (wires alone vs timber + wires) to be confirmed.
-- **Remove:** the centre railing, and the short railing joining the centre railing to the west railing (redundant under the current layout).
-- **Keep:** the east and west railings, both in place.
+**Building Control:** Sussex Asphalt are taking the plan to Building Control to check it.
 
-## Bird wire detail
+## Structure — joists and steel
 
-- Stainless steel posts at ~1m centres along the top of each retained railing
-- 2–3 tensioned 1.2mm 7×19 stainless wires (matching Part F parapet spec for visual continuity)
-- Posts ~150–200mm above the railing top
+Our structural engineer (**Conscious Engineering Design Ltd**) has issued **draft calculations** (SET 1, dated 3 June 2026). This part of the building was **built in 2011**, so the members are modern and the engineer has **measured them on site** rather than assuming sizes.
+
+**Headline findings (draft):**
+
+- **Existing roof joists** — 50 × 225mm C24 at 400mm centres, running **east–west** — **PASS with no strengthening** for a **light hot tub** (a RotoSpa-class tub, ~970kg filled, ~369 kg/m² load intensity), at ~57% of bending capacity.
+- **Existing steel beam** — UKB 305 × 165 × 46, grade S275, running **north–south** (along the top edge of where the parasol sits in the NE corner) — **has capacity** for the same case, with large headroom (~36% utilised; lateral-torsional buckling governs).
+
+**Still draft — to be confirmed:**
+
+- **Final hot tub.** The check used a lighter tub than our shortlist. The engineer is to re-check the joists and beam against the **heaviest model we're realistically considering** (the Marquis Spirit, ~1,280kg / ~365 kg/m²), so we can buy any tub within a confirmed weight limit (see Part O). On a load-per-m² basis every tub that fits our footprint envelope sits at or below the 369 kg/m² already designed for, so the joists are not expected to need strengthening; the open question is the higher total weight on the beam.
+- **Sauna / wet room building.** Not yet in the calculations. The sauna sits a metre or two from the hot tub, so it lands on **different joists** (a separate joist check still to come) but on the **same steel beam** — so the beam must be re-checked for the combined sauna + tub load once the building's construction is defined.
+- **Decking / pedestal + inverted build-up load.** The calc used an assumed 0.4 kN/m² for the tile finish; the real figure from the inverted build-up (above / Part B) is to be confirmed to the engineer.
+
+**Doubled joists** in the **NW quadrant** (the hot tub zone) were previously assumed as a fallback. The draft calc shows a light tub needs **none**; whether a heavier tub triggers doubling will come out of the re-check. All parties confirmed at the 4 June meeting they are comfortable doubling joists where the calculations require it; they saw no problem with it.
+
+## Programme / phasing (from the 4 June meeting)
+
+> **The full two-phase framework is now in the [Programme & Phasing](#programme--phasing--two-phase-delivery) section near the top of this document — that is the single source of truth.** The notes below are the contractors' intended on-site *sequence* from the 4 June meeting, which feeds into it.
+
+*For Ronan's awareness — the contractors' intended sequence:*
+
+- **Flat roof works start w/c 24 July** — the largest part of the job; they want to start early on it. *(⚠ Date to confirm — Chris now expects the roof job to start sooner; the scaffold window, not this date, is the binding constraint.)*
+- The **main (large) section is done first**, then the narrow section. The large area must be **cleared of decking etc. beforehand**, with everything moved onto the narrow section. Once the main roof is ready, the narrow-section contents move across onto it.
+- The freshly-laid inverted insulation on the main section **needs ballast holding it down** until the tiling system goes on. Plant pots / items on the roof can serve as interim ballast, but ideally the contractors lay the **Protectoboard and tiling straight after finishing the roof**.
+- **~¾ of the main section can be tiled as soon as that part of the roof is finished**, holding off only on the **sauna and hot tub area until planning consent is through**.
+- The **narrow section can be finished completely** as soon as its roof is done (warm roof, no ballast needed).
+- **Scaffold:** the downstairs neighbours are OK with the scaffold staying up a little longer than the main job, but not for months. We may need to **get materials onto the roof early** and hold off on the **sauna build until planning comes through** — at which point builders could access through the building.
 
 ## What we'd value your steer on
 
-- **Top-up detail** — best way to add the extra height + wires to the railing tops (wires alone vs a low timber upstand + wires), and the fixing into the existing railing top profile
-- **Removal of the centre / short railings** — confirm no structural role
-- **Bird wire mount detail** at the railing tops (compatible with existing railing top profile)
+- The **finished roof height** rise from inverting the whole main section — your figure, and its effect on the above-parapet height (now ~1,293mm vs the 1,150mm pre-app figure — Part M) and glass guarding heights (Part L)
+- Inverted-to-warm junction detail where the main section meets the narrow section
+- Asphalt-to-building junction and door threshold detail — watertight, and allowing the outward-opening doors to clear, now the building sits on the Protectoboard
+- Coordination with the SE on whether doubled E–W joists in the NW quadrant are sufficient, or whether the steel needs to take more
 
 ---
 
-# PART F — PARAPET BIRD DETERRENT (POST AND WIRE)
-
-> **🗓 Phase 1** (terrace works). Confirm the LBC position for fixing into the listed coping. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
-
-The main parapet walls currently have bird spikes. They work but look bad. We want to replace them with a low-visibility post-and-wire system on the 450mm-wide precast concrete coping.
-
-## 1. Scope
-
-Supply and install a low-visibility stainless-steel post-and-wire system on the top face of a 450mm-wide precast concrete coping to deter pigeons and gulls.
-
-## 2. Design intent
-
-Gulls and pigeons need a clear, flat landing strip. On a wide (450mm) coping, a single row of wire is insufficient — birds simply land beside it. We deny the landing area by running **three parallel wires across the width**, all at the same height, so there is no usable perch anywhere on the 450mm top.
-
-## 3. Layout (plan and section)
-
-- **Wires:** 3 longitudinal runs, all at 85–90mm above coping
-- **Lateral positions:**
-  - Wire A: 30mm in from outer edge
-  - Wire B: centre line of coping
-  - Wire C: 30mm in from inner edge
-- **Post spacing:** 1000–1200mm (consistent within a run)
-- **Springs / tensioners:** at ~10m intervals and at line ends
-- **Corners:** terminate and restart each wire at corners with corner posts (no sharp bends)
-- **Clearances:** keep all fixings ≥25mm from coping edges/drips
-
-## 4. Heights — what works best
-
-- Pigeons: 70–100mm effective
-- Gulls: 80–110mm effective
-- **Chosen spec: 85–90mm** suits both species and looks neat
-
-## 5. Materials (marine / coastal)
-
-- All metalwork: **A4 / 316 or 316L stainless steel** (posts, wire, terminals, springs, screws, washers, ferrules)
-- Wire: **1.2mm Ø 7×19 stainless cable** — chosen for coastal robustness, long-term fatigue resistance, and visual straightness; gives the best deterrent reliability over a 20+ year life
-- Posts: turned stainless, 70–110mm stem height with swivel / tilting saddles (±10–15°) to allow posts to be plumb despite coping fall
-- Base gaskets: neoprene or EPDM under base washers to protect the coping
-- Anchors: stainless screws into mortar joints with resin/chemical anchors where required. **Do not drill waterproofing / membranes.**
-- Dissimilar metals: isolate if any non-SS substrate/fastener is unavoidable
-
-## 6. Fixing method (preserve fabric)
-
-- Drill only mortar joints (perp or bed joints) between coping stones; **never the stone arris or roof build-up**
-- If mortar joints are unsuitable at a location, use inner-face side-mount stand-offs into brick perp joints instead of top-mounting that stone
-- Maintain minimum edge distances per anchor manufacturer data
-
-## 7. Tension and tolerances (quality)
-
-- **Tension:** light spring tension — enough to remove visible sag, no "banjo-tight" runs
-- **Parallelism:** three wires parallel within ±2mm over any 2m length
-- **Level:** top wire height 85–90mm above coping, tolerance ±3mm; posts plumb
-- **Sag:** < 5mm mid-span over 3m in summer conditions
-- **Finish:** no sharp burrs; trimmed ferrules; caps neat and aligned
-
-## 8. Quantities (25m guide)
-
-- Posts: at 1.1m centres ≈ 23 posts per run × 3 runs = **~69 posts** (+10% spares)
-- Wire: ~80m total (75m + waste)
-- Springs / tensioners: ~9–12 (one per end + ~every 10m per run)
-- Terminals / ferrules / eyelets: as required for each end and spring
-
-## 9. Visual / architectural requirements
-
-- Minimal, discreet look — this is a deterrent, not a balustrade
-- Keep post heads below sightline clutter; avoid reflective / glossy finishes (satin / brushed is ideal)
-- Keep bases in line and centred on joints; no skewed bases
-
-## 10. Acceptable systems / brands
-
-Not brand-specific. Any proprietary bird post-and-wire system meeting this spec (A4/316 components; 1.0–1.2mm SS cable; swivel bases; springs; marine-grade anchors) is acceptable. Examples include mainstream UK bird-control suppliers' post-and-wire kits — contractor to propose and submit datasheets for approval.
-
----
-
-# PART G — PARASOLS
-
-> **🗓 Phase 2** ("umbrellas" — with the building). Bring the parasols + weighted bases up during the scaffold window and store them. *Phase-1 provision to build in now:* the pedestal clusters / load-spread positions (or planter-ballast) for the two bases, set out **before** the pedestal grid is fixed. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
-
-We've used Morton Parasols before and want to use them again, or an equivalent commercial-grade alternative. Reference: [Morton Malaga commercial parasol](https://www.mortonparasols.com/commercial/malaga/).
-
-## What we need
-
-- **2× side-pole (cantilever) parasols** — clear underneath (like the Morton Malaga we've had for years), **marine / corrosion-grade** for the exposed seafront:
-  - **Dining: 3 × 3m** (square)
-  - **Sofa: ~4m of cover** — the available shape depends on the brand: **Malaga → 4 × 4m square**; **Bambrella → 3 × 4m rectangle** (the Bambrella Hurricane's largest *square* is only 3.4m, so it can't do 4×4 — its sofa option is the rectangle). Both cover the ~4 × 3m sofa footprint. *(For the Bambrella rectangle, confirm the long side reaches **away** from the post; and ask if a 4×4 square is possible as a special.)*
-- **Frame:** marine-grade aluminium with **stainless fittings** (salt-air corrosion is the real enemy here, more than the wind rating)
-- **Fabric:** solution-dyed acrylic (Recasens / Sunbrella or equivalent), Brighton coastal exposure
-- **Model — being finalised; the sofa shape maps to the brand** (Malaga is square-only; Bambrella's max square is 3.4m):
-  - **Morton Malaga** → **3×3 + 4×4 square** pair. Proven, cleaner reviews; **marine version available** + **stainless fittings throughout** as standard; gas-spring "easy-up"; 100mm aluminium mast; **heating + LED available** (incl. battery-LED); from **~£2,900**.
-  - **Bambrella Hurricane Side Wind** → **3×3 square + 3×4 rectangle**. Marine-grade aluminium + stainless; 360° rotation + 45° tilt; integral heaters/LED (mast-internal wiring); **~£1.5–3.1k each**. *(Buy the aluminium Hurricane, not bamboo; confirm the rectangle's orientation.)*
-  - *Wind rating is moot (we furl on a weighted base), so the call is **marine build + track record + price + square-vs-rectangle shape** — and the two are close.* **Getting quotes for both (7 June).**
-
-**Heating / lighting & side panels (both):** both offer integrated **infra-red heating + LED lighting** (Bambrella's is clearly integral — mast-internal wiring, LED in the frame extrusion; Morton's exact fitment to confirm, with a battery-LED fallback). **Neither cantilever offers full side panels** — both do **valances** (short fabric drops for low sun) only. Actual side/wind screening would come from **separate screens** (Morton "terrace screens") or our planters/glass windbreak — not the parasol.
-
-## Bases — weighted, on the tiles, no roof penetration *(revised 8 June 2026)*
-
-We are **not penetrating the roof** (the asphalt waterproofing sits at the very bottom on the deck; piercing it is against IKO's "invert the whole roof so it outlasts the building" approach). So each parasol base is a **free-standing weighted base sitting on the tiles.**
-
-**Why on the tiles, not recessed:** we'd looked at recessing the base down on the Protectoboard (mast collared at the tile plane for extra stability), but the pedestal-void depths rule it out — the **dining area (FA2) is raised ~500mm** (recessing that deep is impractical, so **the dining parasol base must sit on the tiles**) and the **sofa area (FA3) is only ~100mm** (too shallow for a chunky weighted base). So both bases sit on the tile surface. *(A base could alternatively be ballasted/housed within a planter, using its mass + footprint — worth exploring for the sofa.)*
-
-**Consequence:** on a weighted surface base the parasol is **furled in strong wind** — so we're buying for **marine-grade build, not for a wind rating we can't exploit.**
-
-**Loads (critical):** the base is heavy (**~140–280kg**) and bears **base → tile → pedestals → Protectoboard → 220mm (compressible) insulation → deck.** It must **not** point-load a 20mm porcelain tile, so it needs a **load-spreading plate bearing over a cluster of extra pedestals** (load through pedestal heads, not unsupported tile), keeping the pressure within both the tile and insulation limits — **designed with Eterno Ivica, IKO and the SE** (Part I).
-
-The mast lifts out so the surface can be capped flush over winter.
-
-## What we'd value your steer on
-
-- **On-tile base detail** — load-spreading plate over a cluster of extra pedestals so neither the 20mm tile nor the compressible insulation is overloaded; **set out before the pedestal grid is fixed** (Eterno Ivica + IKO + SE)
-- **Whether to ballast/anchor the sofa parasol within a planter** instead, using its mass + footprint
-- **Mast collar / cap detail** at the tile surface — weather-sealed, and capped flush when the parasol is removed
-
----
-
-# PART H — FALL PROTECTION (GLASS BALUSTRADES & PLANTERS)
-
-> **🗓 Phase 1 + 2 (split).** The **dining-area glass goes in with Phase 1**, alongside the raised FA2 dining floor, so its 500mm fall edge is guarded from day one *(confirm with Ronan that this glass doesn't itself need LBC)*. The **hot-tub glass is Phase 2**, arriving with the tub. Both fix into the parapet masonry (no roof penetration), so the hot-tub run can wait without locking anything in. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
-
-Two locations need fall protection to comply with Approved Doc K (1100mm above the standing level):
-
-1. **Dining area (Floor Area 2)** — 1100mm above FFL along the relevant edge(s)
-2. **Around the hot tub** — 1100mm above the **hot tub rim**, since BC will treat the rim as the standing level. The tub can't be positioned away from the edge, so this applies.
-
-We've chosen frameless structural glass throughout for both locations — keeps the view, and minimises bulk from public viewpoints (conservation area).
-
-## Glass spec
-
-- Frameless toughened laminated glass (typ. 17.5mm or 21.5mm — engineer to confirm)
-- Heights:
-  - Dining area: top of glass at **1100mm FFL**
-  - Hot tub area: top of glass at **1100mm above tub rim** (≈1900mm FFL depending on final tub choice)
-- Designed to BS 6180 line loads + Brighton coastal wind loads (significant — seafront exposure)
-
-## Planters (inside the glass)
-
-- **500mm deep planters** running along the inside (terrace side) of the glass
-- Planter top **300mm above hot tub rim** along the hot tub run
-- Functions:
-  - Visual / planting feature
-  - Creates a 500mm physical setback between the hot tub and the glass — may help BC accept the guarding line (worth confirming with building control)
-  - Adds visual interest at parapet level
-
-## Mounting — side-mounted (face-fix to inner face of parapet)
-
-**Side-mounted, point-fixed to the inner face of the parapet wall.** The glass panels are clamped with individual stainless point-fixings (or a low-profile inner-face channel) into the inner masonry face of the parapet, projecting upward to the required 1100mm guarding height.
-
-**Why this mounting:**
-
-- **No metal at the top of the glass** — clean frameless top edge across the whole run. Top-mounted channel systems require a visible alu/stainless cap rail that we want to avoid for aesthetic reasons.
-- **Coping and tanking undisturbed** — no penetrations through the top of the parapet, no risk to the existing waterproofing layer beneath the precast coping
-- **Individually replaceable** clamps — easier long-term maintenance than a continuous top channel
-- **Trade-off:** the cantilever load path puts higher leverage on the inner-face fixings, so the masonry condition behind the fixing line needs to be sound. Resin anchors into solid brickwork (with appropriate pull-out testing) are the standard approach for this exposure.
-
-## What we'd value your steer on
-
-- **Inner-face fixing detail** — point-fixed stainless clamps vs a low-profile inner-face channel; SE to confirm pull-out capacity against the existing masonry given Brighton seafront wind loading
-- **Glass thickness / spec** — to be sized by the supplier's engineer once the inner-face fixing detail is agreed (likely 17.5–21.5mm toughened laminated to BS 6180)
-- **Whether the 500mm planter setback** is acceptable to building control as part of the guarding strategy around the hot tub (could allow the glass to be slightly lower than the strict 1100mm-above-rim rule, though we're not banking on this)
-- **Condition of the inner masonry face** behind the proposed fixing line — confirmation it's sound brickwork suitable for resin-anchored point fixings at this exposure
-
----
-
-# PART I — TERRACE TILING SYSTEM
+# PART B — TERRACE TILING SYSTEM
 
 > **🗓 Phase 1** — but with two Phase-2 carve-outs. **Leave the sauna/wet-room and hot-tub footprints un-tiled (tile-ready)** until those Phase-2 elements are built, and **set out all the Phase-2 pedestal clusters now** (hot tub, parasol bases, building footprint) before the pedestal grid is fixed. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 **Estimated tiled area: ~103m²** (of the ~120m² gross terrace footprint, once the building, hot tub, kitchen and storage footprints are subtracted).
 
-> **Change from the 4 June meeting:** the agreed approach is now to **tile the whole roof area and build the planters on top of the finished tile field**, rather than building the planters off the Protectoboard to reduce the tiling area. So **planters are no longer subtracted** from the tiled area — which raises the net figure from ~82m² to ~103m². (See Part J.)
+> **Change from the 4 June meeting:** the agreed approach is now to **tile the whole roof area and build the planters on top of the finished tile field**, rather than building the planters off the Protectoboard to reduce the tiling area. So **planters are no longer subtracted** from the tiled area — which raises the net figure from ~82m² to ~103m². (See Part C.)
 
 | Subtraction | Approx m² |
 |---|---|
@@ -795,11 +314,11 @@ We've chosen frameless structural glass throughout for both locations — keeps 
 | **Total subtracted** | **~17.5** |
 | **Net tiled area (gross 120m² − subtractions)** | **~102m²** |
 
-**The lift bulkhead is tiled over** (concealing the structure), with the tiling adding **as little extra area as possible beyond the existing bulkhead footprint** — i.e. tile the bulkhead itself, don't spread a tiled apron around it. The **N4 planter (Part J) then matches that tiled bulkhead footprint exactly** and sits on top. So the bulkhead area is part of the tiled field and is **not** subtracted.
+**The lift bulkhead is tiled over** (concealing the structure), with the tiling adding **as little extra area as possible beyond the existing bulkhead footprint** — i.e. tile the bulkhead itself, don't spread a tiled apron around it. The **N4 planter (Part C) then matches that tiled bulkhead footprint exactly** and sits on top. So the bulkhead area is part of the tiled field and is **not** subtracted.
 
-Planters are **not** subtracted — they are built on top of the finished tiles (4 June meeting). This includes the **N4 lift-over-run planter**, which sits on top of the tiled bulkhead. Movable pots also sit on the tile finish. Parasol bases — whether set in the pedestal void (mast through a sealed tile sleeve) or as a weighted base on top of the tiles — are not subtracted; the on-top-vs-below detail is to be agreed between the pedestal and parasol suppliers (see the load-bearing note above and Part G).
+Planters are **not** subtracted — they are built on top of the finished tiles (4 June meeting). This includes the **N4 lift-over-run planter**, which sits on top of the tiled bulkhead. Movable pots also sit on the tile finish. Parasol bases — whether set in the pedestal void (mast through a sealed tile sleeve) or as a weighted base on top of the tiles — are not subtracted; the on-top-vs-below detail is to be agreed between the pedestal and parasol suppliers (see the load-bearing note above and Part P).
 
-> **Note for the surveyor:** these figures are derived from the Part J planter inventory and Part D/O/P footprints in this spec. **Please remeasure precisely against the latest drawings before contractors price the tile order** — small footprint changes (e.g. final hot tub model, kitchen module widths, planter realignments) shift the figure by several m². A 10–15% overage is to be ordered on top of the verified net area and stored in the client's garage at Sussex Square for future repairs.
+> **Note for the surveyor:** these figures are derived from the Part C planter inventory and Part O/G/F footprints in this spec. **Please remeasure precisely against the latest drawings before contractors price the tile order** — small footprint changes (e.g. final hot tub model, kitchen module widths, planter realignments) shift the figure by several m². A 10–15% overage is to be ordered on top of the verified net area and stored in the client's garage at Sussex Square for future repairs.
 
 ## Surface material
 
@@ -820,20 +339,20 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 - Padded head pedestals only — no unpadded basic systems
 - Self-levelling head strongly preferred
 - Pedestal base wide enough to distribute load over Protectoboard without point-loading damage
-- **Extra pedestals under the planters:** the planters (Part J) are built **on top of the finished tiles** and are heavy (~250–350 kg/m² saturated). Add pedestals under the **planter bearer lines** so the planter load transfers tile → pedestal → Protectoboard, never onto the unsupported middle of a tile. Planter footprints (Part J inventory) to be issued to the tiler **before the pedestal grid is set out**.
+- **Extra pedestals under the planters:** the planters (Part C) are built **on top of the finished tiles** and are heavy (~250–350 kg/m² saturated). Add pedestals under the **planter bearer lines** so the planter load transfers tile → pedestal → Protectoboard, never onto the unsupported middle of a tile. Planter footprints (Part C inventory) to be issued to the tiler **before the pedestal grid is set out**.
 
 **Chosen system: Eterno Ivica** (SE self-levelling range) — *confirmed 7 June 2026* (Buzon DPH was the alternative). The Eterno Ivica system is designed for ~100 kg/m² with pedestals at the slab corners; at our pedestal heights (350–500mm on the main section) **mid-edge and central pedestals are also required** per their guidance — and **more again under concentrated loads** (below).
 
 > **⚠ Load-bearing — planters, hot tub and parasol bases: detail to the pedestal manufacturer's recommendations.** These concentrated loads sit on the pedestal-and-tile field and **must not point-load a tile mid-span**:
-> - **Planters** (Part J) — heavy **sustained** loads, ~250–350 kg/m² saturated, in long runs on top of the tiles. **The pedestal grid must be designed around every planter** — extra pedestals on the planter bearer lines — and the **sustained weight on the compressible 220mm insulation** checked for long-term compression. **Issue every planter footprint to Eterno Ivica + the SE.**
-> - **Hot tub** (Part D) — ~1,160–1,280 kg over ~3.2 m² ≈ **~360–400 kg/m²**
-> - **Parasol bases** (Part G) — heavy (~140–280kg), **weighted, sitting on the tiles** (the dining FA2 is raised ~500mm so it can't recess; no roof penetration). Need a **load-spreading plate over a cluster of extra pedestals** — designed with Eterno Ivica + IKO + SE.
+> - **Planters** (Part C) — heavy **sustained** loads, ~250–350 kg/m² saturated, in long runs on top of the tiles. **The pedestal grid must be designed around every planter** — extra pedestals on the planter bearer lines — and the **sustained weight on the compressible 220mm insulation** checked for long-term compression. **Issue every planter footprint to Eterno Ivica + the SE.**
+> - **Hot tub** (Part O) — ~1,160–1,280 kg over ~3.2 m² ≈ **~360–400 kg/m²**
+> - **Parasol bases** (Part P) — heavy (~140–280kg), **weighted, sitting on the tiles** (the dining FA2 is raised ~500mm so it can't recess; no roof penetration). Need a **load-spreading plate over a cluster of extra pedestals** — designed with Eterno Ivica + IKO + SE.
 >
 > Their support is to be designed **per Eterno Ivica's published load tables and IKO's point-load guidance** — extra/closer-spaced pedestals on the load lines, the correct pedestal rating, and load spread so the path is base/bearer → tile-over-pedestals → pedestals → **IKO Protectoboard → 220mm (compressible) insulation → asphalt → deck**.
 >
 > **The 220mm inverted-roof insulation is compressible** — so a concentrated load (e.g. a **parasol base of ~140–280kg**, or the hot tub) must be spread over enough pedestals / Protectoboard that the pressure stays within **both** the 20mm-porcelain tile rating **and** the insulation's compressive limit. Don't stand a heavy base on bare tiles.
 >
-> **Issue the planter footprints (Part J), the hot-tub footprint (Part D) and the parasol base positions (Part G) to Eterno Ivica, IKO and the SE before the pedestal grid is set out.** Ways to handle heavy bases: a **load-spreading plate** over several pedestals; a **continuous base** for the hot tub; or **ballasting/anchoring a parasol within a planter** (using the planter's mass and footprint — which could also let a parasol be properly anchored despite the no-fix inverted roof). Confirm the chosen approach with the suppliers and SE.
+> **Issue the planter footprints (Part C), the hot-tub footprint (Part O) and the parasol base positions (Part P) to Eterno Ivica, IKO and the SE before the pedestal grid is set out.** Ways to handle heavy bases: a **load-spreading plate** over several pedestals; a **continuous base** for the hot tub; or **ballasting/anchoring a parasol within a planter** (using the planter's mass and footprint — which could also let a parasol be properly anchored despite the no-fix inverted roof). Confirm the chosen approach with the suppliers and SE.
 
 ## Acoustic isolation — zoned by sensitivity of space below
 
@@ -845,7 +364,7 @@ We want acoustic isolation specced proportionally to what's underneath each part
 | **Narrow section** | Less acoustically sensitive | **Single pad** — one rubber pad only (the 4 June meeting noted a base/bottom pad; a padded head is the more usual arrangement — either single-pad route is acceptable) |
 | **Around the lift bulkhead** | Lift shaft (no occupants below) | **Basic pedestals** — no acoustic premium needed |
 
-This matches the rubber-pad arrangement noted in the Part M build-up tables (top + bottom on the main section, single pad on the narrow). Both Buzon and Eterno Ivica offer base pads as a standard accessory; the cost premium for double-isolation is small (typically £1–3 per pedestal over head-only).
+This matches the rubber-pad arrangement noted in the Part A build-up tables (top + bottom on the main section, single pad on the narrow). Both Buzon and Eterno Ivica offer base pads as a standard accessory; the cost premium for double-isolation is small (typically £1–3 per pedestal over head-only).
 
 **Sanity check we'd value your steer on:** we've assumed the narrow section is over less sensitive space (utility, plant, or non-bedroom rooms). If it's actually over a habitable room, the acoustic spec for that section should be upgraded to match the main section.
 
@@ -857,8 +376,8 @@ Open joints throughout, as dictated by the pedestal head's spacer tabs (typicall
 
 The finished tile level needs to coordinate with:
 - **Sauna and wet room door thresholds** — pedestal + tile build-up is typically 60–150mm above the asphalt depending on falls
-- **Hot tub base** — recessed under-tile base detail (see PART D)
-- **Parasol bases** — heavy weighted bases on the tiles, load-spread over a cluster of pedestals (see PART G)
+- **Hot tub base** — recessed under-tile base detail (see PART O)
+- **Parasol bases** — heavy weighted bases on the tiles, load-spread over a cluster of pedestals (see PART P)
 - **Linear drain in wet room** — continuity of tanking and falls
 - **Lift bulkhead** — tiling must clear the bulkhead and not bridge or trap services
 - **Emergency staircase access** — full unobstructed access to the stair head must be maintained at all times
@@ -887,19 +406,19 @@ The finished tile level needs to coordinate with:
 
 ---
 
-# PART J — PLANTERS
+# PART C — PLANTERS
 
 > **🗓 Phase 1** — most planters. The **hot-tub U-shape (M5–M7)** and the **building-interfacing planters (M3, and M2/M3 on the FA2/FA3 stair line)** wait until the Phase-2 building/tub zone is built. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 We want planters built from the **salvaged hardwood decking** removed from the existing terrace. Locations and footprints per the drawings.
 
-**Planter layout** is per the floorplan, designed to **maximise wind defence** along the north and east parapets. Detailed inventory of each planter's dimensions and heights is in the "Sizes" subsection immediately below. The planting scheme — including the **5 olive trees** echoing the established Sussex Square / Kemp Town Enclosures planting — and the windbreak layering is set out in Part N.
+**Planter layout** is per the floorplan, designed to **maximise wind defence** along the north and east parapets. Detailed inventory of each planter's dimensions and heights is in the "Sizes" subsection immediately below. The planting scheme — including the **5 olive trees** echoing the established Sussex Square / Kemp Town Enclosures planting — and the windbreak layering is set out in Part D.
 
-> **For the planting palette, planted-area summary and biodiversity case, see [PART N — PLANTING PALETTE & BIODIVERSITY](#part-n--planting-palette--biodiversity) at the end of this document.**
+> **For the planting palette, planted-area summary and biodiversity case, see [PART D — PLANTING PALETTE & BIODIVERSITY](#part-d--planting-palette--biodiversity) at the end of this document.**
 
 ## Construction principle
 
-- **Change from the 4 June meeting:** planters now sit **on top of the finished tile field**, *not* built off the Protectoboard below the tiles. The whole roof is tiled first, then the planters are built on top (see Part I). This is simpler than working the planter bases into the tile build-up, and is the agreed approach.
+- **Change from the 4 June meeting:** planters now sit **on top of the finished tile field**, *not* built off the Protectoboard below the tiles. The whole roof is tiled first, then the planters are built on top (see Part B). This is simpler than working the planter bases into the tile build-up, and is the agreed approach.
 - Tile runs continuously **underneath** each planter. The planter sits on **bearers/feet on protective pads**, raised ~25mm off the tile, so that: (a) its weight is spread and carried down to the **pedestals below** rather than point-loading the middle of a tile; (b) there's a continuous **drainage + air gap** under the box; and (c) the porcelain is protected. See **"Sitting on the tiles — drainage & load"** below.
 - Planters are **freestanding boxes** — they do not rely on the parapet or any other wall for structural or weatherproofing function
 - Built with stainless steel fixings throughout
@@ -921,8 +440,8 @@ Treated softwood frame with hardwood cladding outside, EPDM lining inside, and s
 | **EPDM liner** | 1.0–1.2mm continuous, dressed up all four sides + 50mm onto top edge (trapped under the cap board) | ~£20-40/planter depending on size |
 | **Frame** | **50×50mm treated softwood (e.g. C16-graded UC4 treated)** — 4 corner posts (full height), top + bottom horizontal rails, intermediate vertical uprights at ~400mm centres. **Concealed structure** — never exposed to weather, treated to UC4 (in-ground) standard for belt-and-braces. | ~£15-25/planter materials |
 | **Cross-bracing** | Diagonal softwood bracing within frame for L-shape and longer planters (>2m) to handle soil thrust | Included in frame |
-| **Base** | Sloped ~1% to the drain holes; **25–30mm weep holes through the timber base + EPDM at ~600mm centres**, each with a geotextile cap inside. Water weeps onto the tile field and drains away through the **open (un-grouted) tile joints** (Part I) → Protectoboard → roof falls. | Standard |
-| **Bearers** | **Treated softwood / stainless bearers on rubber pads**, raising the base **~25mm off the tiles** — gives the under-planter **drainage + air gap** (water escapes, tile dries, no ponding/staining) and protects the porcelain. **Bearer lines to align over the tile pedestals below** so the load transfers feet → tile → pedestal (coordinate the pedestal grid under planters with the tiler — Part I). | Standard |
+| **Base** | Sloped ~1% to the drain holes; **25–30mm weep holes through the timber base + EPDM at ~600mm centres**, each with a geotextile cap inside. Water weeps onto the tile field and drains away through the **open (un-grouted) tile joints** (Part B) → Protectoboard → roof falls. | Standard |
+| **Bearers** | **Treated softwood / stainless bearers on rubber pads**, raising the base **~25mm off the tiles** — gives the under-planter **drainage + air gap** (water escapes, tile dries, no ponding/staining) and protects the porcelain. **Bearer lines to align over the tile pedestals below** so the load transfers feet → tile → pedestal (coordinate the pedestal grid under planters with the tiler — Part B). | Standard |
 
 **Why this works structurally:**
 - Soil + saturated lightweight mix exerts hydrostatic-like load on planter walls
@@ -974,8 +493,8 @@ The existing decking boards have decking bolts with large through-holes every 80
 |---|---|---|---|---|
 | **N1** | **L-shaped planter** along east + north parapets of narrow | **7.2m long leg (along east parapet) + 1.8m short leg (along north parapet)** × 600mm deep | **500mm** | Wraps the NE corner of narrow. The corner is mitred / continuous. |
 | **N2** | Square planter — east side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | **Built as a single integrated construction with N1** — they share a wall where they meet on the east parapet side |
-| **N3** | Square planter — west side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | Adjoins the outdoor kitchen (Part P) on its north face — kitchen and planter meet but are independent constructions |
-| **N4** | **Lift over-run planter** *(new 5 June)* — low aromatic herbs | **1.9m × 2.1m** — **matches the tiled lift-bulkhead footprint exactly** | **400mm box** (planting kept <700mm total) | The lift bulkhead is **tiled over with minimal extra area** beyond its existing footprint (Part I), and this planter is built **on top, matching that footprint exactly**. Built exactly like the other planters (salvaged hardwood, EPDM-lined, drainage layer) and **drains through onto the tiled surface like the others** — no special over-shaft drainage detail. Sits over the lift shaft — basic pedestals, no occupants below (Part M). **Planting:** low fragrant herbs — see plant list below. |
+| **N3** | Square planter — west side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | Adjoins the outdoor kitchen (Part F) on its north face — kitchen and planter meet but are independent constructions |
+| **N4** | **Lift over-run planter** *(new 5 June)* — low aromatic herbs | **1.9m × 2.1m** — **matches the tiled lift-bulkhead footprint exactly** | **400mm box** (planting kept <700mm total) | The lift bulkhead is **tiled over with minimal extra area** beyond its existing footprint (Part B), and this planter is built **on top, matching that footprint exactly**. Built exactly like the other planters (salvaged hardwood, EPDM-lined, drainage layer) and **drains through onto the tiled surface like the others** — no special over-shaft drainage detail. Sits over the lift shaft — basic pedestals, no occupants below (Part A). **Planting:** low fragrant herbs — see plant list below. |
 
 ### Main section
 
@@ -1039,12 +558,12 @@ Olives need adequate root volume. In the **600mm-deep planters** (most of them),
 
 ## Sitting on the tiles — drainage & load
 
-Now the planters sit **on top of the finished tile field** (not built into the roof build-up), two things need detailing well: how water gets *out*, and how the weight gets *down* without cracking a tile. The open-jointed tiling (Part I) actually makes the drainage easy.
+Now the planters sit **on top of the finished tile field** (not built into the roof build-up), two things need detailing well: how water gets *out*, and how the weight gets *down* without cracking a tile. The open-jointed tiling (Part B) actually makes the drainage easy.
 
 **Drainage path (out of the box → off the roof):**
 - **Weep holes** through the EPDM liner and timber base at **~600mm centres, 25–30mm dia**, each with a **geotextile cap** inside to stop drainage media washing out.
 - Base **sloped ~1%** to the weep holes.
-- Water **weeps onto the finished tiles**, runs to the nearest **open (un-grouted) tile joint**, drops to the **Protectoboard** below, and follows the asphalt/roof falls to the existing terrace drains (Part I / Part M).
+- Water **weeps onto the finished tiles**, runs to the nearest **open (un-grouted) tile joint**, drops to the **Protectoboard** below, and follows the asphalt/roof falls to the existing terrace drains (Part B / Part A).
 - The box is **raised ~25mm on bearers/pads** (Build-up, above), so there's a **continuous gap under it** — water can't be trapped, and the tile dries between rains (no ponding, algae or staining under the planter).
 - **Don't dam the falls:** where a long planter runs across the slope, make sure water can still get past — the under-planter gap and open joints handle this, but the builder/tiler should check no planter sits hard against a drainage channel or outlet.
 - **No discharge toward walls** — the freestanding back panel + 30mm air gap (above) keep water off the parapet/building.
@@ -1052,355 +571,17 @@ Now the planters sit **on top of the finished tile field** (not built into the r
 **Load transfer (down to structure, not into a tile):**
 - A planted box is heavy (~250–350 kg/m² saturated). It must **not** bear on the unsupported middle of a tile.
 - **Set the planter's bearers/feet over the pedestal positions below**, on rubber pads, so the load path is **bearer → tile (directly over a pedestal) → pedestal → Protectoboard → deck**.
-- This needs **coordinating the pedestal grid under each planter with the tiler** (Part I) — extra pedestals added on the planter bearer lines where needed. Flag the planter footprints to the tiler before the pedestals are set out.
+- This needs **coordinating the pedestal grid under each planter with the tiler** (Part B) — extra pedestals added on the planter bearer lines where needed. Flag the planter footprints to the tiler before the pedestals are set out.
 
 ## What we'd value your steer on
 
 - **EPDM vs alternative liner** — happy to use HDPE or butyl if you have a preference for this exposure
 - **Salvageable hardwood quantity** — assumes we have enough sound boards for the run shown on the drawings. Contingency strategy if short
-- **Bearer / foot detail on the tiles** — best way to carry the planter on the finished tiles: bearer/pad spacing and **aligning them over the pedestals below** so the load transfers without cracking a tile; to be confirmed against the tiling pedestal layout (Part I)
+- **Bearer / foot detail on the tiles** — best way to carry the planter on the finished tiles: bearer/pad spacing and **aligning them over the pedestals below** so the load transfers without cracking a tile; to be confirmed against the tiling pedestal layout (Part B)
 
 ---
 
-# PART K — OUTDOOR TAP
-
-> **🗓 Phase 1.** Lay the cold-water tee + pipe run in the first-fix before tiling. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
-
-## Remove
-
-- Existing plastic pipe water supply run on the terrace
-- Existing outdoor tap
-- Plastic panel behind the existing tap
-
-## New tap — relocated
-
-- **Position:** between the sauna and the hot tub
-- **Tap:** high-quality solid brass garden tap (e.g. Hozelock Pro, Crosswater, or equivalent), with hose connector
-- **Pipe:** copper (or LSF / external-grade equivalent) — no plastic on exposed runs
-- **Frost protection:** internal isolation valve and drain-down point so the external run can be drained for winter, OR an integrated frost-resistant garden tap with self-draining body
-- **Mounting:** to a discreet, weather-tolerant backplate (powder-coated stainless or hardwood off-cut from the planter run, to match the timber finish — not plastic)
-- Connected to the existing terrace cold supply
-
-## What we'd value your steer on
-
-- Best frost-protection approach (internal stop + drain vs frost-resistant tap)
-- Pipe routing across the terrace given the new tile / pedestal build-up — preferred concealment
-
----
-
-# PART L — ELECTRICAL: OUTDOOR SOCKETS AND LIGHTING
-
-> **🗓 Phase 1 + 2 (split).** First-fix cabling (incl. the capped Phase-2 feeds), terrace lighting and terrace sockets go in with Phase 1; the building door downlights and the sauna/wet-room/hot-tub final connections are Phase 2. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
-
-This Part covers all 230V outdoor sockets (existing and new) and the full external lighting scheme for the terrace. Hot tub power is in Part D. Smart-control overview is in Part C.
-
-# Section L1 — Outdoor sockets
-
-The terrace currently has **3 existing outdoor electrical sockets** in the main section, in IP-rated protective enclosures. We want to keep all three (relocating two of them) and add **2 new double sockets in the narrow section**, plus an **internal cabinet socket** in the outdoor kitchen for charging battery lights.
-
-## Main section — 3 existing sockets
-
-| # | Existing position | What happens |
-|---|---|---|
-| **1** | West wall of main section (where the new sauna/wet room building will sit) | **Relocate** to the **south wall of the wet room**, near the dining table position. Becomes a convenient external socket for the dining area. |
-| **2** | South wall of the main section | **Retain in place** but **lift** above the new floor build-up — final height **500mm above the new flat-roof finished tile level** (electrician to confirm exact dimension). |
-| **3** | North-east corner of the main section | **Leave as is** — no relocation; height already suits the new FFL. Confirm IP rating and cable condition on site. |
-
-## Narrow section — 2 new double sockets
-
-| # | Position | Notes |
-|---|---|---|
-| **4** | Inside **Store 2** (the Litter Robot store, Part O) | Powers the **Litter Robot** (240V). Pick up the supply from the **existing electrical conduits/junction box at the base of the adjacent Stores 1/3**. IP rating to match the cabinet enclosure. |
-| **5** | On the wall in the **NW corner** of the narrow section | IP66 weatherproof double 13A, mounted at the same height as the main-section sockets (≈500mm above FFL) for consistency. |
-
-## Outdoor kitchen — internal cabinet socket
-
-| # | Position | Notes |
-|---|---|---|
-| **6** | Inside one of the **kitchen base cabinets** (electrician to pick whichever cabinet offers the shortest run from the narrow-section feed) | Double 13A IP54-rated socket for **charging rechargeable battery lights** kept in the cabinet. No fixed task lighting on the outdoor kitchen run — battery lights are lifted out when needed for dining / cooking after dark. |
-
-## General requirements (all sockets)
-
-- All existing protective enclosures to be reused unless damaged or no longer IP-compliant — replace like-for-like (IP66) if so
-- Cable runs made good — no exposed runs left over from previous mounting heights
-- Re-test and certify after relocation
-- Co-ordinate final socket positions with planters and parasol bases so they remain accessible
-- Consistent mounting height across all sockets where practical
-
-## Note on the additional IP66 socket in Part B
-
-The **IP66 socket on the building's external north wall, east end** (specified in Part B — External Switches / Isolators) is **in addition to** the 6 sockets in this Section, not one of them.
-
----
-
-# Section L2 — External lighting
-
-## Overview
-
-A single coordinated external lighting scheme — **warm-white 12V LV LED uplighters in planted areas**, plus **two recessed downlights** in the eave/soffit above the sauna and wet room doors. All zoned, dimmable, on Home Assistant via WiFi.
-
-**Design principles:**
-
-- **Warm white** (2700K) throughout — atmospheric, sympathetic to the Regency / heritage character of Sussex Square
-- **Uplighters concealed in planted areas** — the fittings disappear, only the light shows, illuminating foliage and trees from below
-- **Marine-grade fittings** — 316 stainless steel or brass — for a 15–20 year life in coastal salt air
-- **Middle-of-road spec** (Collingwood / Lightpro / In-lite / Techmar). Not premium (Hunza, John Cullen) and not unbranded budget — middle is the durability-vs-cost sweet spot
-- **12V low-voltage plug-and-play** preferred (Lightpro, In-lite, Techmar systems) so fittings can be added, moved or replaced without an electrician
-- **No light visible above the parapet line from the street** — heritage / conservation area
-- **No light pollution** to neighbours or to the registered communal garden of Sussex Square
-
-## Lighting zones
-
-Six dimmable zones, each on its own Shelly:
-
-Restrained counts — picking out specimens, olives and corners rather than blanket flooding. Lightpro / In-lite buses make it trivial to add more later if any zone reads as too dim once planted.
-
-| Zone | Area | Fittings | Count |
-|---|---|---|---|
-| **1** | South-end pot cluster (5 pots) + pots west of N3 | 1 on the central olive pot, 1 grazing the wider cluster, 1 on the W-of-N3 group | **3** |
-| **2** | Narrow section planters **N1 + N2 + N3** | 3 along the long N1 east run (one per olive), 1 in N2, 1 in N3 | **5** |
-| **3** | Dining area — planter **M1** (L-shape) | 1 per olive (2) + 1 corner accent | **3** |
-| **4** | Lounge SE corner — planter **M2** (L-shape) | 1 per olive (2), 1 on the Cynara focal, 1 picking out the corner Phormium | **4** |
-| **5** | Sauna east side — planter **M3** + door downlights | 1 uplighter on the M3 olive + 2× door downlights | **1 + 2** |
-| **6** | Hot tub planters — **M5 (east) + M6 (north) + M7 (west)** | 1 per planter, **angled away from the tub seating** so they don't dazzle | **3** |
-
-**Total:** ~19 uplighters + 2 downlights.
-
-## Fittings — preferred suppliers and types
-
-**Spike uplighters (planted areas — zones 1, 2, 3, 4, 5, 6):**
-
-- **Lightpro Garden Lights** (NL, UK distribution) — 12V LV plug-and-play system. Brass and 316SS spike uplighters, marine-spec, ~£30–50 each. Whole installation runs off one bus with pre-made waterproof connectors.
-- **In-lite** (NL, UK distribution) — similar 12V LV plug-and-play, very robust connectors, slightly premium pricing.
-- **Techmar Garden Lights** — comparable 12V LV system, also widely stocked in UK.
-- Any of the three are acceptable — electrician's choice based on stock and price at install.
-
-**Eave/soffit downlights (zone 5 — sauna and wet room doors):**
-
-- Small (~50–65mm diameter) **IP65 LED downlight** in 316 stainless or anthracite-matched finish, recessed into the underside of the eave/soffit above each door on the north (door) face of the sauna/wet room building.
-- Examples: **Collingwood DL** range, **Astro Minima** in IP65 variant, or marine-spec equivalent.
-- Warm white 2700K, ~3–5W LED, dimmable.
-- **Coordinate with Part A** on the soffit detail — small recessed downlights need a flat soffit area at the door head where they can be set in cleanly.
-
-## Control — Home Assistant via WiFi (no MQTT broker)
-
-- **One Shelly Dimmer 2** (Gen 1, WiFi, 230V mains-side trailing-edge dimmer) **per zone** — connects directly to HA over WiFi via the official Shelly integration. **MQTT broker not required** — WiFi was specifically chosen because the terrace MQTT signal is weak.
-- For each zone: Shelly Dimmer 2 → **mains-dimmable trailing-edge LED driver / 12V LV transformer** → fittings on that zone's plug-and-play bus.
-- Verify the LV transformer is on the Shelly / Lightpro / In-lite **dimmer compatibility list** before ordering — Lightpro and In-lite both publish these.
-- All Shellys live in the **DIN-rail enclosure** that also houses the sauna heater contactor and the Part C control Shellys, so cabling stays in one place.
-- HA scenes will configure typical evening combinations (e.g. "dining only", "hot tub only", "all on low") and a default dusk-to-23:00 schedule for the planter zones.
-- **Manual override:** a single weatherproof momentary push-button **beside the sauna door** (in the same IP55+ switch cluster as the Part A sauna controls) flips an "all terrace lights" master scene in HA, so the system can be used without a phone.
-
-## Cable strategy
-
-- **12V LV cable** routed under the tile build-up where possible (within the pedestal float zone), in conduit at any penetration through the planter walls.
-- For surface-tracked runs (e.g. behind planters along walls), keep the cable concealed behind the planter back face — there's a 25–50mm air gap to the wall (Part J) that's ideal for cable routing.
-- **All 230V mains** stays inside the building / DB enclosure — only **12V LV** runs out onto the terrace surface.
-
-## Wifi access point on the sauna/wet room building
-
-To give reliable wifi coverage across the full terrace (hot tub, dining area, smart controls inside the sauna/wet room), we plan to mount a **Ubiquiti UniFi outdoor access point under the high south fascia of the sauna/wet room building** (the south-high mono-pitch in Part A gives a natural sheltered overhang). The position:
-
-- Invisible from Bristol Gardens, from the dining patio, and from the rest of the terrace
-- Sheltered from rain by the fascia overhang
-- Aimed downward / outward to cover the whole terrace
-- Line-of-sight back along the south parapet to the existing **UniFi study AP at the south end of the narrow terrace**, for wireless mesh backhaul (or wired ethernet daisy-chain if preferred)
-
-**Power and cable approach — matches the existing flat setup:**
-
-- **UniFi PoE injector (mains adapter) stays inside** — typically plugged into a regular indoor socket. No outdoor 240V mains required.
-- A single low-voltage **PoE cable (Cat6)** routes from the injector through the building shell and out under the south fascia to the AP. The cable carries both power and data.
-- This mirrors how the existing UniFi APs in the flat (including the study AP) are already powered.
-
-**AP unit:** the existing **UniFi U6 Mesh** is already in place on the terrace — it just needs **relocating** to the new mount point under the south fascia of the sauna/wet room building (no new hardware purchase).
-
-## What we'd value your steer on
-
-**Sockets:**
-
-- Whether all 3 existing main-section enclosures are worth retaining or if a uniform replacement (matching IP66 spec across all 6 terrace sockets) would be cleaner
-- Confirmation that 500mm above new FFL is a sensible standard height — or your preferred standard
-- Whether the SW cupboard junction box is suitable to pick up from, or needs upgrading
-- Best kitchen cabinet to host socket **6** (shortest run, best access for charging)
-
-**WiFi AP:**
-
-- Preferred Cat6 cable route from inside the flat (where the PoE injector lives) into the building shell and out under the south fascia — up the south face? through the door head? — and how to weatherproof the cable's exit point through the cladding
-- Discreet mount point under the south fascia / eaves underside (coordinate with Part A's roof detail)
-
-**Lighting:**
-
-- Confirmation that the **door downlights** can be cleanly recessed into the eave/soffit at the north face of the sauna and wet room doors (depends on the soffit detail coming out of Part A — flat enough area to set in a ~60mm fitting)
-- Whether to install **one zoned transformer with 6 dimmable outputs** vs **6 separate transformers** (one per zone) — practical preference of the electrician
-- **Cable concealment** — confirmation that running 12V LV under the pedestal float zone (with conduit at planter penetrations) is acceptable from a maintenance perspective
-- Whether **socket 6 in the kitchen cabinet** needs higher than IP54 given it's inside a cabinet but on an outdoor structure
-
----
-
-# PART M — ROOF BUILD-UP & STRUCTURE (ASPHALT, INSULATION, JOISTS)
-
-> **🗓 Phase 1** — the roof job itself + the tiling substrate. This Part carries the **critical Phase-1 provisions** (roof penetrations, levels, ballast of the un-tiled zones). See [Programme & Phasing](#programme--phasing--two-phase-delivery), and the "Programme / phasing" subsection below.
-
-This section is foundational to most others — please read alongside PART D (hot tub), PART I (tiling), and PART J (planters), since loads from those land here.
-
-> **Major change since the pre-application and the 31 May drawings — agreed at the 4 June 2026 meeting** (Chris, Ronan, IKO, Sussex Asphalt, Seaview, Coastal Surveyors). The build-up below **supersedes the earlier "warm roof everywhere, inverted only under the hot tub" approach.** The exact layer specifications (insulation depth, vapour-control-layer position) are **provisional pending IKO's written confirmation** of the make-up — this section will be updated when that confirmation arrives.
-
-## Roof build-up — two systems (by section, not by zone)
-
-The two roof sections now get different systems:
-
-| Section | System | Reason |
-|---|---|---|
-| **Main (large) section** — the whole area | **Inverted roof** (whole section) — asphalt waterproofing on the deck, insulation above it, then membrane / Protectoboard / pedestals / tiles | Recommended by **IKO** and agreed by all parties. Inverting the whole main section is the most robust solution everyone was comfortable with, keeps the membrane protected below the insulation and load, and was said to make **the roof outlast the building**. It also lets the bulk of the works proceed without anything legally risky ahead of planning consent. |
-| **Narrow section** | **Warm roof** — insulation above the deck, vapour control layer, asphalt waterproofing on top, then Protectoboard / pedestals / tiles | Standard warm-roof construction. Being warm, it needs **no ballast** while works pause, so the narrow section can be finished completely as soon as its roof is done. |
-
-### Existing make-up (confirmed by opening the roof up — both sections)
-
-| Layer (top to bottom) | Notes |
-|---|---|
-| 20mm asphalt | Existing waterproofing |
-| 18mm board | **Decayed from moisture** |
-| 120mm foil-backed insulation | |
-| 18mm board | The two board layers surprised everyone — unusual to find two |
-| Joists | Existing structure |
-
-### Proposed main (large) section — fully inverted *(provisional, pending IKO written confirmation)*
-
-| Layer (top to bottom) | Notes |
-|---|---|
-| Tiles | 20mm porcelain on pedestals (Part I) |
-| Pedestals | **Eterno Ivica** (chosen 7 Jun), **rubber acoustic pads top *and* bottom** in this section (most sound isolation — see Part I) |
-| **IKO Protectoboard** | Over the whole area — protects the membrane/insulation and **spreads pedestal + point loads onto the insulation** (see below) |
-| **220mm insulation** | Inverted-roof insulation (IKO), above the asphalt — **compressible**, so concentrated loads (hot tub, parasol bases) must be spread (Part I) |
-| 20mm asphalt | Waterproofing on the deck |
-| Vapour control layer | *Position to be confirmed by IKO — Chris noted the order here may be wrong* |
-| 18mm board | |
-| Joists | |
-
-### Proposed narrow section — warm roof *(provisional, pending IKO written confirmation)*
-
-| Layer (top to bottom) | Notes |
-|---|---|
-| Tiles | Porcelain on pedestals (Part I) |
-| Pedestals | **Rubber acoustic pads on bottom only** in this section (less sound isolation needed — see Part I) |
-| Protectoboard | |
-| 20mm asphalt | Waterproofing on top |
-| Vapour control layer | |
-| 160mm insulation | Warm-roof insulation, above the deck |
-| 18mm board | |
-| Joists | |
-
-The lead upstands are expected to work with these build-ups.
-
-## Finished roof height — needs quantifying
-
-Inverting the whole main section will **raise the finished floor level (FFL) above the current 31 May drawings.** The exact rise depends on IKO's confirmed insulation depth. Ronan needs to quantify it because it affects:
-
-- The relationship of the FFL to the parapet, and therefore the **roof height above parapet** for the sauna/wet room building — now ~1,293mm, up from the 1,150mm accepted at pre-app (heritage constraint — Part A); the increase needs re-presenting to planning
-- The **glass guarding heights** (Part H), measured from FFL / hot tub rim
-- The **railing height top-up** (wires / timber + wires) on the narrow section (Part E)
-
-## Levels across the terrace — three levels
-
-*Revised 5 June 2026 — supersedes both the earlier idea of raising the whole narrow section up over the lift over-run, and the idea that the whole main section sits at one high level.* The terrace will now read as **three levels**, set by pedestal height:
-
-| Area | Level | How it's achieved |
-|---|---|---|
-| **Narrow section (Floor Area 1)** | **Low** — kept as low as possible | **Lowest pedestal height** on the warm-roof build-up. No longer raised up over the lift over-run. |
-| **Dining (Floor Area 2)** | **High** — the one raised zone, **≈500mm raised** (per the 5 June drawing) | **Tall adjustable pedestals** — our supplier has a pedestal covering the **350–500mm** range — on the inverted build-up. Steps up on the east side. |
-| **Hot tub + seating/lounge + SE end of the large terrace (Floor Area 3)** | **Low** | Pedestals at **~100mm above the Protectoboard**, on the inverted build-up. |
-
-**Floor Area 4 is deleted** — its area is absorbed into Floor Area 3 (Chris updating the drawings).
-
-- **3 steps up** lead from the lower terrace up to the **raised dining zone (Floor Area 2)**. This is the same FA2/FA3 transition the Part J planters already sit on — **M2 and M3 run along the stair line and double as the fall-protection edge at the FA2 drop**.
-- **Lift over-run:** no longer built up over. Its top is **tiled over (minimal extra area beyond the bulkhead)**, with the **N4 low-herb planter built on top, matching that footprint exactly** (Parts I and J).
-- **Level access from the study:** keeping the narrow section low, combined with **dropping the study door/window sill by 170mm** (see Part Q), gives a level / near-level threshold from the study straight onto the narrow terrace.
-
-**For Ronan / Building Control:**
-
-- **Step detail** — going, rise and nosings for the 3 steps up to Floor Area 2, and whether a **handrail / guarding** is required at the level change (Approved Document K).
-- **Tall pedestals (350–500mm)** are under **Floor Area 2 only** and need lateral stability at that height (stabilisers / bracing / restraint rails), with the acoustic pads (Part I) still seating correctly at full extension — confirm with the pedestal supplier. Floor Areas 1 and 3 are on low pedestals.
-- **Sauna / wet room door thresholds** open onto the **low Floor Area 3** — confirm the threshold detail from the building floor (on the Protectoboard) to the ~100mm-pedestal tile level outside.
-- **Narrow-section railing raising (Part E) reduces** — with the narrow floor now barely rising, the retained railings need little or no added height; revisit once the narrow FFL is fixed.
-- **Drainage falls** on each level, and at the step line, to be set out so water sheds correctly across all three levels.
-
-## Protectoboard over the entire terrace
-
-We want **Protectoboard installed over the top of the asphalt across the whole terrace** — both the inverted main section and the warm narrow section. This protects the membrane from:
-
-- Pedestal point loads from the tile system (Part I)
-- Planter bases and their drainage discharge (Part J)
-- Hot tub base (Part D)
-- Parasol bases and any other recessed cassettes (Part G)
-- Foot traffic during installation and any future maintenance
-
-No acoustic underlay mat above the Protectoboard (Protectoboard alone is the substrate for the pedestals — see Part I).
-
-## Building footprint — built on top of the Protectoboard
-
-**Change agreed at the 4 June meeting:** the sauna / wet room building will now be **built on top of the Protectoboard**, on the inverted main-section build-up — *not* on its own lower slab with the asphalt dressed up to the building line (the earlier approach, now superseded).
-
-- This keeps the build-up continuous under the building and is simpler to detail.
-- All drainage / service penetrations under the building footprint must be set out **before** the roof is closed up (see Plumbing note below).
-
-### Doors-vs-build-up — likely resolved by the whole-section inverted approach
-
-Previously the hot tub zone was to be built ~200mm higher than the surrounding warm roof, which raised a question about how the outward-opening sauna / wet room doors would clear the step. The **roof build-up under the whole main section is now one continuous inverted system**, so the earlier three-way confusion (lower / higher / intermediate build-up) and the old "400mm vs 200mm raised floor" discrepancy fall away at the *structural deck* level.
-
-**The finished tile level, however, deliberately varies by pedestal height** (5 June): the **dining zone (Floor Area 2) is raised** on tall 350–500mm pedestals, while the **hot tub / seating / SE area (Floor Area 3) stays low** on ~100mm pedestals — see "Levels across the terrace" above. The **sauna / wet room doors open onto the low Floor Area 3**, so **Ronan to confirm that door-threshold detail** (building floor on the Protectoboard ↔ the ~100mm-pedestal tile level outside). The **3 steps** connect the lower areas up to the raised Floor Area 2.
-
-## Plumbing — set out drainage before the roof is closed
-
-The roofing contractors can **insert and cap drainage penetrations** for us to connect to in the follow-up fit-out — *but only if they have the exact locations in advance*. The exact positions of all drainage / waste penetrations (sauna floor drain, wet room linear drain and wastes, **WC 110mm soil**, hot tub drain, external shower) must be issued to the roofing contractor **before the main roof is closed up**. See Parts A, B and D.
-
-> **This is Phase-1 provision #1 — the single highest-risk item in the whole phasing plan** ([Programme & Phasing](#programme--phasing--two-phase-delivery)). The sauna, wet room and hot tub are all **Phase 2**, but their roof penetrations must go in **now**, during the Phase-1 roof works, because a penetration missed before the roof is closed cannot be added later without opening the new roof.
-
-## Action — detailing required from Ronan Bond
-
-> **Note for Ronan Bond:** please provide the build-up details (inverted main section, warm narrow section, the junction between the two, asphalt-to-building junction including the door-threshold detail) **as a matter of urgency** so they can be discussed with our surveyor, **IKO**, **Sussex Asphalt**, **Seaview** and **Coastal Surveyors**. **Seaview need a specification of works as soon as possible to get it costed** — scheduling is difficult at this time of year and getting the spec to them quickly is key.
-
-**Building Control:** Sussex Asphalt are taking the plan to Building Control to check it.
-
-## Structure — joists and steel
-
-Our structural engineer (**Conscious Engineering Design Ltd**) has issued **draft calculations** (SET 1, dated 3 June 2026). This part of the building was **built in 2011**, so the members are modern and the engineer has **measured them on site** rather than assuming sizes.
-
-**Headline findings (draft):**
-
-- **Existing roof joists** — 50 × 225mm C24 at 400mm centres, running **east–west** — **PASS with no strengthening** for a **light hot tub** (a RotoSpa-class tub, ~970kg filled, ~369 kg/m² load intensity), at ~57% of bending capacity.
-- **Existing steel beam** — UKB 305 × 165 × 46, grade S275, running **north–south** (along the top edge of where the parasol sits in the NE corner) — **has capacity** for the same case, with large headroom (~36% utilised; lateral-torsional buckling governs).
-
-**Still draft — to be confirmed:**
-
-- **Final hot tub.** The check used a lighter tub than our shortlist. The engineer is to re-check the joists and beam against the **heaviest model we're realistically considering** (the Marquis Spirit, ~1,280kg / ~365 kg/m²), so we can buy any tub within a confirmed weight limit (see Part D). On a load-per-m² basis every tub that fits our footprint envelope sits at or below the 369 kg/m² already designed for, so the joists are not expected to need strengthening; the open question is the higher total weight on the beam.
-- **Sauna / wet room building.** Not yet in the calculations. The sauna sits a metre or two from the hot tub, so it lands on **different joists** (a separate joist check still to come) but on the **same steel beam** — so the beam must be re-checked for the combined sauna + tub load once the building's construction is defined.
-- **Decking / pedestal + inverted build-up load.** The calc used an assumed 0.4 kN/m² for the tile finish; the real figure from the inverted build-up (above / Part I) is to be confirmed to the engineer.
-
-**Doubled joists** in the **NW quadrant** (the hot tub zone) were previously assumed as a fallback. The draft calc shows a light tub needs **none**; whether a heavier tub triggers doubling will come out of the re-check. All parties confirmed at the 4 June meeting they are comfortable doubling joists where the calculations require it; they saw no problem with it.
-
-## Programme / phasing (from the 4 June meeting)
-
-> **The full two-phase framework is now in the [Programme & Phasing](#programme--phasing--two-phase-delivery) section near the top of this document — that is the single source of truth.** The notes below are the contractors' intended on-site *sequence* from the 4 June meeting, which feeds into it.
-
-*For Ronan's awareness — the contractors' intended sequence:*
-
-- **Flat roof works start w/c 24 July** — the largest part of the job; they want to start early on it. *(⚠ Date to confirm — Chris now expects the roof job to start sooner; the scaffold window, not this date, is the binding constraint.)*
-- The **main (large) section is done first**, then the narrow section. The large area must be **cleared of decking etc. beforehand**, with everything moved onto the narrow section. Once the main roof is ready, the narrow-section contents move across onto it.
-- The freshly-laid inverted insulation on the main section **needs ballast holding it down** until the tiling system goes on. Plant pots / items on the roof can serve as interim ballast, but ideally the contractors lay the **Protectoboard and tiling straight after finishing the roof**.
-- **~¾ of the main section can be tiled as soon as that part of the roof is finished**, holding off only on the **sauna and hot tub area until planning consent is through**.
-- The **narrow section can be finished completely** as soon as its roof is done (warm roof, no ballast needed).
-- **Scaffold:** the downstairs neighbours are OK with the scaffold staying up a little longer than the main job, but not for months. We may need to **get materials onto the roof early** and hold off on the **sauna build until planning comes through** — at which point builders could access through the building.
-
-## What we'd value your steer on
-
-- The **finished roof height** rise from inverting the whole main section — your figure, and its effect on the above-parapet height (now ~1,293mm vs the 1,150mm pre-app figure — Part A) and glass guarding heights (Part H)
-- Inverted-to-warm junction detail where the main section meets the narrow section
-- Asphalt-to-building junction and door threshold detail — watertight, and allowing the outward-opening doors to clear, now the building sits on the Protectoboard
-- Coordination with the SE on whether doubled E–W joists in the NW quadrant are sufficient, or whether the steel needs to take more
-
----
-
-# PART N — PLANTING PALETTE & BIODIVERSITY
+# PART D — PLANTING PALETTE & BIODIVERSITY
 
 > **🗓 Phase 1** — follows the planters. The hot-tub-zone planting waits for Phase 2 (with M5–M7). The biodiversity enhancements on the building (sparrow/bat boxes) are Phase 2; the bee bricks on the store are Phase 1. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
@@ -1410,7 +591,7 @@ This section sets out the **approximate planted area**, the **planting palette**
 
 ## Planted area
 
-Calculated from the planter inventory in Part J (see Part J "Sizes" subsection for each planter's dimensions, height and position).
+Calculated from the planter inventory in Part C (see Part C "Sizes" subsection for each planter's dimensions, height and position).
 
 | # | Planter | Footprint | Area |
 |---|---|---|---|
@@ -1454,7 +635,7 @@ The full list with sizes, growth rate, biodiversity notes and images is in **[`p
 
 The planting has been designed to provide **wind defence on the north and east parapets** (the principal wind directions to defend against) while **preserving the east view to the Downs from the hot tub**. The plan deliberately leans on species already in the Sussex Square palette — no new species added.
 
-**Companion drawing:** the planters are now labelled (N1–N4, M1–M7) directly on the GA drawings — full terrace below, and the main-section close-up by the table in [Part J](#part-j--planters). Cross-reference the codes with the per-planter plant lists in this Part.
+**Companion drawing:** the planters are now labelled (N1–N4, M1–M7) directly on the GA drawings — full terrace below, and the main-section close-up by the table in [Part C](#part-c--planters). Cross-reference the codes with the per-planter plant lists in this Part.
 
 ![Full terrace — planters labelled N1–N4, M1–M7](drawings/full-terrace-5-6-26.jpg)
 
@@ -1632,7 +813,7 @@ Photo-realistic visualisations of each planter at maturity. These are AI-generat
 - **Vertical layering** — **5 olive trees** distributed across 4 planters (2 in N1, 1 in M1, 1 in M2, 1 in M3) + sub-shrub mid-layer (*Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*, *Cordyline australis*) + perennial / mat understory + drought-tolerant low planting at hot tub — gives multi-tier habitat structure within the **~25.0 m² of planted area** (~21% of the terrace footprint, incl. the new N4 fragrant-herb bed). The parasols' fabric provides bird-safe cover when retracted.
 - **Specific UK native species in this plan:** *Armeria maritima* (M5), *Origanum vulgare* (N3). **Long-naturalised in S England:** *Erigeron karvinskianus* (multiple planters), *Stachys byzantina* (multiple), *Salvia rosmarinus* (multiple), *Lavandula angustifolia* (multiple). Wider palette has additional UK natives available for substitution if planning officer asks for more native content (see `planting.md`).
 - **No invasive species** — the list deliberately excludes anything on Schedule 9 of the WCA 1981 (e.g. no *Cotoneaster horizontalis*, no *Crocosmia* × *crocosmiiflora*, no *Buddleja davidii* as a primary feature).
-- **EPDM-lined hardwood planters** with lightweight peat-free roof-garden soil mix + bark mulch (see Part J planter make-up) = healthy long-term planting at minimal structural load, not a one-season display.
+- **EPDM-lined hardwood planters** with lightweight peat-free roof-garden soil mix + bark mulch (see Part C planter make-up) = healthy long-term planting at minimal structural load, not a one-season display.
 
 ## Biodiversity submission — package for Bond McCart
 
@@ -1648,11 +829,11 @@ This subsection sets out **what we've prepared for you**, **what physical featur
 | **Pre-app baseline statement** | This document, below | Use in the BNG narrative |
 | **Native species list and approximate proportion** | This document, below | Use in checklist + BNG narrative |
 | **HMMP outline** | This document, below | Expand into the formal 30-year HMMP |
-| **Heritage-continuity case** (palette matched to Sussex Square's Grade II registered planting character) | Part N intro + `planting.md` | Strengthens both heritage and biodiversity narratives |
+| **Heritage-continuity case** (palette matched to Sussex Square's Grade II registered planting character) | Part D intro + `planting.md` | Strengthens both heritage and biodiversity narratives |
 
 **Pre-development baseline:** The existing roof terrace is an **asphalted flat roof with no vegetation**. Under the Statutory Biodiversity Metric this classifies as **"Developed land; sealed surface"** — the lowest distinctiveness band (zero biodiversity units). The proposed scheme therefore starts from zero, and any planting represents net biodiversity gain — the 10% BNG threshold is comfortably exceeded by definition.
 
-**Post-development baseline:** Locked-in **~25.0 m² of planted area** (~21% of the terrace footprint, per Part J inventory and Part N "Planted area" subsection — including the N4 fragrant-herb bed over the lift over-run) plus **5 olive trees** distributed as point specimens (2 in N1, 1 in M1, 1 in M2, 1 in M3), plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs" (primarily *Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*), "Native species-rich elements" (*Armeria maritima*, *Origanum vulgare*), naturalised wildflowers (*Erigeron*, *Stachys*, *Lavandula*) and "Mixed scrub" texture within hardwood-clad container planters.
+**Post-development baseline:** Locked-in **~25.0 m² of planted area** (~21% of the terrace footprint, per Part C inventory and Part D "Planted area" subsection — including the N4 fragrant-herb bed over the lift over-run) plus **5 olive trees** distributed as point specimens (2 in N1, 1 in M1, 1 in M2, 1 in M3), plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs" (primarily *Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*), "Native species-rich elements" (*Armeria maritima*, *Origanum vulgare*), naturalised wildflowers (*Erigeron*, *Stachys*, *Lavandula*) and "Mixed scrub" texture within hardwood-clad container planters.
 
 **Native species in this windbreak plan + wider palette available for substitution:**
 
@@ -1688,7 +869,7 @@ The pre-app didn't ask for these, but they materially strengthen the BNG metric,
 | **Bee bricks / solitary bee hotels** | 2× brick-format units (e.g. Green&Blue 'Bee Brick') OR a dedicated bee hotel | **East-facing exterior of the main store** (NE corner of main, 1.8 × 1.2m unit) — well away from all seating / dining zones, faces morning sun (preferred by solitary bees), faces toward Bristol Gardens / public realm | Solitary bees: red mason, leafcutter, harebell carpenter. These are *non-aggressive* (females rarely sting; no hive to defend) — but positioned away from people for peace of mind. |
 | **Insect / invertebrate habitat — log pile** | A small stack of untreated hardwood offcuts from the planter build (~30 × 30 × 30cm) | Tucked into one corner of the **N1 east-edge planter** (the 7.2m run on narrow terrace), below olive level, hidden by understory planting | Beetles, woodlice, ground-dwelling invertebrates. Costs nothing — uses leftover hardwood from the planter / storage build. |
 | **Shallow water dish** | Ceramic / shallow bowl, ~30cm dia × 5cm deep, with stones inside as bee landing platforms | **M4 planter** (north of seating, 2.7m vertical strip on the main section's east side) — well away from dining (FA2) and the sofa zone | Drinking water for bees, butterflies, and small birds; positioned away from social areas because water dishes draw wasps as well as bees. |
-| **Bird-safe parapet deterrent** | (Already in Part F — 3-wire stainless system replacing existing spikes) | All parapet tops | Excludes gulls/pigeons without injury; doesn't preclude smaller bird use of planters. |
+| **Bird-safe parapet deterrent** | (Already in Part I — 3-wire stainless system replacing existing spikes) | All parapet tops | Excludes gulls/pigeons without injury; doesn't preclude smaller bird use of planters. |
 
 Total likely cost across all features: **~£200-£500**. Total integration impact on the build: very low — most are surface-fixed after the building is complete.
 
@@ -1733,138 +914,40 @@ To complete the biodiversity submission, please confirm or produce:
 
 ## What we'd value your steer on
 
-- Confirmation that the **planter footprints and locations** (Part J inventory + drawings) are structurally acceptable from a roof-load standpoint, particularly the long N1 east-edge run
+- Confirmation that the **planter footprints and locations** (Part C inventory + drawings) are structurally acceptable from a roof-load standpoint, particularly the long N1 east-edge run
 - **5 olive trees** — root volume / soil-depth recommendation from a horticultural perspective (current planter depth 600mm; may need locally deeper detail at olive positions)
 - Any plants on the palette you'd flag as **unsuitable for the exposed seafront location** that we should swap out
 - Confirmation of **biodiversity submission route** (SBI vs SSM) and **division of work** per Section E above
 
 ---
 
-# PART O — STORAGE UNITS
+# PART E — OUTDOOR TAP
 
-> **🗓 Phase 1** — Stores 1–4 (none depend on the building). See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 1.** Lay the cold-water tee + pipe run in the first-fix before tiling. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-**Four** outdoor storage cabinets — **three on the narrow section (Stores 1–3), one on the main section (Store 4)** — all built from salvaged hardwood deck boards (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves.
+## Remove
 
-> **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
+- Existing plastic pipe water supply run on the terrace
+- Existing outdoor tap
+- Plastic panel behind the existing tap
 
-## Inventory
+## New tap — relocated
 
-*(Revised 5 June 2026 to match the latest drawings.)*
-
-| # | Position | Footprint (W × D) | Notes |
-|---|---|---|---|
-| **1 — Narrow, general** | Narrow section (per 5 June drawing) | **1.10 × 0.75m** × **~1.0m high** | Fills its space. **Existing plumbing + electrical conduits run at the base** — boxed in; **cupboard storage above and to the side** of the conduits. Bee bricks integrated into an external face (Part N). |
-| **2 — Narrow, Litter Robot** | Narrow section (per 5 June drawing) | **1.10 × 1.10m** × **~1.0m high** | Houses the cat's **Litter Robot 4/5** — the 1.10m depth gives the room the LR needs (~686mm deep + cat-landing space); ~1.0m height leaves ~900mm+ internal, clear of the 749mm LR. **Cat flap** in the front face + **240V power** (Part L). |
-| **3 — Narrow, conduit cover** | Narrow section (per 5 June drawing) | **0.85 × 0.75m** × **~1.0m high** | **Boxes in currently-exposed plumbing + electrical conduits** at the base; **cupboard storage above.** |
-| **4 — Main (NE) store** | NE of the main section | **1.80 × 1.20m** × **~1.2m high** | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions. **Child-safe lock** if hot tub chemicals stored here. |
-
-> **Heights:** the three narrow-section stores are **~1.0m high to line up with the narrow-section railings** (Part E) for a clean, consistent line; **Store 4 is ~1.2m high**. All sit below parapet height.
-
-All dimensions and positions to be confirmed by Bond McCart on the drawings.
-
-## Construction principle
-
-Cabinet-style units, built from salvaged hardwood with a sealed marine ply inner box. No EPDM membrane — the units hold dry goods / cushions, not soil and water, so marine ply with sealed corners is sufficient.
-
-### Walls (bottom → outside)
-
-| Layer | Spec | Purpose |
-|---|---|---|
-| Hardwood deck-board outer skin | Salvaged decking, stainless A4 fixings | Visual finish, matches planters; drip-sheds rain |
-| Air gap (~10mm) | Open void, drains downward | Ventilation; prevents damp build-up between outer and inner |
-| **Marine ply box (sealed)** | 18mm, joints sealed with marine epoxy | Structural and watertight inner box — no separate membrane needed |
-
-### Roof (sloped fixed top — not a lid)
-
-Because access is via front doors, the roof is a **fixed sloped top** with no openings:
-
-| Layer | Spec |
-|---|---|
-| Marine ply substrate | 18mm, edges sealed with marine epoxy |
-| **EPDM membrane** | 1.0-1.2mm — single waterproof layer over the top, dressed over all four edges and down the sides by ~50mm as a drip edge |
-| Hardwood deck-board top finish | Salvaged boards, fixed to the ply only — **screws stop short of the EPDM** so no membrane penetrations |
-
-**Roof geometry:**
-- **Slope ~5-10°** front-to-back (drains away from the doors)
-- **Overhang ~30-50mm** on all four sides as drip edge above the doors and walls
-
-### Doors
-
-- **Front-opening, hinged on the vertical side** (one or two doors per unit depending on width)
-- **Hardwood-faced**, matching the wall cladding so the unit reads as a continuous timber box when closed
-- **Door rebate at the head + rubber gasket** to keep wind-driven rain out of the door line
-- **Door head sits below the roof's drip-edge overhang** so water sheds clear of the doors
-- **Bottom of door clears the unit's floor by ~5mm** to allow any ingress to drain off the sloped internal floor
-
-### Internal shelves
-
-- 18mm marine ply, ~250-300mm deep, full width of unit
-- **Store 2 (Litter Robot):** **no shelf at LR level** — the LR takes most of the bay; any spare width can take a narrow shelf above.
-- **Stores 1 and 3:** the existing conduits are boxed in at the **base**; **cupboard storage / shelves above** (and, for Store 1, to the side of the conduits).
-- **Store 4 (main):** **2-3 vertical bays** of shelving (full-width single shelves, or divided depending on what's stored). Sized to fit the hot tub cover when folded as one option.
-- Stainless ply support cleats screwed to the side walls
-
-### Base
-
-| Layer | Spec |
-|---|---|
-| Marine ply floor | 18mm, sealed edges, sloped ~1% to drain |
-| Bearers / stainless feet | ~25mm air gap between floor and Protectoboard for ventilation + drainage |
-| Small drainage holes through ply | Allows any ingress to escape onto the Protectoboard below |
-
-## Hardware
-
-- **Hinges:** A4 / 316 stainless butt hinges (external/exposed) — typically 2 pairs per door
-- **Door handles:** A4 / 316 stainless drop or D-handles
-- **Latches:** stainless magnetic catches inside; visible **stainless turn-knob latch** or recessed lock on the front face
-- **Lock:** child-safe lock specifically on unit #4 if hot tub chemicals stored there
-- **All exposed fixings:** A4 / 316 stainless. **Internal / hidden bracketry and shelf cleats can be A2 / 304** (cost saving — A2 is fine where it's not exposed to salt aerosol).
-
-## Litter Robot + cat-flap detail (Store 2)
-
-**Store 2** houses the cat's **Litter Robot 4 or 5** (self-cleaning litter box). The cat enters via a front-mounted cat flap to use the litter box; the front doors open for the owner to empty the waste drawer and lift the unit for cleaning.
-
-**Litter Robot fit (LR4 — verified dims 559 × 686 × 749mm):**
-
-| | Dimension | Fits in Store 2 (1.10 × 1.10m)? |
-|---|---|---|
-| LR width | 559mm | ✅ — ~540mm spare for the cat flap landing / a side shelf |
-| LR depth + cat landing | 686mm + ~250mm in front of the raised entrance for the cat to come through the flap and step up ≈ 940mm | ✅ — 1.10m depth accommodates it (the waste drawer pulls out the front through the open doors) |
-| LR height | 749mm | ✅ — needs ~820mm internal min; set Store 2 height accordingly |
-
-**Power:** Litter Robot needs 240V mains — **socket #4 (Part L) is in Store 2**, fed from the existing electrical conduits at the base of the adjacent Stores 1/3.
-
-**WiFi:** Litter Robot has an app — UniFi network already covers the terrace.
-
-**Cat flap:**
-- **Brand:** **SureFlap Microchip Cat Flap** (DualScan or standard, ~£80-120) — best balance of weatherproof construction, long-term reliability, and microchip locking to keep neighbourhood cats out. Well-reviewed on coastal sites.
-- **Size:** standard ~165 × 175mm cutout
-- **Position:** ~150mm above floor, on the vertical front face of **Store 2**, aligned with the LR entrance (so the cat enters and steps up into the LR)
-- **Weatherproofing:** small rain hood / drip edge above the flap
-- **Power:** battery-only (4× AA) — no wiring needed
-- **Internal coordination:** flap position must leave the LR landing/step-up zone clear, and not conflict with socket #4 in Store 2. Confirm internal layout with Ronan.
-
-**A separate cat flap from the flat → terrace** is planned (location TBC — probably in one of the existing flat-to-terrace doors). Bond McCart to detail.
-
-## Ventilation
-
-Cushion / fabric storage needs **passive airflow** to prevent damp:
-- **Small ventilation slots** (~50mm × 10mm × 2) low-level on the front face, screened with stainless mesh insect grille
-- The hardwood outer cladding's natural board gaps also breathe
-- For Store 2 (Litter Robot), the cat flap doubles as a large air-exchange path
+- **Position:** between the sauna and the hot tub
+- **Tap:** high-quality solid brass garden tap (e.g. Hozelock Pro, Crosswater, or equivalent), with hose connector
+- **Pipe:** copper (or LSF / external-grade equivalent) — no plastic on exposed runs
+- **Frost protection:** internal isolation valve and drain-down point so the external run can be drained for winter, OR an integrated frost-resistant garden tap with self-draining body
+- **Mounting:** to a discreet, weather-tolerant backplate (powder-coated stainless or hardwood off-cut from the planter run, to match the timber finish — not plastic)
+- Connected to the existing terrace cold supply
 
 ## What we'd value your steer on
 
-- **Confirmation of the 4 positions** on the drawings and exact footprints (Stores 1–3 along the narrow section; Store 4 NE of main)
-- **Heights confirmed (5 June):** narrow stores ~1.0m (to line up with the railings), Store 4 ~1.2m, all below parapet — confirm Store 2 internal height clears the 749mm LR with a bit of headroom
-- **Hardware finish** — brushed stainless vs powder-coated black (to match the building cladding)
-- **Cat-flap brand confirmation** — SureFlap Microchip recommended
-- **Separate cat flap from flat → terrace** — location TBC, for Ronan to detail
+- Best frost-protection approach (internal stop + drain vs frost-resistant tap)
+- Pipe routing across the terrace given the new tile / pedestal build-up — preferred concealment
 
 ---
 
-# PART P — OUTDOOR KITCHEN
+# PART F — OUTDOOR KITCHEN
 
 > **🗓 Phase 1** (narrow section). Lay the sink-waste run to the foul stack under FA2, and the cold-water tee, in the first-fix before tiling. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
@@ -1972,15 +1055,15 @@ Built to match the storage units and planters:
   - Dimensions: 555W × 495D × 850H mm — fits a standard 600mm cabinet bay with margin
   - Matches the BBQ brand (Beefeater) — visual continuity in stainless finish
 - **Position:** module 2 — **to the left of the BBQ** (revised 5 June), with a cupboard beyond it; worktop running continuously over the top
-- **Power:** plugs into a 13A socket inside the cabinet (junction off **Socket #5** in Part L — single feed, switched on at the wall when needed)
+- **Power:** plugs into a 13A socket inside the cabinet (junction off **Socket #5** in Part K — single feed, switched on at the wall when needed)
 - **Ventilation:** front-vented unit — keep front grille clear and ensure cabinet bay has the recommended manufacturer airgap above and behind
 
 ## Plumbing — cold water supply
 
-- **Source:** tee off the existing terrace cold-water supply (same supply that feeds the outdoor tap in Part K)
-- **Pipe material:** copper (LSF / external-grade if exposed), no plastic on exposed runs — consistent with Part K
+- **Source:** tee off the existing terrace cold-water supply (same supply that feeds the outdoor tap in Part E)
+- **Pipe material:** copper (LSF / external-grade if exposed), no plastic on exposed runs — consistent with Part E
 - **Routing:** under the worktop, hidden inside the cabinet, then within the pedestal void if running any distance
-- **Isolation valve:** internal stop and drain-down valve so the external run can be drained for winter (consistent with Part K — frost protection)
+- **Isolation valve:** internal stop and drain-down valve so the external run can be drained for winter (consistent with Part E — frost protection)
 - **Backflow prevention:** type AA airgap at the tap outlet (standard for outdoor taps / non-potable use)
 
 ## Plumbing — waste / foul drain
@@ -1991,21 +1074,21 @@ Built to match the storage units and planters:
   - Through the pedestal void along the narrow terrace, running south
   - **Down through the gap between the narrow and main sections** of the terrace
   - Tie into the **existing foul stack accessible under the dining area** (FLOOR AREA 2 of the main section)
-  - This same foul connection also serves: the **hot tub drain-down**, the **wet room WC** (Part B)
+  - This same foul connection also serves: the **hot tub drain-down**, the **wet room WC** (Part N)
 - **Gradient:** ~1:80 (12.5mm per metre fall) for self-cleaning flow
 - **Pipe fixings:** stainless to underside of the tile pedestals or to the joist heads — concealed in the void, no clips visible above tile level
 - **Frost protection:** waste runs in unheated void — drain the trap for prolonged winter absences
 
 ## Power
 
-- **Existing socket:** **Socket #5 (Part L)** — IP66 double 13A at the NW corner of the narrow section — is the same corner as the kitchen and serves this position. **No new socket required.**
+- **Existing socket:** **Socket #5 (Part K)** — IP66 double 13A at the NW corner of the narrow section — is the same corner as the kitchen and serves this position. **No new socket required.**
 - Use: BBQ ignition (most gas BBQs have piezo igniters but some use 240V), phone charging, accessory power
 - If a second socket is wanted closer to the worktop, add a junction off socket #5
 
 ## Construction sequence (rough)
 
 1. Cabinet carcass built off-site or on-terrace from salvaged hardwood + marine ply
-2. Plumbing routed through pedestal void before tile finish goes down — coordinated with Part I
+2. Plumbing routed through pedestal void before tile finish goes down — coordinated with Part B
 3. Sink installed in worktop, worktop sat on cabinet
 4. BBQ placed / installed; gas bottle connected with isolation valve
 5. Final test: cold water, sink drain trace, BBQ ignition
@@ -2036,6 +1119,923 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 
 ---
 
+# PART G — STORAGE UNITS
+
+> **🗓 Phase 1** — Stores 1–4 (none depend on the building). See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
+**Four** outdoor storage cabinets — **three on the narrow section (Stores 1–3), one on the main section (Store 4)** — all built from salvaged hardwood deck boards (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves.
+
+> **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
+
+## Inventory
+
+*(Revised 5 June 2026 to match the latest drawings.)*
+
+| # | Position | Footprint (W × D) | Notes |
+|---|---|---|---|
+| **1 — Narrow, general** | Narrow section (per 5 June drawing) | **1.10 × 0.75m** × **~1.0m high** | Fills its space. **Existing plumbing + electrical conduits run at the base** — boxed in; **cupboard storage above and to the side** of the conduits. Bee bricks integrated into an external face (Part D). |
+| **2 — Narrow, Litter Robot** | Narrow section (per 5 June drawing) | **1.10 × 1.10m** × **~1.0m high** | Houses the cat's **Litter Robot 4/5** — the 1.10m depth gives the room the LR needs (~686mm deep + cat-landing space); ~1.0m height leaves ~900mm+ internal, clear of the 749mm LR. **Cat flap** in the front face + **240V power** (Part K). |
+| **3 — Narrow, conduit cover** | Narrow section (per 5 June drawing) | **0.85 × 0.75m** × **~1.0m high** | **Boxes in currently-exposed plumbing + electrical conduits** at the base; **cupboard storage above.** |
+| **4 — Main (NE) store** | NE of the main section | **1.80 × 1.20m** × **~1.2m high** | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions. **Child-safe lock** if hot tub chemicals stored here. |
+
+> **Heights:** the three narrow-section stores are **~1.0m high to line up with the narrow-section railings** (Part H) for a clean, consistent line; **Store 4 is ~1.2m high**. All sit below parapet height.
+
+All dimensions and positions to be confirmed by Bond McCart on the drawings.
+
+## Construction principle
+
+Cabinet-style units, built from salvaged hardwood with a sealed marine ply inner box. No EPDM membrane — the units hold dry goods / cushions, not soil and water, so marine ply with sealed corners is sufficient.
+
+### Walls (bottom → outside)
+
+| Layer | Spec | Purpose |
+|---|---|---|
+| Hardwood deck-board outer skin | Salvaged decking, stainless A4 fixings | Visual finish, matches planters; drip-sheds rain |
+| Air gap (~10mm) | Open void, drains downward | Ventilation; prevents damp build-up between outer and inner |
+| **Marine ply box (sealed)** | 18mm, joints sealed with marine epoxy | Structural and watertight inner box — no separate membrane needed |
+
+### Roof (sloped fixed top — not a lid)
+
+Because access is via front doors, the roof is a **fixed sloped top** with no openings:
+
+| Layer | Spec |
+|---|---|
+| Marine ply substrate | 18mm, edges sealed with marine epoxy |
+| **EPDM membrane** | 1.0-1.2mm — single waterproof layer over the top, dressed over all four edges and down the sides by ~50mm as a drip edge |
+| Hardwood deck-board top finish | Salvaged boards, fixed to the ply only — **screws stop short of the EPDM** so no membrane penetrations |
+
+**Roof geometry:**
+- **Slope ~5-10°** front-to-back (drains away from the doors)
+- **Overhang ~30-50mm** on all four sides as drip edge above the doors and walls
+
+### Doors
+
+- **Front-opening, hinged on the vertical side** (one or two doors per unit depending on width)
+- **Hardwood-faced**, matching the wall cladding so the unit reads as a continuous timber box when closed
+- **Door rebate at the head + rubber gasket** to keep wind-driven rain out of the door line
+- **Door head sits below the roof's drip-edge overhang** so water sheds clear of the doors
+- **Bottom of door clears the unit's floor by ~5mm** to allow any ingress to drain off the sloped internal floor
+
+### Internal shelves
+
+- 18mm marine ply, ~250-300mm deep, full width of unit
+- **Store 2 (Litter Robot):** **no shelf at LR level** — the LR takes most of the bay; any spare width can take a narrow shelf above.
+- **Stores 1 and 3:** the existing conduits are boxed in at the **base**; **cupboard storage / shelves above** (and, for Store 1, to the side of the conduits).
+- **Store 4 (main):** **2-3 vertical bays** of shelving (full-width single shelves, or divided depending on what's stored). Sized to fit the hot tub cover when folded as one option.
+- Stainless ply support cleats screwed to the side walls
+
+### Base
+
+| Layer | Spec |
+|---|---|
+| Marine ply floor | 18mm, sealed edges, sloped ~1% to drain |
+| Bearers / stainless feet | ~25mm air gap between floor and Protectoboard for ventilation + drainage |
+| Small drainage holes through ply | Allows any ingress to escape onto the Protectoboard below |
+
+## Hardware
+
+- **Hinges:** A4 / 316 stainless butt hinges (external/exposed) — typically 2 pairs per door
+- **Door handles:** A4 / 316 stainless drop or D-handles
+- **Latches:** stainless magnetic catches inside; visible **stainless turn-knob latch** or recessed lock on the front face
+- **Lock:** child-safe lock specifically on unit #4 if hot tub chemicals stored there
+- **All exposed fixings:** A4 / 316 stainless. **Internal / hidden bracketry and shelf cleats can be A2 / 304** (cost saving — A2 is fine where it's not exposed to salt aerosol).
+
+## Litter Robot + cat-flap detail (Store 2)
+
+**Store 2** houses the cat's **Litter Robot 4 or 5** (self-cleaning litter box). The cat enters via a front-mounted cat flap to use the litter box; the front doors open for the owner to empty the waste drawer and lift the unit for cleaning.
+
+**Litter Robot fit (LR4 — verified dims 559 × 686 × 749mm):**
+
+| | Dimension | Fits in Store 2 (1.10 × 1.10m)? |
+|---|---|---|
+| LR width | 559mm | ✅ — ~540mm spare for the cat flap landing / a side shelf |
+| LR depth + cat landing | 686mm + ~250mm in front of the raised entrance for the cat to come through the flap and step up ≈ 940mm | ✅ — 1.10m depth accommodates it (the waste drawer pulls out the front through the open doors) |
+| LR height | 749mm | ✅ — needs ~820mm internal min; set Store 2 height accordingly |
+
+**Power:** Litter Robot needs 240V mains — **socket #4 (Part K) is in Store 2**, fed from the existing electrical conduits at the base of the adjacent Stores 1/3.
+
+**WiFi:** Litter Robot has an app — UniFi network already covers the terrace.
+
+**Cat flap:**
+- **Brand:** **SureFlap Microchip Cat Flap** (DualScan or standard, ~£80-120) — best balance of weatherproof construction, long-term reliability, and microchip locking to keep neighbourhood cats out. Well-reviewed on coastal sites.
+- **Size:** standard ~165 × 175mm cutout
+- **Position:** ~150mm above floor, on the vertical front face of **Store 2**, aligned with the LR entrance (so the cat enters and steps up into the LR)
+- **Weatherproofing:** small rain hood / drip edge above the flap
+- **Power:** battery-only (4× AA) — no wiring needed
+- **Internal coordination:** flap position must leave the LR landing/step-up zone clear, and not conflict with socket #4 in Store 2. Confirm internal layout with Ronan.
+
+**A separate cat flap from the flat → terrace** is planned (location TBC — probably in one of the existing flat-to-terrace doors). Bond McCart to detail.
+
+## Ventilation
+
+Cushion / fabric storage needs **passive airflow** to prevent damp:
+- **Small ventilation slots** (~50mm × 10mm × 2) low-level on the front face, screened with stainless mesh insect grille
+- The hardwood outer cladding's natural board gaps also breathe
+- For Store 2 (Litter Robot), the cat flap doubles as a large air-exchange path
+
+## What we'd value your steer on
+
+- **Confirmation of the 4 positions** on the drawings and exact footprints (Stores 1–3 along the narrow section; Store 4 NE of main)
+- **Heights confirmed (5 June):** narrow stores ~1.0m (to line up with the railings), Store 4 ~1.2m, all below parapet — confirm Store 2 internal height clears the 749mm LR with a bit of headroom
+- **Hardware finish** — brushed stainless vs powder-coated black (to match the building cladding)
+- **Cat-flap brand confirmation** — SureFlap Microchip recommended
+- **Separate cat flap from flat → terrace** — location TBC, for Ronan to detail
+
+---
+
+# PART H — RAILINGS
+
+> **🗓 Phase 1** (terrace works). Confirm with Ronan/conservation officer that the retained railings + wire top-up need no LBC. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
+The narrow section of the roof terrace currently has three sets of railings. Per the **4 June meeting**, we'll **keep the railings exactly where they are — same position, same height** — no re-siting, no cladding, no replacement. The only addition is **wires (or a low timber upstand + wires) on top**, which does two jobs in one: makes up the small extra guarding height and bird-proofs them. *(The narrow section now stays on the lowest pedestals — Part A — so the floor barely rises and the railings don't need moving.)*
+
+## Changes
+
+- **Keep the existing railings in place, at their current height.**
+- **Add height + bird-proofing on top** — **tensioned stainless wires**, or a **low timber upstand with wires on top**, fixed to the railing tops. One element makes up the extra guarding height **and** acts as the gull/pigeon deterrent. Method (wires alone vs timber + wires) to be confirmed.
+- **Remove:** the centre railing, and the short railing joining the centre railing to the west railing (redundant under the current layout).
+- **Keep:** the east and west railings, both in place.
+
+## Bird wire detail
+
+- Stainless steel posts at ~1m centres along the top of each retained railing
+- 2–3 tensioned 1.2mm 7×19 stainless wires (matching Part I parapet spec for visual continuity)
+- Posts ~150–200mm above the railing top
+
+## What we'd value your steer on
+
+- **Top-up detail** — best way to add the extra height + wires to the railing tops (wires alone vs a low timber upstand + wires), and the fixing into the existing railing top profile
+- **Removal of the centre / short railings** — confirm no structural role
+- **Bird wire mount detail** at the railing tops (compatible with existing railing top profile)
+
+---
+
+# PART I — PARAPET BIRD DETERRENT (POST AND WIRE)
+
+> **🗓 Phase 1** (terrace works). Confirm the LBC position for fixing into the listed coping. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
+The main parapet walls currently have bird spikes. They work but look bad. We want to replace them with a low-visibility post-and-wire system on the 450mm-wide precast concrete coping.
+
+## 1. Scope
+
+Supply and install a low-visibility stainless-steel post-and-wire system on the top face of a 450mm-wide precast concrete coping to deter pigeons and gulls.
+
+## 2. Design intent
+
+Gulls and pigeons need a clear, flat landing strip. On a wide (450mm) coping, a single row of wire is insufficient — birds simply land beside it. We deny the landing area by running **three parallel wires across the width**, all at the same height, so there is no usable perch anywhere on the 450mm top.
+
+## 3. Layout (plan and section)
+
+- **Wires:** 3 longitudinal runs, all at 85–90mm above coping
+- **Lateral positions:**
+  - Wire A: 30mm in from outer edge
+  - Wire B: centre line of coping
+  - Wire C: 30mm in from inner edge
+- **Post spacing:** 1000–1200mm (consistent within a run)
+- **Springs / tensioners:** at ~10m intervals and at line ends
+- **Corners:** terminate and restart each wire at corners with corner posts (no sharp bends)
+- **Clearances:** keep all fixings ≥25mm from coping edges/drips
+
+## 4. Heights — what works best
+
+- Pigeons: 70–100mm effective
+- Gulls: 80–110mm effective
+- **Chosen spec: 85–90mm** suits both species and looks neat
+
+## 5. Materials (marine / coastal)
+
+- All metalwork: **A4 / 316 or 316L stainless steel** (posts, wire, terminals, springs, screws, washers, ferrules)
+- Wire: **1.2mm Ø 7×19 stainless cable** — chosen for coastal robustness, long-term fatigue resistance, and visual straightness; gives the best deterrent reliability over a 20+ year life
+- Posts: turned stainless, 70–110mm stem height with swivel / tilting saddles (±10–15°) to allow posts to be plumb despite coping fall
+- Base gaskets: neoprene or EPDM under base washers to protect the coping
+- Anchors: stainless screws into mortar joints with resin/chemical anchors where required. **Do not drill waterproofing / membranes.**
+- Dissimilar metals: isolate if any non-SS substrate/fastener is unavoidable
+
+## 6. Fixing method (preserve fabric)
+
+- Drill only mortar joints (perp or bed joints) between coping stones; **never the stone arris or roof build-up**
+- If mortar joints are unsuitable at a location, use inner-face side-mount stand-offs into brick perp joints instead of top-mounting that stone
+- Maintain minimum edge distances per anchor manufacturer data
+
+## 7. Tension and tolerances (quality)
+
+- **Tension:** light spring tension — enough to remove visible sag, no "banjo-tight" runs
+- **Parallelism:** three wires parallel within ±2mm over any 2m length
+- **Level:** top wire height 85–90mm above coping, tolerance ±3mm; posts plumb
+- **Sag:** < 5mm mid-span over 3m in summer conditions
+- **Finish:** no sharp burrs; trimmed ferrules; caps neat and aligned
+
+## 8. Quantities (25m guide)
+
+- Posts: at 1.1m centres ≈ 23 posts per run × 3 runs = **~69 posts** (+10% spares)
+- Wire: ~80m total (75m + waste)
+- Springs / tensioners: ~9–12 (one per end + ~every 10m per run)
+- Terminals / ferrules / eyelets: as required for each end and spring
+
+## 9. Visual / architectural requirements
+
+- Minimal, discreet look — this is a deterrent, not a balustrade
+- Keep post heads below sightline clutter; avoid reflective / glossy finishes (satin / brushed is ideal)
+- Keep bases in line and centred on joints; no skewed bases
+
+## 10. Acceptable systems / brands
+
+Not brand-specific. Any proprietary bird post-and-wire system meeting this spec (A4/316 components; 1.0–1.2mm SS cable; swivel bases; springs; marine-grade anchors) is acceptable. Examples include mainstream UK bird-control suppliers' post-and-wire kits — contractor to propose and submit datasheets for approval.
+
+---
+
+# PART J — SMART CONTROL (HOME ASSISTANT)
+
+> **🗓 Phase 1 + 2 (split).** Terrace/lighting Shellys with Phase 1; the sauna-heater contactor with Phase 2. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
+We run Home Assistant at home and want to control all switched and dimmed circuits on the terrace via Shelly devices. Shellys connect **directly to HA over WiFi** using the official Shelly HA integration — no MQTT broker required. WiFi coverage is provided by the relocated UniFi U6 Mesh AP under the south fascia of the sauna/wet room building (see Part K).
+
+| Circuit | Shelly | Notes |
+|---|---|---|
+| Sauna heater (~37.5A continuous) | Plus 1PM + **40A contactor** | Shelly switches the contactor coil, contactor switches the heater. The 1PM gives us power monitoring in HA. 40A sized for the Harvia Cilindro PC90E 9 kW single-phase heater specified in Part M. |
+| Sauna light | Plus 1 | Behind the switch outside the sauna |
+| Wet room light | Plus 1 | Behind the switch outside the wet room |
+| Wet room fan | Plus 1 | Behind the fan isolator |
+| Electric shower | None | Standard pull-cord isolator only |
+| Lighting zones 1–6 (terrace) | 6× Shelly Dimmer 2 (or equivalent dimmable Shelly) | One per lighting zone — see Part K for full lighting spec |
+| Door downlights (sauna + wet room eaves) | Shared with Zone 5 or own Shelly Plus 1 | See Part K |
+
+What this needs from the install:
+- Shellys located in dry, cool, accessible places with 2.4GHz WiFi coverage
+- Live and neutral at the back of every switch position (worth flagging early to the electrician)
+- A small DIN-rail enclosure for the heater contactor + Shellys + lighting dimmers, somewhere outside the two rooms (a single enclosure for the lot keeps cabling tidy)
+
+---
+
+# PART K — ELECTRICAL: OUTDOOR SOCKETS AND LIGHTING
+
+> **🗓 Phase 1 + 2 (split).** First-fix cabling (incl. the capped Phase-2 feeds), terrace lighting and terrace sockets go in with Phase 1; the building door downlights and the sauna/wet-room/hot-tub final connections are Phase 2. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
+This Part covers all 230V outdoor sockets (existing and new) and the full external lighting scheme for the terrace. Hot tub power is in Part O. Smart-control overview is in Part J.
+
+# Section L1 — Outdoor sockets
+
+The terrace currently has **3 existing outdoor electrical sockets** in the main section, in IP-rated protective enclosures. We want to keep all three (relocating two of them) and add **2 new double sockets in the narrow section**, plus an **internal cabinet socket** in the outdoor kitchen for charging battery lights.
+
+## Main section — 3 existing sockets
+
+| # | Existing position | What happens |
+|---|---|---|
+| **1** | West wall of main section (where the new sauna/wet room building will sit) | **Relocate** to the **south wall of the wet room**, near the dining table position. Becomes a convenient external socket for the dining area. |
+| **2** | South wall of the main section | **Retain in place** but **lift** above the new floor build-up — final height **500mm above the new flat-roof finished tile level** (electrician to confirm exact dimension). |
+| **3** | North-east corner of the main section | **Leave as is** — no relocation; height already suits the new FFL. Confirm IP rating and cable condition on site. |
+
+## Narrow section — 2 new double sockets
+
+| # | Position | Notes |
+|---|---|---|
+| **4** | Inside **Store 2** (the Litter Robot store, Part G) | Powers the **Litter Robot** (240V). Pick up the supply from the **existing electrical conduits/junction box at the base of the adjacent Stores 1/3**. IP rating to match the cabinet enclosure. |
+| **5** | On the wall in the **NW corner** of the narrow section | IP66 weatherproof double 13A, mounted at the same height as the main-section sockets (≈500mm above FFL) for consistency. |
+
+## Outdoor kitchen — internal cabinet socket
+
+| # | Position | Notes |
+|---|---|---|
+| **6** | Inside one of the **kitchen base cabinets** (electrician to pick whichever cabinet offers the shortest run from the narrow-section feed) | Double 13A IP54-rated socket for **charging rechargeable battery lights** kept in the cabinet. No fixed task lighting on the outdoor kitchen run — battery lights are lifted out when needed for dining / cooking after dark. |
+
+## General requirements (all sockets)
+
+- All existing protective enclosures to be reused unless damaged or no longer IP-compliant — replace like-for-like (IP66) if so
+- Cable runs made good — no exposed runs left over from previous mounting heights
+- Re-test and certify after relocation
+- Co-ordinate final socket positions with planters and parasol bases so they remain accessible
+- Consistent mounting height across all sockets where practical
+
+## Note on the additional IP66 socket in Part N
+
+The **IP66 socket on the building's external north wall, east end** (specified in Part N — External Switches / Isolators) is **in addition to** the 6 sockets in this Section, not one of them.
+
+---
+
+# Section L2 — External lighting
+
+## Overview
+
+A single coordinated external lighting scheme — **warm-white 12V LV LED uplighters in planted areas**, plus **two recessed downlights** in the eave/soffit above the sauna and wet room doors. All zoned, dimmable, on Home Assistant via WiFi.
+
+**Design principles:**
+
+- **Warm white** (2700K) throughout — atmospheric, sympathetic to the Regency / heritage character of Sussex Square
+- **Uplighters concealed in planted areas** — the fittings disappear, only the light shows, illuminating foliage and trees from below
+- **Marine-grade fittings** — 316 stainless steel or brass — for a 15–20 year life in coastal salt air
+- **Middle-of-road spec** (Collingwood / Lightpro / In-lite / Techmar). Not premium (Hunza, John Cullen) and not unbranded budget — middle is the durability-vs-cost sweet spot
+- **12V low-voltage plug-and-play** preferred (Lightpro, In-lite, Techmar systems) so fittings can be added, moved or replaced without an electrician
+- **No light visible above the parapet line from the street** — heritage / conservation area
+- **No light pollution** to neighbours or to the registered communal garden of Sussex Square
+
+## Lighting zones
+
+Six dimmable zones, each on its own Shelly:
+
+Restrained counts — picking out specimens, olives and corners rather than blanket flooding. Lightpro / In-lite buses make it trivial to add more later if any zone reads as too dim once planted.
+
+| Zone | Area | Fittings | Count |
+|---|---|---|---|
+| **1** | South-end pot cluster (5 pots) + pots west of N3 | 1 on the central olive pot, 1 grazing the wider cluster, 1 on the W-of-N3 group | **3** |
+| **2** | Narrow section planters **N1 + N2 + N3** | 3 along the long N1 east run (one per olive), 1 in N2, 1 in N3 | **5** |
+| **3** | Dining area — planter **M1** (L-shape) | 1 per olive (2) + 1 corner accent | **3** |
+| **4** | Lounge SE corner — planter **M2** (L-shape) | 1 per olive (2), 1 on the Cynara focal, 1 picking out the corner Phormium | **4** |
+| **5** | Sauna east side — planter **M3** + door downlights | 1 uplighter on the M3 olive + 2× door downlights | **1 + 2** |
+| **6** | Hot tub planters — **M5 (east) + M6 (north) + M7 (west)** | 1 per planter, **angled away from the tub seating** so they don't dazzle | **3** |
+
+**Total:** ~19 uplighters + 2 downlights.
+
+## Fittings — preferred suppliers and types
+
+**Spike uplighters (planted areas — zones 1, 2, 3, 4, 5, 6):**
+
+- **Lightpro Garden Lights** (NL, UK distribution) — 12V LV plug-and-play system. Brass and 316SS spike uplighters, marine-spec, ~£30–50 each. Whole installation runs off one bus with pre-made waterproof connectors.
+- **In-lite** (NL, UK distribution) — similar 12V LV plug-and-play, very robust connectors, slightly premium pricing.
+- **Techmar Garden Lights** — comparable 12V LV system, also widely stocked in UK.
+- Any of the three are acceptable — electrician's choice based on stock and price at install.
+
+**Eave/soffit downlights (zone 5 — sauna and wet room doors):**
+
+- Small (~50–65mm diameter) **IP65 LED downlight** in 316 stainless or anthracite-matched finish, recessed into the underside of the eave/soffit above each door on the north (door) face of the sauna/wet room building.
+- Examples: **Collingwood DL** range, **Astro Minima** in IP65 variant, or marine-spec equivalent.
+- Warm white 2700K, ~3–5W LED, dimmable.
+- **Coordinate with Part M** on the soffit detail — small recessed downlights need a flat soffit area at the door head where they can be set in cleanly.
+
+## Control — Home Assistant via WiFi (no MQTT broker)
+
+- **One Shelly Dimmer 2** (Gen 1, WiFi, 230V mains-side trailing-edge dimmer) **per zone** — connects directly to HA over WiFi via the official Shelly integration. **MQTT broker not required** — WiFi was specifically chosen because the terrace MQTT signal is weak.
+- For each zone: Shelly Dimmer 2 → **mains-dimmable trailing-edge LED driver / 12V LV transformer** → fittings on that zone's plug-and-play bus.
+- Verify the LV transformer is on the Shelly / Lightpro / In-lite **dimmer compatibility list** before ordering — Lightpro and In-lite both publish these.
+- All Shellys live in the **DIN-rail enclosure** that also houses the sauna heater contactor and the Part J control Shellys, so cabling stays in one place.
+- HA scenes will configure typical evening combinations (e.g. "dining only", "hot tub only", "all on low") and a default dusk-to-23:00 schedule for the planter zones.
+- **Manual override:** a single weatherproof momentary push-button **beside the sauna door** (in the same IP55+ switch cluster as the Part M sauna controls) flips an "all terrace lights" master scene in HA, so the system can be used without a phone.
+
+## Cable strategy
+
+- **12V LV cable** routed under the tile build-up where possible (within the pedestal float zone), in conduit at any penetration through the planter walls.
+- For surface-tracked runs (e.g. behind planters along walls), keep the cable concealed behind the planter back face — there's a 25–50mm air gap to the wall (Part C) that's ideal for cable routing.
+- **All 230V mains** stays inside the building / DB enclosure — only **12V LV** runs out onto the terrace surface.
+
+## Wifi access point on the sauna/wet room building
+
+To give reliable wifi coverage across the full terrace (hot tub, dining area, smart controls inside the sauna/wet room), we plan to mount a **Ubiquiti UniFi outdoor access point under the high south fascia of the sauna/wet room building** (the south-high mono-pitch in Part M gives a natural sheltered overhang). The position:
+
+- Invisible from Bristol Gardens, from the dining patio, and from the rest of the terrace
+- Sheltered from rain by the fascia overhang
+- Aimed downward / outward to cover the whole terrace
+- Line-of-sight back along the south parapet to the existing **UniFi study AP at the south end of the narrow terrace**, for wireless mesh backhaul (or wired ethernet daisy-chain if preferred)
+
+**Power and cable approach — matches the existing flat setup:**
+
+- **UniFi PoE injector (mains adapter) stays inside** — typically plugged into a regular indoor socket. No outdoor 240V mains required.
+- A single low-voltage **PoE cable (Cat6)** routes from the injector through the building shell and out under the south fascia to the AP. The cable carries both power and data.
+- This mirrors how the existing UniFi APs in the flat (including the study AP) are already powered.
+
+**AP unit:** the existing **UniFi U6 Mesh** is already in place on the terrace — it just needs **relocating** to the new mount point under the south fascia of the sauna/wet room building (no new hardware purchase).
+
+## What we'd value your steer on
+
+**Sockets:**
+
+- Whether all 3 existing main-section enclosures are worth retaining or if a uniform replacement (matching IP66 spec across all 6 terrace sockets) would be cleaner
+- Confirmation that 500mm above new FFL is a sensible standard height — or your preferred standard
+- Whether the SW cupboard junction box is suitable to pick up from, or needs upgrading
+- Best kitchen cabinet to host socket **6** (shortest run, best access for charging)
+
+**WiFi AP:**
+
+- Preferred Cat6 cable route from inside the flat (where the PoE injector lives) into the building shell and out under the south fascia — up the south face? through the door head? — and how to weatherproof the cable's exit point through the cladding
+- Discreet mount point under the south fascia / eaves underside (coordinate with Part M's roof detail)
+
+**Lighting:**
+
+- Confirmation that the **door downlights** can be cleanly recessed into the eave/soffit at the north face of the sauna and wet room doors (depends on the soffit detail coming out of Part M — flat enough area to set in a ~60mm fitting)
+- Whether to install **one zoned transformer with 6 dimmable outputs** vs **6 separate transformers** (one per zone) — practical preference of the electrician
+- **Cable concealment** — confirmation that running 12V LV under the pedestal float zone (with conduit at planter penetrations) is acceptable from a maintenance perspective
+- Whether **socket 6 in the kitchen cabinet** needs higher than IP54 given it's inside a cabinet but on an outdoor structure
+
+---
+
+# PART L — FALL PROTECTION (GLASS BALUSTRADES & PLANTERS)
+
+> **🗓 Phase 1 + 2 (split).** The **dining-area glass goes in with Phase 1**, alongside the raised FA2 dining floor, so its 500mm fall edge is guarded from day one *(confirm with Ronan that this glass doesn't itself need LBC)*. The **hot-tub glass is Phase 2**, arriving with the tub. Both fix into the parapet masonry (no roof penetration), so the hot-tub run can wait without locking anything in. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
+Two locations need fall protection to comply with Approved Doc K (1100mm above the standing level):
+
+1. **Dining area (Floor Area 2)** — 1100mm above FFL along the relevant edge(s)
+2. **Around the hot tub** — 1100mm above the **hot tub rim**, since BC will treat the rim as the standing level. The tub can't be positioned away from the edge, so this applies.
+
+We've chosen frameless structural glass throughout for both locations — keeps the view, and minimises bulk from public viewpoints (conservation area).
+
+## Glass spec
+
+- Frameless toughened laminated glass (typ. 17.5mm or 21.5mm — engineer to confirm)
+- Heights:
+  - Dining area: top of glass at **1100mm FFL**
+  - Hot tub area: top of glass at **1100mm above tub rim** (≈1900mm FFL depending on final tub choice)
+- Designed to BS 6180 line loads + Brighton coastal wind loads (significant — seafront exposure)
+
+## Planters (inside the glass)
+
+- **500mm deep planters** running along the inside (terrace side) of the glass
+- Planter top **300mm above hot tub rim** along the hot tub run
+- Functions:
+  - Visual / planting feature
+  - Creates a 500mm physical setback between the hot tub and the glass — may help BC accept the guarding line (worth confirming with building control)
+  - Adds visual interest at parapet level
+
+## Mounting — side-mounted (face-fix to inner face of parapet)
+
+**Side-mounted, point-fixed to the inner face of the parapet wall.** The glass panels are clamped with individual stainless point-fixings (or a low-profile inner-face channel) into the inner masonry face of the parapet, projecting upward to the required 1100mm guarding height.
+
+**Why this mounting:**
+
+- **No metal at the top of the glass** — clean frameless top edge across the whole run. Top-mounted channel systems require a visible alu/stainless cap rail that we want to avoid for aesthetic reasons.
+- **Coping and tanking undisturbed** — no penetrations through the top of the parapet, no risk to the existing waterproofing layer beneath the precast coping
+- **Individually replaceable** clamps — easier long-term maintenance than a continuous top channel
+- **Trade-off:** the cantilever load path puts higher leverage on the inner-face fixings, so the masonry condition behind the fixing line needs to be sound. Resin anchors into solid brickwork (with appropriate pull-out testing) are the standard approach for this exposure.
+
+## What we'd value your steer on
+
+- **Inner-face fixing detail** — point-fixed stainless clamps vs a low-profile inner-face channel; SE to confirm pull-out capacity against the existing masonry given Brighton seafront wind loading
+- **Glass thickness / spec** — to be sized by the supplier's engineer once the inner-face fixing detail is agreed (likely 17.5–21.5mm toughened laminated to BS 6180)
+- **Whether the 500mm planter setback** is acceptable to building control as part of the guarding strategy around the hot tub (could allow the glass to be slightly lower than the strict 1100mm-above-rim rule, though we're not banking on this)
+- **Condition of the inner masonry face** behind the proposed fixing line — confirmation it's sound brickwork suitable for resin-anchored point fixings at this exposure
+
+---
+
+# PART M — SAUNA
+
+> **🗓 Phase 2** (needs planning/LBC). *Phase-1 provisions to build in now:* the sauna floor-drain roof penetration, and the heater/light/socket cabling first-fix. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
+**Internal dimensions:** 1.5m (east–west) × 2.15m (north–south)
+**Minimum internal ceiling height:** 2.1m (2100mm — same as wet room; single internal ceiling height across the whole building)
+
+> **Binding constraints from pre-application (PRE2025/00255):**
+> - **Setback ≥ 3m from north parapet edge** — conceded in revised submission to planning (was originally 600mm; revised to match heritage officer's 3-4m ask)
+> - **External roof height ~1,293mm above parapet** — *increased from the 1,150mm in the revised heritage statement* because inverting the whole main roof section raised the finished floor level (see Part A). **This exceeds the pre-app figure by ~143mm and must be re-presented to planning.** Ronan to confirm the final figure once the inverted build-up depth is fixed.
+> All Part M design assumptions must respect these limits.
+
+## Internal plan
+
+![Sauna internal layout plan](drawings/sauna-internal-plan-5-6-26.png)
+
+*Working layout sketch (indicative, not to construction standard).* Heater in the **SE** corner; two-tier **west bench** (650mm deep) with a **single straight lower step**; **south corner return seat**; **clear-glass door opening out** at the north; **window 300mm off the north wall**. **North = right**, matching the GA drawings.
+
+## Floor
+
+- Tanked (continuous with adjacent wet room), screeded to fall, R11 porcelain tile to match the rest of the terrace
+- Removable softwood duckboards laid on top of the tile (flat-pack kit, e.g. Finnmark, ~£80–150)
+- Stainless steel high-temperature drain connected to the terrace drainage
+
+## Walls and Ceiling
+
+This is a working assumption — final makeup to follow your steer (see "What we'd value your steer on" below).
+
+- **Insulation — walls: 100mm PIR** (e.g. Celotex/Kingspan) in the stud cavity (fits a standard 100mm stud), preferred over mineral wool for better thermal performance per mm — kept thin to protect internal space and terrace footprint. Achieves U ≈ 0.24 W/m²K, within our ≤0.27 target. Going to 150mm would save only ~60W of wall loss (a few £/yr) at the cost of internal space, so 100mm is the deliberate choice.
+- **Insulation — roof/ceiling: 150mm PIR** — thicker than the walls because heat rises and the ceiling is the hottest surface, and there is **no space penalty overhead** (it sits within the ~1,293mm-above-parapet build-up zone). See the Roof section.
+- **Foil vapour barrier** on the interior face of the insulation, fully taped, continuous around all junctions — **especially the partition–external-wall corner *and* the wall-to-roof junction**. The hot ceiling sees the most heat and moisture, so any gap at the wall-to-roof corner drives damp into the PIR and the cold roof void (rot / corrosion of the standing-seam roof from below). **Ronan to detail both junctions.**
+- **25mm ventilated batten cavity** between the foil VB and the internal lining, to let the timber breathe between sessions
+- **Internal lining:** untreated kiln-dried softwood tongue-and-groove — cedar, aspen, thermo-aspen, or spruce; final choice to follow the kit supplier's recommendation if kit-route is taken (see below)
+- All fixings stainless steel
+- **Internal partition (sauna ↔ wet room)** to be substantially slimmer than the external walls — see footprint discussion below
+
+## Benches
+
+Upper bench is an **L wrapping the SW corner**; the lower step is a **single straight section** along the west wall. All in the same untreated whitewood/spruce:
+
+| Position | Height (FFL) | Depth | Length |
+|---|---|---|---|
+| Upper bench, west wall (main lie / löyly) | 950mm | **650mm** | 2.15m |
+| Upper bench, south wall (corner return seat) | 950mm | 650mm | ~0.95m (to the heater) |
+| Lower step — **single straight section**, west wall | 450mm | 350mm | runs the southern length, stops clear of the door |
+
+*Revised 5 June 2026:* the **west bench depth is increased to 650mm** so its step front lines up with the south bench / heater line — that lets the **lower step be one clean straight section** instead of jogging round the corner. Total west bench depth is now ~1000mm (650 + 350 step), leaving a ~500mm clear strip down the east side.
+
+**One person lies full-length** on the 2.15m west bench; the south leg is a **corner return seat** for a second person (the 1.5m south wall is too short to lie along on its own), using the west step / floor for feet. The **lower step stops short of the north (door) end**, so you step onto clear floor as you enter — not onto the bench. The south return is **cut back at the SE end** for clearance to the Harvia Cilindro PC90E (360 × 340mm) and its guard rail in the SE corner — final clearances per the manufacturer's manual.
+
+## Door
+
+- North wall, 600mm clear opening, **clear of the bench** (you step onto open floor on entry — see benches above)
+- **Glass sauna door** *(revised 5 June 2026 — was solid cedar).* Toughened safety glass leaf in a timber (cedar) or marine-grade aluminium frame.
+- **Must be an outdoor / weatherproof-rated assembly — not a standard indoor sauna-cabin glass door.** It needs to be insulated (sealed double/triple glazing or a properly weather-sealed external sauna door), with full-perimeter weather seals and a weathered threshold, because this door is the external face of the building on an exposed coastal roof. Most catalogue glass sauna doors are for indoor cabins — confirm the external/coastal rating with the supplier.
+- **Glass finish: CLEAR** *(decided 5 June — no privacy needed at this position).* Keeps it open and lets the sauna glow out across the terrace in the evening.
+- **Coastal hardware:** A4/316 stainless or solid brass hinges, catch and handle only.
+- Magnetic catch, 50N+ pull (wind-resistant); heat-tolerant (timber / cool-touch) handle.
+- **Outward-opening** (swings out onto the terrace — keeps the swing out of the small sauna and is the right way for egress), with restrictor to limit swing in wind. Needs clear swing space on the terrace side.
+- **Hold-open for venting between sessions** — marine A4 stainless / solid brass cabin-hook (or sprung friction arm) on the external wall, holding the door at ~30–45° for passive airing.
+- **Heat-loss note:** a glazed door loses more heat than an insulated timber one — consistent with doors/windows being the main heat path (see Walls and Ceiling). Accepted for the look, and mitigated by the door being **diagonally opposite the heater** (SE) and well sealed.
+- Suppliers: sauna specialists do glass doors — **Finnmark, Auroom, Tylö Helo, Harvia** — subject to the outdoor-rating check above.
+- Approximate cost: £400–800 (outdoor-rated glazed unit)
+
+## Window
+
+- East wall, with a **300mm gap to the north wall** so it isn't jammed into the NE corner — the window's north edge sits 300mm off the north wall, and the 1200mm window runs south from there (north edge ≈1850mm, south edge ≈650mm along the 2150mm east wall). View to the NE/E.
+- **1200mm wide × 800mm tall**, single pane, **FIXED** (non-opening) — ventilation is handled by the dedicated inlet/outlet vents, so an opening sauna window is not required
+- Sill at 1100mm from FFL
+- **Frame:** cedar or other heat-tolerant softwood on the interior face; external face can be aluminium-clad if needed for weatherproofing — **NOT aluminium internally** (would burn skin at sauna interior temperature)
+- Triple-glazed (4-12-4-12-4), argon-filled, low-E coatings **rated for sauna interior temperatures**, warm edge spacers — chosen for thermal retention given rooftop exposure
+- Compression seals: EPDM or silicone (heat/humidity tolerant)
+- External manual roller blackout blind on exterior above (sized to cover full 1200mm width)
+- **To be specified in coordination with the kit supplier if kit-route is taken** — sauna-rated window assemblies are typically supplied or specified by the sauna specialist, not a domestic window supplier
+
+## Heater
+
+- **Harvia Cilindro PC90E** — 9.0 kW, 240V single-phase electric sauna heater, ~90 kg stone capacity, cylindrical floor-standing column positioned in the south-east corner
+- Large stone mass for sustained, authentic löyly. Stones loaded loosely around a central heating column.
+- Physical: ~1150mm tall × 360mm wide × 340mm deep, plus guard rail clearance of ~100–150mm around it
+- Approximate UK price £1,100–1,400 (heater only; stones usually included)
+- 25–35 min heat-up time to 90°C; managed via Home Assistant scheduling (Part J — Shelly Plus 1PM + 40A contactor)
+- **Heat shield panel** above the heater is recommended given the radiant output of the 9 kW column heater
+- 10mm² silicon-rated cable to a fused spur in the corner (cable rated comfortably above the 37.5 A continuous draw)
+- Heater guard rail (usually supplied with unit)
+- **Note:** previous spec assumed a Harvia Vega 4 kW — undersized for this volume and small stone mass = poor löyly. Superseded.
+- **Sourcing note:** The PC90E is the 240V single-phase factory variant of the Cilindro PC90 line. Most UK retailers stock the standard PC90 (400V 3-phase); UK sauna suppliers should be able to source the PC90E directly, or alternatively wire a standard PC90 for 230V single-phase per the Harvia installation manual.
+
+### Electrical assumption (to be verified)
+
+This section assumes:
+- **Single-phase 240V supply** to the flat (the standard for UK residential — but to be confirmed by electrical survey of 22 Sussex Square)
+- **40A circuit** can be accommodated in the consumer unit (37.5 A continuous heater draw sits comfortably within a 40 A breaker rating)
+- Three-phase supply, if available, would open up the higher-output Cilindro PC110 (10.8 kW, 3-phase only) — but we are not relying on this
+
+**To check with electrician at first opportunity:**
+1. Confirm single-phase 240V supply (vs three-phase) at 22 Sussex Square
+2. Confirm a dedicated 40A circuit can be added to the consumer unit, or whether the consumer unit needs upgrading first
+3. Confirm the sauna supplier can source the PC90E specifically, or wire a standard PC90 for 230V single-phase per Harvia's installation manual
+
+## Ventilation
+
+Passive only:
+- 100mm inlet vent low on south or east wall, ~100mm from floor (near heater)
+- 100mm outlet vent high on west or south wall, ~300mm from ceiling
+
+## Lighting
+
+- **2× sauna-rated LED ceiling fittings** (e.g. Cariitti, Tylö, Harvia) — purpose-made for sauna heat, ~£80–150 each
+- Light switch outdoors on the terrace, beside the sauna door — IP55+ weatherproof
+
+## Sockets (For Future Office / Bedroom Conversion)
+
+We want this room to be convertible to an office or bedroom in future without retrofitting power, so:
+
+- 2× IP54 double sockets at 300mm from FFL
+- Socket 1: east wall, under the window at the north end (for a desk facing the view)
+- Socket 2: north wall (general / bedside use)
+- Dedicated 20A radial circuit
+- Both sockets clear of the south-east heater corner
+- Used only when the room is cold
+
+## External Switches / Isolators (Sauna Side)
+
+Grouped on the terrace wall beside the sauna door, IP55+ weatherproof:
+- Sauna light switch (Shelly Plus 1 behind)
+- 40A DP rotary isolator for the sauna heater (manual override / safety isolation) — sized for up to ~9kW single-phase heater (see Heater section)
+
+## What we'd value your steer on
+
+### Kit-supplied sauna interior vs site-built
+
+We haven't decided whether the sauna interior — internal cedar T&G lining, foil vapour barrier, vented batten cavity, benches, heater installation, glass door, controls, sauna lighting — should be **site-built** by your team, or supplied as a **cut-to-size indoor sauna kit** from a sauna specialist who would install the interior into the shell you've built.
+
+**Argument for kit:**
+- Sauna-specific details (vapour barrier continuity, vented gap behind cedar, heater clearances, drain penetrations) handled by people who do this for a living, warranty-backed
+- Frees your scope to focus on the shell, which is standard outbuilding work
+- Door comes from the same supplier, coordinated finish
+
+**Argument for site-built:**
+- Slightly lower total cost if it all goes well
+- Total control over internal finish details (bench layout, timber choice, reclaimed materials, etc.)
+
+**Suppliers worth contacting against our internal dimensions:**
+
+- **Finnmark Sauna** — UK (Leeds); cut-to-size indoor kits, outdoor doors, components, heaters
+- **Auroom** — Estonia with UK distribution; premium modern aesthetic, custom indoor kits
+- **Tylö Helo** — Sweden; established broad-range supplier, kits and components
+- **Harvia** — Finland; large industry presence, full kits and heaters
+
+We'd value your view on which route makes sense, and which supplier(s) you've worked with before or would recommend approaching. If kit-route is taken, the chosen supplier feeds back wall makeup, vapour barrier, electrical, drainage and ventilation requirements for the shell.
+
+### External building footprint
+
+**External dimensions (current design): 2902mm (east–west) × 2488mm (north–south)** — a bounding footprint of **~7.22 m²** (a little less once the dogleg notch around the terrace wall is taken out), which sits **within the ~7.6 m² accepted at pre-application**. These reconcile with the internal rooms (sauna 1.5m + wet room 940mm E–W) at external walls of ~170mm and a ~110mm partition — consistent with our 100mm-PIR wall makeup.
+
+We've kept the building as small as practical to leave maximum surrounding terrace space, accepting that this trades against insulation/weatherproofing thickness. We'd still value your steer on the wall makeup below.
+
+**External walls** — thinnest viable makeup that retains good sauna thermal performance (we're aiming for U-value ≤ ~0.27 W/m²K) and is appropriate for coastal/exposed roof terrace conditions:
+
+- We've settled on **100mm PIR in the walls and 150mm in the roof** (rather than mineral wool) for better performance per mm. Does that suit the exposure, and are you comfortable with **PIR at sauna temperatures** behind the foil VB + cedar lining, or would you prefer traditional rock/mineral wool on the hot faces?
+- Is a rigid 25 mm ventilated rain-screen cavity essential, or can a back-ventilated cladding detail direct to sheathing save thickness on this coastal site?
+- What is the thinnest external wall makeup you'd be comfortable specifying for this exposure?
+
+**Internal partition (sauna ↔ wet room)** — we're much less worried about wet-room warmth than sauna heat loss. In fact some heat leak into the wet room is welcome (pre-warms it for post-sauna showering). So the partition can be substantially slimmer than the external walls — perhaps 50 mm stud with mineral wool, no external weatherproofing layers. Would you agree, and is there anything (structural bracing, fire separation, regs) that requires it to be heavier?
+
+**Vapour barrier continuity at the partition–external wall junction** — however the partition is built, the foil VB on the sauna face needs to be continuous around the corner with the external-wall VB. Any gap there is where moisture finds its way into the insulation long-term. We'd value your detailing on that junction.
+
+### External cladding (whole building)
+
+**Working choice: PVDF-coated marine-grade aluminium standing seam** (e.g. Kalzip, Riverclack, PREFA), in anthracite/charcoal — target RAL 7016 / 7022 / 7024. Applies to all four external walls of the combined sauna/wet room building.
+
+**Why aluminium standing seam over the alternatives we looked at:**
+
+- **Zinc and copper** (the other common standing-seam metals): seagull droppings are acidic (uric acid, pH ~3–4) and permanently etch the patina on both, leaving accumulating white or green halo marks. PVDF-coated aluminium is chemically inert to uric acid — droppings wash off in the rain with no ghost marking.
+- **Equitone Tectiva fibre cement panels**: strong runner-up — similar coastal performance, ~£500–800 cheaper for our ~28 m² of cladding. Loses on continuous-skin aesthetic, build-up depth (~40mm vs ~30mm), and warranty length. Sensible fallback if metal is rejected.
+- **Timber (cedar / Accoya / charred Accoya)**: planning preferred a longer-life finish than wood. Even charred Accoya — the best engineered-wood option we found — needs re-oiling every 8–10 years and ages less predictably than coated aluminium.
+
+**Specification points that determine whether the system lasts 40 years or pits in 5:**
+
+- **Marine-grade alloy** — aluminium 3003-H44, 3105-H44 or 5005. Mill-finish or anodised-only aluminium pits in salt aerosol; the alloy series matters here.
+- **PVDF (Kynar 500 / Hylar 5000) factory coating** at minimum 25μm dry-film thickness. PVDF is UV-stable, hydrophobic, and salt-spray-resistant — documented on UK coastal commercial projects with 30+ year service records.
+- **A4 / 316 stainless steel fasteners and clips only.** A2/304 stainless pits in marine atmosphere within a couple of years; galvanised steel sets up galvanic corrosion against the aluminium and rots the panels from behind.
+
+Systems considered, all of which publish coastal warranties at marine specification: **Kalzip** (UK default), **Riverclack** (Italian, well-proven coastal), **PREFA** (Austrian, broad colour range), **VMZINC Pigmento Aluminium**.
+
+**Build-up impact:** ~30mm total (panel ~1mm + ventilated batten cavity ~25mm + clips). No change to our 100mm wall / 150mm roof PIR + foil VB insulation plan — cladding is a rainscreen only.
+
+**What we'd value your steer on:**
+
+- Acceptance of standing-seam aesthetic in the Kemp Town Conservation Area. Anthracite/charcoal is our target tone — discreet, recessive against the cream Regency stucco context, and hides gull marks best. If planning push back on metal, our fallback is Equitone Tectiva in mid-grey (TE20/TE30).
+- Preferred system manufacturer from the four shortlisted above.
+- Roof-to-wall transition — wrap continuously in one material, or break with a different roof system?
+- Detailing of parapet, window reveal and door reveal terminations.
+
+### Roof of the sauna/wet room building
+
+**Form: basically flat** — a near-flat warm roof with a minimal drainage fall (3–5° to north, just enough to shed water), in **continuous PVDF anthracite aluminium standing seam wrapping over from the wall cladding** so the building reads as a single skin.
+
+**Why flat:** the flat form keeps the structure as low as possible above the parapet. The current height is **~1,293mm above parapet** (flat roof = warm-roof build-up + standing seam ≈ 250–300mm above the internal ceiling). This is **~143mm above the 1,150mm in the revised heritage statement** — the increase comes from the higher finished floor level after inverting the whole main roof section (Part A), not from the building itself growing — and **will need re-presenting to planning**. The earlier pitched form was driven by the older 900mm envelope and the gull-avoidance threshold; the flat form + the bird-wire grid below remain viable and visually simpler from every public viewpoint.
+
+**Build-up:**
+
+| Layer (top to bottom) | Spec |
+|---|---|
+| PVDF anthracite aluminium standing seam | Continuous with wall cladding |
+| UV-stable breather membrane | Tyvek UV Façade or Solitex Fronta WA |
+| Counter-battens / sub-frame | A4 / 316 stainless clips |
+| 150mm PIR between rafters | Thicker than the 100mm wall PIR — heat rises and the ceiling is the hottest surface, and there is no space penalty overhead. Ronan to detail the **wall-to-roof PIR / foil-VB junction** so the vapour barrier stays continuous through the corner |
+| Structural OSB or marine ply deck | 18mm |
+| Internal ceiling lining | **Sauna:** cedar T&G (heat-tolerant softwood, standard sauna spec). **Wet room:** **Aquapanel (or equivalent moisture-resistant cement-board) + bathroom-grade paint** — paintable in any colour (suggest warm white or matt anthracite to echo external cladding), fully waterproof, ~£40-60/m² fitted |
+
+> **Standing-seam roof vs membrane — worth Ronan's steer.** A continuous standing-seam *wrap* (walls + roof in one metal) is a deliberate, smart look — **but at 3–5° it's at the low-pitch limit for standing seam** (most systems want ≥3°, some more). Two routes: **(a)** confirm the chosen system is rated for this low pitch; or **(b)** more robust/cheaper — **standing seam on the (visible) walls + a single-ply membrane on the near-flat roof**, which is barely seen above the 1,293mm parapet. *(One point for keeping metal on the roof: the gull grid clamps to the seams without penetration — below.)*
+
+**Gull deterrent on the roof surface:** a low-profile **stainless post-and-wire grid** across the surface, matching the Part I parapet system — 3-wire layout, posts at ~1m centres, 85–90mm above the surface. **Posts fix via non-penetrating seam clamps that grip the raised standing seams — no holes in the roof** (the standard way to mount anything on standing seam). *(If the roof is a membrane instead, posts sit on weighted or adhered bases — still no penetration.)* Same materials and install team as the parapet deterrent, visually consistent.
+
+**Drainage:** small gutter along the low (north) edge discharging onto the terrace tile field below, which then drains to the existing roof outlets. No new outlets required.
+
+**What we'd value your steer on:**
+
+- **Confirmation of the final roof height above parapet** — currently ~1,293mm (up from the 1,150mm pre-app figure, driven by the raised FFL); needs Ronan's real build-up depth and real parapet height above the new tile FFL, and re-presentation to planning
+- **Standing seam vs single-ply membrane on the near-flat (3–5°) roof** — confirm the standing-seam system suits this low pitch, or put a membrane on the roof and keep standing seam on the (visible) walls (see note above)
+- Roof-to-wall transition — continuous standing-seam wrap, or break at a discrete fascia line?
+- Wire-grid post fixing — **non-penetrating seam clamps** on the standing seam (no roof penetration); confirm the clamp type, or the equivalent weighted/adhered base if the roof becomes a membrane
+
+---
+
+# PART N — WET ROOM
+
+> **🗓 Phase 2** (needs planning/LBC). *Phase-1 provisions to build in now:* the WC soil, linear-drain, basin, electric-shower and external-shower roof penetrations, plus the electrical first-fix. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
+**Internal dimensions:** 2.15m (north–south) × **940mm wide (east–west), narrowing to 720mm** where the room doglegs around the existing terrace wall.
+**Minimum internal ceiling height:** 2.1m (2100mm — same as sauna; single internal ceiling height across the whole building)
+
+> **Wet room doglegs around the terrace wall.** The room is **940mm wide** in its wider section and **steps in to 720mm** where it passes the existing terrace wall; length (north–south) stays 2.15m. The fittings (WC, basin, shower) and the drain run need setting out against the **720mm pinch point** to confirm everything still has working clearance. *Ronan / kit supplier to confirm the exact position of the step and which fittings it affects.*
+
+> **Change from pre-application — note for planning:** The pre-app drawings showed a combined **sauna + store**. In the refined scheme the store moves out of the elevated structure into two low outdoor cabinets below parapet height (see Part G), and the freed volume becomes a **wet room (with WC)**. The **enclosed footprint is broadly unchanged in area** (~7.22 m² bounding, within the ~7.6 m² already accepted), but the structure has been **reshaped into a compact mass and set back 3 m from the Bristol Gardens parapet** (was 0.6 m) — directly answering the pre-app advice. See the [Planning Case](#planning-case--why-the-refined-scheme-merits-support) section for the full comparison.
+
+## Layout
+
+```
+SOUTH                                            NORTH (door)
+
+                  TOP/WEST WALL (2.15m)
+        ┌──────────────────────┬──────┬═════════════════┐
+        │                      │      ║                 │
+        │                      │ SINK ║   ELECTRIC      │
+        │       TOILET         │ on   ║   SHOWER        │ ← DOOR
+        │    on south wall     │ west ║  on west wall   │
+        │                      │ wall ║                 │
+        │                      │      ║                 │
+        └──────────────────────┴──────┴═════════════════┘
+                                       ↑
+                  ║ Linear drain runs east-west across
+                  ║ the full floor width, in the
+                  ║ wet zone (north end of room)
+
+        BOTTOM/EAST WALL (clear standing space)
+
+        ←──── DRY ZONE ──────→  ←──── WET ZONE ────→
+                (~1.0m)                   (~1.15m)
+```
+
+The whole floor is one tanked wet zone — no shower trays, no enclosures, no glass screens.
+
+**Drain position (the key dimension):** linear drain across the full room width at its line, located **1050mm from the north (door) wall**. The floor falls 1:80 from both directions toward the drain — wet zone slopes south, dry zone slopes north. *(Drain length = room width at that line — 940mm or 720mm depending on which side of the dogleg step it falls; confirm against the final step position.)*
+
+## Floor
+
+- Liquid tanking continuous with sauna, walls tanked to 1800mm minimum (full height in wet zone)
+- Sand/cement screed to falls (1:80) toward the linear drain
+- Stainless steel linear drain as above
+- R11 porcelain floor tile, epoxy grout
+
+## Walls
+
+- Cement-board substrate (Hardiebacker, Aquapanel) on stud
+- Porcelain wall tile to ceiling, epoxy grout
+- Silicone to all internal corners and around fittings
+
+## Toilet
+
+- Standard wall-hung WC, ~520–560mm projection (e.g. Roca The Gap, Vitra S20, Geberit iCon)
+- Centred on south wall
+- Concealed cistern in stud framing behind
+
+## Sink
+
+- Wall-hung basin, approx 450mm wide × 350mm projection
+- Single cold tap (no hot water in this room)
+- Top/west wall, immediately north of the toilet
+
+## Electric Shower
+
+- 10.5kW unit (e.g. Mira Sport Max, Triton T90SR, Aqualisa Quartz Electric)
+- Top/west wall, north end of wet zone
+- Cold supply only
+- Dedicated 10mm² circuit, 45A RCBO
+- Ceiling pull-cord isolator within the room, away from the spray zone
+
+## External Cold Shower (North Exterior Wall)
+
+An external shower on the north (hot-tub-facing) exterior wall of the building draws fresh mains-cold water on demand. The natural use sequence: **sauna → step out onto terrace → cold rinse under the external shower → into the hot tub.**
+
+- **Position:** mounted on the **north exterior wall** of the sauna/wet room building, ~2m above terrace tile FFL, accessible from the hot tub zone
+- **Shower head:** **simple large fixed rainfall-style stainless head** (~250-300mm Ø) — no flexible hose, no diverter. Plain, robust, marine-grade brass or 316 stainless body.
+- **Tap:** **single cold lever tap**, surface-mounted brass/stainless, simple quarter-turn or full-turn ceramic-disc cartridge. No mixer (cold-only). Sample: Hansgrohe Croma E or simpler outdoor brass garden-shower lever.
+- **Supply:** tee off the existing terrace cold supply (same as Part E outdoor tap and Part F kitchen sink). Copper, no plastic on exposed runs.
+- **Frost protection:** internal isolation valve and drain-down point so the external run can be drained for winter — consistent with Part E
+- **Drainage:** water falls onto the terrace tiles and drains via the existing tile pedestal void to the existing roof falls. No new drain or gully required. (The tiles slope correctly per Part B.)
+- **Privacy:** the shower is in an open position visible from the hot tub area only — no screening needed (it's a quick rinse, not a full body wash). If privacy is wanted later, a slim freestanding hardwood screen could be added without changing the plumbing.
+
+## Plumbing Summary
+
+- **Cold water only** — taken from existing terrace supply at south wall
+- Cold runs to: toilet cistern (south wall), sink tap (south end of west wall), then along west wall to the electric shower at north end. Separate tee off the terrace supply feeds the **external cold shower** on the north exterior wall.
+- Toilet waste: 110mm soil pipe south to existing soil stack
+- Sink waste: bottle trap, connected to terrace drainage
+- Linear drain: 50mm waste south to terrace drainage
+- External shower drainage: free-falls onto the terrace tile field; drains via pedestal void to the existing roof falls
+
+## Door
+
+- North wall, 762mm leaf
+- Pre-made external cedar door — same supplier as the sauna door, so they match in appearance
+- Weatherproof frame, threshold, compression seals
+- Outward-opening (the current drawing shows inward — please amend)
+- Restrictor chain
+- Approximate cost: £350–600
+
+## Ventilation
+
+- Inline duct extractor fan in ceiling void, ducted out through nearest external wall
+- 15 L/s minimum, IP44 minimum
+- Humidity sensor + overrun timer
+- E.g. Vent-Axia ACM Inline, Manrose CF200T (~£50–80)
+
+## Lighting
+
+- 3× IP65 LED downlights in ceiling, warm white (3000K)
+- Light switch outdoors on the terrace, beside the wet room door — IP55+ weatherproof
+
+## External Switches / Isolators (Wet Room Side)
+
+Grouped on the terrace wall beside the wet room door, IP55+ weatherproof:
+- Wet room light switch (Shelly Plus 1 behind)
+- 3-pole fan isolator (for the extractor fan)
+- 45A DP isolator for the electric shower (in addition to the internal pull-cord)
+
+## External Socket (Terrace)
+
+- 1× IP66 weatherproof double 13A socket on the building's external north wall, east end
+- Mounted at ~450mm FFL
+- Dedicated 20A radial circuit, RCD protected
+- Integral switches; lockable cover optional
+
+---
+
+# PART O — HOT TUB
+
+> **🗓 Phase 2** (needs planning/LBC). It arrives **by crane in Phase 2**, scheduled independently of the scaffold (it's too heavy/bulky to winch up — see [Programme & Phasing](#programme--phasing--two-phase-delivery)). *Phase-1 provisions to build in now:* the 32A radial first-fix, the drain roof penetration, the pedestal/continuous-base area set out, and the footprint left tile-ready.
+
+We're planning to site a hot tub on the terrace alongside the sauna/wet room building. Including this here because the **structural loading on the terrace deck is the critical question for you**, and the model choice drives weight, footprint, and electrical supply. Final model TBC; shortlist below in our preferred order.
+
+> **Structural engineer — draft calculations received (3 June 2026).** Our SE (Conscious Engineering Design Ltd) has confirmed that a **light tub** (a RotoSpa-class tub, ~970kg filled, ~369 kg/m²) works on the **existing structure with no strengthening**, and that the existing steel beam has capacity (see Part A). That check used a lighter tub than our shortlist, so the open question is now **which of our heavier candidates the structure can carry**. We're asking the SE to re-check the **heaviest realistic candidate** (the Marquis Spirit, ~1,280kg / ~365 kg/m²) and to express the result as a **maximum filled weight + maximum load per m²**, so we can buy any tub that comes in under both limits. Final tub choice follows that.
+
+## Footprint envelope
+
+**Maximum hot tub envelope: 170cm wide × 210cm long** (W × L on the drawing — the long axis runs north-south on the terrace).
+
+Shortlist of tubs that fit the envelope is below. Final tub TBC pending SE sign-off on load — the choice will be made from within this envelope only.
+
+## Shortlist (filtered to ≤170 × 210cm envelope)
+
+| # | Model | Origin | Shape | Dimensions | Filled (kg) | kg/m² | Price |
+|---|---|---|---|---|---|---|---|
+| 1 | [Fisher 3](https://fisherspas.com/) | NZ designed (Vortex) | Rectangular | 207 × 153 × 82cm | 1,121 | 354 | £3,500–5,500 |
+
+**Marginal — slightly over the 210cm envelope length, otherwise fit:**
+
+| # | Model | Origin | Shape | Dimensions | Filled (kg) | kg/m² | Price |
+|---|---|---|---|---|---|---|---|
+| (M) | [Pre-owned Marquis Spirit](https://www.hunsburyhottubs.co.uk/hot-tubs/pre-owned/) | USA (Oregon) | Rectangular | 213 × 165 × 91cm (+3cm long) | 1,280 | 365 | £3,500–5,500 |
+| (H) | [Hydropool Serenity 4300](https://www.hydropoolspasandhottubs.co.uk/product/serenity-4300/) | **Canada** (genuine) | Rectangular | 216 × 158 × 86cm (+6cm long) | 1,163 | 342 | ~£7,295 (new) |
+
+**On the radar — Hydropool Serenity 4300 (added 6 June):** the one Hydropool that gets near the envelope. Worth keeping in view for its **patented self-cleaning** (filters all the water every ~15 min — a real plus on a roof terrace that's awkward to drain) and **genuine Canadian build**. Structurally it's comfortable — at **1,163 kg / 342 kg/m² it sits *inside* the Marquis Spirit bounding check** (1,280 / 365), so if that passes, this is covered. The catches: it's **~6cm over the envelope on length** and **~£7,295 new — over our £6k cap** (pre-owned Hydropool is rare in the UK). A premium "if the budget stretches" option, not the value pick.
+
+**Removed (don't fit 170 × 210cm envelope):**
+- RotoSpa Orbis (183cm dia round — too wide)
+- RotoSpa QuatroSpa (200cm dia round — too wide)
+- Pre-owned Hot Spring Hot Spot (213 × 213cm — too big both dims)
+- Pre-owned Jacuzzi J-200 (213 × 213cm — too big both dims)
+- H2O 2000 Series (210 × 180cm — 10cm over on width)
+- Sunbeach SB355L (225 × 180cm — over on both dims)
+
+**Next:** the SE is re-checking the heaviest realistic candidate (Marquis Spirit) to set a **weight limit we can buy within** (see Part A). Within that limit the Fisher 3 is our likely choice; the limit also keeps the door open to a suitable pre-owned premium tub if one comes up.
+
+Filled weight (shell + water, no occupants) is the figure we compare tubs on. **Occupant and dynamic allowances are for the SE to apply** within his calculation. The **kg/m²** column is the load-per-area that drives the joist check — our SE designed the joists for ~369 kg/m², which sits at or above every tub that fits the envelope, so the joists are not expected to be the constraint; the higher total weight on the steel beam is the thing being confirmed.
+
+## Recommended suppliers
+
+- **[RotoSpa](https://www.rotospa.co.uk/)** — direct from manufacturer for the Orbis / QuatroSpa
+- **[Hunsbury Hot Tubs](https://www.hunsburyhottubs.co.uk/hot-tubs/pre-owned/)** (Northampton) — dedicated pre-owned premium specialist; Hot Spring, Jacuzzi, Marquis
+- **[Happy Hot Tubs](https://www.happyhottubs.co.uk/shop-hot-tubs/pre-owned-off-display-hot-tubs)** (7 UK showrooms incl. Sussex) — wet-testing of pre-owned and ex-display
+- **[My Hot Tub Mover](https://www.myhottubmover.co.uk/used-hot-tub-sales.html)** — UK-wide pre-owned, fully wet-tested
+- **[H2O Hot Tubs](https://www.h2ohottubs.co.uk/)** (Nottingham) — for the H2O 2000 with strong UK warranty
+
+## Power supply
+
+Most domestic hot tubs in the shortlist envelope are **single-phase 230V** hard-wired.
+
+- **Dedicated 32A radial** from the flat consumer unit, 30mA RCD-protected, with a **rotary isolator within 1m of the tub** (BS 7671 requirements). Some plug-and-play 13A tubs exist but heat very slowly in winter — 32A is the preferred spec.
+- **Supplementary equipotential bonding** of any metal parts within reach of the tub if required by the regs in force at install.
+- Cable route from the flat CU to the tub position to be planned alongside the sauna heater feed and the terrace lighting circuits — flagging early so the electrician can coordinate runs.
+
+## Drainage
+
+A hot tub holds 700–1,500 litres and is drained periodically (2–3× per year for water change, plus the occasional emergency drain).
+
+- **Drain hose connector** at the base of the tub (standard garden-hose thread).
+- **Discharge route:** ideally to an existing rainwater outlet via a short hose, OR a dedicated tundish to a foul connection if available — needs the surveyor's steer on which terrace drain is closest and has the capacity.
+- Flow rate to be checked against the chosen outlet — a 1,000L drain via standard hose takes ~30 min, which should be within typical roof-drain capacity but worth confirming.
+- **Fill:** via the outdoor tap (Part E) + garden hose — no fixed fill plumbing required.
+
+## What we need from you on this
+
+- **Filled-load sign-off** sits with our SE (see Part A) — he's re-checking the heaviest realistic tub and will give us a maximum filled weight + maximum load per m² to buy within
+- Crane access route up to the terrace. The tub is too heavy/bulky to winch up the scaffold, so it comes **by lorry/mobile crane in Phase 2** once consent is through (independent of the scaffold — see [Programme & Phasing](#programme--phasing--two-phase-delivery)). Please confirm the crane reach / access route **now**, so the later lift isn't a surprise.
+- Best drain route on the terrace — which existing outlet to discharge into, and any tundish / trap detail you'd want
+
+---
+
+# PART P — PARASOLS
+
+> **🗓 Phase 2** ("umbrellas" — with the building). Bring the parasols + weighted bases up during the scaffold window and store them. *Phase-1 provision to build in now:* the pedestal clusters / load-spread positions (or planter-ballast) for the two bases, set out **before** the pedestal grid is fixed. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+
+We've used Morton Parasols before and want to use them again, or an equivalent commercial-grade alternative. Reference: [Morton Malaga commercial parasol](https://www.mortonparasols.com/commercial/malaga/).
+
+## What we need
+
+- **2× side-pole (cantilever) parasols** — clear underneath (like the Morton Malaga we've had for years), **marine / corrosion-grade** for the exposed seafront:
+  - **Dining: 3 × 3m** (square)
+  - **Sofa: ~4m of cover** — the available shape depends on the brand: **Malaga → 4 × 4m square**; **Bambrella → 3 × 4m rectangle** (the Bambrella Hurricane's largest *square* is only 3.4m, so it can't do 4×4 — its sofa option is the rectangle). Both cover the ~4 × 3m sofa footprint. *(For the Bambrella rectangle, confirm the long side reaches **away** from the post; and ask if a 4×4 square is possible as a special.)*
+- **Frame:** marine-grade aluminium with **stainless fittings** (salt-air corrosion is the real enemy here, more than the wind rating)
+- **Fabric:** solution-dyed acrylic (Recasens / Sunbrella or equivalent), Brighton coastal exposure
+- **Model — being finalised; the sofa shape maps to the brand** (Malaga is square-only; Bambrella's max square is 3.4m):
+  - **Morton Malaga** → **3×3 + 4×4 square** pair. Proven, cleaner reviews; **marine version available** + **stainless fittings throughout** as standard; gas-spring "easy-up"; 100mm aluminium mast; **heating + LED available** (incl. battery-LED); from **~£2,900**.
+  - **Bambrella Hurricane Side Wind** → **3×3 square + 3×4 rectangle**. Marine-grade aluminium + stainless; 360° rotation + 45° tilt; integral heaters/LED (mast-internal wiring); **~£1.5–3.1k each**. *(Buy the aluminium Hurricane, not bamboo; confirm the rectangle's orientation.)*
+  - *Wind rating is moot (we furl on a weighted base), so the call is **marine build + track record + price + square-vs-rectangle shape** — and the two are close.* **Getting quotes for both (7 June).**
+
+**Heating / lighting & side panels (both):** both offer integrated **infra-red heating + LED lighting** (Bambrella's is clearly integral — mast-internal wiring, LED in the frame extrusion; Morton's exact fitment to confirm, with a battery-LED fallback). **Neither cantilever offers full side panels** — both do **valances** (short fabric drops for low sun) only. Actual side/wind screening would come from **separate screens** (Morton "terrace screens") or our planters/glass windbreak — not the parasol.
+
+## Bases — weighted, on the tiles, no roof penetration *(revised 8 June 2026)*
+
+We are **not penetrating the roof** (the asphalt waterproofing sits at the very bottom on the deck; piercing it is against IKO's "invert the whole roof so it outlasts the building" approach). So each parasol base is a **free-standing weighted base sitting on the tiles.**
+
+**Why on the tiles, not recessed:** we'd looked at recessing the base down on the Protectoboard (mast collared at the tile plane for extra stability), but the pedestal-void depths rule it out — the **dining area (FA2) is raised ~500mm** (recessing that deep is impractical, so **the dining parasol base must sit on the tiles**) and the **sofa area (FA3) is only ~100mm** (too shallow for a chunky weighted base). So both bases sit on the tile surface. *(A base could alternatively be ballasted/housed within a planter, using its mass + footprint — worth exploring for the sofa.)*
+
+**Consequence:** on a weighted surface base the parasol is **furled in strong wind** — so we're buying for **marine-grade build, not for a wind rating we can't exploit.**
+
+**Loads (critical):** the base is heavy (**~140–280kg**) and bears **base → tile → pedestals → Protectoboard → 220mm (compressible) insulation → deck.** It must **not** point-load a 20mm porcelain tile, so it needs a **load-spreading plate bearing over a cluster of extra pedestals** (load through pedestal heads, not unsupported tile), keeping the pressure within both the tile and insulation limits — **designed with Eterno Ivica, IKO and the SE** (Part B).
+
+The mast lifts out so the surface can be capped flush over winter.
+
+## What we'd value your steer on
+
+- **On-tile base detail** — load-spreading plate over a cluster of extra pedestals so neither the 20mm tile nor the compressible insulation is overloaded; **set out before the pedestal grid is fixed** (Eterno Ivica + IKO + SE)
+- **Whether to ballast/anchor the sofa parasol within a planter** instead, using its mass + footprint
+- **Mast collar / cap detail** at the tile surface — weather-sealed, and capped flush when the parasol is removed
+
+---
+
 # PART Q — TERRACE ACCESS: STUDY DOOR / WINDOW
 
 > **🗓 Phase 2** (fenestration change → LBC). *Phase-1 provision to build in now:* set the narrow-section tile FFL so the future lowered, level threshold will work once the new door/window goes in. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
@@ -2044,7 +2044,7 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 
 ## Change
 
-- **Lower the sill by 170mm** so it sits **flush / level with the internal study floor**, giving a level (or near-level) threshold out onto the narrow terrace — which is now kept low (see Part M, "Levels across the terrace").
+- **Lower the sill by 170mm** so it sits **flush / level with the internal study floor**, giving a level (or near-level) threshold out onto the narrow terrace — which is now kept low (see Part A, "Levels across the terrace").
 - This requires a **new door/window unit** to suit the lowered opening.
 
 ## Planning
