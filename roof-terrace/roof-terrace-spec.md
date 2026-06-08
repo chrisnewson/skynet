@@ -1520,6 +1520,10 @@ Photo-realistic visualisations of each planter at maturity. These are AI-generat
 
 ![N3 mid-west square](artists-impressions/n3.png)
 
+**N4 — Lift over-run herb bed (low fragrant herbs: prostrate rosemary trailing over the edges, lavender, thyme, oregano, santolina):**
+
+![N4 lift over-run herb planter](artists-impressions/n4.png)
+
 **South-end pots (cluster of 5: 1 olive + 4 mixed at SE corner of narrow):**
 
 ![South-end pots](artists-impressions/south-end-pots.png)
