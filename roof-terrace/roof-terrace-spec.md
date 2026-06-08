@@ -1838,10 +1838,18 @@ The whole floor is one tanked wet zone — no shower trays, no enclosures, no gl
 
 ## Floor
 
-- Liquid tanking continuous with sauna, walls tanked to 1800mm minimum (full height in wet zone)
-- Sand/cement screed to falls (1:80) toward the linear drain
-- Stainless steel linear drain as above
-- R11 porcelain floor tile, epoxy grout
+**Build-up change (8 June 2026):** instead of a site-laid sand/cement screed worked to falls, the floor is now a **pre-formed wet room tray kit** — a complete kit consisting of a **wet room tray (floor former) with a built-in slope, a linear drain, and a waste trap**. The former is laid straight onto the structural floor of the building and tiled directly over. **Ronan is specifying the exact tray** (he has the product details); the description here is the make-up we're working to.
+
+Why the change: the kit gives a **factory-formed, guaranteed fall** to the drain (no reliance on the screeding being worked accurately to 1:80 on site), comes **pre-waterproofed**, and adds **acoustic and thermal insulation** in the floor build-up. The **linear drain** option is also the **more affordable** of the kit's drainage choices — in keeping with our aim to keep this floor **low-profile and reasonable-cost**.
+
+- Pre-formed wet room tray (floor former) with **integral slope** to the linear drain — laid onto the building's structural floor, ready to tile straight on
+- **Linear drain** and **waste trap** supplied as part of the kit (linear is the more affordable drainage option vs a centre point drain)
+- **Perfect waterproofing** built in — tanking membrane bonded to / continuous with the former; lapped and continuous with the sauna tanking and with the walls (walls tanked to 1800mm minimum, full height in the wet zone)
+- **Acoustic and thermal insulation** integral to the former
+- R11 porcelain floor tile bonded straight onto the former, epoxy grout
+- **Shower is at the wider (940mm) end of the room** — the tray's drain and fall are set out for the wet zone at that end
+
+> **For Ronan to specify / confirm.** Ronan has the details of the chosen tray. The points for him to tie down against the kit: that the former suits the room's **940mm / 720mm dogleg** around the terrace wall (above) with the **shower at the wider end**, and the **drain line ~1050mm from the north door wall**. Pre-formed trays come in set sizes and slope patterns, so we need either a former sized to the room (cut to the dogleg) or one whose linear-drain position and fall direction match our layout. The earlier design fell **toward the drain from both directions** (wet zone south, dry zone north) — a standard former typically has a **single fall**, so the drain position and fall direction may shift to suit the kit. Steer throughout: keep it **low-profile and reasonable cost**.
 
 ## Walls
 
