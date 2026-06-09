@@ -79,7 +79,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 # Programme & Phasing — Two-Phase Delivery
 
-*For Ronan, and for the contractors (Sussex Asphalt, Seaview, IKO): how the works are split into two phases, and — most importantly — what **Phase 1 must build in now** so **Phase 2 isn't trapped** later.*
+*For Ronan, and for the contractors (Sussex Asphalte, Seaview, IKO): how the works are split into two phases, and — most importantly — what **Phase 1 must build in now** so **Phase 2 isn't trapped** later.*
 
 ## Why two phases
 
@@ -142,7 +142,7 @@ Hoist up **for both phases** while the scaffold is here, and stage in the **buil
 
 This section is foundational to most others — please read alongside PART O (hot tub), PART B (tiling), and PART C (planters), since loads from those land here.
 
-> **Major change since the pre-application and the 31 May drawings — agreed at the 4 June 2026 meeting** (Chris, Ronan, IKO, Sussex Asphalt, Seaview, Coastal Surveyors). The build-up below **supersedes the earlier "warm roof everywhere, inverted only under the hot tub" approach.**
+> **Major change since the pre-application and the 31 May drawings — agreed at the 4 June 2026 meeting** (Chris, Ronan, IKO, Sussex Asphalte, Seaview, Coastal Surveyors). The build-up below **supersedes the earlier "warm roof everywhere, inverted only under the hot tub" approach.**
 >
 > **✅ Now confirmed in writing — IKO Specification SF0079612, issued 08 June 2026** (IKO Permaphalt polymer-modified mastic asphalt, for Sussex Asphalte Ltd). The layer make-ups below have been **updated to match that spec** (which supersedes our earlier provisional figures). Key confirmed points: **warm narrow section = 160mm IKO Enertherm PIR MG**; **inverted main section = 190mm IKO Enertherm XPS** (not the 220mm we'd assumed); **inverted has no separate vapour-control layer** (the deck-level Permaphalt is the vapour barrier); **20-year IKO guarantee** subject to an IKO-registered installer and IKO components only. **Project area on the IKO spec is "circa 140m²"** — reconcile with our ~120m² gross figure (likely a measurement/skirting difference — Ronan to check).
 
@@ -276,9 +276,9 @@ The roofing contractors can **insert and cap drainage penetrations** for us to c
 
 ## Action — detailing required from Ronan Bond
 
-> **Note for Ronan Bond:** please provide the build-up details (inverted main section, warm narrow section, the junction between the two, asphalt-to-building junction including the door-threshold detail) **as a matter of urgency** so they can be discussed with our surveyor, **IKO**, **Sussex Asphalt**, **Seaview** and **Coastal Surveyors**. **Seaview need a specification of works as soon as possible to get it costed** — scheduling is difficult at this time of year and getting the spec to them quickly is key.
+> **Note for Ronan Bond:** please provide the build-up details (inverted main section, warm narrow section, the junction between the two, asphalt-to-building junction including the door-threshold detail) **as a matter of urgency** so they can be discussed with our surveyor, **IKO**, **Sussex Asphalte**, **Seaview** and **Coastal Surveyors**. **Seaview need a specification of works as soon as possible to get it costed** — scheduling is difficult at this time of year and getting the spec to them quickly is key.
 
-**Building Control:** Sussex Asphalt are taking the plan to Building Control to check it.
+**Building Control:** Sussex Asphalte are taking the plan to Building Control to check it.
 
 ## Structure — joists and steel
 
