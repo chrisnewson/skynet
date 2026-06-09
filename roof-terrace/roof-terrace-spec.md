@@ -142,7 +142,9 @@ Hoist up **for both phases** while the scaffold is here, and stage in the **buil
 
 This section is foundational to most others — please read alongside PART O (hot tub), PART B (tiling), and PART C (planters), since loads from those land here.
 
-> **Major change since the pre-application and the 31 May drawings — agreed at the 4 June 2026 meeting** (Chris, Ronan, IKO, Sussex Asphalt, Seaview, Coastal Surveyors). The build-up below **supersedes the earlier "warm roof everywhere, inverted only under the hot tub" approach.** The exact layer specifications (insulation depth, vapour-control-layer position) are **provisional pending IKO's written confirmation** of the make-up — this section will be updated when that confirmation arrives.
+> **Major change since the pre-application and the 31 May drawings — agreed at the 4 June 2026 meeting** (Chris, Ronan, IKO, Sussex Asphalt, Seaview, Coastal Surveyors). The build-up below **supersedes the earlier "warm roof everywhere, inverted only under the hot tub" approach.**
+>
+> **✅ Now confirmed in writing — IKO Specification SF0079612, issued 08 June 2026** (IKO Permaphalt polymer-modified mastic asphalt, for Sussex Asphalte Ltd). The layer make-ups below have been **updated to match that spec** (which supersedes our earlier provisional figures). Key confirmed points: **warm narrow section = 160mm IKO Enertherm PIR MG**; **inverted main section = 190mm IKO Enertherm XPS** (not the 220mm we'd assumed); **inverted has no separate vapour-control layer** (the deck-level Permaphalt is the vapour barrier); **20-year IKO guarantee** subject to an IKO-registered installer and IKO components only. **Project area on the IKO spec is "circa 140m²"** — reconcile with our ~120m² gross figure (likely a measurement/skirting difference — Ronan to check).
 
 ## Roof build-up — two systems (by section, not by zone)
 
@@ -163,41 +165,55 @@ The two roof sections now get different systems:
 | 18mm board | The two board layers surprised everyone — unusual to find two |
 | Joists | Existing structure |
 
-### Proposed main (large) section — fully inverted *(provisional, pending IKO written confirmation)*
+### Main (large) section — fully inverted *(per IKO spec SF0079612, 08 Jun 2026)*
+
+| Layer (top to bottom) | Notes |
+|---|---|
+| Tiles | 20mm porcelain on pedestals (Part B) — this is our finish on top of the IKO inverted system |
+| Pedestals | **Eterno Ivica** (chosen 7 Jun), **rubber acoustic pads top *and* bottom** in this section (most sound isolation — see Part B). Pedestals/paving supports sit on the WCL below |
+| **IKO Enertherm WCL (Water Control Layer)** | Laid **over** the insulation, under the paving supports — reduces rainwater cooling of the insulation; IKO's standard inverted finish layer |
+| **190mm IKO Enertherm XPS** | Inverted-roof insulation — **extruded polystyrene, HFC-free, ~300 kPa compressive (load-bearing grade)**, loose-laid, rebated, 300mm laps; achieves U ≈ 0.16. *(Was provisionally 220mm — IKO confirms 190mm.)* |
+| Non-woven geotextile fleece | Below the XPS — stops the insulation bonding to the asphalt |
+| **IKO Permaphalt 20mm** (2 × 10mm coats) | Waterproofing **on the deck**, over IKO Black Sheathing Felt separating layer. **This is also the vapour barrier — an inverted roof needs no separate VCL** (resolves the earlier "VCL position" query) |
+| **New 18mm plywood / OSB3 deck** | IKO strip the existing waterproofing **and** old decking/insulation back to the joists and lay a **new** 18mm ply or OSB3 deck |
+| Joists | Existing structure (SE to confirm it carries the new loads) |
+
+### Narrow section — warm roof *(per IKO spec SF0079612, 08 Jun 2026)*
 
 | Layer (top to bottom) | Notes |
 |---|---|
 | Tiles | 20mm porcelain on pedestals (Part B) |
-| Pedestals | **Eterno Ivica** (chosen 7 Jun), **rubber acoustic pads top *and* bottom** in this section (most sound isolation — see Part B) |
-| **IKO Protectoboard** | Over the whole area — protects the membrane/insulation and **spreads pedestal + point loads onto the insulation** (see below) |
-| **220mm insulation** | Inverted-roof insulation (IKO), above the asphalt — **compressible**, so concentrated loads (hot tub, parasol bases) must be spread (Part B) |
-| 20mm asphalt | Waterproofing on the deck |
-| Vapour control layer | *Position to be confirmed by IKO — Chris noted the order here may be wrong* |
-| 18mm board | |
-| Joists | |
-
-### Proposed narrow section — warm roof *(provisional, pending IKO written confirmation)*
-
-| Layer (top to bottom) | Notes |
-|---|---|
-| Tiles | Porcelain on pedestals (Part B) |
 | Pedestals | **Rubber acoustic pads on bottom only** in this section (less sound isolation needed — see Part B) |
-| Protectoboard | |
-| 20mm asphalt | Waterproofing on top |
-| Vapour control layer | |
-| 160mm insulation | Warm-roof insulation, above the deck |
-| 18mm board | |
-| Joists | |
+| **IKO Protectoboard 3.2mm** | Over the Permaphalt, under the paving supports — point-load protection |
+| **IKO Permaphalt 20mm** (2 × 10mm coats) | Waterproofing **on top** of the insulation, over IKO Black Sheathing Felt separating layer |
+| **160mm IKO Enertherm PIR MG** | Warm-roof insulation (2-board), bonded to the AVCL in PU adhesive; achieves U ≈ 0.16 |
+| **IKO Ultra S-A AVCL** | Air & vapour control layer **below** the insulation, over IKOpro Bonding Agent (warm-roof VCL) |
+| **New 18mm plywood / OSB3 deck** | New deck on the joists (existing stripped back) |
+| Joists | Existing structure |
 
-The lead upstands are expected to work with these build-ups.
+> **Solar reflective paint:** IKO call for white solar-reflective coating to all **exposed** Permaphalt (e.g. perimeter margins and skirtings). Most of the field is hidden under tiles/insulation, so this only applies to any visible asphalt.
+
+> **Protectoboard vs WCL — note for Ronan/IKO.** Our earlier "**Protectoboard over the entire terrace**" assumption is only half right against the IKO spec: IKO put **Protectoboard on the warm narrow section**, but on the **inverted main section the layer over the insulation is the WCL** (with paving supports on it), not Protectoboard. If we still want **Protectoboard locally under the concentrated loads** (hot tub, parasol bases) on the inverted section for extra point-load protection, that's a **variation to agree with IKO in writing** (see guarantee note below).
 
 ## Finished roof height — needs quantifying
 
-Inverting the whole main section will **raise the finished floor level (FFL) above the current 31 May drawings.** The exact rise depends on IKO's confirmed insulation depth. Ronan needs to quantify it because it affects:
+Inverting the whole main section will **raise the finished floor level (FFL) above the current 31 May drawings.** **IKO have now confirmed the inverted insulation as 190mm XPS (not the 220mm we'd assumed)** — about **30mm thinner**, so the FFL rise (and therefore the sauna's above-parapet height) should be **a little less than the ~1,293mm figure** we'd been carrying. Ronan to recompute the exact rise from the confirmed 190mm build-up because it affects:
 
-- The relationship of the FFL to the parapet, and therefore the **roof height above parapet** for the sauna/wet room building — now ~1,293mm, up from the 1,150mm accepted at pre-app (heritage constraint — Part M); the increase needs re-presenting to planning
+- The relationship of the FFL to the parapet, and therefore the **roof height above parapet** for the sauna/wet room building — provisionally ~1,293mm (based on the old 220mm assumption), up from the 1,150mm accepted at pre-app (heritage constraint — Part M); **recompute on 190mm — likely lower, which helps reduce the exceedance** over the pre-app figure. The increase still needs re-presenting to planning
 - The **glass guarding heights** (Part L), measured from FFL / hot tub rim
 - The **railing height top-up** (wires / timber + wires) on the narrow section (Part H)
+
+## IKO spec — conditions that affect our design
+
+Three conditions in the IKO spec (SF0079612) need flagging because they push back on things elsewhere in this document:
+
+- **⚠ 150mm minimum upstand — conflicts with our level thresholds.** IKO require all waterproofing to upstands, sills, **door thresholds** and DPC/cavity trays to terminate **at least 150mm above the finished roof level**, and state they *"cannot take responsibility for water ingress over waterproofing details below the minimum height."* This is in direct tension with:
+  - the **level / flush study threshold** (Part Q — dropping the sill to internal floor level), and
+  - the **low sauna / wet-room door thresholds** opening onto FA3.
+  
+  Both need a **proper level-threshold detail from Ronan** (e.g. a threshold drainage channel / slot drain immediately outside the door, proprietary low-threshold section) — and Chris should accept that a sub-150mm threshold may sit **outside IKO's guarantee** at that specific detail. **Resolve with Ronan + IKO before the roof is closed.**
+- **Falls are not being improved — some ponding may remain.** IKO state the spec makes **no allowance for changing the existing drainage falls**, so *"any standing water which currently occurs is likely to remain."* Minimum design fall is **1:80**. On the inverted main this is low-risk (the asphalt under the insulation is fully waterproof), but if we want to cure existing ponding it needs a **tapered insulation / screed scheme** as a priced extra — flag to Ronan / Sussex Asphalte.
+- **Guarantee = 20 years, conditional.** The IKO guarantee (materials + workmanship) requires an **IKO-registered installer** (Sussex Asphalte) using **IKO components only**. **Any variation** — e.g. adding Protectoboard on the inverted section, substituting a component, or a sub-150mm threshold — **must be agreed with IKO in writing in advance**, or the guarantee can be reduced/withdrawn. Build any such variations into the spec of works issued to Sussex Asphalte.
 
 ## Levels across the terrace — three zones, two levels
 
@@ -226,21 +242,22 @@ Inverting the whole main section will **raise the finished floor level (FFL) abo
 - **Narrow-section railing raising (Part H) reduces** — with the narrow floor now barely rising, the retained railings need little or no added height; revisit once the low FFL is fixed.
 - **Drainage falls** on each zone, and at the step line, to be set out so water sheds correctly across both levels.
 
-## Protectoboard over the entire terrace
+## Protecting the waterproofing — by section *(revised to match IKO spec)*
 
-We want **Protectoboard installed over the top of the asphalt across the whole terrace** — both the inverted main section and the warm narrow section. This protects the membrane from:
+*We'd originally written "Protectoboard over the entire terrace." The IKO spec arranges this differently on each section, because the asphalt is in a different place:*
 
-- Pedestal point loads from the tile system (Part B)
-- Planter bases and their drainage discharge (Part C)
-- Hot tub base (Part O)
-- Parasol bases and any other recessed cassettes (Part P)
-- Foot traffic during installation and any future maintenance
+- **Warm narrow section** — the Permaphalt is on **top** (above the insulation), so **IKO Protectoboard 3.2mm goes over the Permaphalt**, with the paving supports on it. This is the membrane protection here.
+- **Inverted main section** — the Permaphalt is at the **bottom** (on the deck), **buried and protected under the 190mm XPS insulation**, so there's no asphalt at the surface to "board over." The surface layer over the insulation is the **IKO Enertherm WCL**, with the paving supports on it. The membrane is protected by being below the insulation.
 
-No acoustic underlay mat above the Protectoboard (Protectoboard alone is the substrate for the pedestals — see Part B).
+What this protects against (both sections): pedestal point loads from the tile system (Part B), planter bases and their drainage discharge (Part C), the hot tub base (Part O), parasol bases (Part P), and foot traffic during install/maintenance.
 
-## Building footprint — built on top of the Protectoboard
+> **Extra protection under concentrated loads (inverted section):** if we want **local IKO Protectoboard** (or an APP slate felt) under the hot tub and parasol-base clusters on the inverted section for added point-load protection, that's an **addition to IKO's standard inverted finish — agree it with IKO in writing** so the guarantee stands (see "IKO spec — conditions that affect our design" above).
 
-**Change agreed at the 4 June meeting:** the sauna / wet room building will now be **built on top of the Protectoboard**, on the inverted main-section build-up — *not* on its own lower slab with the asphalt dressed up to the building line (the earlier approach, now superseded).
+No acoustic underlay mat above the protection layer (it alone is the substrate for the pedestals — see Part B).
+
+## Building footprint — built on top of the inverted build-up
+
+**Change agreed at the 4 June meeting:** the sauna / wet room building will now be **built on top of the inverted main-section build-up** (over the XPS insulation / WCL, on the protected Permaphalt below) — *not* on its own lower slab with the asphalt dressed up to the building line (the earlier approach, now superseded). *(We'd previously written "on top of the Protectoboard"; on the inverted section the surface layer is the WCL over the XPS — see "Protecting the waterproofing" above. Ronan to confirm the exact bearing detail for the building base on the inverted system.)*
 
 - This keeps the build-up continuous under the building and is simpler to detail.
 - All drainage / service penetrations under the building footprint must be set out **before** the roof is closed up (see Plumbing note below).
@@ -265,20 +282,22 @@ The roofing contractors can **insert and cap drainage penetrations** for us to c
 
 ## Structure — joists and steel
 
-Our structural engineer (**Conscious Engineering Design Ltd**) has issued **draft calculations** (SET 1, dated 3 June 2026). This part of the building was **built in 2011**, so the members are modern and the engineer has **measured them on site** rather than assuming sizes.
+Our structural engineer (**Conscious Engineering Design Ltd**) has issued **calculations SET 1, Rev A (dated 8 June 2026)**, superseding the 3 June draft. This part of the building was **built in 2011**, so the members are modern and the engineer has **measured them on site** rather than assuming sizes. Rev A adds a check of a heavier hot tub at our request.
 
-**Headline findings (draft):**
+**Headline findings (Rev A).** The engineer bracketed the hot tub question with the two extreme base geometries, since the worst case for each member is a different tub:
 
-- **Existing roof joists** — 50 × 225mm C24 at 400mm centres, running **east–west** — **PASS with no strengthening** for a **light hot tub** (a RotoSpa-class tub, ~970kg filled, ~369 kg/m² load intensity), at ~57% of bending capacity.
-- **Existing steel beam** — UKB 305 × 165 × 46, grade S275, running **north–south** (along the top edge of where the parasol sits in the NE corner) — **has capacity** for the same case, with large headroom (~36% utilised; lateral-torsional buckling governs).
+- **Existing roof joists** — 50 × 225mm C24 at 400mm centres, running **east–west** — **PASS with no strengthening**. The **joists are the controlling element**, and they are governed by the **lighter, small-footprint round tub** (modelled on a RotoSpa Orbis II, ~970kg, ~369 kg/m²), whose compact base concentrates load onto fewer joists (1.447 kN/m on the worst joist). Worst check is bending at **~57% utilised (≈43% remaining)**; the other joist checks sit at ~46–67% remaining.
+- **Existing steel beam** — UKB 305 × 165 × 46, grade S275, running **north–south** (along the top edge of where the parasol sits in the NE corner) — **has capacity with large headroom**. The beam is governed by the **heavier, wider tub** (modelled on a Marquis Spirit), at **~37% utilised (≈63% remaining)**; lateral-torsional (buckling-moment) resistance governs.
 
-**Still draft — to be confirmed:**
+The engineer notes the ~50% remaining joist capacity is **a comfortable margin to absorb the sauna loading** once that is defined.
 
-- **Final hot tub.** The check used a lighter tub than our shortlist. The engineer is to re-check the joists and beam against the **heaviest model we're realistically considering** (the Marquis Spirit, ~1,280kg / ~365 kg/m²), so we can buy any tub within a confirmed weight limit (see Part O). On a load-per-m² basis every tub that fits our footprint envelope sits at or below the 369 kg/m² already designed for, so the joists are not expected to need strengthening; the open question is the higher total weight on the beam.
-- **Sauna / wet room building.** Not yet in the calculations. The sauna sits a metre or two from the hot tub, so it lands on **different joists** (a separate joist check still to come) but on the **same steel beam** — so the beam must be re-checked for the combined sauna + tub load once the building's construction is defined.
-- **Decking / pedestal + inverted build-up load.** The calc used an assumed 0.4 kN/m² for the tile finish; the real figure from the inverted build-up (above / Part B) is to be confirmed to the engineer.
+**Still to be confirmed:**
 
-**Doubled joists** in the **NW quadrant** (the hot tub zone) were previously assumed as a fallback. The draft calc shows a light tub needs **none**; whether a heavier tub triggers doubling will come out of the re-check. All parties confirmed at the 4 June meeting they are comfortable doubling joists where the calculations require it; they saw no problem with it.
+- **Hot tub weight basis.** Rev A confirms two *specific* models rather than issuing a single "maximum filled weight" limit. The heavier tub was modelled at **~1,000kg fully-occupied wet**, which is lighter than the figures on our own shortlist (Fisher 3 ~1,121kg; Marquis Spirit ~1,280kg — see Part O). On a **load-per-m² basis the joists are covered**, since every shortlist tub sits at or below the 369 kg/m² that governs them. We are asking the engineer to **confirm the weight basis** (whether occupants are carried separately in the 1.5 kN/m² imposed load) and, ideally, to express the result as a **single max filled weight + max kg/m²** so we can buy any tub under both limits.
+- **Sauna / wet room building.** Not yet in the calculations. The sauna sits a metre or two from the hot tub, so it lands on **different joists** (a separate joist check still to come) but on the **same steel beam** — so the beam must be re-checked for the combined sauna + tub load once the building's construction is defined. The engineer has asked Ronan for the sauna structure specification to do this.
+- **Decking / pedestal + inverted build-up load.** The calc used an assumed 0.4 kN/m² for the tile finish; the real figure from the inverted build-up (above / Part B) is to be confirmed to the engineer. He has asked Ronan for the raised-decking and pedestal details.
+
+**Doubled joists** in the **NW quadrant** (the hot tub zone) were previously assumed as a fallback. Rev A shows **none are needed** for either tub checked. All parties confirmed at the 4 June meeting they are comfortable doubling joists where the calculations require it; they saw no problem with it.
 
 ## Programme / phasing (from the 4 June meeting)
 
@@ -344,18 +363,18 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 - Padded head pedestals only — no unpadded basic systems
 - Self-levelling head strongly preferred
 - Pedestal base wide enough to distribute load over Protectoboard without point-loading damage
-- **Extra pedestals under the planters:** the planters (Part C) are built **on top of the finished tiles** and are heavy (~250–350 kg/m² saturated). Add pedestals under the **planter bearer lines** so the planter load transfers tile → pedestal → Protectoboard, never onto the unsupported middle of a tile. Planter footprints (Part C inventory) to be issued to the tiler **before the pedestal grid is set out**.
+- **Extra pedestals under the planters:** the planters (Part C) are built **on top of the finished tiles** and are heavy (~250–350 kg/m² saturated). Add pedestals under the **planter bearer lines** so the planter load transfers tile → pedestal → protection layer (Protectoboard on the warm narrow / WCL on the inverted main) → insulation → deck, never onto the unsupported middle of a tile. Planter footprints (Part C inventory) to be issued to the tiler **before the pedestal grid is set out**.
 
 **Chosen system: Eterno Ivica** (SE self-levelling range) — *confirmed 7 June 2026* (Buzon DPH was the alternative). The Eterno Ivica system is designed for ~100 kg/m² with pedestals at the slab corners; at our pedestal heights (350–500mm on the main section) **mid-edge and central pedestals are also required** per their guidance — and **more again under concentrated loads** (below).
 
 > **⚠ Load-bearing — planters, hot tub and parasol bases: detail to the pedestal manufacturer's recommendations.** These concentrated loads sit on the pedestal-and-tile field and **must not point-load a tile mid-span**:
-> - **Planters** (Part C) — heavy **sustained** loads, ~250–350 kg/m² saturated, in long runs on top of the tiles. **The pedestal grid must be designed around every planter** — extra pedestals on the planter bearer lines — and the **sustained weight on the compressible 220mm insulation** checked for long-term compression. **Issue every planter footprint to Eterno Ivica + the SE.**
+> - **Planters** (Part C) — heavy **sustained** loads, ~250–350 kg/m² saturated, in long runs on top of the tiles. **The pedestal grid must be designed around every planter** — extra pedestals on the planter bearer lines — and the **sustained weight checked for long-term creep** of the inverted XPS insulation. **Issue every planter footprint to Eterno Ivica + the SE.**
 > - **Hot tub** (Part O) — ~1,160–1,280 kg over ~3.2 m² ≈ **~360–400 kg/m²**
 > - **Parasol bases** (Part P) — heavy (~140–280kg), **weighted, sitting on the tiles** (the dining FA2 is raised ~500mm so it can't recess; no roof penetration). Need a **load-spreading plate over a cluster of extra pedestals** — designed with Eterno Ivica + IKO + SE.
 >
-> Their support is to be designed **per Eterno Ivica's published load tables and IKO's point-load guidance** — extra/closer-spaced pedestals on the load lines, the correct pedestal rating, and load spread so the path is base/bearer → tile-over-pedestals → pedestals → **IKO Protectoboard → 220mm (compressible) insulation → asphalt → deck**.
+> Their support is to be designed **per Eterno Ivica's published load tables and IKO's point-load guidance** — extra/closer-spaced pedestals on the load lines, the correct pedestal rating, and load spread so the path is base/bearer → tile-over-pedestals → pedestals → **(inverted main: WCL → 190mm XPS insulation → Permaphalt → deck; warm narrow: Protectoboard → Permaphalt → 160mm PIR → deck)**.
 >
-> **The 220mm inverted-roof insulation is compressible** — so a concentrated load (e.g. a **parasol base of ~140–280kg**, or the hot tub) must be spread over enough pedestals / Protectoboard that the pressure stays within **both** the 20mm-porcelain tile rating **and** the insulation's compressive limit. Don't stand a heavy base on bare tiles.
+> **The inverted insulation is now confirmed as 190mm IKO Enertherm XPS** (per IKO spec SF0079612), a **load-bearing grade at ~300 kPa** (≈30 t/m²) — much stiffer than a soft PIR, so the earlier "compressible insulation" worry is reduced: a hot tub at ~360–400 kg/m² (~4 kPa) is well within its rating. The real checks are therefore (a) **point loading of the 20mm porcelain tile** (don't stand a heavy base on bare tile — spread over pedestals) and (b) **long-term creep under sustained loads**. Confirm both with Eterno Ivica + the SE; don't stand a heavy base on bare tiles.
 >
 > **Issue the planter footprints (Part C), the hot-tub footprint (Part O) and the parasol base positions (Part P) to Eterno Ivica, IKO and the SE before the pedestal grid is set out.** Ways to handle heavy bases: a **load-spreading plate** over several pedestals; a **continuous base** for the hot tub; or **ballasting/anchoring a parasol within a planter** (using the planter's mass and footprint — which could also let a parasol be properly anchored despite the no-fix inverted roof). Confirm the chosen approach with the suppliers and SE.
 
@@ -1941,7 +1960,7 @@ Grouped on the terrace wall beside the wet room door, IP55+ weatherproof:
 
 We're planning to site a hot tub on the terrace alongside the sauna/wet room building. Including this here because the **structural loading on the terrace deck is the critical question for you**, and the model choice drives weight, footprint, and electrical supply. Final model TBC; shortlist below in our preferred order.
 
-> **Structural engineer — draft calculations received (3 June 2026).** Our SE (Conscious Engineering Design Ltd) has confirmed that a **light tub** (a RotoSpa-class tub, ~970kg filled, ~369 kg/m²) works on the **existing structure with no strengthening**, and that the existing steel beam has capacity (see Part A). That check used a lighter tub than our shortlist, so the open question is now **which of our heavier candidates the structure can carry**. We're asking the SE to re-check the **heaviest realistic candidate** (the Marquis Spirit, ~1,280kg / ~365 kg/m²) and to express the result as a **maximum filled weight + maximum load per m²**, so we can buy any tub that comes in under both limits. Final tub choice follows that.
+> **Structural engineer — calculations SET 1, Rev A received (8 June 2026).** Our SE (Conscious Engineering Design Ltd) checked **two bounding tubs** — a light round tub (worst case for the joists, which are the controlling element) and a heavier wide tub (worst case for the steel beam) — and **both pass on the existing structure with no strengthening** (see Part A). The joists retain **~43–56% capacity** and the beam **~63%**, which the SE calls a comfortable margin for the sauna load still to be added. **Open question:** the heavier tub was modelled at **~1,000kg**, lighter than our shortlist figures (Fisher 3 ~1,121kg; Marquis Spirit ~1,280kg). On a **kg/m² basis the joists are covered** for every shortlist tub; we're asking the SE to confirm the weight basis and ideally give a single **max filled weight + max kg/m²** to buy within. Final tub choice follows that.
 
 ## Footprint envelope
 
@@ -1972,7 +1991,7 @@ Shortlist of tubs that fit the envelope is below. Final tub TBC pending SE sign-
 - H2O 2000 Series (210 × 180cm — 10cm over on width)
 - Sunbeach SB355L (225 × 180cm — over on both dims)
 
-**Next:** the SE is re-checking the heaviest realistic candidate (Marquis Spirit) to set a **weight limit we can buy within** (see Part A). Within that limit the Fisher 3 is our likely choice; the limit also keeps the door open to a suitable pre-owned premium tub if one comes up.
+**Next:** the SE's Rev A (8 June) confirms both bounding tubs pass (see Part A). We're asking him to confirm the weight basis and pin down a single **max filled weight we can buy within** — worth nailing because the **Fisher 3 (1,121kg), our likely choice, is heavier than the ~1,000kg he modelled for the heavy case**, though its kg/m² (354) is within the joist limit and the beam has large margin. The limit also keeps the door open to a suitable pre-owned premium tub if one comes up.
 
 Filled weight (shell + water, no occupants) is the figure we compare tubs on. **Occupant and dynamic allowances are for the SE to apply** within his calculation. The **kg/m²** column is the load-per-area that drives the joist check — our SE designed the joists for ~369 kg/m², which sits at or above every tub that fits the envelope, so the joists are not expected to be the constraint; the higher total weight on the steel beam is the thing being confirmed.
 
@@ -2003,7 +2022,7 @@ A hot tub holds 700–1,500 litres and is drained periodically (2–3× per year
 
 ## What we need from you on this
 
-- **Filled-load sign-off** sits with our SE (see Part A) — he's re-checking the heaviest realistic tub and will give us a maximum filled weight + maximum load per m² to buy within
+- **Filled-load sign-off** sits with our SE (see Part A) — Rev A (8 June) confirms two bounding tubs pass with no strengthening; we're awaiting his confirmation of the weight basis and a single maximum filled weight + maximum load per m² to buy within
 - Crane access route up to the terrace. The tub is too heavy/bulky to winch up the scaffold, so it comes **by lorry/mobile crane in Phase 2** once consent is through (independent of the scaffold — see [Programme & Phasing](#programme--phasing--two-phase-delivery)). Please confirm the crane reach / access route **now**, so the later lift isn't a surprise.
 - Best drain route on the terrace — which existing outlet to discharge into, and any tundish / trap detail you'd want
 
@@ -2037,7 +2056,7 @@ We are **not penetrating the roof** (the asphalt waterproofing sits at the very 
 
 **Consequence:** on a weighted surface base the parasol is **furled in strong wind** — so we're buying for **marine-grade build, not for a wind rating we can't exploit.**
 
-**Loads (critical):** the base is heavy (**~140–280kg**) and bears **base → tile → pedestals → Protectoboard → 220mm (compressible) insulation → deck.** It must **not** point-load a 20mm porcelain tile, so it needs a **load-spreading plate bearing over a cluster of extra pedestals** (load through pedestal heads, not unsupported tile), keeping the pressure within both the tile and insulation limits — **designed with Eterno Ivica, IKO and the SE** (Part B).
+**Loads (critical):** the base is heavy (**~140–280kg**) and bears **base → tile → pedestals → (inverted main: WCL → 190mm XPS insulation → Permaphalt → deck).** It must **not** point-load a 20mm porcelain tile, so it needs a **load-spreading plate bearing over a cluster of extra pedestals** (load through pedestal heads, not unsupported tile). The XPS is a load-bearing grade (~300 kPa), so the key checks are the tile point-load and long-term creep — **designed with Eterno Ivica, IKO and the SE** (Part B).
 
 The mast lifts out so the surface can be capped flush over winter.
 
