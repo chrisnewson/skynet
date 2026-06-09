@@ -150,7 +150,7 @@ Hoist up **for both phases** while the scaffold is here, and stage in the **buil
 | **Builder** | **Seaview Building Company** — Nigel | nigel@seaviewbuildingcompany.co.uk |
 | **Roofing manufacturer** (Permaphalt spec & guarantee) | **IKO PLC (UK)** — James Eden, Area Business Manager (Mastic Asphalt) | James.Eden@IKO.com · office 01257 255771 · mob 07836 350392 · www.ikogroup.co.uk · Reg. office: Appley Lane North, Appley Bridge, Wigan WN6 9AB |
 | **Building Surveyors** | **Coastal Surveyors & Consultants** — Alexander Gathern MCIOB BSc (Hons) DipFD AaPS, Managing Director & Senior Building Surveyor | contact@coastalsurveyorsandconsultants.com · 01273 805005 · Brighton City Airport, The Terminal Building, Cecil Pashley Way, Shoreham-by-Sea BN43 5FF · www.coastalsurveyorsandconsultants.com |
-| **Albert Cooper** | Ellie Loveden *(role TBC)* | ellie@albertcooper.com |
+| **Managing Agent** (22 Sussex Square) | **Albert Cooper** — Ellie Loveden | ellie@albertcooper.com |
 | **Planning Officer**, Brighton & Hove City Council | Charlie Partridge | charlie.partridge@brighton-hove.gov.uk · 01273 292205 |
 | **Principal Planning Officer** (Heritage & Projects), BHCC | Lance Penman IHBC | lance.penman@brighton-hove.gov.uk |
 
@@ -235,6 +235,18 @@ Three conditions in the IKO spec (SF0079612) need flagging because they push bac
 - **Falls are not being improved — some ponding may remain.** IKO state the spec makes **no allowance for changing the existing drainage falls**, so *"any standing water which currently occurs is likely to remain."* Minimum design fall is **1:80**. On the inverted main this is low-risk (the asphalt under the insulation is fully waterproof), but if we want to cure existing ponding it needs a **tapered insulation / screed scheme** as a priced extra — flag to Ronan / Sussex Asphalte.
 - **Guarantee = 20 years, conditional.** The IKO guarantee (materials + workmanship) requires an **IKO-registered installer** (Sussex Asphalte) using **IKO components only**. **Any variation** — e.g. adding Protectoboard on the inverted section, substituting a component, or a sub-150mm threshold — **must be agreed with IKO in writing in advance**, or the guarantee can be reduced/withdrawn. Build any such variations into the spec of works issued to Sussex Asphalte.
 
+## ⚠ Tiling support on the inverted roof — key question for IKO *(Ronan to lead, copying Coastal)*
+
+How our tile finish bears on the **inverted main section** is not yet resolved and needs IKO's confirmation. IKO's spec does contemplate *"paving slabs on supports, laid over the WCL"* — so pedestals on the inverted finish are allowed in principle — but three things need pinning down:
+
+1. **Tall pedestals under the raised dining (FA2, ~350–500mm).** Standard inverted paving sits on **low** supports. Pedestals up to **500mm** concentrate load on a small base on the **XPS** (firm at ~300 kPa but can creep under sustained load) and raise lateral-stability and wind concerns. Confirm with IKO whether tall pedestals are acceptable **bearing on the WCL/XPS**, whether a **load-distribution layer** (e.g. Protectoboard, a bearing pad or a wider base plate) is needed under each pedestal, or whether the raised zone needs a **different support solution** (e.g. a separate raised sub-structure). *(Also one for the SE — Allan Wiseman — on lateral stability and the raised-platform load path.)*
+
+2. **⚠ Wind-uplift ballast — possible shortfall.** IKO require a **minimum loading coat of 80 kg/m²** over the XPS to resist wind uplift (their stated figure for sheltered / sub-10-storey buildings; our **exposed seafront** site may need more). **Our 20mm porcelain weighs only ~46 kg/m²** — *below* 80 — so the tile-on-pedestal finish may **not hold the insulation down on its own**. Confirm with IKO how uplift is satisfied on the inverted field: thicker pavers, supplementary ballast, the combined mass of pedestals + tiles + planters/furniture counted together, or a restrained/edge-fixed detail. This applies across the whole inverted main section.
+
+3. **Low FA3 — thick slabs vs the 20mm grid.** For the low hot-tub/seating level (FA3), one option is **thicker paving slabs laid more directly** on the inverted finish (closer to IKO's standard ≥50mm loading coat — which also helps the 80 kg/m² uplift). But the rest of the terrace uses **20mm porcelain on the pedestal grid**, so a mixed approach means reconciling **(a) the finished floor level** and **(b) the appearance** between thick slabs and the 20mm tiles. The simplest route for a consistent look is 20mm porcelain on pedestals throughout — which loops straight back to questions 1 and 2.
+
+> **Action:** **Ronan to contact IKO (James Eden) to confirm the inverted-section tiling-support build-up** — pedestals bearing on the Enertherm, the 80 kg/m² wind-uplift requirement vs our ~46 kg/m² 20mm porcelain, and the raised-500mm (FA2) solution — **copying Alexander Gathern (Coastal Surveyors)**, and looping in the SE (Allan Wiseman) on the tall-pedestal stability / any raised sub-structure. See [Project Team & Contacts](#project-team--contacts).
+
 ## Levels across the terrace — three zones, two levels
 
 *Revised 8 June 2026 — **Floor Area 3 is now set to the same finished floor level as Floor Area 1**, so the two low zones (the narrow section and the hot-tub/seating/SE area) sit at **one matching low level**, with the **raised dining zone (FA2) between them** as the single high zone. Supersedes the earlier "three different levels" idea, and the still-earlier notions of raising the whole narrow section over the lift over-run or sitting the whole main section high.* The terrace reads as **two finished levels across three zones**, set by pedestal height. **Note the layout: the raised FA2 sits between the two low zones — FA1 → (up) FA2 → (down) FA3 — so FA1 and FA3 match in height but are not one continuous surface.**
@@ -297,6 +309,8 @@ The roofing contractors can **insert and cap drainage penetrations** for us to c
 ## Action — detailing required from Ronan Bond
 
 > **Note for Ronan Bond:** please provide the build-up details (inverted main section, warm narrow section, the junction between the two, asphalt-to-building junction including the door-threshold detail) **as a matter of urgency** so they can be discussed with our surveyor, **IKO**, **Sussex Asphalte**, **Seaview** and **Coastal Surveyors**. **Seaview need a specification of works as soon as possible to get it costed** — scheduling is difficult at this time of year and getting the spec to them quickly is key.
+
+> **Action — Ronan to IKO (copy Coastal):** confirm the **tiling-support build-up on the inverted main section** — can the Eterno Ivica pedestals bear on the IKO Enertherm WCL/XPS (low **and** the tall 350–500mm pedestals under the raised FA2 dining); how the **≥80 kg/m² wind-uplift** requirement is met given our 20mm porcelain is only ~46 kg/m²; and the raised-500mm support solution. See *"Tiling support on the inverted roof"* above. Copy **Alexander Gathern (Coastal Surveyors)** and loop in the **SE (Allan Wiseman)** on tall-pedestal stability.
 
 **Building Control:** Sussex Asphalte are taking the plan to Building Control to check it.
 
@@ -442,9 +456,20 @@ The finished tile level needs to coordinate with:
 - Open joints between tiles
 - Overage tiles retained in the client's garage at Sussex Square (not on the roof terrace)
 
+## ⚠ Open: can the pedestals bear on the inverted (IKO Enertherm) insulation?
+
+**This is unresolved and needs IKO's confirmation — the answer shapes the whole tile finish on the main section.** It is set out in full in Part A under *"[Tiling support on the inverted roof — key question for IKO](#-tiling-support-on-the-inverted-roof--key-question-for-iko-ronan-to-lead-copying-coastal)"*. In short, three things to pin down with IKO before pricing/ordering:
+
+1. **Tall pedestals (350–500mm) under the raised dining (FA2)** bearing on the WCL/XPS — acceptable as-is, or do they need a load-distribution layer / a separate raised sub-structure? (Also an SE question for stability.)
+2. **Wind-uplift ballast:** IKO want **≥80 kg/m²** over the XPS; our **20mm porcelain is only ~46 kg/m²**, so confirm how uplift is met on the inverted field (thicker pavers, extra ballast, combined pedestal+tile+planter mass, or a restrained detail).
+3. **Low FA3:** thicker slabs laid more directly (helps uplift) **vs** the 20mm porcelain-on-pedestals grid used elsewhere — if mixed, reconcile the **finished level and the appearance** between the two.
+
+**Action:** Ronan to take this to IKO (James Eden), copying Coastal (Alex Gathern) and the SE — see the Part A note.
+
 ## What we'd value your steer on
 
-- **Structural sign-off** for 120m² of 20mm porcelain + pedestals + furniture / occupancy load. Usually fine but worth on record before contractors price it
+- **Structural sign-off** for ~102m² of 20mm porcelain + pedestals + furniture / occupancy load. Usually fine but worth on record before contractors price it
+- **Pedestals on the inverted insulation** — see the ⚠ open question immediately above (bearing on the IKO Enertherm WCL/XPS, the 80 kg/m² wind-uplift requirement, and the raised-500mm FA2 support). The single biggest tiling unknown
 - **Total build-up height** at the highest and lowest points of the falls — needed to confirm sauna / wet room door threshold heights and the hot tub / parasol base recess depths
 - **Edge detail** at the parapet / planter / glass balustrade interfaces — how the tile field terminates cleanly without a visible pedestal edge
 
