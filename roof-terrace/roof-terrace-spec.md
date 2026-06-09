@@ -28,6 +28,7 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 - [Planning Case — Why the Refined Scheme Merits Support](#planning-case--why-the-refined-scheme-merits-support)
 - [Programme & Phasing — Two-Phase Delivery](#programme--phasing--two-phase-delivery)
+- [Project Team & Contacts](#project-team--contacts)
 - [Part A — Roof Build-up & Structure (Asphalt, Insulation, Joists)](#part-a--roof-build-up--structure-asphalt-insulation-joists)
 - [Part B — Terrace Tiling System](#part-b--terrace-tiling-system)
 - [Part C — Planters](#part-c--planters)
@@ -133,6 +134,25 @@ These are Phase-2 items, but they **must be physically built / set out during Ph
 Hoist up **for both phases** while the scaffold is here, and stage in the **building / hot-tub zone** (which is left un-tiled anyway): tiles + pedestals, planter / storage / kitchen timber, PIR insulation, cladding, **glass panels (dining + hot-tub)**, parasols + weighted bases, the sauna kit, and the doors + window.
 
 > **The hot tub is the exception.** At ~1,100–1,280kg and ~2.1 × 1.5m it can't be winched up a domestic scaffold — both the weight and the size rule it out. It needs a **lorry-mounted (HIAB) or mobile crane that lifts up and over**, which is **scheduled independently of the scaffold**. So the hot tub **comes later, in Phase 2, by crane, once consent is through** — it does not need to come up during the scaffold window. *(Confirm the crane access route / reach now, per Part O, so it isn't a late surprise.)*
+
+---
+
+# Project Team & Contacts
+
+*The people and firms working on the project. Please flag any corrections.*
+
+| Role | Name / firm | Contact |
+|---|---|---|
+| **Client** | Chris Newson | cn.affy.tsr@gmail.com |
+| **Architect / Building Surveyor** | **Bond McCart** — Ronan Bond (day-to-day contact; authoritative drawings & details) and John McCart (signed pre-app drawings) | The Studio, 14 Northcliffe, Bexhill-on-Sea TN40 1RA |
+| **Structural Engineer** | **Allan Wiseman** — Conscious Engineering Design Ltd | info@conscious-edesign.co.uk · 07896 250418 · Sky View, 5 Findon Avenue, Saltdean BN2 8RF |
+| **Asphalt contractor** (roof waterproofing installer) | **Sussex Asphalte Ltd** — Jon Stanbridge (General Manager); Lewis Townsend | Jon: jon.stanbridge@sussexasphalte.co.uk · 07394 564313 · Lewis: lewis.townsend@sussexasphalte.co.uk · office: 01273 417315 · info@sussexasphalte.co.uk · Unit 3, Wayfield Farm, Pyecombe, BN45 7ED · www.sussexasphalte.co.uk |
+| **Builder** | **Seaview Building Company** — Nigel | nigel@seaviewbuildingcompany.co.uk |
+| **Roofing manufacturer** (Permaphalt spec & guarantee) | **IKO PLC (UK)** — James Eden, Area Business Manager (Mastic Asphalt) | James.Eden@IKO.com · office 01257 255771 · mob 07836 350392 · www.ikogroup.co.uk · Reg. office: Appley Lane North, Appley Bridge, Wigan WN6 9AB |
+| **Building Surveyors** | **Coastal Surveyors & Consultants** — Alexander Gathern MCIOB BSc (Hons) DipFD AaPS, Managing Director & Senior Building Surveyor | contact@coastalsurveyorsandconsultants.com · 01273 805005 · Brighton City Airport, The Terminal Building, Cecil Pashley Way, Shoreham-by-Sea BN43 5FF · www.coastalsurveyorsandconsultants.com |
+| **Albert Cooper** | Ellie Loveden *(role TBC)* | ellie@albertcooper.com |
+| **Planning Officer**, Brighton & Hove City Council | Charlie Partridge | charlie.partridge@brighton-hove.gov.uk · 01273 292205 |
+| **Principal Planning Officer** (Heritage & Projects), BHCC | Lance Penman IHBC | lance.penman@brighton-hove.gov.uk |
 
 ---
 
