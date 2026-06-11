@@ -2171,9 +2171,9 @@ Keep the 20mm porcelain **wear surface** but add the weight via concrete — eit
 
 > **Chris is happy with this route — but only if it can be obtained at close to the base 20mm-porcelain price and within the scaffold programme.** The porcelain-on-concrete composite is more specialist and can carry a price/lead-time premium, so **confirm cost + availability before committing**; if it escalates, fall back to Option A/B.
 
-## Option D — natural granite (in play if the price is right)
+## Option D — natural granite (a strong contender if the price is right)
 
-**Not ruled out.** Real granite is **dense and effectively non-staining** — so, like porcelain, it **shrugs off gull droppings** (unlike concrete) — and at **30mm ≈ 80 kg/m² / 40mm ≈ 108** it's heavy enough to meet the uplift **in the paver itself**. Price **~£27–95/m² (mid ~£45–60)** — comparable to porcelain, so it can sit **within the cost ceiling**. The only real trade-off is **look**: it's a **natural-stone finish** (subtle flecking / flamed texture) rather than the clean porcelain-or-smooth-concrete surface — a matter of taste. **On the table, subject to price + a sample Chris is happy with.** Spec **30mm+** for the weight (e.g. Marshalls Fairstone Eclipse).
+**Not ruled out — arguably one of the best options.** It ticks every box: real granite is **dense and effectively non-staining**, so like porcelain it **shrugs off gull droppings** (unlike concrete); at **30mm ≈ 80 kg/m² / 40mm ≈ 108** it's heavy enough to meet the uplift **in the paver itself**; and at **~£27–95/m² (mid ~£45–60)** it sits **within the cost ceiling**. **The look is good** — a handsome natural stone with subtle flecking that Chris is happy with — so there's **no real aesthetic compromise**, just a different surface character to porcelain. **On the table, subject to price + a sample.** Spec **30mm+** for the weight (e.g. Marshalls Fairstone Eclipse).
 
 ## Option E *(fallback)* — smooth granite-aggregate concrete
 
