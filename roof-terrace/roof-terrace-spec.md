@@ -2141,48 +2141,65 @@ The mast lifts out so the surface can be capped flush over winter.
 
 # Paving Options to Review
 
-*Open design study (added 11 June 2026). Three things to settle on the terrace paving surface before tiles are ordered. This feeds the **wind-uplift question to IKO** in Part A (*Tiling support on the inverted roof*) and the tiling spec in [Part B](#part-b--terrace-tiling-system). **Prices are indicative, material-only, ex-VAT — get trade quotes before deciding.***
+*Open design study (added 11 June 2026, clarified). How to finish the terrace paving on the **inverted main section** — feeding the **wind-uplift question to IKO** in Part A (*Tiling support on the inverted roof*) and the tiling spec in [Part B](#part-b--terrace-tiling-system). **Prices are indicative, material-only, ex-VAT — get trade quotes before deciding.***
 
-**Why this is open:** our base plan is **20mm porcelain on pedestals**, but it weighs only **~46 kg/m²** — below IKO's **≥80 kg/m²** wind-uplift requirement on the inverted main section (Part A). So we need to either add weight or confirm with IKO that the assembly/restraint makes up the difference — and while we're at it, make sure we've landed on the best-looking surface. Three avenues to explore:
+## The objective (read first)
 
-## 1. 30mm porcelain — keep the porcelain surface, add some weight
+**We want to keep the 20mm porcelain we originally chose, at the price we originally budgeted (~£35–60/m² material).** This whole question only arises because IKO require **≥80 kg/m²** of dead weight to hold the inverted insulation down against wind, and 20mm porcelain is only **~46 kg/m²**. So the brief is narrow:
 
-- Keeps the **non-porous, bird-/stain-resistant** porcelain surface we chose porcelain for in the first place (it shrugs off gull droppings; concrete doesn't).
-- **~70 kg/m²** (vs 20mm's ~46) — most of the way to the 80 floor — and **30mm is stiffer/tougher under the hot-tub and parasol point loads** than 20mm, a useful side-benefit.
-- **~£45–80/m²** material; available in the UK but **fewer ranges** than 20mm.
-- Still ~10 kg/m² under 80 on its own → **confirm with IKO** whether the assembly mass (pedestals + tiles + planters/furniture) or a light restraint detail closes the gap. **This is Plan A — keeps porcelain.**
+> **Solve the wind-uplift shortfall without escalating cost or delaying the programme.** The original 20mm porcelain price is the **benchmark, not a starting point to climb from**. Any heavier/dearer option is only on the table if (a) IKO genuinely require the weight *and* (b) it can be obtained at **close to the porcelain price and within the scaffold programme** (materials up by ~late Sept).
 
-## 2. Granite-aggregate concrete in a modern smooth finish — find a good-looking heavy option
+The options below are listed **cheapest-first / most-preferred-first.**
 
-- Heavier (a **50mm** slab ≈ **~115 kg/m²**) → clears the uplift requirement easily. Trade-off: concrete is more porous, so it can **stain / effloresce / grow algae** on a gull-heavy seafront roof — choose a **dense, sealed** type and accept a little more maintenance.
-- **Smooth-finish options to view and sample** (Chris prefers the smoother look):
+## Option A *(preferred)* — keep 20mm porcelain, make up the weight by restraint + the load already there
 
-| Product | Finish | Price/m² (indicative) | Thickness |
-|---|---|---|---|
-| [Marshalls Argent Smooth](https://www.marshalls.co.uk/gardens-and-driveways/products/argent-smooth-garden-paving) | Sandblasted, cleanest/smoothest | **~£110** (premium) | 38mm |
-| [Tobermore Braemar](https://www.tobermore.co.uk/professional/products/paving-slabs/braemar-slabs/) | Diamond-ground, smooth | **POA / stockist** (premium) | 50 / 80mm |
-| [Tobermore Mayfair](https://www.tobermore.co.uk/professional/products/paving-slabs/mayfair-slabs/) | Ground granite surface, a touch more textured | **~£33–51** (value) | 35 / 50mm |
+No change of material or cost. The "ballast" here is **not loose gravel** (you can't tip gravel onto a pedestal-tiled surface) — it's a combination of:
 
-- **To do:** get **physical samples + trade quotes** for Argent Smooth and Braemar at ~100m² (retail prices above are likely a worst case; trade terms apply on this quantity). Favour the **paler tones** (silver/oat/buff) — they sit better against the anthracite cladding and Regency context, and hide gull marks.
+- **The heavy things already fixed to the roof.** The **planters** are heavy (~250–350 kg/m² saturated) and run **along the exposed north/east perimeter — exactly where wind uplift is worst**. The **hot tub, the sauna/wet-room building, the kitchen and stores** pin down more. So a large share of the inverted roof is already held far above 80 kg/m²; only the genuinely **open** tile field is light.
+- **Edge & corner restraint**, where uplift concentrates: a **heavier perimeter band**, or **bonded / mechanically-clipped edge pavers**, while plain 20mm porcelain stays in the field.
+- **Wind-uplift pedestal accessories** — some pedestal systems (Buzon / Eterno Ivica) offer hold-down clips or perimeter restraint. Confirm what **Eterno Ivica** provides.
 
-## 3. Larger tile sizes — would they look better?
+**Cost:** essentially the base porcelain price + a few restraint accessories (small). **This is Plan A** — and the first question to IKO is simply *"does the fixed load + restraint let us keep 20mm porcelain?"*
 
-- We currently assume **600×600 "or larger."** Worth testing whether a **larger format** (e.g. 900×600, 1200×600, or large precast) reads better — **fewer joints, more contemporary**, and suits the big flat terrace.
-- Trade-offs to weigh with the tiler + pedestal supplier: large **20mm** porcelain **flexes more** → needs **more/closer pedestals or a backing tray** to avoid point-load cracking (especially near the hot tub and parasol bases); each piece is **heavier to handle** and to lift up the scaffold; and the format **sets the pedestal grid**. (30mm porcelain and precast concrete are stiffer, so they take large formats more easily.)
+## Option B — 30mm porcelain
 
-## Indicative comparison (material only, ex-VAT)
+Same porcelain surface, **~70 kg/m²** (most of the way to 80), and **stiffer under the hot-tub/parasol point loads**. **~£45–80/m²** (a modest step up; available but fewer ranges). Still needs IKO's nod that the small remaining gap is covered by restraint/fixed load. **Acceptable** if the step-up is small.
 
-| Option | Weight kg/m² (need ≥80) | £/m² | Surface vs gull soiling | Availability |
+## Option C — 20mm porcelain **+ concrete** (only if it holds the price & schedule)
+
+Keep the 20mm porcelain **wear surface** but add the weight via concrete — either a **porcelain-on-concrete-backed paver** (porcelain top bonded to a concrete base, ~50mm, ~100+ kg/m²) or a **concrete ballast/perimeter** under/around the porcelain. Gives the bird-proof porcelain face *and* clears uplift.
+
+> **Chris is happy with this route — but only if it can be obtained at close to the base 20mm-porcelain price and within the scaffold programme.** The porcelain-on-concrete composite is more specialist and can carry a price/lead-time premium, so **confirm cost + availability before committing**; if it escalates, fall back to Option A/B.
+
+## Option D — natural granite (in play if the price is right)
+
+**Not ruled out.** Real granite is **dense and effectively non-staining** — so, like porcelain, it **shrugs off gull droppings** (unlike concrete) — and at **30mm ≈ 80 kg/m² / 40mm ≈ 108** it's heavy enough to meet the uplift **in the paver itself**. Price **~£27–95/m² (mid ~£45–60)** — comparable to porcelain, so it can sit **within the cost ceiling**. The only real trade-off is **look**: it's a **natural-stone finish** (subtle flecking / flamed texture) rather than the clean porcelain-or-smooth-concrete surface — a matter of taste. **On the table, subject to price + a sample Chris is happy with.** Spec **30mm+** for the weight (e.g. Marshalls Fairstone Eclipse).
+
+## Option E *(fallback)* — smooth granite-aggregate concrete
+
+Only if IKO insist the **paver itself** must carry ≥80 kg/m² *and* the porcelain and natural-granite routes don't work affordably. A **50mm** slab ≈ **~115 kg/m²**, clears uplift easily. **Downside:** concrete is more porous than porcelain or granite, so it can **stain / effloresce / grow algae** on a gull-heavy seafront roof — pick a **dense, sealed** type. Smooth-finish options (Chris prefers the smoother look), **but watch the price**:
+
+| Product | Finish | Price/m² | Thickness | Verdict on our cost ceiling |
 |---|---|---|---|---|
-| 20mm porcelain *(base plan)* | ~46 ❌ | £35–60 | Best (non-porous) | Excellent |
-| **30mm porcelain** | ~70 (close) | £45–80 | Best (non-porous) | Good, fewer ranges |
-| Granite-aggregate concrete, smooth (50mm) | ~115 ✅ | £33 (Mayfair) – £110 (Argent) | Can stain — seal it | Very good |
-| Porcelain-on-concrete composite (~50mm) | ~100+ ✅ | £60–110 | Best (porcelain top) | Specialist, longer lead |
-| Natural granite (30mm+) | 30mm ≈80 / 40mm ≈108 | £27–95 | Good (dense stone) | Good |
+| [Tobermore Mayfair](https://www.tobermore.co.uk/professional/products/paving-slabs/mayfair-slabs/) | Ground granite surface (a touch textured) | **~£33–51** | 35 / 50mm | **Within budget** ✅ |
+| [Tobermore Braemar](https://www.tobermore.co.uk/professional/products/paving-slabs/braemar-slabs/) | Diamond-ground, smooth | **POA / stockist** | 50 / 80mm | Get a trade quote — only if near porcelain |
+| [Marshalls Argent Smooth](https://www.marshalls.co.uk/gardens-and-driveways/products/argent-smooth-garden-paving) | Sandblasted, smoothest | **~£110** | 38mm | **Too dear — effectively out** unless a trade quote roughly halves it |
 
-## Action — sequence
+Favour **paler tones** (silver / oat / buff) against the anthracite cladding and Regency context — they also hide gull marks. Get **samples + trade quotes** before any switch.
 
-1. **First, get IKO's uplift number** (Part A action — Ronan → IKO, copy Coastal): does **20mm or 30mm porcelain + restraint/assembly mass** satisfy the ≥80 kg/m², or must the paver itself carry the weight?
-2. **If porcelain works** → stay porcelain (20mm or 30mm); cheapest, keeps the bird-proof surface. **Plan A.**
-3. **If weight is required in the paver** → price the **smooth granite-aggregate concrete** (samples + trade quotes for Argent Smooth / Braemar), or the porcelain-on-concrete composite if budget allows.
-4. **In parallel**, agree the **tile size/format** with the tiler + Eterno Ivica (pedestal grid, backing/support for large 20mm porcelain).
+## Ruled out — and why
+
+- **Plain (standard) concrete slabs — NO.** They read as utilitarian "council paving" — wrong for a Grade I Regency seafront terrace. The *only* concrete we'd entertain is the **refined smooth granite-aggregate** type (Option E), and only as a fallback. *(Natural granite is **not** ruled out — see Option D — it's a contender if the price is right.)*
+
+## Tile size — a separate look question
+
+We currently assume **600×600 "or larger."** Worth testing whether a **larger format** (e.g. 900×600, 1200×600) reads better — fewer joints, more contemporary, suits the big flat terrace. Trade-offs to weigh with the tiler + Eterno Ivica: large **20mm** porcelain **flexes more** → needs **more/closer pedestals or a backing tray** (especially near the hot tub/parasols); each piece is **heavier to lift up the scaffold**; and the format **sets the pedestal grid**. Doesn't change the cost-ceiling logic above — decide it alongside the material.
+
+## Decision sequence
+
+1. **Get IKO's uplift answer first** (Part A action — Ronan → IKO, copy Coastal): *can we keep 20mm (Option A) or 30mm (Option B) porcelain, given the fixed planter/hot-tub/building load + edge restraint?*
+2. **If yes → stay porcelain.** No cost escalation. Done.
+3. **If the paver must carry the weight →** the alternatives, **all subject to the price ceiling + a sample Chris is happy with**: **Option C (20mm porcelain + concrete)** keeps the porcelain face; **Option D (natural granite 30mm+)** keeps stain-resistance in a natural-stone look; **Option E (Mayfair-class smooth granite-aggregate concrete)** is the value fallback but can stain. **Argent Smooth only if a trade quote brings it near porcelain.**
+4. **In parallel**, agree the **tile size** with the tiler + Eterno Ivica.
+
+**Governing rule throughout: don't let solving the wind-uplift push the paving cost materially above the original 20mm porcelain, or outside the scaffold programme.**
