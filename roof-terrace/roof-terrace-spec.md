@@ -2149,9 +2149,9 @@ The mast lifts out so the surface can be capped flush over winter.
 
 > **Solve the wind-uplift shortfall without escalating cost or delaying the programme.** The original 20mm porcelain price is the **benchmark, not a starting point to climb from**. Any heavier/dearer option is only on the table if (a) IKO genuinely require the weight *and* (b) it can be obtained at **close to the porcelain price and within the scaffold programme** (materials up by ~late Sept).
 
-The options below are listed **cheapest-first / most-preferred-first.**
+**Chris is neutral across Options A–D** — any of the four is acceptable, so the choice simply falls out of (i) what IKO require for uplift, (ii) keeping the price near the porcelain benchmark, and (iii) a sample Chris is happy with. **Option E is the fallback**, only if none of A–D work. (They're listed simplest/cheapest first, but that's not a ranking of preference.)
 
-## Option A *(preferred)* — keep 20mm porcelain, make up the weight by restraint + the load already there
+## Option A *(simplest — no material or cost change)* — keep 20mm porcelain, make up the weight by restraint + the load already there
 
 No change of material or cost. The "ballast" here is **not loose gravel** (you can't tip gravel onto a pedestal-tiled surface) — it's a combination of:
 
@@ -2198,8 +2198,8 @@ We currently assume **600×600 "or larger."** Worth testing whether a **larger f
 ## Decision sequence
 
 1. **Get IKO's uplift answer first** (Part A action — Ronan → IKO, copy Coastal): *can we keep 20mm (Option A) or 30mm (Option B) porcelain, given the fixed planter/hot-tub/building load + edge restraint?*
-2. **If yes → stay porcelain.** No cost escalation. Done.
-3. **If the paver must carry the weight →** the alternatives, **all subject to the price ceiling + a sample Chris is happy with**: **Option C (20mm porcelain + concrete)** keeps the porcelain face; **Option D (natural granite 30mm+)** keeps stain-resistance in a natural-stone look; **Option E (Mayfair-class smooth granite-aggregate concrete)** is the value fallback but can stain. **Argent Smooth only if a trade quote brings it near porcelain.**
+2. **Pick whichever of A–D fits** that answer, the price ceiling and a sample Chris likes — **all four are equally acceptable to him.** If IKO accept restraint, **A/B (porcelain)** are simplest and cheapest; **C (porcelain + concrete)** and **D (natural granite)** are equally fine if a sample/price makes them attractive.
+3. **Only if none of A–D works →** **Option E** (Mayfair-class smooth granite-aggregate concrete) as the fallback. **Argent Smooth only if a trade quote brings it near porcelain.**
 4. **In parallel**, agree the **tile size** with the tiler + Eterno Ivica.
 
 **Governing rule throughout: don't let solving the wind-uplift push the paving cost materially above the original 20mm porcelain, or outside the scaffold programme.**
