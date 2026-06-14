@@ -12,6 +12,31 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 **Orientation:** north is to the right of the floor plan drawing.
 
+## Contents
+
+- [Drawings](#drawings)
+- [Planning Case — Why the Refined Scheme Merits Support](#planning-case--why-the-refined-scheme-merits-support)
+- [Programme & Phasing — Two-Phase Delivery](#programme--phasing--two-phase-delivery)
+- [Project Team & Contacts](#project-team--contacts)
+- [Part A — Roof Build-up & Structure (Asphalt, Insulation, Joists)](#part-a--roof-build-up--structure-asphalt-insulation-joists)
+- [Part B — Terrace Tiling System](#part-b--terrace-tiling-system)
+- [Part C — Planters](#part-c--planters)
+- [Part D — Planting Palette & Biodiversity](#part-d--planting-palette--biodiversity)
+- [Part E — Outdoor Tap](#part-e--outdoor-tap)
+- [Part F — Outdoor Kitchen](#part-f--outdoor-kitchen)
+- [Part G — Storage Units](#part-g--storage-units)
+- [Part H — Railings](#part-h--railings)
+- [Part I — Parapet Bird Deterrent (Post and Wire)](#part-i--parapet-bird-deterrent-post-and-wire)
+- [Part J — Smart Control (Home Assistant)](#part-j--smart-control-home-assistant)
+- [Part K — Electrical: Outdoor Sockets and Lighting](#part-k--electrical-outdoor-sockets-and-lighting)
+- [Part L — Fall Protection (Glass Balustrades & Planters)](#part-l--fall-protection-glass-balustrades--planters)
+- [Part M — Sauna](#part-m--sauna)
+- [Part N — Wet Room](#part-n--wet-room)
+- [Part O — Hot Tub](#part-o--hot-tub)
+- [Part P — Parasols](#part-p--parasols)
+- [Part Q — Terrace Access (Study Door / Window)](#part-q--terrace-access-study-door--window)
+- [Paving Options to Review](#paving-options-to-review)
+
 ## Drawings
 
 > **These plans are indicative** — Chris's own layout sketches, not construction drawings. The **written dimensions in each PART are the accurate figures and take precedence** — please don't scale off the images. Ronan's drawings remain the authoritative set.
@@ -37,30 +62,6 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 ![Narrow terrace — lounge seating looking through to the dining area](drawings/narrow-terrace-lounge-and-dining-14-6-26.png)
 
 ![Narrow terrace — movable-pot cluster with olive specimen](drawings/narrow-terrace-pots-and-olive-14-6-26.png)
-
-## Contents
-
-- [Planning Case — Why the Refined Scheme Merits Support](#planning-case--why-the-refined-scheme-merits-support)
-- [Programme & Phasing — Two-Phase Delivery](#programme--phasing--two-phase-delivery)
-- [Project Team & Contacts](#project-team--contacts)
-- [Part A — Roof Build-up & Structure (Asphalt, Insulation, Joists)](#part-a--roof-build-up--structure-asphalt-insulation-joists)
-- [Part B — Terrace Tiling System](#part-b--terrace-tiling-system)
-- [Part C — Planters](#part-c--planters)
-- [Part D — Planting Palette & Biodiversity](#part-d--planting-palette--biodiversity)
-- [Part E — Outdoor Tap](#part-e--outdoor-tap)
-- [Part F — Outdoor Kitchen](#part-f--outdoor-kitchen)
-- [Part G — Storage Units](#part-g--storage-units)
-- [Part H — Railings](#part-h--railings)
-- [Part I — Parapet Bird Deterrent (Post and Wire)](#part-i--parapet-bird-deterrent-post-and-wire)
-- [Part J — Smart Control (Home Assistant)](#part-j--smart-control-home-assistant)
-- [Part K — Electrical: Outdoor Sockets and Lighting](#part-k--electrical-outdoor-sockets-and-lighting)
-- [Part L — Fall Protection (Glass Balustrades & Planters)](#part-l--fall-protection-glass-balustrades--planters)
-- [Part M — Sauna](#part-m--sauna)
-- [Part N — Wet Room](#part-n--wet-room)
-- [Part O — Hot Tub](#part-o--hot-tub)
-- [Part P — Parasols](#part-p--parasols)
-- [Part Q — Terrace Access (Study Door / Window)](#part-q--terrace-access-study-door--window)
-- [Paving Options to Review](#paving-options-to-review)
 
 ---
 
