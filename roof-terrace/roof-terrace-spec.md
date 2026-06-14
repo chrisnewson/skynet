@@ -30,6 +30,14 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ![Looking down the steps — dining (FA2) down towards the building](drawings/looking-down-the-steps-14-6-26.png)
 
+**Narrow-section 3D renders** (14 June 2026) — indicative views along the narrow terrace (Floor Area 1): the outdoor kitchen and study door, the lounge seating looking through to the dining area, and the movable-pot cluster with an olive. Mood only — finishes, planting and the parasols are illustrative.
+
+![Narrow terrace — outdoor kitchen and study door](drawings/narrow-terrace-kitchen-and-study-14-6-26.png)
+
+![Narrow terrace — lounge seating looking through to the dining area](drawings/narrow-terrace-lounge-and-dining-14-6-26.png)
+
+![Narrow terrace — movable-pot cluster with olive specimen](drawings/narrow-terrace-pots-and-olive-14-6-26.png)
+
 ## Contents
 
 - [Planning Case — Why the Refined Scheme Merits Support](#planning-case--why-the-refined-scheme-merits-support)
