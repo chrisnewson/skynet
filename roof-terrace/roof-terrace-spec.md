@@ -40,6 +40,8 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 ## Drawings
 
 > **These plans are indicative** — Chris's own layout sketches, not construction drawings. The **written dimensions in each PART are the accurate figures and take precedence** — please don't scale off the images. Ronan's drawings remain the authoritative set.
+>
+> **Note on the steps:** the steps between the dining (FA2) and lounge (FA3) levels are shown in a **different shade only to make them stand out** in the drawings and renders. They are to be finished in the **same tiling as the rest of the floor** — there is no change of material at the steps.
 
 **Overall plan** (full terrace, updated 14 June 2026) — narrow section / **Floor Area 1** (minimal pedestal height) with stores, outdoor kitchen, lift bulkhead and stair hatch; **Floor Area 2** dining (**5.75 × 5.1m**, **300mm raised over current deck level, steps up on the north side**); **Floor Area 3** lounge / hot tub (minimal pedestal height, **same low level as Floor Area 1**, L-shape round to the hot tub); sauna / wet room building and stores. *(Reflects the revised levels in Part A — FA1 and FA3 share one low level, FA2 dining is the single raised zone — and the deletion of the old Floor Area 4.)*
 
