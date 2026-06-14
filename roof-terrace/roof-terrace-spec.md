@@ -16,13 +16,13 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 > **These plans are indicative** — Chris's own layout sketches, not construction drawings. The **written dimensions in each PART are the accurate figures and take precedence** — please don't scale off the images. Ronan's drawings remain the authoritative set.
 
-**Overall plan** (full terrace, updated 5 June 2026) — narrow section / **Floor Area 1** (minimal pedestal height) with stores, outdoor kitchen, lift bulkhead and stair hatch; **Floor Area 2** dining (4 × 5m, **500mm raised, steps up on the east side**); **Floor Area 3** lounge / hot tub (minimal pedestal height, **same low level as Floor Area 1**, L-shape round to the hot tub); sauna / wet room building and stores. *(Reflects the revised levels in Part A — FA1 and FA3 share one low level, FA2 dining is the single raised zone — and the deletion of the old Floor Area 4.)*
+**Overall plan** (full terrace, updated 14 June 2026) — narrow section / **Floor Area 1** (minimal pedestal height) with stores, outdoor kitchen, lift bulkhead and stair hatch; **Floor Area 2** dining (**5.75 × 5.1m**, **300mm raised over current deck level, steps up on the north side**); **Floor Area 3** lounge / hot tub (minimal pedestal height, **same low level as Floor Area 1**, L-shape round to the hot tub); sauna / wet room building and stores. *(Reflects the revised levels in Part A — FA1 and FA3 share one low level, FA2 dining is the single raised zone — and the deletion of the old Floor Area 4.)*
 
-![Overall floor plan](drawings/full-terrace-5-6-26.jpg)
+![Overall floor plan](drawings/full-terrace-14-6-26.png)
 
-**Main section close-up** (updated 5 June 2026) — Floor Area 2 (raised dining), Floor Area 3 (lounge / hot tub), the sauna / wet room building with room dimensions, and the main-section store:
+**Main section close-up** (updated 14 June 2026) — Floor Area 2 (raised dining), Floor Area 3 (lounge / hot tub), the sauna / wet room building with room dimensions, and the main-section store:
 
-![Main section plan](drawings/large-terrace-5-6-26.jpg)
+![Main section plan](drawings/large-terrace-14-6-26.png)
 
 ## Contents
 
@@ -102,7 +102,7 @@ The **flat-roof replacement is going ahead as a separate job**. **Scaffolding go
 |---|---|---|
 | **A — Roof Build-up & Structure** | **1** | The roof job itself + the tiling substrate. Carries the critical penetration and levels provisions. |
 | **B — Tiling** | **1** | Tile the bulk in Phase 1, **but leave the sauna/wet-room and hot-tub footprints un-tiled / tile-ready**, and **set out all Phase-2 pedestal clusters now** (hot tub, parasols, building). |
-| **C — Planters** | **1** | Most in Phase 1. The **hot-tub U-shape (M5–M7)** and the **building-interfacing planters (M3, and M2/M3 on the FA2/FA3 stair line)** wait until the Phase-2 building/tub zone is built. |
+| **C — Planters** | **1** | Most in Phase 1. The **hot-tub west planter (M7)** and the **SE planter (M2)** that sit in the Phase-2 building/tub zone wait until that zone is built. |
 | **D — Planting** | **1** | Follows the planters; the hot-tub-zone planting waits for Phase 2. |
 | **E — Outdoor Tap** | **1** | — |
 | **F — Outdoor Kitchen** | **1** | Narrow section. Lay the sink-waste run to the foul stack under FA2 in Phase 1. |
@@ -111,7 +111,7 @@ The **flat-roof replacement is going ahead as a separate job**. **Scaffolding go
 | **I — Parapet Bird Deterrent** | **1** | Confirm the LBC position for fixing into the listed coping. |
 | **J — Smart Control** | **Split** | Terrace/lighting Shellys with Phase 1; the sauna-heater contactor with Phase 2. |
 | **K — Electrical / Lighting** | **Split** | First-fix cabling, terrace lighting and terrace sockets in Phase 1; the building door downlights and the sauna/wet-room/hot-tub final connections in Phase 2. |
-| **L — Fall Protection (Glass)** | **Split** | **Dining-area glass → Phase 1** (with the raised FA2 dining floor, so its 500mm fall edge is guarded from day one). **Hot-tub glass → Phase 2** (with the tub). Both fix into parapet masonry — **no roof lock-in**, so the hot-tub glass can wait. |
+| **L — Fall Protection (Glass)** | **2** | The dining-area glass is **no longer required** (FA2 now only ~300mm raised, and the deepened 1m M2 planters guard the south/east edges — see Part L). Only the **hot-tub glass remains → Phase 2** (with the tub); it fixes into parapet masonry — **no roof lock-in** — so it can wait. |
 | **M — Sauna** | **2** | Building — needs consent. *Phase-1 provision:* floor-drain penetration through the roof + heater/light/socket cabling first-fix. |
 | **N — Wet Room** | **2** | Building — needs consent. *Phase-1 provision:* WC soil + linear-drain + basin + electric-shower + external-shower penetrations, and electrical first-fix. |
 | **O — Hot Tub** | **2** | Arrives by **crane** in Phase 2 (see below). *Phase-1 provision:* 32A radial first-fix, drain penetration, pedestal/continuous-base area set out, footprint left tile-ready. |
@@ -240,13 +240,13 @@ Three conditions in the IKO spec (SF0079612) need flagging because they push bac
 
 How our tile finish bears on the **inverted main section** is not yet resolved and needs IKO's confirmation. IKO's spec does contemplate *"paving slabs on supports, laid over the WCL"* — so pedestals on the inverted finish are allowed in principle — but three things need pinning down:
 
-1. **Tall pedestals under the raised dining (FA2, ~350–500mm).** Standard inverted paving sits on **low** supports. Pedestals up to **500mm** concentrate load on a small base on the **XPS** (firm at ~300 kPa but can creep under sustained load) and raise lateral-stability and wind concerns. Confirm with IKO whether tall pedestals are acceptable **bearing on the WCL/XPS**, whether a **load-distribution layer** (e.g. Protectoboard, a bearing pad or a wider base plate) is needed under each pedestal, or whether the raised zone needs a **different support solution** (e.g. a separate raised sub-structure). *(Also one for the SE — Allan Wiseman — on lateral stability and the raised-platform load path.)*
+1. **Raised pedestals under the dining (FA2, ~400mm = ~100mm low base + the 300mm raise).** *(Reduced 14 June — FA2 is now +300mm, was +500mm.)* Standard inverted paving sits on **low** supports. Pedestals of ~400mm concentrate load on a small base on the **XPS** (firm at ~300 kPa but can creep under sustained load) and raise lateral-stability and wind concerns. Confirm with IKO whether tall pedestals are acceptable **bearing on the WCL/XPS**, whether a **load-distribution layer** (e.g. Protectoboard, a bearing pad or a wider base plate) is needed under each pedestal, or whether the raised zone needs a **different support solution** (e.g. a separate raised sub-structure). *(Also one for the SE — Allan Wiseman — on lateral stability and the raised-platform load path.)*
 
 2. **⚠ Wind-uplift ballast — possible shortfall.** IKO require a **minimum loading coat of 80 kg/m²** over the XPS to resist wind uplift (their stated figure for sheltered / sub-10-storey buildings; our **exposed seafront** site may need more). **Our 20mm porcelain weighs only ~46 kg/m²** — *below* 80 — so the tile-on-pedestal finish may **not hold the insulation down on its own**. Confirm with IKO how uplift is satisfied on the inverted field: thicker pavers, supplementary ballast, the combined mass of pedestals + tiles + planters/furniture counted together, or a restrained/edge-fixed detail. This applies across the whole inverted main section.
 
 3. **Low FA3 — thick slabs vs the 20mm grid.** For the low hot-tub/seating level (FA3), one option is **thicker paving slabs laid more directly** on the inverted finish (closer to IKO's standard ≥50mm loading coat — which also helps the 80 kg/m² uplift). But the rest of the terrace uses **20mm porcelain on the pedestal grid**, so a mixed approach means reconciling **(a) the finished floor level** and **(b) the appearance** between thick slabs and the 20mm tiles. The simplest route for a consistent look is 20mm porcelain on pedestals throughout — which loops straight back to questions 1 and 2.
 
-> **Action:** **Ronan to contact IKO (James Eden) to confirm the inverted-section tiling-support build-up** — pedestals bearing on the Enertherm, the 80 kg/m² wind-uplift requirement vs our ~46 kg/m² 20mm porcelain, and the raised-500mm (FA2) solution — **copying Alexander Gathern (Coastal Surveyors)**, and looping in the SE (Allan Wiseman) on the tall-pedestal stability / any raised sub-structure. See [Project Team & Contacts](#project-team--contacts).
+> **Action:** **Ronan to contact IKO (James Eden) to confirm the inverted-section tiling-support build-up** — pedestals bearing on the Enertherm, the 80 kg/m² wind-uplift requirement vs our ~46 kg/m² 20mm porcelain, and the raised-FA2 (~300mm) solution — **copying Alexander Gathern (Coastal Surveyors)**, and looping in the SE (Allan Wiseman) on the tall-pedestal stability / any raised sub-structure. See [Project Team & Contacts](#project-team--contacts).
 
 ## Levels across the terrace — three zones, two levels
 
@@ -256,21 +256,21 @@ How our tile finish bears on the **inverted main section** is not yet resolved a
 |---|---|---|
 | **Narrow section (Floor Area 1)** | **Low datum** | **Lowest practical pedestal height** on the warm-roof build-up. No longer raised up over the lift over-run. |
 | **Hot tub + seating/lounge + SE end of the large terrace (Floor Area 3)** | **Low datum — same FFL as Floor Area 1** | Low pedestals (≈100mm) on the inverted build-up, **set to land at the same finished floor level as the narrow section (FA1)** so the two low zones match in height (the raised FA2 sits between them). |
-| **Dining (Floor Area 2)** | **Raised — the one high zone, ≈500mm above the low datum** | **Tall adjustable pedestals** (our supplier covers the **350–500mm** range) on the inverted build-up. **3 steps up** on the east side. |
+| **Dining (Floor Area 2)** | **Raised — the one high zone, ≈300mm above the low datum** (i.e. +300mm over the current wooden deck level — *reduced from +500mm, 14 June*) | **Adjustable pedestals** on the inverted build-up (lower than the earlier +500mm scheme — Ronan / tiler to set against the build-up). **3 steps down on the north side** to the low FA3 — **400mm tread, 100mm rise**. |
 
 **Floor Area 4 is deleted** — its area is absorbed into Floor Area 3 (Chris updating the drawings).
 
 - **Two levels, FA2 in the middle.** FA1 (narrow) and FA3 (main: hot tub / seating / SE) finish at the **same FFL** — the two low zones match in height. But **the raised dining zone (FA2) sits between them** (FA1 → up → FA2 → down → FA3), so the matching level is about a consistent datum, **not a single continuous walkable surface**. FA2 is the only raised zone.
 - **Common datum across two different build-ups.** FA1 sits on the **warm-roof** narrow section and FA3 on the **inverted** main section, which have different build-up heights — so the **pedestal heights on each must be set to bring both to the one common low FFL** (Ronan / the tiler to set this against the surveyed deck levels of the two sections).
-- **3 steps up** lead from the low level (FA1 side) up to the **raised dining zone (Floor Area 2)**. On the **FA2/FA3 side**, the drop down to the low FA3 is the line the Part C planters sit on — **M2 and M3 run along it and double as the fall-protection edge at the FA2 drop**. **Confirm on the drawings how the low FA3 (hot tub / seating) is reached** — steps down from FA2 and/or a low-level route past the dining platform.
+- **3 steps on the north side of Floor Area 2** *(revised 14 June — steps now face north, was the east side)* lead **down** from the raised dining zone to the low **Floor Area 3** (seating / hot tub). **1500mm wide, 400mm tread, 100mm rise** (3 × 100mm = the 300mm FA2 rise). The **first step down is inset into FA2, the second into FA3**. This is the FA2/FA3 level change. **Confirm on the drawings how FA2 is reached from the narrow section (FA1) side** — FA2 is the single raised zone, ~300mm above the low datum shared by FA1 and FA3.
 - **Lift over-run:** no longer built up over. Its top is **tiled over (minimal extra area beyond the bulkhead)**, with the **N4 low-herb planter built on top, matching that footprint exactly** (Parts B and C).
 - **Level access from the study:** keeping the narrow section (FA1) low, combined with **dropping the study door/window sill by 170mm** (see Part Q), gives a level / near-level threshold from the study straight onto the **narrow terrace (FA1)**. FA3 (hot tub / seating) is at the **same low level**, so it matches the study-threshold datum — but the raised FA2 dining sits between FA1 and FA3, so reaching FA3 is via the FA2 steps / route, not a flat walk through.
 
 **For Ronan / Building Control:**
 
 - **Common low FFL** — set the pedestal heights on the warm narrow section (FA1) and the inverted main section (FA3) so both finish at the **same low floor level**, against the surveyed deck levels of the two sections.
-- **Step detail** — going, rise and nosings for the 3 steps up to Floor Area 2, and whether a **handrail / guarding** is required at the level change (Approved Document K).
-- **Tall pedestals (350–500mm)** are under **Floor Area 2 only** and need lateral stability at that height (stabilisers / bracing / restraint rails), with the acoustic pads (Part B) still seating correctly at full extension — confirm with the pedestal supplier. Floor Areas 1 and 3 are on low pedestals at the common datum.
+- **Step detail** — going, rise and nosings for the **3 steps on the north side of Floor Area 2** (400mm tread / 100mm rise, 1500mm wide, dropping down to FA3), and whether a **handrail / guarding** is required at the level change (Approved Document K).
+- **Raised pedestals** under **Floor Area 2 only** (now ~300mm above the low datum + build-up — lower than the earlier +500mm / 350–500mm scheme) still need lateral stability at height (stabilisers / bracing / restraint rails), with the acoustic pads (Part B) still seating correctly at full extension — confirm with the pedestal supplier. Floor Areas 1 and 3 are on low pedestals at the common datum.
 - **Sauna / wet room door thresholds** open onto the **low Floor Area 3** (now at the FA1 level) — confirm the threshold detail from the building floor (on the Protectoboard) to the low-pedestal tile level outside.
 - **Narrow-section railing raising (Part H) reduces** — with the narrow floor now barely rising, the retained railings need little or no added height; revisit once the low FFL is fixed.
 - **Drainage falls** on each zone, and at the step line, to be set out so water sheds correctly across both levels.
@@ -299,7 +299,7 @@ No acoustic underlay mat above the protection layer (it alone is the substrate f
 
 Previously the hot tub zone was to be built ~200mm higher than the surrounding warm roof, which raised a question about how the outward-opening sauna / wet room doors would clear the step. The **roof build-up under the whole main section is now one continuous inverted system**, so the earlier three-way confusion (lower / higher / intermediate build-up) and the old "400mm vs 200mm raised floor" discrepancy fall away at the *structural deck* level.
 
-**The finished tile level, however, deliberately varies by pedestal height**: the **dining zone (Floor Area 2) is raised** on tall 350–500mm pedestals, while the **hot tub / seating / SE area (Floor Area 3) stays low** on ~100mm pedestals — **set to the same finished floor level as the narrow section (Floor Area 1)**, the two low zones matching in height with the raised FA2 dining between them (see "Levels across the terrace" above). The **sauna / wet room doors open onto the low Floor Area 3**, so **Ronan to confirm that door-threshold detail** (building floor on the Protectoboard ↔ the low-pedestal tile level outside). The **3 steps** connect the low level up to the raised Floor Area 2.
+**The finished tile level, however, deliberately varies by pedestal height**: the **dining zone (Floor Area 2) is raised** ~300mm on pedestals, while the **hot tub / seating / SE area (Floor Area 3) stays low** on ~100mm pedestals — **set to the same finished floor level as the narrow section (Floor Area 1)**, the two low zones matching in height with the raised FA2 dining between them (see "Levels across the terrace" above). The **sauna / wet room doors open onto the low Floor Area 3**, so **Ronan to confirm that door-threshold detail** (building floor on the Protectoboard ↔ the low-pedestal tile level outside). The **3 steps on the north side of FA2** (400mm tread / 100mm rise) connect the raised dining down to the low Floor Area 3.
 
 ## Plumbing — set out drainage before the roof is closed
 
@@ -311,7 +311,7 @@ The roofing contractors can **insert and cap drainage penetrations** for us to c
 
 > **Note for Ronan Bond:** please provide the build-up details (inverted main section, warm narrow section, the junction between the two, asphalt-to-building junction including the door-threshold detail) **as a matter of urgency** so they can be discussed with our surveyor, **IKO**, **Sussex Asphalte**, **Seaview** and **Coastal Surveyors**. **Seaview need a specification of works as soon as possible to get it costed** — scheduling is difficult at this time of year and getting the spec to them quickly is key.
 
-> **Action — Ronan to IKO (copy Coastal):** confirm the **tiling-support build-up on the inverted main section** — can the Eterno Ivica pedestals bear on the IKO Enertherm WCL/XPS (low **and** the tall 350–500mm pedestals under the raised FA2 dining); how the **≥80 kg/m² wind-uplift** requirement is met given our 20mm porcelain is only ~46 kg/m²; and the raised-500mm support solution. See *"Tiling support on the inverted roof"* above. Copy **Alexander Gathern (Coastal Surveyors)** and loop in the **SE (Allan Wiseman)** on tall-pedestal stability.
+> **Action — Ronan to IKO (copy Coastal):** confirm the **tiling-support build-up on the inverted main section** — can the Eterno Ivica pedestals bear on the IKO Enertherm WCL/XPS (low **and** the ~400mm pedestals under the raised FA2 dining); how the **≥80 kg/m² wind-uplift** requirement is met given our 20mm porcelain is only ~46 kg/m²; and the raised-FA2 support solution. See *"Tiling support on the inverted roof"* above. Copy **Alexander Gathern (Coastal Surveyors)** and loop in the **SE (Allan Wiseman)** on tall-pedestal stability.
 
 **Building Control:** Sussex Asphalte are taking the plan to Building Control to check it.
 
@@ -369,8 +369,8 @@ The engineer notes the ~50% remaining joist capacity is **a comfortable margin t
 | Sauna/wet room building external footprint (~2.90 × 2.49m) | ~7.2 |
 | Hot tub (~2.07 × 1.53m) | ~3.2 |
 | Outdoor kitchen run (~3.3 × 0.7m) | ~2.3 |
-| Storage units — Store 1 (~0.8) + Store 2 (~1.2) + Store 3 (~0.6) + Store 4 (~2.2) | ~4.8 |
-| **Total subtracted** | **~17.5** |
+| Storage units — Store 1 (~0.8) + Store 2 (~1.2) + Store 3 (~0.6) + Store 4 (~1.9) | ~4.5 |
+| **Total subtracted** | **~17.2** |
 | **Net tiled area (gross 120m² − subtractions)** | **~102m²** |
 
 **The lift bulkhead is tiled over** (concealing the structure), with the tiling adding **as little extra area as possible beyond the existing bulkhead footprint** — i.e. tile the bulkhead itself, don't spread a tiled apron around it. The **N4 planter (Part C) then matches that tiled bulkhead footprint exactly** and sits on top. So the bulkhead area is part of the tiled field and is **not** subtracted.
@@ -400,12 +400,12 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 - Pedestal base wide enough to distribute load over Protectoboard without point-loading damage
 - **Extra pedestals under the planters:** the planters (Part C) are built **on top of the finished tiles** and are heavy (~250–350 kg/m² saturated). Add pedestals under the **planter bearer lines** so the planter load transfers tile → pedestal → protection layer (Protectoboard on the warm narrow / WCL on the inverted main) → insulation → deck, never onto the unsupported middle of a tile. Planter footprints (Part C inventory) to be issued to the tiler **before the pedestal grid is set out**.
 
-**Chosen system: Eterno Ivica** (SE self-levelling range) — *confirmed 7 June 2026* (Buzon DPH was the alternative). The Eterno Ivica system is designed for ~100 kg/m² with pedestals at the slab corners; at our pedestal heights (350–500mm on the main section) **mid-edge and central pedestals are also required** per their guidance — and **more again under concentrated loads** (below).
+**Chosen system: Eterno Ivica** (SE self-levelling range) — *confirmed 7 June 2026* (Buzon DPH was the alternative). The Eterno Ivica system is designed for ~100 kg/m² with pedestals at the slab corners; at our pedestal heights (up to ~400mm under the raised FA2 dining) **mid-edge and central pedestals are also required** per their guidance — and **more again under concentrated loads** (below).
 
 > **⚠ Load-bearing — planters, hot tub and parasol bases: detail to the pedestal manufacturer's recommendations.** These concentrated loads sit on the pedestal-and-tile field and **must not point-load a tile mid-span**:
 > - **Planters** (Part C) — heavy **sustained** loads, ~250–350 kg/m² saturated, in long runs on top of the tiles. **The pedestal grid must be designed around every planter** — extra pedestals on the planter bearer lines — and the **sustained weight checked for long-term creep** of the inverted XPS insulation. **Issue every planter footprint to Eterno Ivica + the SE.**
 > - **Hot tub** (Part O) — ~1,160–1,280 kg over ~3.2 m² ≈ **~360–400 kg/m²**
-> - **Parasol bases** (Part P) — heavy (~140–280kg), **weighted, sitting on the tiles** (the dining FA2 is raised ~500mm so it can't recess; no roof penetration). Need a **load-spreading plate over a cluster of extra pedestals** — designed with Eterno Ivica + IKO + SE.
+> - **Parasol bases** (Part P) — heavy (~140–280kg), **weighted, sitting on the tiles** (no roof penetration on the inverted roof). Need a **load-spreading plate over a cluster of extra pedestals** — designed with Eterno Ivica + IKO + SE.
 >
 > Their support is to be designed **per Eterno Ivica's published load tables and IKO's point-load guidance** — extra/closer-spaced pedestals on the load lines, the correct pedestal rating, and load spread so the path is base/bearer → tile-over-pedestals → pedestals → **(inverted main: WCL → 190mm XPS insulation → Permaphalt → deck; warm narrow: Protectoboard → Permaphalt → 160mm PIR → deck)**.
 >
@@ -461,7 +461,7 @@ The finished tile level needs to coordinate with:
 
 **This is unresolved and needs IKO's confirmation — the answer shapes the whole tile finish on the main section.** It is set out in full in Part A under *"[Tiling support on the inverted roof — key question for IKO](#-tiling-support-on-the-inverted-roof--key-question-for-iko-ronan-to-lead-copying-coastal)"*. In short, three things to pin down with IKO before pricing/ordering:
 
-1. **Tall pedestals (350–500mm) under the raised dining (FA2)** bearing on the WCL/XPS — acceptable as-is, or do they need a load-distribution layer / a separate raised sub-structure? (Also an SE question for stability.)
+1. **Raised pedestals (~400mm) under the raised dining (FA2)** bearing on the WCL/XPS — acceptable as-is, or do they need a load-distribution layer / a separate raised sub-structure? (Also an SE question for stability.)
 2. **Wind-uplift ballast:** IKO want **≥80 kg/m²** over the XPS; our **20mm porcelain is only ~46 kg/m²**, so confirm how uplift is met on the inverted field (thicker pavers, extra ballast, combined pedestal+tile+planter mass, or a restrained detail).
 3. **Low FA3:** thicker slabs laid more directly (helps uplift) **vs** the 20mm porcelain-on-pedestals grid used elsewhere — if mixed, reconcile the **finished level and the appearance** between the two.
 
@@ -472,7 +472,7 @@ The finished tile level needs to coordinate with:
 ## What we'd value your steer on
 
 - **Structural sign-off** for ~102m² of 20mm porcelain + pedestals + furniture / occupancy load. Usually fine but worth on record before contractors price it
-- **Pedestals on the inverted insulation** — see the ⚠ open question immediately above (bearing on the IKO Enertherm WCL/XPS, the 80 kg/m² wind-uplift requirement, and the raised-500mm FA2 support). The single biggest tiling unknown
+- **Pedestals on the inverted insulation** — see the ⚠ open question immediately above (bearing on the IKO Enertherm WCL/XPS, the 80 kg/m² wind-uplift requirement, and the raised-FA2 support). The single biggest tiling unknown
 - **Total build-up height** at the highest and lowest points of the falls — needed to confirm sauna / wet room door threshold heights and the hot tub / parasol base recess depths
 - **Edge detail** at the parapet / planter / glass balustrade interfaces — how the tile field terminates cleanly without a visible pedestal edge
 
@@ -480,11 +480,11 @@ The finished tile level needs to coordinate with:
 
 # PART C — PLANTERS
 
-> **🗓 Phase 1** — most planters. The **hot-tub U-shape (M5–M7)** and the **building-interfacing planters (M3, and M2/M3 on the FA2/FA3 stair line)** wait until the Phase-2 building/tub zone is built. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 1** — most planters. The **hot-tub west planter (M7)** and the **SE planter (M2)** that sit in the Phase-2 building/tub zone wait until that zone is built. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 We want planters built from the **salvaged hardwood decking** removed from the existing terrace. Locations and footprints per the drawings.
 
-**Planter layout** is per the floorplan, designed to **maximise wind defence** along the north and east parapets. Detailed inventory of each planter's dimensions and heights is in the "Sizes" subsection immediately below. The planting scheme — including the **5 olive trees** echoing the established Sussex Square / Kemp Town Enclosures planting — and the windbreak layering is set out in Part D.
+**Planter layout** is per the floorplan, designed to **maximise wind defence** along the north and east parapets. Detailed inventory of each planter's dimensions and heights is in the "Sizes" subsection immediately below. The planting scheme — including the **4 olive trees** echoing the established Sussex Square / Kemp Town Enclosures planting — and the windbreak layering is set out in Part D.
 
 > **For the planting palette, planted-area summary and biodiversity case, see [PART D — PLANTING PALETTE & BIODIVERSITY](#part-d--planting-palette--biodiversity) at the end of this document.**
 
@@ -553,7 +553,7 @@ The existing decking boards have decking bolts with large through-holes every 80
 
 **Main-section planter layout** (planters labelled on the drawing — cross-reference with the table below; the full terrace incl. the narrow-section planters N1–N4 is in the [Drawings](#drawings) section):
 
-![Main section planter layout](drawings/large-terrace-5-6-26.jpg)
+![Main section planter layout](drawings/large-terrace-14-6-26.png)
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
@@ -572,11 +572,10 @@ The existing decking boards have decking bolts with large through-holes every 80
 
 | # | Planter | Footprint | Height | Notes |
 |---|---|---|---|---|
-| **M1** | **L-shaped planter** in the dining area (FA2) | **5m + 1.8m legs** × 600mm deep | **500mm** above terrace tile FFL | Frames the dining area |
-| **M2** | **L-shaped planter** in SE of main | **4m + 3m legs** × 600mm deep | **700mm** above **FA3 FFL** | West end aligns with the end of the raised floor in FA2 (the planter cuts into the stair line between FA2 and FA3). The taller 700mm height gives more substantial windbreak for the lounge area. |
-| **M3** | Rectangular planter east of sauna | **600mm × 1200mm** (600mm deep × 1.2m long) | **700mm** above **FA3 FFL** | South edge aligns with the north end of FA2's raised floor — **no step needed at the north end** (the planter face IS the rise). |
-| **M4** | Planter north of the seating area | **3m long × 600mm deep** | **700mm** above terrace FFL | Substantial windbreak height for the lounge zone |
-| **M5–M7** | **Hot tub U-shape** — east + north + west of hot tub | **East leg:** 2m long × 600mm deep<br>**North leg:** 2.1m long (= hot tub length) × **300mm** deep<br>**West leg:** 2m long × 600mm deep | All three finish **150mm above hot tub rim height** | **Built as a single continuous U-shape construction** wrapping three sides of the hot tub. The +150mm above tub rim gives substantial wind defence around the tub (where wind = heat loss). North side is narrower (300mm) reflecting the tighter space between tub and north parapet. |
+| **M1** | **L-shaped planter** in the dining area (FA2) — **M1(W)** leg along the west edge + **M1(N)** leg along the north edge | **legs frame the enlarged FA2 (5.75 × 5.1m)** × ~600mm deep *(leg lengths per the 14 June drawing — Ronan to scale)* | **500mm** above terrace tile FFL | Frames the dining area |
+| **M2** | **L-shaped planter** in SE of main — **M2(E)** leg along the east parapet + **M2(S)** return along the south parapet | **M2(E):** 5.1m external / 4.1m internal · **M2(S):** 3.5m external / 2.5m internal · **both 1m deep** *(deepened from 600mm, 14 June)* | **700mm** above **FA3 FFL** | The **1m depth** gives better wind protection **and** enough setback that **no fall-protection glass screen is needed along the south or east parapet edges**, even with the enlarged FA2 (see Part L). Substantial windbreak for the lounge area. |
+| **M4** | Planter north of the seating area | **2.70m long × 600mm deep** *(was 3m — 14 June)* | **700mm** above terrace FFL | Substantial windbreak height for the lounge zone. Also holds the coastal-native *Armeria maritima* relocated from the removed M5 (Part D). |
+| **M7** | Planter **west of hot tub** (between tub and building) | 2m long × 600mm deep | Finishes **150mm above hot tub rim height** | The +150mm above tub rim gives wind defence on the building side of the tub. **The old east (M5) and north (M6) legs of the hot-tub U-shape were removed 14 June to give the hot tub more space** — only this west planter remains. |
 
 ### Heights summary
 
@@ -584,8 +583,8 @@ The existing decking boards have decking bolts with large through-holes every 80
 |---|---|---|
 | **500mm** above FFL | Narrow section L-shape (N1), narrow squares (N2, N3), dining L (M1) | Standard planter height — frames the use zones without dominating |
 | **400mm** (box) | Lift over-run planter (N4) | Kept low as it sits on the raised, tiled bulkhead; planting kept <700mm total so the feature stays low |
-| **700mm** above FA3 FFL or terrace FFL | SE L (M2), east-of-sauna (M3), north-of-seating (M4) | Substantial windbreak height for the lounge / FA3 zone; also doubles as a fall-protection edge where M2 sits next to the raised FA2 stair drop |
-| **+150mm above hot tub rim** | Hot tub U (M5–M7) | Maximum sensible wind defence for the hot tub without dominating the view from the lounge |
+| **700mm** above FA3 FFL or terrace FFL | SE L (M2), north-of-seating (M4) | Substantial windbreak height for the lounge / FA3 zone; the deep 1m M2 also provides the fall-protection setback along the south and east parapet edges (Part L) |
+| **+150mm above hot tub rim** | Hot tub west planter (M7) | Sensible wind defence on the building side of the tub without dominating the view from the lounge |
 
 ## Preventing leaching into walls behind
 
@@ -655,7 +654,7 @@ Now the planters sit **on top of the finished tile field** (not built into the r
 
 # PART D — PLANTING PALETTE & BIODIVERSITY
 
-> **🗓 Phase 1** — follows the planters. The hot-tub-zone planting waits for Phase 2 (with M5–M7). The biodiversity enhancements on the building (sparrow/bat boxes) are Phase 2; the bee bricks on the store are Phase 1. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 1** — follows the planters. The hot-tub-zone planting waits for Phase 2 (with M7). The biodiversity enhancements on the building (sparrow/bat boxes) are Phase 2; the bee bricks on the store are Phase 1. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 This section sets out the **approximate planted area**, the **planting palette**, and the **biodiversity case** for the full Listed Building Application — in particular for the **Biodiversity Net Gain (BNG)** demonstration and **Biodiversity Checklist** requirements that the planning officer raised at pre-application (PRE2025/00255).
 
@@ -674,17 +673,16 @@ Calculated from the planter inventory in Part C (see Part C "Sizes" subsection f
 | N4 | Lift over-run planter (1.9 × 2.1m), low fragrant herbs | | **~4.0 m²** |
 | | Narrow subtotal | | **~11.9 m²** |
 | **MAIN SECTION** | | | |
-| M1 | L-shape in dining (FA2) (5m + 1.8m × 600mm; less corner overlap) | | **3.72 m²** |
-| M2 | L-shape SE main (4m + 3m × 600mm; less corner overlap) | | **3.84 m²** |
-| M3 | East of sauna (1.2m × 600mm) | | **0.72 m²** |
-| M4 | North of seating (3m × 600mm) | | **1.80 m²** |
-| M5-M7 | Hot tub U-shape (east 2m × 600mm + north 2.1m × 300mm + west 2m × 600mm) | | **3.03 m²** |
-| | Main subtotal | | **~13.11 m²** |
-| **TOTAL planted area** | | | **~25.0 m²** |
+| M1 | L-shape in dining (FA2 5.75 × 5.1m) (~600mm deep; leg lengths per the 14 June drawing) | | **~3.7 m²** |
+| M2 | L-shape SE main (east 5.1m + south 3.5m external, **1m deep**; less corner overlap) | | **~7.6 m²** |
+| M4 | North of seating (2.70m × 600mm) | | **1.62 m²** |
+| M7 | West of hot tub (2m × 600mm) | | **1.20 m²** |
+| | Main subtotal | | **~14.1 m²** |
+| **TOTAL planted area** | | | **~26.0 m²** |
 
-That's **~21% of the total terrace footprint** given over to soft landscape (up from ~21.0 m² with the addition of the N4 lift-over-run herb planter), with the planter runs forming a near-continuous green perimeter around the usable hard-landscaped zones.
+That's **~22% of the total terrace footprint** given over to soft landscape (up slightly from ~25.0 m² in the prior layout — deepening M2 to 1m more than offsets the removed M3/M5/M6 planters), with the planter runs forming a near-continuous green perimeter around the usable hard-landscaped zones.
 
-In addition: **5 olive trees** as point specimens within the east-edge run / L-shape planters (a substantial vertical planting layer, not captured in the area figure above).
+In addition: **4 olive trees** as point specimens within the east-edge run / L-shape planters (a substantial vertical planting layer, not captured in the area figure above).
 
 ## Planting palette — Sussex Square / Kemp Town vernacular
 
@@ -701,35 +699,31 @@ The full list with sizes, growth rate, biodiversity notes and images is in **[`p
 - **Mat / trailing / wall-spill:** *Lithodora diffusa*, *Lysimachia nummularia* 'Aurea', *Sedum / Hylotelephium* 'Purple Emperor', *Iberis sempervirens*, *Cerastium tomentosum*
 - **Coastal specialists:** *Eryngium giganteum* (Miss Willmott's Ghost), *Crambe maritima* (sea kale), *Armeria maritima* (sea thrift), *Glaucium flavum* (yellow horned poppy)
 - **Herbs:** *Foeniculum vulgare*, *Achillea millefolium*, *Origanum vulgare*, *Thymus vulgaris*, *Mentha* sp.
-- **Specimen trees:** **5 × *Olea europaea*** (olives) distributed across the L-shape planters
+- **Specimen trees:** **4 × *Olea europaea*** (olives) distributed across the L-shape planters
 
 ## Windbreak planting plan
 
 The planting has been designed to provide **wind defence on the north and east parapets** (the principal wind directions to defend against) while **preserving the east view to the Downs from the hot tub**. The plan deliberately leans on species already in the Sussex Square palette — no new species added.
 
-**Companion drawing:** the planters are now labelled (N1–N4, M1–M7) directly on the GA drawings — full terrace below, and the main-section close-up by the table in [Part C](#part-c--planters). Cross-reference the codes with the per-planter plant lists in this Part.
+**Companion drawing:** the planters are now labelled (N1–N4, M1 / M2 / M4 / M7) directly on the GA drawings — full terrace below, and the main-section close-up by the table in [Part C](#part-c--planters). Cross-reference the codes with the per-planter plant lists in this Part.
 
-![Full terrace — planters labelled N1–N4, M1–M7](drawings/full-terrace-5-6-26.jpg)
+![Full terrace — planters labelled N1–N4, M1 / M2 / M4 / M7](drawings/full-terrace-14-6-26.png)
 
 ### Design principles
 
 - **Layered planting (back / mid / front)** in each planter — tall windbreak species at the back (against parapet), mid-tall in the middle, low/trailing at the front
 - **Olearia × haastii** is the primary back-row windbreak (1-1.5m natural compact dome, ×3 in Sussex Square photos — the most-evidenced tall coastal shrub in our palette)
-- **Pittosporum tobira full species** reserved for the SE L-shape (M2) where the 700mm planter + tall plant gives a proper tall windbreak; **'Wheeler's Dwarf'** (1m compact cultivar) is the alternative
-- **Hot tub east leg (M5):** low planting only (under 300mm at maturity) — east view to Downs preserved
-- **Hot tub north leg (M6):** compact uprights only — glass balustrade on parapet (no climber surface available)
-- **5 olives** distributed as architectural specimens: **2 in N1** (anchoring the 7.2m east leg) + **1 in M1** (dining centre) + **1 in M2** (SE L-shape) + **1 in M3** (east of sauna)
+- **Pittosporum tobira full species** reserved for the SE L-shape (M2) where the 700mm × 1m-deep planter + tall plant gives a proper tall windbreak; **'Wheeler's Dwarf'** (1m compact cultivar) is the alternative
+- **Hot tub west planter (M7):** low/mid planting on the building side — the east and north hot-tub planters (M5, M6) were removed 14 June to open up the tub, so the east view to the Downs is now entirely clear
+- **4 olives** distributed as architectural specimens: **2 in N1** (anchoring the 7.2m east leg) + **1 in M1** (dining centre) + **1 in M2** (SE L-shape) *(reduced from 5 — the M3 east-of-sauna planter and its olive were removed 14 June)*
 
 ### Plant lists per planter
 
 | # | Planter | Plants |
 |---|---|---|
-| **M5** | East of hot tub (view preserved) | LOW only: *Sedum* 'Purple Emperor', *Festuca glauca*, *Stachys byzantina*, *Thymus*, *Lavandula* 'Hidcote', *Armeria maritima* (UK coastal native) |
-| **M6** | North of hot tub (300mm, behind glass) | *Hebe pinguifolia* (compact), *Lavandula* 'Hidcote', *Festuca glauca*, *Sedum* |
-| **M7** | West of hot tub | **Back:** *Olearia × haastii* + *Phormium tenax* 'Purpureum' / **Mid:** *Phlomis fruticosa* / **Front:** *Stachys*, *Lavandula*, *Salvia rosmarinus* |
-| **M2** | SE L-shape (700mm tall — strong windbreak) | **Back:** *Pittosporum tobira* (or 'Wheeler's Dwarf', clipped to 1.5m) + 1 olive + *Phormium* 'Purpureum' + 1 *Cynara cardunculus* (silver focal) / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine', *Salvia microphylla* 'Hot Lips' / **Front:** *Stachys*, *Erigeron*, *Salvia rosmarinus*, *Festuca* |
-| **M3** | East of sauna (700mm tall, long edge W-E) | 1 olive / *Phlomis fruticosa* / *Stachys*, *Erigeron*, *Lithodora* |
-| **M4** | North of seating (vertical W-E, 700mm tall) | **Back:** *Olearia × haastii* + *Phormium tenax* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine' / **Front:** *Stachys*, *Lavandula*, *Erigeron* |
+| **M7** | West of hot tub (building side) | **Back:** *Olearia × haastii* + *Phormium tenax* 'Purpureum' / **Mid:** *Phlomis fruticosa* / **Front:** *Stachys*, *Lavandula*, *Salvia rosmarinus* |
+| **M2** | SE L-shape (700mm tall, **1m deep** — strong windbreak) | **Back:** *Pittosporum tobira* (or 'Wheeler's Dwarf', clipped to 1.5m) + 1 olive + *Phormium* 'Purpureum' + 1 *Cynara cardunculus* (silver focal) / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine', *Salvia microphylla* 'Hot Lips' / **Front:** *Stachys*, *Erigeron*, *Salvia rosmarinus*, *Festuca* |
+| **M4** | North of seating (vertical W-E, 700mm tall, 2.70m) | **Back:** *Olearia × haastii* + *Phormium tenax* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine' / **Front:** *Stachys*, *Lavandula*, *Erigeron*, *Armeria maritima* (UK coastal native, relocated from the removed M5) |
 | **M1** | Dining L (500mm) | **Back:** *Olearia × haastii* (or *Pittosporum tobira* 'Wheeler's Dwarf') + 1 olive (central) / **Mid:** *Choisya* 'Sundance' (golden), *Lavandula angustifolia*, *Salvia nemorosa* 'Caradonna' / **Front:** *Stachys*, *Geranium* 'Rozanne', *Erigeron*, *Nepeta × faassenii* |
 | **N1** | East + North L narrow (500mm) | **Back:** *Olearia × haastii* (spaced along run) + 2 olives (anchoring the east leg) + *Phormium tenax* + *Cordyline australis* (NE corner) / **Mid:** *Phlomis*, *Brachyglottis*, *Salvia microphylla*, *Olearia × haastii* / **Front:** *Stachys*, *Erigeron*, *Lavandula*, *Salvia rosmarinus*, *Festuca* |
 | **N2** | Mid-east 1.2 × 1.2m square | *Pittosporum tobira* 'Wheeler's Dwarf' (1m compact dome) + *Phormium tenax* / *Lavandula* 'Hidcote' underplanting |
@@ -754,7 +748,7 @@ Quantities derived from the per-planter plant lists above + movable pots. Sizes 
 
 | Species | Common name | Qty | Supply size | Where | Unit £ | Subtotal £ |
 |---|---|---|---|---|---|---|
-| *Olea europaea* | Olive (multi-stem) | 5 | 15L pot, ~2–2.5m tall, multi-stem | 2 N1 + 1 M1 + 1 M2 + 1 M3 | ~£100–150 | ~£500–750 |
+| *Olea europaea* | Olive (multi-stem) | 4 | 15L pot, ~2–2.5m tall, multi-stem | 2 N1 + 1 M1 + 1 M2 | ~£100–150 | ~£400–600 |
 | *Olea europaea* | Olive — feature specimen for south-end pot | 1 | 25L+ pot, ~2m+, gnarled multi-stem | South-end movable pot cluster | ~£200–300 | ~£200–300 |
 
 **Tier 2 — Tall structural / windbreak shrubs (back row)**
@@ -774,15 +768,14 @@ Quantities derived from the per-planter plant lists above + movable pots. Sizes 
 
 | Species | Common name | Qty | Supply size | Where | Unit £ | Subtotal £ |
 |---|---|---|---|---|---|---|
-| *Phlomis fruticosa* | Jerusalem sage | 9 | 3L pot | 2 M2 + 1 M3 + 2 M4 + 1 M7 + 3 N1 | ~£10–15 | ~£90–135 |
+| *Phlomis fruticosa* | Jerusalem sage | 8 | 3L pot | 2 M2 + 2 M4 + 1 M7 + 3 N1 | ~£10–15 | ~£80–120 |
 | *Brachyglottis* 'Sunshine' | Silver/yellow daisy shrub | 7 | 3L pot | 2 M2 + 2 M4 + 3 N1 | ~£10–15 | ~£70–105 |
 | *Choisya ternata* 'Sundance' | Golden Mexican orange | 2 | 5L pot | M1 | ~£18–25 | ~£35–50 |
 | *Salvia microphylla* 'Hot Lips' | Bicolour shrubby sage | 5 | 2–3L pot | 2 M2 + 3 N1 | ~£8–12 | ~£40–60 |
 | *Salvia nemorosa* 'Caradonna' | Dark-stem purple-spike salvia | 3 | 2L pot | M1 | ~£7–10 | ~£20–30 |
 | *Salvia rosmarinus* | Rosemary | 13 | 2–3L pot | 3 M2 + 2 M7 + 4 N1 + 3 N3 + 1 south-end pot | ~£8–12 | ~£100–155 |
 | *Lavandula angustifolia* | English lavender | 17 | 2–3L pot | 5 M1 + 3 M4 + 2 M7 + 5 N1 + 1 south-end + 1 west-of-N3 pot | ~£8–12 | ~£135–205 |
-| *Lavandula angustifolia* 'Hidcote' (compact) | Compact lavender | 8 | 2L pot | 2 M5 + 2 M6 + 4 N2 | ~£7–10 | ~£55–80 |
-| *Hebe pinguifolia* | Compact silver-leaved hebe | 2 | 2L pot | M6 | ~£7–10 | ~£15–20 |
+| *Lavandula angustifolia* 'Hidcote' (compact) | Compact lavender | 4 | 2L pot | 4 N2 | ~£7–10 | ~£30–40 |
 
 **Tier 4 — Perennials and front row**
 
@@ -791,29 +784,28 @@ Quantities derived from the per-planter plant lists above + movable pots. Sizes 
 | *Nepeta × faassenii* | Catmint | 4 | 1–2L pot | M1 | ~£6–9 | ~£25–35 |
 | *Geranium* 'Rozanne' | Hardy geranium | 4 | 1–2L pot | M1 | ~£7–10 | ~£30–40 |
 | *Stachys byzantina* | Lamb's ears | 27 | 1L / 9cm pot | All planter front edges + 1 west-of-N3 pot | ~£4–6 | ~£110–160 |
-| *Erigeron karvinskianus* | Mexican fleabane | 27 | 1L / 9cm pot | M1, M2, M3, M4, N1 fronts | ~£4–6 | ~£110–160 |
-| *Festuca glauca* | Blue fescue grass | 12 | 1L / 9cm pot | M2, M5, M6, N1 | ~£4–6 | ~£50–70 |
-| *Sedum / Hylotelephium* 'Purple Emperor' | Purple-leaved sedum | 5 | 1–2L pot | 3 M5 + 2 M6 | ~£5–8 | ~£25–40 |
-| *Thymus vulgaris* | Common thyme | 10 | 9cm pot | 5 M5 + 4 N3 + 1 west-of-N3 pot | ~£3–5 | ~£30–50 |
+| *Erigeron karvinskianus* | Mexican fleabane | 25 | 1L / 9cm pot | M1, M2, M4, N1 fronts | ~£4–6 | ~£100–150 |
+| *Festuca glauca* | Blue fescue grass | 8 | 1L / 9cm pot | M2, N1 | ~£4–6 | ~£35–50 |
+| *Thymus vulgaris* | Common thyme | 5 | 9cm pot | 4 N3 + 1 west-of-N3 pot | ~£3–5 | ~£15–25 |
 | *Origanum vulgare* | Wild marjoram (UK native) | 4 | 9cm pot | 3 N3 + 1 west-of-N3 pot | ~£3–5 | ~£12–20 |
 | *Salvia rosmarinus* 'Prostratus' | Prostrate / trailing rosemary | ~6 | 2–3L pot | N4 (trailing over all edges) | ~£8–12 | ~£50–70 |
 | *Santolina chamaecyparissus* | Cotton lavender | ~4 | 2L pot | N4 | ~£6–10 | ~£25–40 |
-| *Armeria maritima* | Sea thrift (UK coastal native) | 4 | 1L / 9cm pot | M5 | ~£4–6 | ~£15–25 |
-| *Lithodora diffusa* | Azure-blue carpet | 2 | 1–2L pot | M3 | ~£5–8 | ~£10–15 |
+| *Armeria maritima* | Sea thrift (UK coastal native) | 4 | 1L / 9cm pot | M4 (relocated from removed M5) | ~£4–6 | ~£15–25 |
+| *Lithodora diffusa* | Azure-blue carpet | 2 | 1–2L pot | M2 (relocated from removed M3) | ~£5–8 | ~£10–15 |
 
 **Totals**
 
 | Tier | Plants | Estimated cost |
 |---|---|---|
-| 1 — Specimen trees | 6 | ~£700–1,050 |
+| 1 — Specimen trees | 5 | ~£600–900 |
 | 2 — Tall shrubs | 30 | ~£625–990 |
-| 3 — Mid shrubs | 66 | ~£560–840 |
-| 4 — Perennials / front row | 99 | ~£415–615 |
-| **Grand total — plants only** | **~201** | **~£2,300–3,500** |
+| 3 — Mid shrubs | 59 | ~£500–760 |
+| 4 — Perennials / front row | 83 | ~£360–540 |
+| **Grand total — plants only** | **~177** | **~£2,100–3,200** |
 
 **Notes for the nursery / supplier:**
 
-- The 5 planted-out olives in particular benefit from **multi-stem, gnarled forms** rather than tall single-trunk standards — the gnarled trunk is the visual signature of Sussex Square's olive plantings and what the heritage continuity argument leans on
+- The 4 planted-out olives in particular benefit from **multi-stem, gnarled forms** rather than tall single-trunk standards — the gnarled trunk is the visual signature of Sussex Square's olive plantings and what the heritage continuity argument leans on
 - *Pittosporum tobira* full species in M2 to be **clipped to ~1.5m max height** on site to stay within the 700mm planter's wind-defence zone without overtopping the parapet sightline from Bristol Gardens
 - A **10–15% contingency** on top of these counts is sensible (replacements during establishment, fill-out gaps in year 2)
 - All container plants ideally **peat-free supplied**
@@ -831,21 +823,9 @@ Photo-realistic visualisations of each planter at maturity. These are AI-generat
 
 ![M2 SE L-shape](artists-impressions/m2.png)
 
-**M3 — East of sauna (single olive + Phlomis + Stachys + Erigeron + Lithodora):**
-
-![M3 east of sauna](artists-impressions/m3.png)
-
 **M4 — North of seating (Olearia × haastii row + Phormium + Phlomis + Brachyglottis + front mix):**
 
 ![M4 north of seating](artists-impressions/m4.png)
-
-**M5 — East of hot tub (LOW only — view to Downs preserved):**
-
-![M5 east of hot tub](artists-impressions/m5.png)
-
-**M6 — North of hot tub (300mm planter, glass balustrade behind, compact uprights):**
-
-![M6 north of hot tub](artists-impressions/m6.png)
 
 **M7 — West of hot tub (Olearia + Phormium + Phlomis + front mix):**
 
@@ -881,9 +861,9 @@ Photo-realistic visualisations of each planter at maturity. These are AI-generat
 - **Continuity with the protected Kemp Town Enclosures planting** — the palette is drawn from the same Mediterranean / coastal-meadow tradition that already characterises Sussex Square's communal gardens, so the terrace reads as an extension of the registered garden's biodiversity layer rather than an alien intrusion. **Olearia × haastii (×3 in Sussex Square photos)** is the primary mid-tall windbreak shrub in this plan — well-evidenced in the local heritage planting.
 - **Strong pollinator support** — *Nepeta × faassenii*, *Lavandula*, *Salvia rosmarinus*, *Salvia microphylla* 'Hot Lips', *Salvia nemorosa* 'Caradonna', *Phlomis fruticosa*, *Brachyglottis* 'Sunshine', *Origanum vulgare*, *Geranium* 'Rozanne', *Erigeron karvinskianus*, *Lithodora diffusa* — all in the RHS "Plants for Pollinators" list, providing nectar from early spring (*Lithodora*, *Lavandula*) through to late autumn (*Salvia microphylla*, *Erigeron*). The new **N4 fragrant-herb bed** (rosemary incl. prostrate, lavender, thyme, oregano, *Santolina*, *Salvia microphylla*) adds a concentrated, long-flowering pollinator magnet and a sensory feature in the heart of the narrow terrace — all RHS "Plants for Pollinators".
 - **Seed and overwintering value** — *Sedum* 'Purple Emperor', *Festuca glauca* tussocks, *Cynara cardunculus* seed heads, *Phormium tenax* flower spikes, *Phlomis fruticosa* whorls all left standing through winter provide seed and invertebrate cover for finches, sparrows and overwintering insects.
-- **Coastal-meadow niche** — ***Armeria maritima*** (UK coastal native, in M5), ***Origanum vulgare*** (UK native, in N3), naturalised *Erigeron karvinskianus*, *Salvia rosmarinus*, *Stachys byzantina*, *Lavandula* — together provide the Mediterranean / coastal-meadow biotope characteristic of the Sussex seafront. The broader palette in `planting.md` also includes *Crambe maritima*, *Glaucium flavum* and *Eryngium giganteum* which can be added as native enhancements if BHCC asks.
-- **Vertical layering** — **5 olive trees** distributed across 4 planters (2 in N1, 1 in M1, 1 in M2, 1 in M3) + sub-shrub mid-layer (*Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*, *Cordyline australis*) + perennial / mat understory + drought-tolerant low planting at hot tub — gives multi-tier habitat structure within the **~25.0 m² of planted area** (~21% of the terrace footprint, incl. the new N4 fragrant-herb bed). The parasols' fabric provides bird-safe cover when retracted.
-- **Specific UK native species in this plan:** *Armeria maritima* (M5), *Origanum vulgare* (N3). **Long-naturalised in S England:** *Erigeron karvinskianus* (multiple planters), *Stachys byzantina* (multiple), *Salvia rosmarinus* (multiple), *Lavandula angustifolia* (multiple). Wider palette has additional UK natives available for substitution if planning officer asks for more native content (see `planting.md`).
+- **Coastal-meadow niche** — ***Armeria maritima*** (UK coastal native, in M4), ***Origanum vulgare*** (UK native, in N3), naturalised *Erigeron karvinskianus*, *Salvia rosmarinus*, *Stachys byzantina*, *Lavandula* — together provide the Mediterranean / coastal-meadow biotope characteristic of the Sussex seafront. The broader palette in `planting.md` also includes *Crambe maritima*, *Glaucium flavum* and *Eryngium giganteum* which can be added as native enhancements if BHCC asks.
+- **Vertical layering** — **4 olive trees** distributed across 3 planters (2 in N1, 1 in M1, 1 in M2) + sub-shrub mid-layer (*Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*, *Cordyline australis*) + perennial / mat understory + the M7 west-of-tub planter — gives multi-tier habitat structure within the **~26.0 m² of planted area** (~22% of the terrace footprint, incl. the new N4 fragrant-herb bed). The parasols' fabric provides bird-safe cover when retracted.
+- **Specific UK native species in this plan:** *Armeria maritima* (M4), *Origanum vulgare* (N3). **Long-naturalised in S England:** *Erigeron karvinskianus* (multiple planters), *Stachys byzantina* (multiple), *Salvia rosmarinus* (multiple), *Lavandula angustifolia* (multiple). Wider palette has additional UK natives available for substitution if planning officer asks for more native content (see `planting.md`).
 - **No invasive species** — the list deliberately excludes anything on Schedule 9 of the WCA 1981 (e.g. no *Cotoneaster horizontalis*, no *Crocosmia* × *crocosmiiflora*, no *Buddleja davidii* as a primary feature).
 - **EPDM-lined hardwood planters** with lightweight peat-free roof-garden soil mix + bark mulch (see Part C planter make-up) = healthy long-term planting at minimal structural load, not a one-season display.
 
@@ -905,15 +885,15 @@ This subsection sets out **what we've prepared for you**, **what physical featur
 
 **Pre-development baseline:** The existing roof terrace is an **asphalted flat roof with no vegetation**. Under the Statutory Biodiversity Metric this classifies as **"Developed land; sealed surface"** — the lowest distinctiveness band (zero biodiversity units). The proposed scheme therefore starts from zero, and any planting represents net biodiversity gain — the 10% BNG threshold is comfortably exceeded by definition.
 
-**Post-development baseline:** Locked-in **~25.0 m² of planted area** (~21% of the terrace footprint, per Part C inventory and Part D "Planted area" subsection — including the N4 fragrant-herb bed over the lift over-run) plus **5 olive trees** distributed as point specimens (2 in N1, 1 in M1, 1 in M2, 1 in M3), plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs" (primarily *Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*), "Native species-rich elements" (*Armeria maritima*, *Origanum vulgare*), naturalised wildflowers (*Erigeron*, *Stachys*, *Lavandula*) and "Mixed scrub" texture within hardwood-clad container planters.
+**Post-development baseline:** Locked-in **~26.0 m² of planted area** (~22% of the terrace footprint, per Part C inventory and Part D "Planted area" subsection — including the N4 fragrant-herb bed over the lift over-run) plus **4 olive trees** distributed as point specimens (2 in N1, 1 in M1, 1 in M2), plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs" (primarily *Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*), "Native species-rich elements" (*Armeria maritima*, *Origanum vulgare*), naturalised wildflowers (*Erigeron*, *Stachys*, *Lavandula*) and "Mixed scrub" texture within hardwood-clad container planters.
 
 **Native species in this windbreak plan + wider palette available for substitution:**
 
 | Species | Status | In this windbreak plan? |
 |---|---|---|
-| *Armeria maritima* — sea thrift | UK coastal native | **YES** — M5 (east of hot tub, low planting) |
+| *Armeria maritima* — sea thrift | UK coastal native | **YES** — M4 (north of seating, front edge; relocated from removed M5) |
 | *Origanum vulgare* — wild marjoram | UK native | **YES** — N3 (kitchen-adjacent sensory herbs) |
-| *Erigeron karvinskianus* — Mexican fleabane | Long-naturalised in S England | **YES** — multiple planters (M1, M2, M3, M4, N1) |
+| *Erigeron karvinskianus* — Mexican fleabane | Long-naturalised in S England | **YES** — multiple planters (M1, M2, M4, N1) |
 | *Stachys byzantina* — lamb's ears | Long-naturalised | **YES** — multiple planters (front-row spill) |
 | *Lavandula angustifolia* / 'Hidcote' | Long-grown in UK, naturalised on coast | **YES** — multiple planters |
 | *Salvia rosmarinus* — rosemary | Mediterranean, long-grown in UK | **YES** — multiple planters + N3 kitchen herbs |
@@ -987,7 +967,7 @@ To complete the biodiversity submission, please confirm or produce:
 ## What we'd value your steer on
 
 - Confirmation that the **planter footprints and locations** (Part C inventory + drawings) are structurally acceptable from a roof-load standpoint, particularly the long N1 east-edge run
-- **5 olive trees** — root volume / soil-depth recommendation from a horticultural perspective (current planter depth 600mm; may need locally deeper detail at olive positions)
+- **4 olive trees** — root volume / soil-depth recommendation from a horticultural perspective (current planter depth 600mm; may need locally deeper detail at olive positions)
 - Any plants on the palette you'd flag as **unsuitable for the exposed seafront location** that we should swap out
 - Confirmation of **biodiversity submission route** (SBI vs SSM) and **division of work** per Section E above
 
@@ -1208,7 +1188,7 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 | **1 — Narrow, general** | Narrow section (per 5 June drawing) | **1.10 × 0.75m** × **~1.0m high** | Fills its space. **Existing plumbing + electrical conduits run at the base** — boxed in; **cupboard storage above and to the side** of the conduits. Bee bricks integrated into an external face (Part D). |
 | **2 — Narrow, Litter Robot** | Narrow section (per 5 June drawing) | **1.10 × 1.10m** × **~1.0m high** | Houses the cat's **Litter Robot 4/5** — the 1.10m depth gives the room the LR needs (~686mm deep + cat-landing space); ~1.0m height leaves ~900mm+ internal, clear of the 749mm LR. **Cat flap** in the front face + **240V power** (Part K). |
 | **3 — Narrow, conduit cover** | Narrow section (per 5 June drawing) | **0.85 × 0.75m** × **~1.0m high** | **Boxes in currently-exposed plumbing + electrical conduits** at the base; **cupboard storage above.** |
-| **4 — Main (NE) store** | NE of the main section | **1.80 × 1.20m** × **~1.2m high** | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions. **Child-safe lock** if hot tub chemicals stored here. |
+| **4 — Main (NE) store** | NE of the main section | **1.60 × 1.20m** × **~1.2m high** *(reduced from 1.80m, 14 June — lets the sofa/seating area slide slightly north)* | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions. **Child-safe lock** if hot tub chemicals stored here. |
 
 > **Heights:** the three narrow-section stores are **~1.0m high to line up with the narrow-section railings** (Part H) for a clean, consistent line; **Store 4 is ~1.2m high**. All sit below parapet height.
 
@@ -1512,14 +1492,14 @@ Restrained counts — picking out specimens, olives and corners rather than blan
 | **2** | Narrow section planters **N1 + N2 + N3** | 3 along the long N1 east run (one per olive), 1 in N2, 1 in N3 | **5** |
 | **3** | Dining area — planter **M1** (L-shape) | 1 per olive (2) + 1 corner accent | **3** |
 | **4** | Lounge SE corner — planter **M2** (L-shape) | 1 per olive (2), 1 on the Cynara focal, 1 picking out the corner Phormium | **4** |
-| **5** | Sauna east side — planter **M3** + door downlights | 1 uplighter on the M3 olive + 2× door downlights | **1 + 2** |
-| **6** | Hot tub planters — **M5 (east) + M6 (north) + M7 (west)** | 1 per planter, **angled away from the tub seating** so they don't dazzle | **3** |
+| **5** | Sauna / wet room **door downlights** *(the M3 planter uplighter is removed — M3 deleted 14 June)* | 2× eave/soffit door downlights | **0 + 2** |
+| **6** | Hot tub — planter **M7 (west)** *(M5 east + M6 north removed 14 June)* | 1 uplighter on M7, **angled away from the tub seating** so it doesn't dazzle | **1** |
 
-**Total:** ~19 uplighters + 2 downlights.
+**Total:** ~16 uplighters + 2 downlights.
 
 ## Fittings — preferred suppliers and types
 
-**Spike uplighters (planted areas — zones 1, 2, 3, 4, 5, 6):**
+**Spike uplighters (planted areas — zones 1, 2, 3, 4, 6):**
 
 - **Lightpro Garden Lights** (NL, UK distribution) — 12V LV plug-and-play system. Brass and 316SS spike uplighters, marine-spec, ~£30–50 each. Whole installation runs off one bus with pre-made waterproof connectors.
 - **In-lite** (NL, UK distribution) — similar 12V LV plug-and-play, very robust connectors, slightly premium pricing.
@@ -1590,31 +1570,28 @@ To give reliable wifi coverage across the full terrace (hot tub, dining area, sm
 
 # PART L — FALL PROTECTION (GLASS BALUSTRADES & PLANTERS)
 
-> **🗓 Phase 1 + 2 (split).** The **dining-area glass goes in with Phase 1**, alongside the raised FA2 dining floor, so its 500mm fall edge is guarded from day one *(confirm with Ronan that this glass doesn't itself need LBC)*. The **hot-tub glass is Phase 2**, arriving with the tub. Both fix into the parapet masonry (no roof penetration), so the hot-tub run can wait without locking anything in. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 1 + 2 (split).** The **hot-tub glass is Phase 2**, arriving with the tub; it fixes into the parapet masonry (no roof penetration), so it can wait without locking anything in. **The previously-planned dining-area glass on the south and east edges is no longer needed** — see below. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-Two locations need fall protection to comply with Approved Doc K (1100mm above the standing level):
+**Change (14 June):** with **Floor Area 2 now raised only ~300mm** (was 500mm), the raised dining edge itself is a low step rather than a guarded drop; and the **deepened 1m M2 planters along the south and east parapets** create a planted setback barrier along those edges. Between them, this removes the need for the previously-planned **glass screens on the south and east walls**, even with the enlarged FA2. *(Confirm with Ronan / building control that the planter setback satisfies Approved Document K along those edges.)*
 
-1. **Dining area (Floor Area 2)** — 1100mm above FFL along the relevant edge(s)
-2. **Around the hot tub** — 1100mm above the **hot tub rim**, since BC will treat the rim as the standing level. The tub can't be positioned away from the edge, so this applies.
+That leaves **one location needing glass fall protection** — around the hot tub:
 
-We've chosen frameless structural glass throughout for both locations — keeps the view, and minimises bulk from public viewpoints (conservation area).
+- **Around the hot tub** — 1100mm above the **hot tub rim** (Approved Doc K), since BC will treat the rim as the standing level. The tub can't be positioned away from the edge, so this applies.
+
+We've chosen frameless structural glass for the hot-tub run — keeps the view, and minimises bulk from public viewpoints (conservation area).
 
 ## Glass spec
 
 - Frameless toughened laminated glass (typ. 17.5mm or 21.5mm — engineer to confirm)
-- Heights:
-  - Dining area: top of glass at **1100mm FFL**
-  - Hot tub area: top of glass at **1100mm above tub rim** (≈1900mm FFL depending on final tub choice)
+- Height: hot tub area — top of glass at **1100mm above tub rim** (≈1900mm FFL depending on final tub choice)
 - Designed to BS 6180 line loads + Brighton coastal wind loads (significant — seafront exposure)
 
-## Planters (inside the glass)
+## Planters around the hot tub
 
-- **500mm deep planters** running along the inside (terrace side) of the glass
-- Planter top **300mm above hot tub rim** along the hot tub run
-- Functions:
-  - Visual / planting feature
-  - Creates a 500mm physical setback between the hot tub and the glass — may help BC accept the guarding line (worth confirming with building control)
-  - Adds visual interest at parapet level
+> **Change (14 June):** the **east and north hot-tub planters (M5, M6) were removed to give the hot tub more space** (Part C). So the previously-planned **500mm planter setback inside the glass no longer runs along the east/north (glazed) sides** — the glass there guards directly, with the tub closer to the parapet line. Only the **west planter (M7)** remains, on the building side (no glass run there). **Flag to building control:** the hot-tub guarding now relies on the glass alone on the east/north, without the planter setback that was previously offered.
+
+- **M7 (west of tub):** finishes ~150mm above the hot tub rim — wind defence on the building side
+- Visual interest / planting feature on the west side
 
 ## Mounting — side-mounted (face-fix to inner face of parapet)
 
@@ -1631,7 +1608,7 @@ We've chosen frameless structural glass throughout for both locations — keeps 
 
 - **Inner-face fixing detail** — point-fixed stainless clamps vs a low-profile inner-face channel; SE to confirm pull-out capacity against the existing masonry given Brighton seafront wind loading
 - **Glass thickness / spec** — to be sized by the supplier's engineer once the inner-face fixing detail is agreed (likely 17.5–21.5mm toughened laminated to BS 6180)
-- **Whether the 500mm planter setback** is acceptable to building control as part of the guarding strategy around the hot tub (could allow the glass to be slightly lower than the strict 1100mm-above-rim rule, though we're not banking on this)
+- **Hot-tub guarding without the planter setback** — now the east/north hot-tub planters are removed (14 June), is the glass alone acceptable to building control along those sides, or does BC want the tub held back from the glass line? (We're not banking on any concession to lower the glass below 1100mm-above-rim.)
 - **Condition of the inner masonry face** behind the proposed fixing line — confirmation it's sound brickwork suitable for resin-anchored point fixings at this exposure
 
 ---
@@ -2100,7 +2077,7 @@ We've used Morton Parasols before and want to use them again, or an equivalent c
 
 We are **not penetrating the roof** (the asphalt waterproofing sits at the very bottom on the deck; piercing it is against IKO's "invert the whole roof so it outlasts the building" approach). So each parasol base is a **free-standing weighted base sitting on the tiles.**
 
-**Why on the tiles, not recessed:** we'd looked at recessing the base down on the Protectoboard (mast collared at the tile plane for extra stability), but the pedestal-void depths rule it out — the **dining area (FA2) is raised ~500mm** (recessing that deep is impractical, so **the dining parasol base must sit on the tiles**) and the **sofa area (FA3) is only ~100mm** (too shallow for a chunky weighted base). So both bases sit on the tile surface. *(A base could alternatively be ballasted/housed within a planter, using its mass + footprint — worth exploring for the sofa.)*
+**Why on the tiles, not recessed:** we'd looked at recessing the base down on the Protectoboard (mast collared at the tile plane for extra stability), but the pedestal-void depths rule it out — the **dining area (FA2) is raised ~300mm** (recessing a base into the pedestal void there is impractical, so **the dining parasol base must sit on the tiles**) and the **sofa area (FA3) is only ~100mm** (too shallow for a chunky weighted base). So both bases sit on the tile surface. *(A base could alternatively be ballasted/housed within a planter, using its mass + footprint — worth exploring for the sofa.)*
 
 **Consequence:** on a weighted surface base the parasol is **furled in strong wind** — so we're buying for **marine-grade build, not for a wind rating we can't exploit.**
 

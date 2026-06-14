@@ -25,21 +25,17 @@ The terrace planting scheme has been organised to provide **wind defence on the 
 
 - **Layered planting** in each planter — tall windbreak species at the back (against parapet), mid-tall in the middle, low/trailing at the front
 - **Olearia × haastii** is the primary back-row windbreak (1-1.5m natural compact dome, ×3 in Sussex Square photos — the most-evidenced tall coastal shrub in our palette)
-- **Pittosporum tobira full species** reserved for the SE L-shape (M2, 700mm planter); **'Wheeler's Dwarf'** (1m compact cultivar) used in N2/N3 squares
-- **Hot tub east leg (M5):** low planting only (under 300mm) — east view to Downs preserved
-- **Hot tub north leg (M6):** compact uprights only — glass balustrade on parapet
-- **5 olives** distributed: 2 in N1 + 1 in M1 + 1 in M2 + 1 in M3
+- **Pittosporum tobira full species** reserved for the SE L-shape (M2, 700mm × 1m-deep planter); **'Wheeler's Dwarf'** (1m compact cultivar) used in N2/N3 squares
+- **Hot tub west planter (M7):** low/mid planting on the building side — the east (M5) and north (M6) hot-tub planters were removed 14 June to open up the tub, so the east view to the Downs is now entirely clear
+- **4 olives** distributed: 2 in N1 + 1 in M1 + 1 in M2 *(reduced from 5 — the M3 east-of-sauna planter and its olive were removed 14 June)*
 
 ## Plant lists per planter
 
 | # | Planter | Plants |
 |---|---|---|
-| **M5** | East of hot tub (view preserved) | LOW only: *Sedum* 'Purple Emperor', *Festuca glauca*, *Stachys byzantina*, *Thymus*, *Lavandula* 'Hidcote', *Armeria maritima* |
-| **M6** | North of hot tub (300mm, glass behind) | *Hebe pinguifolia* (compact), *Lavandula* 'Hidcote', *Festuca glauca*, *Sedum* |
-| **M7** | West of hot tub | **Back:** *Olearia × haastii* + *Phormium tenax* 'Purpureum' / **Mid:** *Phlomis fruticosa* / **Front:** *Stachys*, *Lavandula*, *Salvia rosmarinus* |
-| **M2** | SE L-shape (700mm tall) | **Back:** *Pittosporum tobira* (or 'Wheeler's Dwarf', clipped to 1.5m) + 1 olive + *Phormium* 'Purpureum' + 1 *Cynara cardunculus* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine', *Salvia microphylla* 'Hot Lips' / **Front:** *Stachys*, *Erigeron*, *Salvia rosmarinus*, *Festuca* |
-| **M3** | East of sauna (700mm tall) | 1 olive / *Phlomis fruticosa* / *Stachys*, *Erigeron*, *Lithodora* |
-| **M4** | North of seating (vertical, 700mm tall) | **Back:** *Olearia × haastii* + *Escallonia* 'Apple Blossom' + *Phormium tenax* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine' / **Front:** *Stachys*, *Lavandula*, *Erigeron* |
+| **M7** | West of hot tub (building side) | **Back:** *Olearia × haastii* + *Phormium tenax* 'Purpureum' / **Mid:** *Phlomis fruticosa* / **Front:** *Stachys*, *Lavandula*, *Salvia rosmarinus* |
+| **M2** | SE L-shape (700mm tall, **1m deep**) | **Back:** *Pittosporum tobira* (or 'Wheeler's Dwarf', clipped to 1.5m) + 1 olive + *Phormium* 'Purpureum' + 1 *Cynara cardunculus* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine', *Salvia microphylla* 'Hot Lips' / **Front:** *Stachys*, *Erigeron*, *Salvia rosmarinus*, *Festuca*, *Lithodora* (relocated from removed M3) |
+| **M4** | North of seating (vertical, 700mm tall, 2.70m) | **Back:** *Olearia × haastii* + *Escallonia* 'Apple Blossom' + *Phormium tenax* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine' / **Front:** *Stachys*, *Lavandula*, *Erigeron*, *Armeria maritima* (UK coastal native, relocated from removed M5) |
 | **M1** | Dining L (500mm) | **Back:** *Olearia × haastii* (or *Pittosporum tobira* 'Wheeler's Dwarf') + 1 olive (central) / **Mid:** *Choisya* 'Sundance', *Lavandula angustifolia*, *Salvia nemorosa* 'Caradonna' / **Front:** *Stachys*, *Geranium* 'Rozanne', *Erigeron*, *Nepeta × faassenii* |
 | **N1** | East + North L narrow (500mm) | **Back:** *Olearia × haastii* (spaced along run) + *Escallonia* 'Apple Blossom' + 2 olives (anchoring east leg) + *Phormium tenax* + *Cordyline australis* (NE corner) / **Mid:** *Phlomis*, *Brachyglottis*, *Salvia microphylla* / **Front:** *Stachys*, *Erigeron*, *Lavandula*, *Salvia rosmarinus*, *Festuca* |
 | **N2** | Mid-east square (1.2 × 1.2m) | *Pittosporum tobira* 'Wheeler's Dwarf' (1m dome) + *Phormium tenax* / *Lavandula* 'Hidcote' underplanting |
@@ -253,30 +249,30 @@ The terrace planting scheme has been organised to provide **wind defence on the 
 - ***Phormium tenax*** 'Purpureum' (×2 Sussex Square) — bronze sword leaves; M2, M4, M7, N1, **N2 (architectural punctuation)**
 
 ### 🌿 MID layer (0.5-1m)
-- ***Phlomis fruticosa*** (×1 Sussex Square) — woolly grey; M2, M3, M4, M7
+- ***Phlomis fruticosa*** (×1 Sussex Square) — woolly grey; M2, M4, M7
 - ***Brachyglottis 'Sunshine'*** (×3 Sussex Square) — silver-yellow daisy; M2, M4, N1
 - ***Olearia × haastii*** (×3 Sussex Square via Brachyglottis/Olearia group) — silver mid-shrub; M4, N1
 - ***Salvia microphylla*** 'Hot Lips' (×3 Sussex Square) — red/white bicolor; M2, N1
 - ***Salvia nemorosa*** 'Caradonna' (×1) — purple-black spikes; M1
 - ***Choisya ternata*** 'Sundance' (×2 Sussex Square) — golden mid-shrub; M1 (warm dining accent)
-- ***Hebe pinguifolia*** (×3 Sussex Square via Hebe group) — compact upright; M6 (300mm planter)
 
 ### 🌱 FRONT row / trailing
-- ***Stachys byzantina*** (×4 Sussex Square) — silver lamb's ears; M2, M4, M5, M7, N1
-- ***Erigeron karvinskianus*** (×4 Sussex Square) — pink-white daisies; M2, M3, M4, M1, N1
-- ***Lavandula angustifolia*** / 'Hidcote' (×2 Sussex Square) — compact lavender; M1, M4, M6, M7, N1, N2
+- ***Stachys byzantina*** (×4 Sussex Square) — silver lamb's ears; M2, M4, M7, N1
+- ***Erigeron karvinskianus*** (×4 Sussex Square) — pink-white daisies; M2, M4, M1, N1
+- ***Lavandula angustifolia*** / 'Hidcote' (×2 Sussex Square) — compact lavender; M1, M4, M7, N1, N2
 - ***Salvia rosmarinus*** (×4 Sussex Square) — rosemary; M2, M7, N1, N3 (kitchen)
-- ***Festuca glauca*** (×1 Sussex Square) — blue tussocks; M2, M5, M6, N1
-- ***Sedum*** / *Hylotelephium* 'Purple Emperor' (×1) — purple succulent rosettes; M5, M6
-- ***Lithodora diffusa*** (×1) — azure-blue mat; M3
+- ***Festuca glauca*** (×1 Sussex Square) — blue tussocks; M2, N1
+- ***Lithodora diffusa*** (×1) — azure-blue mat; M2 (relocated from removed M3)
+- ***Armeria maritima*** (UK coastal native) — pink cushion; M4 (relocated from removed M5)
 - ***Geranium*** 'Rozanne' (×4 Sussex Square — *Geranium* sp.) — long-flowering blue; M1
 - ***Nepeta × faassenii*** (×6 Sussex Square — most-frequent perennial) — mauve haze; M1
 
-### 🫒 OLIVE distribution (8 total)
+### 🫒 OLIVE distribution (4 total)
 - **N1 east leg:** 2 olives spaced along the 7.2m run
 - **M1 dining L:** 1 olive (central)
 - **M2 SE L-shape:** 1 olive paired with the Cynara cardunculus focal in the 700mm tall planter
-- **M3 east of sauna:** 1 olive as focal point
+
+*(Reduced from 5 — the M3 east-of-sauna planter and its olive were removed 14 June.)*
 
 ### 🌶️ FOCAL (architectural punctuation)
 - ***Cynara cardunculus*** (×3 Sussex Square) — silver cardoon; placed in M2 as bold focal silver
@@ -284,19 +280,13 @@ The terrace planting scheme has been organised to provide **wind defence on the 
 ### Kitchen herbs (N3, near outdoor kitchen)
 - ***Salvia rosmarinus*** + ***Thymus vulgaris*** + ***Origanum vulgare*** (all ×1 Sussex Square or palette additions)
 
-### Specifically for east-of-hot-tub planter (M5 — view to Downs preserved)
-- ***Sedum*** 'Purple Emperor' + ***Festuca glauca*** + ***Stachys byzantina*** + ***Thymus*** + ***Lavandula*** 'Hidcote' + ***Armeria maritima*** (UK coastal native)
-- All under 300mm at maturity — **no obstruction to the east view**
+## Hot tub windbreak summary (M7 only)
 
-## Hot tub windbreak summary (M5–M7)
-
-The hot tub U-shape planters sit at **+150mm above tub rim** — already a structural windbreak base. Planting strategy varies per leg:
+*Revised 14 June — the east (M5) and north (M6) hot-tub planters were removed to give the tub more space, leaving the east view to the Downs entirely clear. Only the west planter remains:*
 
 | Leg | Direction | View priority | Plant strategy |
 |---|---|---|---|
-| **M5 East** | View to Downs (east) | **Preserve view** | Low planting only (under 300mm at maturity) |
-| **M6 North** | Glass balustrade on parapet (no climber surface) | Wind defence | Compact uprights only (300mm planter depth limits choice) |
-| **M7 West** | Sauna side (no view concern) | Full windbreak | Tall plants — Pittosporum tobira + Phormium + Phlomis |
+| **M7 West** | Building / sauna side (no view concern) | Full windbreak | Sits at **+150mm above tub rim** — *Olearia × haastii* + *Phormium* + *Phlomis* + front mix |
 
 ---
 
