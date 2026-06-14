@@ -15,7 +15,7 @@
 
 # 🌬️ Windbreak Planting Plan (locked in 31 May 2026)
 
-The terrace planting scheme has been organised to provide **wind defence on the north and east parapets** (the principal wind directions to defend against), while preserving the **east view to the Downs from the hot tub**. The plan deliberately leans on species already in the Sussex Square palette — no new species added.
+The terrace planting scheme has been organised to provide **wind defence on the north and east parapets** (the principal wind directions to defend against), while preserving the **east view to the Downs from the hot tub**. The plan deliberately leans on species already in the Sussex Square palette, with one deliberate coastal addition (*Escallonia*) for its proven seafront hardiness.
 
 **Companion drawing:** scale schematic showing each planter's position and proposed plants.
 
@@ -39,9 +39,9 @@ The terrace planting scheme has been organised to provide **wind defence on the 
 | **M7** | West of hot tub | **Back:** *Olearia × haastii* + *Phormium tenax* 'Purpureum' / **Mid:** *Phlomis fruticosa* / **Front:** *Stachys*, *Lavandula*, *Salvia rosmarinus* |
 | **M2** | SE L-shape (700mm tall) | **Back:** *Pittosporum tobira* (or 'Wheeler's Dwarf', clipped to 1.5m) + 1 olive + *Phormium* 'Purpureum' + 1 *Cynara cardunculus* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine', *Salvia microphylla* 'Hot Lips' / **Front:** *Stachys*, *Erigeron*, *Salvia rosmarinus*, *Festuca* |
 | **M3** | East of sauna (700mm tall) | 1 olive / *Phlomis fruticosa* / *Stachys*, *Erigeron*, *Lithodora* |
-| **M4** | North of seating (vertical, 700mm tall) | **Back:** *Olearia × haastii* + *Phormium tenax* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine' / **Front:** *Stachys*, *Lavandula*, *Erigeron* |
+| **M4** | North of seating (vertical, 700mm tall) | **Back:** *Olearia × haastii* + *Escallonia* 'Apple Blossom' + *Phormium tenax* / **Mid:** *Phlomis*, *Brachyglottis* 'Sunshine' / **Front:** *Stachys*, *Lavandula*, *Erigeron* |
 | **M1** | Dining L (500mm) | **Back:** *Olearia × haastii* (or *Pittosporum tobira* 'Wheeler's Dwarf') + 1 olive (central) / **Mid:** *Choisya* 'Sundance', *Lavandula angustifolia*, *Salvia nemorosa* 'Caradonna' / **Front:** *Stachys*, *Geranium* 'Rozanne', *Erigeron*, *Nepeta × faassenii* |
-| **N1** | East + North L narrow (500mm) | **Back:** *Olearia × haastii* (spaced along run) + 2 olives (anchoring east leg) + *Phormium tenax* + *Cordyline australis* (NE corner) / **Mid:** *Phlomis*, *Brachyglottis*, *Salvia microphylla* / **Front:** *Stachys*, *Erigeron*, *Lavandula*, *Salvia rosmarinus*, *Festuca* |
+| **N1** | East + North L narrow (500mm) | **Back:** *Olearia × haastii* (spaced along run) + *Escallonia* 'Apple Blossom' + 2 olives (anchoring east leg) + *Phormium tenax* + *Cordyline australis* (NE corner) / **Mid:** *Phlomis*, *Brachyglottis*, *Salvia microphylla* / **Front:** *Stachys*, *Erigeron*, *Lavandula*, *Salvia rosmarinus*, *Festuca* |
 | **N2** | Mid-east square (1.2 × 1.2m) | *Pittosporum tobira* 'Wheeler's Dwarf' (1m dome) + *Phormium tenax* / *Lavandula* 'Hidcote' underplanting |
 | **N3** | Mid-west square (kitchen-adjacent) | *Pittosporum tobira* 'Wheeler's Dwarf' + *Salvia rosmarinus* + *Thymus vulgaris* + *Origanum vulgare* |
 
@@ -98,6 +98,7 @@ The detailed palette below is the source of plant data (mature size, growth rate
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pittosporum_Tobira_JPG0.jpg/330px-Pittosporum_Tobira_JPG0.jpg" width="150"><br>[Wikipedia →](https://en.wikipedia.org/wiki/Pittosporum_tobira) | ***Pittosporum tobira***<br>Japanese mock orange | ×2<br>📷 [1](https://github.com/chrisnewson/skynet/blob/main/roof-terrace/sussex-square-plants/00132959-B53B-486C-B65C-A85DBAF71478.JPG) [2](https://github.com/chrisnewson/skynet/blob/main/roof-terrace/sussex-square-plants/26192A33-3043-4E7C-A044-997491C0ACBB.JPG) [3](https://github.com/chrisnewson/skynet/blob/main/roof-terrace/sussex-square-plants/475DA20F-40F5-4FBA-9FC2-A693247C845D.JPG) [4](https://github.com/chrisnewson/skynet/blob/main/roof-terrace/sussex-square-plants/4AA5C294-6D15-45E5-8C22-BC3A129B9629.JPG) | 2-3m × 2m (compact 'Nanum' 80cm) | Medium | Scented cream flowers attract bees and butterflies in summer. | ✅ Glossy evergreen, scented; use 'Nanum' for pots. |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Euonymus_fortunei_5422029.jpg/330px-Euonymus_fortunei_5422029.jpg" width="150"><br>[Wikipedia →](https://en.wikipedia.org/wiki/Euonymus_fortunei) | ***Euonymus fortunei*** 'Emerald Gaiety' / 'Silver Queen'<br>Variegated wintercreeper | ×1<br>📷 [1](https://github.com/chrisnewson/skynet/blob/main/roof-terrace/sussex-square-plants/B2057552-D4B0-4ECA-8A42-053277EC3075.JPG) | 80cm × 1.2m | Slow | Tiny green flowers attract hoverflies; berries for birds in autumn. | ✅ Reliable variegated evergreen, very seafront-hardy. |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lonicera_nitida_aurea_after_pruning.JPG/330px-Lonicera_nitida_aurea_after_pruning.JPG" width="150"><br>[Wikipedia →](https://en.wikipedia.org/wiki/Lonicera_nitida) | ***Lonicera nitida*** / *L. pileata*<br>Wilson's honeysuckle | ×2<br>📷 [1](https://github.com/chrisnewson/skynet/blob/main/roof-terrace/sussex-square-plants/277C890F-9FBE-4831-8EB5-7949117884B2.JPG) [2](https://github.com/chrisnewson/skynet/blob/main/roof-terrace/sussex-square-plants/4A551FC0-ABCD-414B-8480-0CB5D1F6CE7B.JPG) [3](https://github.com/chrisnewson/skynet/blob/main/roof-terrace/sussex-square-plants/756F7B0A-45C6-44B7-AD1E-9CEFFBE51BFB.JPG) [4](https://github.com/chrisnewson/skynet/blob/main/roof-terrace/sussex-square-plants/E06E0FE5-4206-44C3-BB30-FAC5312FCC1D.JPG) | 1-1.5m × 1.5m (clipped tighter) | Fast | Small white flowers for bees; purple berries for birds (poisonous to humans). | ✅ Reliable clipped low hedge plant. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Starr_080716-9454_Escallonia_rubra_var._macrantha.jpg/330px-Starr_080716-9454_Escallonia_rubra_var._macrantha.jpg" width="150"><br>[Wikipedia →](https://en.wikipedia.org/wiki/Escallonia) | ***Escallonia*** 'Apple Blossom' / ***E. rubra*** var. *macrantha*<br>Escallonia / Chilean escallonia | — (deliberate coastal addition — not in this photo set) | 'Apple Blossom' 1.5m × 1.5m; *macrantha* 2.5m × 2.5m | Medium | RHS Plants for Pollinators; pink flowers June–Sept feed bees and butterflies; dense glossy evergreen — nesting/shelter cover for birds. | ✅ Classic seafront hedge — outstanding salt and wind tolerance; clips well as a back-row windbreak. *(Added 14 Jun 2026 as a coastal windbreak shrub; not evidenced in the Sussex Square photo set.)* |
 
 ---
 
@@ -215,19 +216,19 @@ The detailed palette below is the source of plant data (mature size, growth rate
 | **×4** | *Euphorbia characias wulfenii*, *Erigeron karvinskianus*, *Salvia rosmarinus*, *Stachys byzantina*, *Santolina chamaecyparissus*, *Geranium* sp. |
 | **×3** | *Cynara cardunculus*, *Hebe* sp., *Salvia microphylla*, *Allium* sp., *Stipa tenuissima*, *Brachyglottis/Olearia*, *Buxus sempervirens* |
 
-Plants in the palette but **not seen in this photo set** (still legitimate — palette is a deliberate broader pick): *Verbena bonariensis*, *Echinacea purpurea*, *Thymus* sp., *Crambe maritima*, *Armeria maritima*, *Convolvulus cneorum*.
+Plants in the palette but **not seen in this photo set** (still legitimate — palette is a deliberate broader pick): *Verbena bonariensis*, *Echinacea purpurea*, *Thymus* sp., *Crambe maritima*, *Armeria maritima*, *Convolvulus cneorum*, *Escallonia* (coastal windbreak hedge).
 
 ---
 
 # 🌬️ Windbreak Planting Plan (31 May 2026) — leaning on Sussex Square palette
 
-The terrace planting scheme has been organised to provide **wind defence on the north and east parapets** (the principal wind directions to defend against), while preserving the **east view to the Downs from the hot tub**. The plan deliberately leans on species already in the Sussex Square palette to maximise heritage-continuity (and avoid adding species not seen in the area).
+The terrace planting scheme has been organised to provide **wind defence on the north and east parapets** (the principal wind directions to defend against), while preserving the **east view to the Downs from the hot tub**. The plan deliberately leans on species already in the Sussex Square palette to maximise heritage-continuity, with one deliberate coastal addition (*Escallonia*) chosen for its proven seafront hardiness.
 
 **Companion drawing:** see [`drawings/windbreak-planting-plan-31-5-26.png`](drawings/windbreak-planting-plan-31-5-26.png) for a scale schematic showing each planter's position and proposed plants.
 
 ## Species used in the windbreak plan
 
-✅ All species below are **already in the Sussex Square palette** above — no new species added. Symbols indicate role in the windbreak plan:
+✅ All species below are **already in the Sussex Square palette** above. The **one deliberate addition is *Escallonia*** (a coastal windbreak hedge not seen in the Sussex Square photo set but exceptionally seafront-hardy — see palette note). Symbols indicate role in the windbreak plan:
 
 | Symbol | Role |
 |---|---|
@@ -245,6 +246,7 @@ The terrace planting scheme has been organised to provide **wind defence on the 
 > **Revised after Pittosporum-tobira-is-too-big concern:** Olearia × haastii is now the primary mid-tall windbreak (1-1.5m, well-evidenced in Sussex Square at ×3). Pittosporum tobira is reserved for M2 (where the 700mm planter + tall plant gives proper tall windbreak) and as the **'Wheeler's Dwarf'** cultivar (1m compact dome) in N2 and N3.
 
 - ***Olearia × haastii*** (×3 Sussex Square photos via Olearia/Brachyglottis group) — **primary mid-tall windbreak**, naturally compact 1-1.5m dome, leathery dark green with white-felt underside; used in M1, M4, M7, N1 (spaced along run)
+- ***Escallonia*** 'Apple Blossom' / *E. rubra* var. *macrantha* — **coastal windbreak hedge**, glossy evergreen, exceptional salt/wind tolerance, pink flowers June–Sept for pollinators; used in N1 and M4. *(Deliberate coastal addition — not in the Sussex Square photo set; the most rigorously seaside-proven shrub in the palette.)*
 - ***Pittosporum tobira*** (full species, ×2 Sussex Square photos) — **only in M2** (back row, 700mm planter; clipped to 1.5m or use 'Wheeler's Dwarf' alternative)
 - ***Pittosporum tobira* 'Wheeler's Dwarf'** — compact 1m dome cultivar; **N2, N3** (kitchen-adjacent windbreak balls)
 - ***Cordyline australis*** (×2 Sussex Square) — vertical accent + filter; used at NE corner of N1
