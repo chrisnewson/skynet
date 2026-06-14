@@ -24,6 +24,12 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ![Main section plan](drawings/large-terrace-14-6-26.png)
 
+**3D renders** (14 June 2026) — indicative visualisations of the main section. *Looking up the steps* (from the low FA3 lounge up to the raised FA2 dining), and *looking down the steps* (from the dining back towards the building / study window). These show the mood only — finishes, planting and the parasols are illustrative.
+
+![Looking up the steps — lounge (FA3) up to the raised dining (FA2)](drawings/looking-up-the-steps-14-6-26.png)
+
+![Looking down the steps — dining (FA2) down towards the building](drawings/looking-down-the-steps-14-6-26.png)
+
 ## Contents
 
 - [Planning Case — Why the Refined Scheme Merits Support](#planning-case--why-the-refined-scheme-merits-support)
