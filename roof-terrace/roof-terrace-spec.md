@@ -1286,7 +1286,7 @@ Because access is via front doors, the roof is a **fixed sloped top** with no op
 |---|---|---|
 | LR width | 559mm | ✅ — ~490mm spare for the cat flap landing / a side shelf |
 | LR depth + cat landing | 686mm + ~250mm in front of the raised entrance for the cat to come through the flap and step up ≈ 940mm | ✅ — just fits: 940mm needed in the 1.0m depth (~60mm spare; the waste drawer pulls out the front through the open doors) |
-| LR height | 749mm | ⚠ needs ~820mm internal for the lid to open — under the **~0.9m kitchen worktop** this is tight; **confirm clearance under the worktop** at this north-end module |
+| LR height | ~725mm | ✅ — the LR is **slid out of the cupboard to open the lid**, so the under-worktop space only needs to clear the unit's own height (the ~725mm body, not any lid-open allowance), which the ~0.9m worktop does comfortably. **Carpenter note:** keep the **cupboard floor as low as possible and without a front lip** so the unit slides out easily for emptying / cleaning. |
 
 **Power:** Litter Robot needs 240V mains — **socket #4 (Part K) is in Store 2**, fed from the outdoor-kitchen electrical first-fix (Part K).
 
