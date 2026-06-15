@@ -1206,7 +1206,7 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 
 ## Inventory
 
-*(Revised 5 June 2026 to match the latest drawings.)*
+*(Revised 15 June 2026 to match the latest drawings — Store 3 removed, Store 2 moved into the kitchen run.)*
 
 | # | Position | Footprint (W × D) | Notes |
 |---|---|---|---|
