@@ -43,13 +43,13 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 >
 > **Note on the steps:** the steps between the dining (FA2) and lounge (FA3) levels are shown in a **different shade only to make them stand out** in the drawings and renders. They are to be finished in the **same tiling as the rest of the floor** — there is no change of material at the steps.
 
-**Overall plan** (full terrace, updated 14 June 2026) — narrow section / **Floor Area 1** (minimal pedestal height) with stores, outdoor kitchen, lift bulkhead and stair hatch; **Floor Area 2** dining (**5.75 × 5.1m**, **300mm raised over current deck level, steps up on the north side**); **Floor Area 3** lounge / hot tub (minimal pedestal height, **same low level as Floor Area 1**, L-shape round to the hot tub); sauna / wet room building and stores. *(Reflects the revised levels in Part A — FA1 and FA3 share one low level, FA2 dining is the single raised zone — and the deletion of the old Floor Area 4.)*
+**Overall plan** (full terrace, updated 15 June 2026) — narrow section / **Floor Area 1** (minimal pedestal height) with stores, outdoor kitchen, lift bulkhead and stair hatch; **Floor Area 2** dining (**5.75 × 5.1m**, **300mm raised over current deck level, steps up on the north side**); **Floor Area 3** lounge / hot tub (minimal pedestal height, **same low level as Floor Area 1**, L-shape round to the hot tub); sauna / wet room building and stores. *(Reflects the revised levels in Part A — FA1 and FA3 share one low level, FA2 dining is the single raised zone — and the deletion of the old Floor Area 4.)*
 
-![Overall floor plan](drawings/full-terrace-14-6-26.png)
+![Overall floor plan](drawings/full-terrace-15-6-26.png)
 
-**Main section close-up** (updated 14 June 2026) — Floor Area 2 (raised dining), Floor Area 3 (lounge / hot tub), the sauna / wet room building with room dimensions, and the main-section store:
+**Main section close-up** (updated 15 June 2026) — Floor Area 2 (raised dining), Floor Area 3 (lounge / hot tub), the sauna / wet room building with room dimensions, and the main-section store:
 
-![Main section plan](drawings/large-terrace-14-6-26.png)
+![Main section plan](drawings/large-terrace-15-6-26.png)
 
 **3D renders** (14 June 2026) — visualisations of the main section reflecting the current design. *Looking up the steps* (from the low FA3 lounge up to the raised FA2 dining), and *looking down the steps* (from the dining back towards the building / study window).
 
@@ -57,13 +57,13 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ![Looking down the steps — dining (FA2) down towards the building](drawings/looking-down-the-steps-14-6-26.png)
 
-**Narrow-section 3D renders** (14 June 2026) — views along the narrow terrace (Floor Area 1) reflecting the current design: the outdoor kitchen and study door, the lounge seating looking through to the dining area, and the movable-pot cluster with an olive.
+**Narrow-section 3D renders** (15 June 2026) — views along the narrow terrace (Floor Area 1) reflecting the current design, taken from three points along its length:
 
-![Narrow terrace — outdoor kitchen and study door](drawings/narrow-terrace-kitchen-and-study-14-6-26.png)
+![Narrow terrace — from the flat / study end, looking along the kitchen run towards the main section](drawings/narrow-terrace-from-flat-15-6-26.png)
 
-![Narrow terrace — lounge seating looking through to the dining area](drawings/narrow-terrace-lounge-and-dining-14-6-26.png)
+![Narrow terrace — from halfway along, looking towards the lounge, dining and the steps](drawings/narrow-terrace-from-halfway-15-6-26.png)
 
-![Narrow terrace — movable-pot cluster with olive specimen](drawings/narrow-terrace-pots-and-olive-14-6-26.png)
+![Narrow terrace — from the main terrace, looking back towards the narrow section and study door](drawings/narrow-terrace-from-large-15-6-26.png)
 
 ---
 
@@ -273,20 +273,22 @@ How our tile finish bears on the **inverted main section** is not yet resolved a
 |---|---|---|
 | **Narrow section (Floor Area 1)** | **Low datum** | **Lowest practical pedestal height** on the warm-roof build-up. No longer raised up over the lift over-run. |
 | **Hot tub + seating/lounge + SE end of the large terrace (Floor Area 3)** | **Low datum — same FFL as Floor Area 1** | Low pedestals (≈100mm) on the inverted build-up, **set to land at the same finished floor level as the narrow section (FA1)** so the two low zones match in height (the raised FA2 sits between them). |
-| **Dining (Floor Area 2)** | **Raised — the one high zone, ≈300mm above the low datum** (i.e. +300mm over the current wooden deck level — *reduced from +500mm, 14 June*) | **Adjustable pedestals** on the inverted build-up (lower than the earlier +500mm scheme — Ronan / tiler to set against the build-up). **3 steps down on the north side** to the low FA3 — **400mm tread, 100mm rise**. |
+| **Dining (Floor Area 2)** | **Raised — the one high zone, ≈300mm above the low datum** (i.e. +300mm over the current wooden deck level — *reduced from +500mm, 14 June*) | **Adjustable pedestals** on the inverted build-up (lower than the earlier +500mm scheme — Ronan / tiler to set against the build-up). **3 steps up from FA1** (between the terraces) and **3 steps down on the north side** to FA3 — all **400mm tread / 100mm rise**. |
 
 **Floor Area 4 is deleted** — its area is absorbed into Floor Area 3 (Chris updating the drawings).
 
 - **Two levels, FA2 in the middle.** FA1 (narrow) and FA3 (main: hot tub / seating / SE) finish at the **same FFL** — the two low zones match in height. But **the raised dining zone (FA2) sits between them** (FA1 → up → FA2 → down → FA3), so the matching level is about a consistent datum, **not a single continuous walkable surface**. FA2 is the only raised zone.
 - **Common datum across two different build-ups.** FA1 sits on the **warm-roof** narrow section and FA3 on the **inverted** main section, which have different build-up heights — so the **pedestal heights on each must be set to bring both to the one common low FFL** (Ronan / the tiler to set this against the surveyed deck levels of the two sections).
-- **3 steps on the north side of Floor Area 2** *(revised 14 June — steps now face north, was the east side)* lead **down** from the raised dining zone to the low **Floor Area 3** (seating / hot tub). **1500mm wide, 400mm tread, 100mm rise** (3 × 100mm = the 300mm FA2 rise). The **first step down is inset into FA2, the second into FA3**. This is the FA2/FA3 level change. **Confirm on the drawings how FA2 is reached from the narrow section (FA1) side** — FA2 is the single raised zone, ~300mm above the low datum shared by FA1 and FA3.
+- **Two flights of 3 steps, both 400mm tread / 100mm riser (3 × 100mm = the 300mm FA2 rise).** FA2 is the single raised zone, ~300mm above the low datum shared by FA1 and FA3:
+  - **FA1 → FA2 (up):** 3 steps **between the narrow and main terraces** lead up from the narrow section (FA1) into the raised dining (FA2). The **N1(N) planter is deepened to 800mm so its front face sits flush with the lower of these steps** (Part C).
+  - **FA2 → FA3 (down):** 3 steps **on the north side of FA2** *(revised 14 June — steps face north, was the east side)*, **1500mm wide**, lead down to the low FA3 (seating / hot tub). The **first step down is inset into FA2, the second into FA3**.
 - **Lift over-run:** no longer built up over. Its top is **tiled over (minimal extra area beyond the bulkhead)**, with the **N4 low-herb planter built on top, matching that footprint exactly** (Parts B and C).
 - **Level access from the study:** keeping the narrow section (FA1) low, combined with **dropping the study door/window sill by 170mm** (see Part Q), gives a level / near-level threshold from the study straight onto the **narrow terrace (FA1)**. FA3 (hot tub / seating) is at the **same low level**, so it matches the study-threshold datum — but the raised FA2 dining sits between FA1 and FA3, so reaching FA3 is via the FA2 steps / route, not a flat walk through.
 
 **For Ronan / Building Control:**
 
 - **Common low FFL** — set the pedestal heights on the warm narrow section (FA1) and the inverted main section (FA3) so both finish at the **same low floor level**, against the surveyed deck levels of the two sections.
-- **Step detail** — going, rise and nosings for the **3 steps on the north side of Floor Area 2** (400mm tread / 100mm rise, 1500mm wide, dropping down to FA3), and whether a **handrail / guarding** is required at the level change (Approved Document K).
+- **Step detail** — going, rise and nosings for the **two flights of 3 steps** (FA1→FA2 up between the terraces, and FA2→FA3 down on the north side; all 400mm tread / 100mm rise, the north flight 1500mm wide), and whether a **handrail / guarding** is required at either level change (Approved Document K).
 - **Raised pedestals** under **Floor Area 2 only** (now ~300mm above the low datum + build-up — lower than the earlier +500mm / 350–500mm scheme) still need lateral stability at height (stabilisers / bracing / restraint rails), with the acoustic pads (Part B) still seating correctly at full extension — confirm with the pedestal supplier. Floor Areas 1 and 3 are on low pedestals at the common datum.
 - **Sauna / wet room door thresholds** open onto the **low Floor Area 3** (now at the FA1 level) — confirm the threshold detail from the building floor (on the Protectoboard) to the low-pedestal tile level outside.
 - **Narrow-section railing raising (Part H) reduces** — with the narrow floor now barely rising, the retained railings need little or no added height; revisit once the low FFL is fixed.
@@ -377,18 +379,18 @@ The engineer notes the ~50% remaining joist capacity is **a comfortable margin t
 
 > **🗓 Phase 1** — but with two Phase-2 carve-outs. **Leave the sauna/wet-room and hot-tub footprints un-tiled (tile-ready)** until those Phase-2 elements are built, and **set out all the Phase-2 pedestal clusters now** (hot tub, parasol bases, building footprint) before the pedestal grid is fixed. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-**Estimated tiled area: ~103m²** (of the ~120m² gross terrace footprint, once the building, hot tub, kitchen and storage footprints are subtracted).
+**Estimated tiled area: ~104m²** (of the ~120m² gross terrace footprint, once the building, hot tub, kitchen and storage footprints are subtracted).
 
-> **Change from the 4 June meeting:** the agreed approach is now to **tile the whole roof area and build the planters on top of the finished tile field**, rather than building the planters off the Protectoboard to reduce the tiling area. So **planters are no longer subtracted** from the tiled area — which raises the net figure from ~82m² to ~103m². (See Part C.)
+> **Change from the 4 June meeting:** the agreed approach is now to **tile the whole roof area and build the planters on top of the finished tile field**, rather than building the planters off the Protectoboard to reduce the tiling area. So **planters are no longer subtracted** from the tiled area — which raises the net figure from ~82m² to ~104m². (See Part C.)
 
 | Subtraction | Approx m² |
 |---|---|
 | Sauna/wet room building external footprint (~2.90 × 2.49m) | ~7.2 |
 | Hot tub (~2.07 × 1.53m) | ~3.2 |
-| Outdoor kitchen run (~3.3 × 0.7m) | ~2.3 |
-| Storage units — Store 1 (~0.8) + Store 2 (~1.2) + Store 3 (~0.6) + Store 4 (~1.9) | ~4.5 |
-| **Total subtracted** | **~17.2** |
-| **Net tiled area (gross 120m² − subtractions)** | **~102m²** |
+| Outdoor kitchen run incl. the Litter Robot store (~4.2m run, 0.7m deep / 1.0m at the litter end) | ~3.3 |
+| Storage units — Store 1 (~0.8) + Store 4 (~1.9) *(Store 2 counted in the kitchen run; Store 3 removed)* | ~2.7 |
+| **Total subtracted** | **~16.4** |
+| **Net tiled area (gross 120m² − subtractions)** | **~104m²** |
 
 **The lift bulkhead is tiled over** (concealing the structure), with the tiling adding **as little extra area as possible beyond the existing bulkhead footprint** — i.e. tile the bulkhead itself, don't spread a tiled apron around it. The **N4 planter (Part C) then matches that tiled bulkhead footprint exactly** and sits on top. So the bulkhead area is part of the tiled field and is **not** subtracted.
 
@@ -488,7 +490,7 @@ The finished tile level needs to coordinate with:
 
 ## What we'd value your steer on
 
-- **Structural sign-off** for ~102m² of 20mm porcelain + pedestals + furniture / occupancy load. Usually fine but worth on record before contractors price it
+- **Structural sign-off** for ~104m² of 20mm porcelain + pedestals + furniture / occupancy load. Usually fine but worth on record before contractors price it
 - **Pedestals on the inverted insulation** — see the ⚠ open question immediately above (bearing on the IKO Enertherm WCL/XPS, the 80 kg/m² wind-uplift requirement, and the raised-FA2 support). The single biggest tiling unknown
 - **Total build-up height** at the highest and lowest points of the falls — needed to confirm sauna / wet room door threshold heights and the hot tub / parasol base recess depths
 - **Edge detail** at the parapet / planter / glass balustrade interfaces — how the tile field terminates cleanly without a visible pedestal edge
@@ -570,7 +572,7 @@ The existing decking boards have decking bolts with large through-holes every 80
 
 **Main-section planter layout** (planters labelled on the drawing — cross-reference with the table below; the full terrace incl. the narrow-section planters N1–N4 is in the [Drawings](#drawings) section):
 
-![Main section planter layout](drawings/large-terrace-14-6-26.png)
+![Main section planter layout](drawings/large-terrace-15-6-26.png)
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
@@ -580,7 +582,7 @@ The existing decking boards have decking bolts with large through-holes every 80
 
 | # | Planter | Footprint | Height (above terrace tile FFL) | Notes |
 |---|---|---|---|---|
-| **N1** | **L-shaped planter** along east + north parapets of narrow | **7.2m long leg (along east parapet) + 1.8m short leg (along north parapet)** × 600mm deep | **500mm** | Wraps the NE corner of narrow. The corner is mitred / continuous. |
+| **N1** | **L-shaped planter** along east + north parapets of narrow — **N1(E)** east leg + **N1(N)** north leg | **N1(E): 7.2m × 600mm deep** + **N1(N): 1.8m × 800mm deep** *(N1(N) deepened from 600mm, 15 June)* | **500mm** | **Still an L-shape**, wrapping the NE corner (mitred / continuous). **N1(N) is 800mm deep so its front face sits flush with the lower of the 3 steps between the narrow and main terraces** (those steps are **400mm tread / 100mm riser**, matching the FA2/FA3 steps). |
 | **N2** | Square planter — east side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | **Built as a single integrated construction with N1** — they share a wall where they meet on the east parapet side |
 | **N3** | Square planter — west side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | Adjoins the outdoor kitchen (Part F) on its north face — kitchen and planter meet but are independent constructions |
 | **N4** | **Lift over-run planter** *(new 5 June)* — low aromatic herbs | **1.9m × 2.1m** — **matches the tiled lift-bulkhead footprint exactly** | **400mm box** (planting kept <700mm total) | The lift bulkhead is **tiled over with minimal extra area** beyond its existing footprint (Part B), and this planter is built **on top, matching that footprint exactly**. Built exactly like the other planters (salvaged hardwood, EPDM-lined, drainage layer) and **drains through onto the tiled surface like the others** — no special over-shaft drainage detail. Sits over the lift shaft — basic pedestals, no occupants below (Part A). **Planting:** low fragrant herbs — see plant list below. |
@@ -684,18 +686,18 @@ Calculated from the planter inventory in Part C (see Part C "Sizes" subsection f
 | # | Planter | Footprint | Area |
 |---|---|---|---|
 | **NARROW SECTION** | | | |
-| N1 | L-shape east + north parapets (7.2m + 1.8m legs × 600mm; less corner overlap) | | **5.04 m²** |
+| N1 | L-shape: east 7.2m × 600mm + north 1.8m × **800mm**; less corner overlap | | **~5.3 m²** |
 | N2 | Square, east side mid-narrow (1.2 × 1.2m, built integral with N1) | | **1.44 m²** |
 | N3 | Square, west side mid-narrow adjoining kitchen (1.2 × 1.2m) | | **1.44 m²** |
 | N4 | Lift over-run planter (1.9 × 2.1m), low fragrant herbs | | **~4.0 m²** |
-| | Narrow subtotal | | **~11.9 m²** |
+| | Narrow subtotal | | **~12.2 m²** |
 | **MAIN SECTION** | | | |
 | M1 | L-shape in dining (FA2 5.75 × 5.1m) (~600mm deep; leg lengths per the 14 June drawing) | | **~3.7 m²** |
 | M2 | L-shape SE main (east 5.1m + south 3.5m external, **1m deep**; less corner overlap) | | **~7.6 m²** |
 | M4 | North of seating (2.70m × 600mm) | | **1.62 m²** |
 | M7 | West of hot tub (2m × 600mm) | | **1.20 m²** |
 | | Main subtotal | | **~14.1 m²** |
-| **TOTAL planted area** | | | **~26.0 m²** |
+| **TOTAL planted area** | | | **~26.3 m²** |
 
 That's **~22% of the total terrace footprint** given over to soft landscape (up slightly from ~25.0 m² in the prior layout — deepening M2 to 1m more than offsets the removed M3/M5/M6 planters), with the planter runs forming a near-continuous green perimeter around the usable hard-landscaped zones.
 
@@ -724,7 +726,7 @@ The planting has been designed to provide **wind defence on the north and east p
 
 **Companion drawing:** the planters are now labelled (N1–N4, M1 / M2 / M4 / M7) directly on the GA drawings — full terrace below, and the main-section close-up by the table in [Part C](#part-c--planters). Cross-reference the codes with the per-planter plant lists in this Part.
 
-![Full terrace — planters labelled N1–N4, M1 / M2 / M4 / M7](drawings/full-terrace-14-6-26.png)
+![Full terrace — planters labelled N1–N4, M1 / M2 / M4 / M7](drawings/full-terrace-15-6-26.png)
 
 ### Design principles
 
@@ -1020,7 +1022,12 @@ To complete the biodiversity submission, please confirm or produce:
 
 > **🗓 Phase 1** (narrow section). Lay the sink-waste run to the foul stack under FA2, and the cold-water tee, in the first-fix before tiling. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-An outdoor kitchen on the **narrow section** comprising **5 modules in a single straight run** under a continuous stainless worktop. *Order revised 5 June 2026* (left → right): **cupboard, fridge, BBQ, sink, drawer unit.** The **right-hand (north) unit is partially obscured by the steps up to Floor Area 2**, so it's a **top drawer only, sealed below**; the sink has moved next to the BBQ, and the fridge to the left of the BBQ with a cupboard beyond it.
+An outdoor kitchen on the **narrow section** comprising **5 modules in a single straight run** under a continuous stainless worktop. *Order revised 15 June 2026* (left → right): **sink, fridge, BBQ, double cupboards, Litter Robot.** Key points of the revision:
+
+- The **sink is now at the south (left) end, positioned directly above the WC on the floor below** so the waste can drain straight down. The **two existing plumbing + electrical conduits are retained in the cupboard below the sink**, boxed in and **well ventilated to the side and rear**.
+- The **Litter Robot store (former Store 2) has moved up to the north (right) end of the run** and is now **built into the kitchen line under the same continuous stainless worktop** (see Part G).
+- The whole run leaves a **~50mm (5cm) gap between the backs of the units and the railings**, and the stainless worktop has a **100mm upstand** along the back.
+- The old separate drawer unit is dropped; **Store 3 is removed** (its conduit-covering function is taken up by the sink cupboard above).
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
@@ -1033,32 +1040,33 @@ An outdoor kitchen on the **narrow section** comprising **5 modules in a single 
 ## Layout
 
 ```
-LEFT (south) →                                                ← RIGHT (north, by steps)
-┌──────────┬──────────┬──────────────┬──────────┬──────────┐
-│ CUPBOARD │  FRIDGE  │     BBQ      │   SINK   │  DRAWER  │
-│          │   bay    │   (in-built  │   cab    │ top only │
-│          │          │  + LPG below)│          │ sealed ▼ │
-└──────────┴──────────┴──────────────┴──────────┴──────────┘
-       ←—— continuous stainless worktop above all modules ——→
-   (right unit partly under the FA2 steps → drawer at top, sealed below)
+LEFT (south) →                                              ← RIGHT (north end)
+┌──────────┬──────────┬──────────────┬───────────────┬──────────────┐
+│   SINK   │  FRIDGE  │     BBQ      │    DOUBLE      │ LITTER ROBOT │
+│   cab    │   bay    │   (in-built  │   CUPBOARDS    │ (former      │
+│ conduits │          │  + LPG below)│                │  Store 2)    │
+│  below ▼ │          │              │                │              │
+└──────────┴──────────┴──────────────┴───────────────┴──────────────┘
+       ←——— continuous stainless worktop (100mm upstand at back) ———→
+   (sink over the WC below for drainage · ~50mm gap behind units to the railings)
 ```
 
 ## Position and footprint
 
-- **Narrow section, against the west parapet** (top edge of narrow in drawing) — exact position per 31 May drawing
+- **Narrow section, against the west railings** (top edge of narrow in drawing), with a **~50mm (5cm) gap between the backs of the units and the railings** — exact position per 15 June drawing
 - **Linear straight run**
-- Approximate module widths (5 modules total):
+- Approximate module widths (5 modules total, **L→R = sink, fridge, BBQ, double cupboards, Litter Robot**):
 
 | Module (L to R) | Function | Approx width | Notes |
 |---|---|---|---|
-| 1 | Cupboard | ~600mm | General BBQ storage (utensils, cleaning kit) |
+| 1 | Sink cabinet | ~600mm | Caple Zero sink + Caple Robo tap above. **Positioned over the WC on the floor below for gravity drainage.** The **2 existing plumbing + electrical conduits are boxed into the cupboard below, well ventilated to the side and rear** |
 | 2 | Fridge bay | ~600mm | Beefeater outdoor tropical fridge — front-vented; see Fridge section below |
 | 3 | BBQ + vented LPG cabinet below | ~900mm | Beefeater Signature 3000E (820mm) + cabinet frame; LPG bottle vented below |
-| 4 | Sink cabinet | ~600mm | Caple Zero sink + Caple Robo tap above; waste plumbing below |
-| 5 | **Drawer unit (by the steps)** | ~600mm | **Top drawer only, sealed below** — this unit is partly under the FA2 steps, so no lower-cupboard access |
-| **TOTAL** | | **~3.3m wide × ~0.7m deep × ~0.9m high (worktop height)** | |
+| 4 | Double cupboards | ~1.0–1.2m | Double-door cupboard — general BBQ / kitchen storage (utensils, cleaning kit) |
+| 5 | **Litter Robot store** (former Store 2) | **1.05m wide × 1.0m deep** | Houses the cat's Litter Robot, **built into the kitchen run under the same worktop**; cat flap + 240V (Parts G, K). Deeper (1.0m) than the rest of the run |
+| **TOTAL** | | **~4.2m wide × ~0.7m deep (1.0m at the litter store) × ~0.9m high (worktop)** | |
 
-Worktop runs continuously over all five modules — single fabricated stainless top with cut-outs for sink, BBQ and fridge ventilation grille at front.
+Worktop runs continuously over all five modules — single fabricated stainless top with a **100mm upstand along the back**, and cut-outs for the sink, BBQ and fridge ventilation grille at front.
 
 ## Components
 
@@ -1184,15 +1192,15 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 - **Whether to install a second socket** flush with the worktop area, or to keep using socket #5 only
 - **Whether the kitchen unit's base needs to be on stainless feet** like the storage units, or sit directly on the Protectoboard (to be coordinated with the waste pipe routing)
 - **Confirmation of 3.3m total kitchen length** — fits within the available west-parapet run on the narrow section
-- **Cabinet layout** — confirmed 5 June as **Cupboard / Fridge / BBQ / Sink / Drawer unit** (L→R). The right (north) unit is a **top drawer only, sealed below**, as it's partly under the FA2 steps — confirm how far the steps overlap it so we fix the drawer width
+- **Cabinet layout** — revised 15 June to **Sink / Fridge / BBQ / Double cupboards / Litter Robot** (L→R). Confirm: (a) the **sink sits squarely over the WC below** for a clean gravity-drain run, (b) the **2 existing conduits** fit and vent properly in the sink cupboard, and (c) the **Litter Robot store width (1.05m)** works under the continuous worktop at the north end
 
 ---
 
 # PART G — STORAGE UNITS
 
-> **🗓 Phase 1** — Stores 1–4 (none depend on the building). See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 1** — Stores 1, 2 and 4 (none depend on the building; Store 2 goes in with the kitchen run). See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-**Four** outdoor storage cabinets — **three on the narrow section (Stores 1–3), one on the main section (Store 4)** — all built from salvaged hardwood deck boards (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves.
+**Three** outdoor storage cabinets *(revised 15 June — was four)* — **Store 1** (narrow, general), **Store 2** (the Litter Robot store, now built into the north end of the outdoor kitchen run — see Part F), and **Store 4** (main section). **Store 3 has been removed** (its conduit-covering job is now done by the cupboard below the kitchen sink). All built from salvaged hardwood deck boards (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves.
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
@@ -1202,12 +1210,11 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 
 | # | Position | Footprint (W × D) | Notes |
 |---|---|---|---|
-| **1 — Narrow, general** | Narrow section (per 5 June drawing) | **1.10 × 0.75m** × **~1.0m high** | Fills its space. **Existing plumbing + electrical conduits run at the base** — boxed in; **cupboard storage above and to the side** of the conduits. Bee bricks integrated into an external face (Part D). |
-| **2 — Narrow, Litter Robot** | Narrow section (per 5 June drawing) | **1.10 × 1.10m** × **~1.0m high** | Houses the cat's **Litter Robot 4/5** — the 1.10m depth gives the room the LR needs (~686mm deep + cat-landing space); ~1.0m height leaves ~900mm+ internal, clear of the 749mm LR. **Cat flap** in the front face + **240V power** (Part K). |
-| **3 — Narrow, conduit cover** | Narrow section (per 5 June drawing) | **0.85 × 0.75m** × **~1.0m high** | **Boxes in currently-exposed plumbing + electrical conduits** at the base; **cupboard storage above.** |
+| **1 — Narrow, general** | Narrow section (per 15 June drawing) | **1.10 × 0.75m** × **~1.0m high** | General narrow-section storage; cupboard with internal shelves. Bee bricks integrated into an external face (Part D). *(The conduit-boxing previously noted here is now handled in the kitchen sink cupboard — Part F.)* |
+| **2 — Litter Robot** (now in the kitchen run) | **North end of the outdoor kitchen run** (per 15 June drawing) | **1.05 × 1.00m** × under the kitchen worktop (~0.9m) | Houses the cat's **Litter Robot 4/5** — the 1.0m depth gives the room the LR needs (~686mm deep + cat-landing space). **Built into the kitchen line under the continuous stainless worktop** (Part F). **Cat flap** in the front face + **240V power** (Part K). |
 | **4 — Main (NE) store** | NE of the main section | **1.60 × 1.20m** × **~1.2m high** *(reduced from 1.80m, 14 June — lets the sofa/seating area slide slightly north)* | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions. **Child-safe lock** if hot tub chemicals stored here. |
 
-> **Heights:** the three narrow-section stores are **~1.0m high to line up with the narrow-section railings** (Part H) for a clean, consistent line; **Store 4 is ~1.2m high**. All sit below parapet height.
+> **Heights:** Store 1 is **~1.0m high to line up with the narrow-section railings** (Part H) for a clean, consistent line; the **Litter Robot store (Store 2) sits under the ~0.9m kitchen worktop**; **Store 4 is ~1.2m high**. All sit below parapet height.
 
 All dimensions and positions to be confirmed by Bond McCart on the drawings.
 
@@ -1249,7 +1256,7 @@ Because access is via front doors, the roof is a **fixed sloped top** with no op
 
 - 18mm marine ply, ~250-300mm deep, full width of unit
 - **Store 2 (Litter Robot):** **no shelf at LR level** — the LR takes most of the bay; any spare width can take a narrow shelf above.
-- **Stores 1 and 3:** the existing conduits are boxed in at the **base**; **cupboard storage / shelves above** (and, for Store 1, to the side of the conduits).
+- **Store 1:** general cupboard storage / shelves. *(Conduit boxing has moved to the kitchen sink cupboard — Part F.)*
 - **Store 4 (main):** **2-3 vertical bays** of shelving (full-width single shelves, or divided depending on what's stored). Sized to fit the hot tub cover when folded as one option.
 - Stainless ply support cleats screwed to the side walls
 
@@ -1275,13 +1282,13 @@ Because access is via front doors, the roof is a **fixed sloped top** with no op
 
 **Litter Robot fit (LR4 — verified dims 559 × 686 × 749mm):**
 
-| | Dimension | Fits in Store 2 (1.10 × 1.10m)? |
+| | Dimension | Fits in Store 2 (1.05 × 1.00m)? |
 |---|---|---|
-| LR width | 559mm | ✅ — ~540mm spare for the cat flap landing / a side shelf |
-| LR depth + cat landing | 686mm + ~250mm in front of the raised entrance for the cat to come through the flap and step up ≈ 940mm | ✅ — 1.10m depth accommodates it (the waste drawer pulls out the front through the open doors) |
-| LR height | 749mm | ✅ — needs ~820mm internal min; set Store 2 height accordingly |
+| LR width | 559mm | ✅ — ~490mm spare for the cat flap landing / a side shelf |
+| LR depth + cat landing | 686mm + ~250mm in front of the raised entrance for the cat to come through the flap and step up ≈ 940mm | ✅ — just fits: 940mm needed in the 1.0m depth (~60mm spare; the waste drawer pulls out the front through the open doors) |
+| LR height | 749mm | ⚠ needs ~820mm internal for the lid to open — under the **~0.9m kitchen worktop** this is tight; **confirm clearance under the worktop** at this north-end module |
 
-**Power:** Litter Robot needs 240V mains — **socket #4 (Part K) is in Store 2**, fed from the existing electrical conduits at the base of the adjacent Stores 1/3.
+**Power:** Litter Robot needs 240V mains — **socket #4 (Part K) is in Store 2**, fed from the outdoor-kitchen electrical first-fix (Part K).
 
 **WiFi:** Litter Robot has an app — UniFi network already covers the terrace.
 
@@ -1458,7 +1465,7 @@ The terrace currently has **3 existing outdoor electrical sockets** in the main 
 
 | # | Position | Notes |
 |---|---|---|
-| **4** | Inside **Store 2** (the Litter Robot store, Part G) | Powers the **Litter Robot** (240V). Pick up the supply from the **existing electrical conduits/junction box at the base of the adjacent Stores 1/3**. IP rating to match the cabinet enclosure. |
+| **4** | Inside **Store 2** (the Litter Robot store at the north end of the kitchen run, Part G) | Powers the **Litter Robot** (240V). Pick up the supply from the **outdoor-kitchen electrical first-fix** (the existing conduits are retained in the sink cupboard at the other end of the run). IP rating to match the cabinet enclosure. |
 | **5** | On the wall in the **NW corner** of the narrow section | IP66 weatherproof double 13A, mounted at the same height as the main-section sockets (≈500mm above FFL) for consistency. |
 
 ## Outdoor kitchen — internal cabinet socket
