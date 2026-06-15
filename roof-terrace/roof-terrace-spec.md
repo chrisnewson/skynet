@@ -1035,7 +1035,7 @@ An outdoor kitchen on the **narrow section** comprising **5 modules in a single 
 
 ![Outdoor kitchen artist's impression](artists-impressions/outdoor-kitchen.png)
 
-> Artist's impression (updated 15 June 2026) reflecting the current design: salvaged silver-grey hardwood-clad modules under a continuous brushed stainless worktop, with the **sink at the left end and the run stepping up to the raised dining area (FA2)** beyond, against the seafront railings on sandstone-toned porcelain tiles. Exact cabinet widths, BBQ hood profile and fridge model follow the spec below.
+> **Indicative only — for look and feel, not the exact layout.** This is an AI-generated impression and doesn't get the precise arrangement right. It conveys the **materials and mood** we're after: salvaged silver-grey hardwood-clad modules under a continuous brushed stainless worktop, stepping up to the raised dining area (FA2), on sandstone-toned porcelain tiles against the seafront railings. The **actual module order, cabinet widths, BBQ hood profile, fridge model and adjacent planter positions follow the spec below — not the image.**
 
 ## Layout
 
