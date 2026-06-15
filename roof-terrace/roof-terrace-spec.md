@@ -1307,12 +1307,17 @@ Because access is via front doors, the roof is a **fixed sloped top** with no op
 Cushion / fabric storage needs **passive airflow** to prevent damp:
 - **Small ventilation slots** (~50mm × 10mm × 2) low-level on the front face, screened with stainless mesh insect grille
 - The hardwood outer cladding's natural board gaps also breathe
-- For Store 2 (Litter Robot), the cat flap doubles as a large air-exchange path
+
+**Store 2 (Litter Robot) — generous but waterproof rear ventilation.** The litter store needs more airflow than the others (odour + humidity from the unit), so:
+- **Generous ventilation to the rear face**, exhausting into the **~50mm gap between the units and the railings** (Part F) — a sheltered, weather-protected cavity, so the vents aren't exposed to driven rain.
+- Vents to be **waterproof**: **louvred / baffled stainless grilles** (down-facing blades) backed with **stainless insect mesh**, so air passes freely but wind-driven rain is shed rather than entering the cupboard.
+- The **cat flap on the front face** doubles as a further air-exchange path, giving front-to-rear cross-flow.
+- Keep all electrics (socket #4) and the marine-ply box detailing clear of the vent line so any incidental moisture drains away, not into the cabinet.
 
 ## What we'd value your steer on
 
-- **Confirmation of the 4 positions** on the drawings and exact footprints (Stores 1–3 along the narrow section; Store 4 NE of main)
-- **Heights confirmed (5 June):** narrow stores ~1.0m (to line up with the railings), Store 4 ~1.2m, all below parapet — confirm Store 2 internal height clears the 749mm LR with a bit of headroom
+- **Confirmation of the 3 store positions** on the drawings and exact footprints (Store 1 on the narrow section; Store 2 = the Litter Robot store built into the north end of the kitchen run; Store 4 NE of main)
+- **Heights:** Store 1 ~1.0m (to line up with the railings), Store 4 ~1.2m, all below parapet; Store 2 sits under the ~0.9m kitchen worktop — clears the ~725mm LR comfortably (the unit slides out to open its lid)
 - **Hardware finish** — brushed stainless vs powder-coated black (to match the building cladding)
 - **Cat-flap brand confirmation** — SureFlap Microchip recommended
 - **Separate cat flap from flat → terrace** — location TBC, for Ronan to detail
