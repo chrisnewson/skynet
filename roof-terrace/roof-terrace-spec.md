@@ -120,8 +120,8 @@ The **flat-roof replacement is going ahead as a separate job**. **Scaffolding go
 |---|---|---|
 | **A — Roof Build-up & Structure** | **1** | The roof job itself + the tiling substrate. Carries the critical penetration and levels provisions. |
 | **B — Tiling** | **1** | Tile the bulk in Phase 1, **but leave the sauna/wet-room and hot-tub footprints un-tiled / tile-ready**, and **set out all Phase-2 pedestal clusters now** (hot tub, parasols, building). |
-| **C — Planters** | **1** | Most in Phase 1. The **hot-tub west planter (M7)** and the **SE planter (M2)** that sit in the Phase-2 building/tub zone wait until that zone is built. |
-| **D — Planting** | **1** | Follows the planters; the hot-tub-zone planting waits for Phase 2. |
+| **C — Planters** | **1** | **All planters in Phase 1** *(16 June)*, built from salvaged deck boards. M7 (beside the hot-tub footprint) built ahead of the Phase-2 crane lift — accepted small risk; coordinate the crane path. |
+| **D — Planting** | **1** | Follows the planters; **final planting plan still to be agreed**. |
 | **E — Outdoor Tap** | **1** | — |
 | **F — Outdoor Kitchen** | **1** | Narrow section. Lay the sink-waste run to the foul stack under FA2 in Phase 1. |
 | **G — Storage** | **1** | Stores 1–4. |
@@ -129,7 +129,7 @@ The **flat-roof replacement is going ahead as a separate job**. **Scaffolding go
 | **I — Parapet Bird Deterrent** | **1** | Confirm the LBC position for fixing into the listed coping. |
 | **J — Smart Control** | **Split** | Terrace/lighting Shellys with Phase 1; the sauna-heater contactor with Phase 2. |
 | **K — Electrical / Lighting** | **Split** | First-fix cabling, terrace lighting and terrace sockets in Phase 1; the building door downlights and the sauna/wet-room/hot-tub final connections in Phase 2. |
-| **L — Fall Protection (Glass)** | **2** | The dining-area glass is **no longer required** (FA2 now only ~300mm raised, and the deepened 1m M2 planters guard the south/east edges — see Part L). Only the **hot-tub glass remains → Phase 2** (with the tub); it fixes into parapet masonry — **no roof lock-in** — so it can wait. |
+| **L — Fall Protection (Glass)** | **2** | **All glass is Phase 2** *(updated 16 June)*: a **west dining screen** (top 1400mm above FFL) plus **two hot-tub runs** (2000mm above FFL; north-wall run 2800mm long). The south/east dining glass stays deleted (M2 planters guard there). All fixes into parapet masonry — **no roof lock-in** — so it waits with the tub. Run in sections to save cost; SE sets the bottom height per run. |
 | **M — Sauna** | **2** | Building — needs consent. *Phase-1 provision:* floor-drain penetration through the roof + heater/light/socket cabling first-fix. |
 | **N — Wet Room** | **2** | Building — needs consent. *Phase-1 provision:* WC soil + linear-drain + basin + electric-shower + external-shower penetrations, and electrical first-fix. |
 | **O — Hot Tub** | **2** | Arrives by **crane** in Phase 2 (see below). *Phase-1 provision:* 32A radial first-fix, drain penetration, pedestal/continuous-base area set out, footprint left tile-ready. |
@@ -307,6 +307,8 @@ What this protects against (both sections): pedestal point loads from the tile s
 > **Extra protection under concentrated loads (inverted section):** if we want **local IKO Protectoboard** (or an APP slate felt) under the hot tub and parasol-base clusters on the inverted section for added point-load protection, that's an **addition to IKO's standard inverted finish — agree it with IKO in writing** so the guarantee stands (see "IKO spec — conditions that affect our design" above).
 
 No acoustic underlay mat above the protection layer (it alone is the substrate for the pedestals — see Part B).
+
+> **Scope split — who lays the protection layer.** The **roofing contract (by others) leaves the surfaces bare**: **insulation (XPS) on top** of the inverted main section, and **asphalt (Permaphalt) on top** of the warm narrow section. The **terrace fit-out (this builder) then supplies and lays the IKO Protectoboard over both sections** as the protection/separation layer and pedestal substrate — see the Specification of Works. **⚠ Confirm with IKO** whether the inverted section also needs the **Enertherm WCL / filter membrane** under (or instead of) the Protectoboard so the **20-year guarantee stands**.
 
 ## Building footprint — built on top of the inverted build-up
 
@@ -517,7 +519,7 @@ The finished tile level needs to coordinate with:
 
 # PART C — PLANTERS
 
-> **🗓 Phase 1** — most planters. The **hot-tub west planter (M7)** and the **SE planter (M2)** that sit in the Phase-2 building/tub zone wait until that zone is built. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 1** — **all planters** *(16 June)*, built from the salvaged deck boards. M7 (beside the hot-tub footprint) is built ahead of the Phase-2 crane lift — an accepted small risk; coordinate the crane path. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 We want planters built from the **salvaged hardwood decking** removed from the existing terrace. Locations and footprints per the drawings.
 
@@ -544,7 +546,7 @@ Treated softwood frame with hardwood cladding outside, EPDM lining inside, and s
 | Layer (outside → inside) | Spec | Cost / source |
 |---|---|---|
 | **Cap board (top sit-ledge)** | **Salvaged Brighton pier decking, 100×50mm — 1 board wide** running along the top of each planter, screwed to top frame rails with stainless A4/316 screws (plug-cut or face-fixed). Aligned with the planter's outer face; can overhang inward over the soil by 10-15mm to give a clean rim. | **Free** (Chris's salvage stock — iconic Brighton wood, adds heritage character) |
-| **Cladding** | **Salvaged hardwood deck boards, cut to 700–900mm random staggered lengths**, joints between courses MUST NOT line up (running-bond / random stagger only). Boards screwed into frame uprights through stainless A4/316 fixings. | **Free** (salvage) — see "Salvaged hardwood — handling the existing bolt holes" subsection below |
+| **Cladding** | **Salvaged hardwood deck boards in random staggered lengths**, joints between courses MUST NOT line up (running-bond / random stagger only). **Fixed by reusing the existing decking bolts through the retained bolt holes** (Chris's on-site bolt stock) into the frame uprights / backing noggins — stainless A4/316 screws only where an extra concealed fix is needed. | **Free** (salvage + existing bolts) — see "Salvaged hardwood — the existing bolt holes" subsection below |
 | **Breathable membrane** | Inside face of cladding before EPDM | ~£5-10/planter |
 | **EPDM liner** | 1.0–1.2mm continuous, dressed up all four sides + 50mm onto top edge (trapped under the cap board) | ~£20-40/planter depending on size |
 | **Frame** | **50×50mm treated softwood (e.g. C16-graded UC4 treated)** — 4 corner posts (full height), top + bottom horizontal rails, intermediate vertical uprights at ~400mm centres. **Concealed structure** — never exposed to weather, treated to UC4 (in-ground) standard for belt-and-braces. | ~£15-25/planter materials |
@@ -565,13 +567,13 @@ Treated softwood frame with hardwood cladding outside, EPDM lining inside, and s
 - Caps the EPDM rim cleanly (no exposed liner edge)
 - Width is OK for **casual perching / leaning** (not full seating depth, but enough to sit on while gardening or for a quick break)
 
-## Salvaged hardwood — handling the existing bolt holes
+## Salvaged hardwood — the existing bolt holes (retained as the fixing + a feature)
 
-The existing decking boards have decking bolts with large through-holes every 800mm. Approach:
+The existing decking boards have decking-bolt through-holes at ~800mm centres, **and Chris has the original decking bolts on site.** Rather than cut around the holes and waste board (the earlier approach), the boards are kept full-length and the **existing bolts are reused through the existing holes** to fix the cladding — **cheap, easy and low-waste:**
 
-1. **Cut and discard hole sections** — cut boards into clean **700–900mm sections** between bolt holes (loses ~10-15% of total board length as waste — acceptable)
-2. **Staggered courses** — cladding installed in **running-bond / random stagger pattern** — joints between adjacent courses must NEVER line up vertically (read as patchwork). Random length variation within 700-900mm range looks intentional and crafted.
-3. **Use holed scraps for hidden uses** — battens, internal frame fillers, sacrificial bearers — anywhere not visible
+1. **Keep boards full-length; reuse the existing decking bolts through the existing holes** to fix the cladding to the softwood frame. Set the **frame uprights to line up with the bolt-hole spacing** where practical so each bolt lands on a frame member; where a hole falls between uprights, add a short **backing noggin** behind to take the bolt (or leave it as an open feature hole — the inner **EPDM liner is the waterproofing**, so a hole in the outer cladding doesn't affect watertightness).
+2. **Staggered courses** — running-bond / random stagger; joints between adjacent courses must NEVER line up vertically (reads as patchwork). The regular bolt pattern + random board lengths read as intentional, crafted salvage.
+3. **Corrosion note (Ronan to confirm):** if the existing bolts aren't stainless / A4, expect some rust-streaking on the silver-grey wood over time — acceptable if the rustic look is wanted; otherwise back the cladding with hidden stainless screws and keep the old bolts as a decorative feature.
 4. **Finish — none** (zero ongoing maintenance). Salvaged hardwood + Brighton pier decking are both naturally durable species that weather to silver-grey over 1-2 years bare. This is exactly the look shown in the reference image above, and matches the Brighton seafront / Sussex Square heritage aesthetic. **No oil, no varnish, no annual retreatment.**
    - Avoid oils / varnishes / paints — they need annual reapplication and look worse than bare wood if missed. The whole project is designed for low maintenance.
 
@@ -691,7 +693,7 @@ Now the planters sit **on top of the finished tile field** (not built into the r
 
 # PART D — PLANTING PALETTE & BIODIVERSITY
 
-> **🗓 Phase 1** — follows the planters. The hot-tub-zone planting waits for Phase 2 (with M7). The biodiversity enhancements on the building (sparrow/bat boxes) are Phase 2; the bee bricks on the store are Phase 1. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 1** — follows the planters; **all planting in Phase 1**, though the **final planting plan is still to be agreed**. The biodiversity enhancements on the building (sparrow/bat boxes) are Phase 2; the bee bricks on the store are Phase 1. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 This section sets out the **approximate planted area**, the **planting palette**, and the **biodiversity case** for the full Listed Building Application — in particular for the **Biodiversity Net Gain (BNG)** demonstration and **Biodiversity Checklist** requirements that the planning officer raised at pre-application (PRE2025/00255).
 
@@ -1019,6 +1021,7 @@ To complete the biodiversity submission, please confirm or produce:
 - Existing plastic pipe water supply run on the terrace
 - Existing outdoor tap
 - Plastic panel behind the existing tap
+- **Existing plastic waterproofing at the SE corner of the large terrace** — removed together with the tap (the new IKO roof build-up replaces it)
 
 ## New tap — relocated
 
@@ -1617,20 +1620,26 @@ To give reliable wifi coverage across the full terrace (hot tub, dining area, sm
 
 # PART L — FALL PROTECTION (GLASS BALUSTRADES & PLANTERS)
 
-> **🗓 Phase 1 + 2 (split).** The **hot-tub glass is Phase 2**, arriving with the tub; it fixes into the parapet masonry (no roof penetration), so it can wait without locking anything in. **The previously-planned dining-area glass on the south and east edges is no longer needed** — see below. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 2 (all glass).** *Updated 16 June:* **all glass — the west dining screen and both hot-tub runs — is Phase 2.** It fixes into parapet masonry (no roof penetration), so it locks nothing into the Phase-1 roof and can wait. The earlier south/east dining glass stays **deleted** (planters guard those edges). See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-**Change (14 June):** with **Floor Area 2 now raised only ~300mm** (was 500mm), the raised dining edge itself is a low step rather than a guarded drop; and the **deepened 1m M2 planters along the south and east parapets** create a planted setback barrier along those edges. Between them, this removes the need for the previously-planned **glass screens on the south and east walls**, even with the enlarged FA2. *(Confirm with Ronan / building control that the planter setback satisfies Approved Document K along those edges.)*
+**Change (16 June):** with **Floor Area 2 raised only ~300mm** and the **deepened 1m M2 planters** guarding the south and east parapet edges, the previously-planned **south/east dining glass stays deleted** *(confirm with Ronan / BC that the planter setback satisfies Approved Document K there)*. Two needs remain, both now confirmed as glass — **a west dining screen and two hot-tub runs:**
 
-That leaves **one location needing glass fall protection** — around the hot tub:
+| Run | Location | Top of glass | Run length | Notes |
+|---|---|---|---|---|
+| **West dining screen** | West edge of the dining area (FA2) | **1400mm above FFL** | per FA2 west edge — Ronan to scale | Screen to the west of the dining table; coordinate with the **M1(W) planter** |
+| **Hot tub — sauna-to-north run** | The **full wall connecting the sauna to the north wall**, behind the planter | **2000mm above FFL** | full wall — Ronan to scale | Top = 900mm tub rim + 1100mm Approved Doc K guard |
+| **Hot tub — north-wall run** | Along the **north wall** | **2000mm above FFL** | **2800mm** | Same guarding height as the sauna-to-north run |
 
-- **Around the hot tub** — 1100mm above the **hot tub rim** (Approved Doc K), since BC will treat the rim as the standing level. The tub can't be positioned away from the edge, so this applies.
+- **Start (bottom) height of every run — Ronan to confirm with Allan Wiseman (SE).** The glass need not start at FFL; the SE sets the bottom fixing height per run.
+- **Run the glass in sections** (multiple panels) rather than single large panes where the run allows — **to keep cost down**.
 
-We've chosen frameless structural glass for the hot-tub run — keeps the view, and minimises bulk from public viewpoints (conservation area).
+We've chosen frameless toughened laminated glass throughout — keeps the view, and minimises bulk from public viewpoints (conservation area).
 
 ## Glass spec
 
 - Frameless toughened laminated glass (typ. 17.5mm or 21.5mm — engineer to confirm)
-- Height: hot tub area — top of glass at **1100mm above tub rim** (≈1900mm FFL depending on final tub choice)
+- Heights (top of glass): **hot-tub runs — 2000mm above FFL** (≈1100mm above a 900mm tub rim); **west dining screen — 1400mm above FFL**. Bottom fixing height per run set by the SE.
+- Panelised into **sections** where the run allows, to reduce cost
 - Designed to BS 6180 line loads + Brighton coastal wind loads (significant — seafront exposure)
 
 ## Planters around the hot tub
@@ -1642,7 +1651,7 @@ We've chosen frameless structural glass for the hot-tub run — keeps the view, 
 
 ## Mounting — side-mounted (face-fix to inner face of parapet)
 
-**Side-mounted, point-fixed to the inner face of the parapet wall.** The glass panels are clamped with individual stainless point-fixings (or a low-profile inner-face channel) into the inner masonry face of the parapet, projecting upward to the required 1100mm guarding height.
+**Side-mounted, point-fixed to the inner face of the parapet wall.** The glass panels are clamped with individual stainless point-fixings (or a low-profile inner-face channel) into the inner masonry face of the parapet, projecting upward to the required height per run (2000mm above FFL at the hot tub; 1400mm at the west dining screen).
 
 **Why this mounting:**
 
@@ -1654,8 +1663,9 @@ We've chosen frameless structural glass for the hot-tub run — keeps the view, 
 ## What we'd value your steer on
 
 - **Inner-face fixing detail** — point-fixed stainless clamps vs a low-profile inner-face channel; SE to confirm pull-out capacity against the existing masonry given Brighton seafront wind loading
-- **Glass thickness / spec** — to be sized by the supplier's engineer once the inner-face fixing detail is agreed (likely 17.5–21.5mm toughened laminated to BS 6180)
-- **Hot-tub guarding without the planter setback** — now the east/north hot-tub planters are removed (14 June), is the glass alone acceptable to building control along those sides, or does BC want the tub held back from the glass line? (We're not banking on any concession to lower the glass below 1100mm-above-rim.)
+- **Start (bottom) height per run + glass thickness** — the SE (Allan) to set the **bottom fixing height** of each run (west dining, sauna-to-north, north-wall) and size the glass; the **2000mm-above-FFL hot-tub runs are tall cantilevers**, so the inner-face fixing leverage and panel thickness matter most there. Likely 17.5–21.5mm toughened laminated to BS 6180 — supplier's engineer to confirm
+- **Panelising into sections** — confirm panel widths that keep cost down without an over-heavy fixing detail
+- **Hot-tub guarding without the planter setback** — now the east/north hot-tub planters are removed (14 June), is the glass alone acceptable to building control along those sides, or does BC want the tub held back from the glass line? (We're not banking on any concession to lower the glass below 1100mm above the rim = 2000mm above FFL.)
 - **Condition of the inner masonry face** behind the proposed fixing line — confirmation it's sound brickwork suitable for resin-anchored point fixings at this exposure
 
 ---
@@ -2179,11 +2189,23 @@ The mast lifts out so the surface can be capped flush over winter.
 
 ## Interface with the roof contract (by others — Sussex Asphalte / IKO) — coordinate, do not price
 
-- New roof build-up: **inverted main (190mm IKO XPS) + warm narrow (160mm PIR)**, Permaphalt waterproofing, new 18mm deck, Protectoboard / WCL protection layer.
+- The roof contract strips the existing terrace **down to the structural roof joists** and lays the new waterproofing, leaving each section's **surface bare for this builder to finish on top**:
+  - **Inverted main section** — Permaphalt on the new deck, then **190mm IKO XPS insulation left on top** (no surface protection layer laid by the roofer).
+  - **Warm narrow section** — insulation below, then **Permaphalt asphalt left on top**.
+- **➡ This builder then supplies and lays the IKO Protectoboard over BOTH sections** (work section 2.0) as the protection/separation layer and pedestal substrate — see Tiling below. *(Confirm with IKO whether the inverted section also needs the Enertherm WCL/filter under the Protectoboard so the 20-year guarantee stands.)*
 - **🚨 Highest-risk coordination item:** the builder must issue **exact positions of ALL roof penetrations — Phase 1 *and* Phase 2 — and the finished levels (FFLs by zone + the future study threshold) to the roofer BEFORE the roof is closed.** The roofer installs and caps the penetrations; a missed one cannot be added without opening the new roof.
+- **Coordinate the strip-out so the good hardwood deck boards are set aside on site** (work section 0) for reuse in the planters, kitchen and storage — not skipped with the roof waste. **The structural roof joists are retained** (per the SE's calcs) and must not be removed.
 - The **un-tiled building and hot-tub zones** are left exposed for the consent wait and need **interim ballast / weather protection** — coordinate with the roofer (stored Phase-2 materials can double as ballast).
 
 ## Work sections
+
+**0. Strip-out, salvage & disposal** *(enabling works — coordinate timing with the roof contract)*
+
+| Ref | Item | Scope & key specification | Notes / Ronan to confirm |
+|---|---|---|---|
+| 0.1 | Salvage good deck boards **+ the decking bolts** | Carefully lift and **set aside the sound existing hardwood deck boards** for reuse as the cladding/carcass of the **planters, outdoor kitchen and storage** (sections 3, 6, 7). **Retain the existing decking bolts** (Chris has them on site) — the boards keep their existing bolt holes, and the bolts are **reused through those holes as the fixing** (random staggered joints — intended salvage look) | The planters/kitchen/stores are **built from this salvaged timber + the existing bolts** — quantity reused depends on how many boards are sound |
+| 0.2 | Dispose of redundant timber & rubbish | Remove and dispose of the **poor-quality deck boards**, the **redundant timber deck sub-frame / bearers**, and the **old furniture and rubbish currently on the roof** | **NB: do NOT remove the structural roof joists** (retained per the SE's calcs). Ronan/SE to confirm which timber is the deck sub-frame vs the structural roof joists |
+| 0.3 | SE-corner plastic waterproofing + old tap | Remove the **existing plastic waterproofing at the SE corner of the large terrace**, together with the **existing outdoor tap, its plastic backing panel and the existing plastic water-supply run** (Part E). The new IKO build-up + new tap replace them | |
 
 **1. Drainage & service first-fix** *(set out before the roof is closed)*
 
@@ -2197,31 +2219,47 @@ The mast lifts out so the surface can be capped flush over winter.
 
 | Ref | Item | Scope & key specification | Approx qty | Notes / Ronan to confirm |
 |---|---|---|---|---|
-| 2.1 | 30mm porcelain on pedestals | 30mm porcelain (R11, frost/coastal-rated, sandstone tone, ≥600×600) on **Eterno Ivica** self-levelling pedestals; open joints; acoustic zoning — pads **top+bottom** (main) / **single** (narrow) / **basic** (over lift bulkhead) | ~104 m² | Tile range **PC sum** until colour chosen; **confirm 30mm available in the tone within the scaffold window** |
+| 2.0 | Protectoboard substrate | Supply & lay **IKO Protectoboard (3.2mm)** over **both** sections, on top of what the roof contract leaves — over the **XPS insulation** on the inverted main and over the **Permaphalt asphalt** on the warm narrow. This is the protection/separation layer the pedestals sit on. No acoustic underlay mat over it | ~120 m² (gross) | Confirm with IKO whether the inverted section also needs the **Enertherm WCL/filter** under the Protectoboard to keep the guarantee |
+| 2.1 | 30mm porcelain on pedestals | 30mm porcelain (R11, frost/coastal-rated, sandstone tone, ≥600×600) on **Eterno Ivica (or equivalent equal-spec)** self-levelling padded pedestals; open joints; acoustic zoning — pads **top+bottom** (main) / **single** (narrow) / **basic** (over lift bulkhead) | ~104 m² | Tile range **PC sum** until colour chosen; **confirm 30mm available in the tone within the scaffold window**. Builder may substitute an **equivalent-spec pedestal** (Buzon etc.) if cheaper |
 | 2.2 | Levels & steps | 3 zones / 2 levels: FA1 narrow low; **FA2 dining +300mm on ~400mm pedestals, 5.75×5.1m**; FA3 low ~100mm. **Two flights of 3 steps** (400mm tread / 100mm rise): FA1→FA2 up; FA2→FA3 down on FA2's north side, 1500mm wide | — | Step going/rise/nosings + handrail/guarding to **Approved Doc K** — Ronan / BC |
 | 2.3 | Phase-2 provisions | Leave the **sauna/wet-room and hot-tub footprints un-tiled (tile-ready)**; set out & install **all Phase-2 pedestal clusters / load-spread now** (hot tub, 2 parasol bases, building footprint) | — | Adding pedestals under a finished tile field = lifting tiles |
 | 2.4 | Overage | Order +10–15% tiles; surplus to client's garage at Sussex Square | — | |
 
-**3. Planters (Part C) — Phase-1 set**
+**3. Planters — all built in Phase 1, from the salvaged deck boards (section 0.1)**
 
-| Ref | Item | Scope & key specification | Approx qty | Notes / Ronan to confirm |
-|---|---|---|---|---|
-| 3.1 | Build planters **N1, N2, N3, N4, M1, M4** | Salvaged hardwood + treated softwood frame + Brighton pier decking cap; EPDM-lined; freestanding back panel + 30mm air gap; on bearers/pads ~25mm over the tiles with weep holes, **bearers aligned over pedestals**. Sizes per Part C inventory | 6 planters | **M2 & M7 deferred to Phase 2** (tub/building zone). **Confirm whether M2 should be Phase 1** — it guards the south/east FA3 edge (Part L) and sits along the parapet, not in the build footprint |
-| 3.2 | Soil / drainage / mulch | Drainage layer, topsoil, mulch, irrigation provision to Phase-1 planters | — | |
+*Make-up (every planter):* freestanding box on the finished tiles (relies on no wall). Outside → in: **salvaged hardwood deck-board cladding** (700–900mm random staggered lengths, joints never aligned) on a **50×50mm treated softwood frame** (UC4-treated; corner posts + top/bottom rails + uprights at ~400mm centres; cross-braced on L-shapes and runs >2m); **breather membrane**; **1.0–1.2mm EPDM liner** dressed up all sides + 50mm onto the top edge; **salvaged Brighton pier decking cap** (100×50mm sit-ledge). **Cladding fixed by reusing the existing decking bolts through the retained bolt holes** (Chris's on-site bolt stock) into the frame uprights / backing noggins — stainless A4/316 only where an extra concealed fixing is needed. Base sloped ~1% with **25–30mm weep holes + EPDM at ~600mm centres** (geotextile caps) — water weeps onto the tiles and drains through the open joints. Sits on **treated-softwood/stainless bearers on rubber pads, ~25mm above the tiles**, bearer lines **aligned over the pedestals below** so load transfers foot → tile → pedestal; **30mm air gap** to any wall behind.
 
-**4. Planting (Part D)** — supply & plant the Phase-1 planters per the Part D schedule (incl. olive trees in N1/M1; movable pots). Hot-tub-zone planting (M2/M7) deferred to Phase 2.
+| Planter | Location | Footprint | Height above FFL |
+|---|---|---|---|
+| **N1** | NE L-shape, narrow | N1(E) 7.2m × 600mm + N1(N) 1.8m × **800mm** | 500mm |
+| **N2** | Narrow, east mid | 1.2 × 1.2m × 600mm | 500mm *(built integral with N1)* |
+| **N3** | Narrow, west mid | 1.2 × 1.2m × 600mm | 500mm *(adjoins the kitchen)* |
+| **N4** | Lift over-run | 1.9 × 2.1m *(matches the tiled bulkhead)* | 400mm box *(low aromatic herbs)* |
+| **M1** | Dining FA2 L-shape | frames the 5.75 × 5.1m FA2, 600mm deep | 500mm |
+| **M2** | SE L-shape | M2(E) 5.1m ext / 4.1m int + M2(S) 3.5m ext / 2.5m int, **both 1m deep** | **700mm** above FA3 FFL |
+| **M4** | North of seating | 2.70m × 600mm | 700mm |
+| **M7** | West of hot tub | 2.0m × 600mm | +150mm above the tub rim |
+
+- **Soil / drainage / mulch:** drainage layer, topsoil / lightweight mix, mulch to all planters; **4 olive trees** (2 in N1, 1 in M1, 1 in M2) may need a locally deeper root detail (600mm general depth).
+- **M7 sits beside the hot-tub footprint** (left un-tiled tile-ready). Building it now, ahead of the Phase-2 crane lift of the tub, is an **accepted small risk** — coordinate the crane access path with Ronan so M7 isn't in the lift line.
+
+**4. Planting** — supply & plant all planters (incl. the 4 olive trees) + the movable pots. **⚠ The final planting plan is still to be agreed** — treat the plant schedule as a **provisional allowance** until confirmed.
 
 **5. Outdoor tap (Part E)** — relocate to between the future sauna and hot tub; **brass, copper pipe (no plastic)**; fed from the 1.3 cold-water first-fix.
 
-**6. Outdoor kitchen (Part F)**
+**6. Outdoor kitchen — narrow section, 5-module linear run (built from the salvaged deck boards)**
 
-| Ref | Item | Scope & key specification | Approx qty | Notes / Ronan to confirm |
-|---|---|---|---|---|
-| 6.1 | 5-module linear run | L→R: sink + fridge + BBQ + double cupboards + Litter-Robot store; **304 brushed stainless worktop, 100mm upstand, ~50mm gap to railings** | ~4.2m run | Appliances (builder S&I): **Beefeater Signature 3000E** BBQ, **Beefeater outdoor fridge**, **Caple Zero** sink + **Caple Robo** cold-only tap |
-| 6.2 | Litter-Robot store | Built into the north end under the worktop; cat flap + 240V supply | — | |
-| 6.3 | Services | Sink waste over the WC (ref 1.2); the 2 existing conduits boxed in the sink cupboard, vented side+rear | — | |
+*Carcass make-up:* outer **salvaged hardwood deck boards** on a **marine-ply frame** (joints sealed with marine epoxy); hardwood-fronted doors with **stainless hinges/handles**. Continuous fabricated **304 brushed stainless worktop** with a **100mm rear upstand** and cut-outs for the sink, BBQ and fridge vent. **~50mm gap** between the unit backs and the railings. Overall **~4.2m wide × 0.7m deep (1.0m at the litter store) × ~0.9m high**. Sink waste runs to the foul stack (ref 1.2); fed off the cold-water tee (ref 1.3).
 
-**7. Storage (Part G)** — **Store 1** (narrow general, 1.10×0.75, ~1.0m high) and **Store 4** (main NE, 1.60×1.20, ~1.2m high, child-safe lock for chemicals); salvaged hardwood, front-opening; **bee bricks** on Store 1 external face. *(Store 2 = Litter Robot, in the kitchen run; Store 3 removed.)*
+| Module (S→N) | Function | Width | Spec — builder supplies & installs |
+|---|---|---|---|
+| 1 | Sink cabinet | ~600mm | **Caple Zero** 1-bowl 400×450 brushed stainless + **Caple Robo** cold-only tap. **Positioned over the WC below for gravity drainage**; the 2 existing plumbing + electrical conduits boxed into the cupboard below, vented side + rear |
+| 2 | Fridge bay | ~600mm | **Beefeater** outdoor tropical fridge, front-vented |
+| 3 | BBQ + LPG cabinet | ~900mm | **Beefeater Signature 3000E** built-in (820mm); LPG bottle in a **vented cabinet below — low-level grille ≥200cm² + high-level vent, stainless mesh, venting to outside only**; in-line ball valve. Spare bottle stored off-terrace |
+| 4 | Double cupboards | ~1.0–1.2m | General BBQ / kitchen storage |
+| 5 | Litter-Robot store | 1.05m × 1.0m deep | Litter Robot under the worktop; **cat flap + 240V** (Part K) |
+
+**7. Storage (Part G)** — **Store 1** (narrow general, 1.10×0.75m, ~1.0m high) and **Store 4** (main NE, 1.60×1.20m, ~1.2m high, **child-safe lock** for chemicals). **Built from the salvaged deck boards on a marine-ply frame**, matching the planters and kitchen; cabinet-style front-opening with stainless hinges/handles; **bee bricks** on Store 1's external face. *(Store 2 = Litter Robot, in the kitchen run; Store 3 removed.)*
 
 **8. Railings (Part H)** — keep the **east + west railings in place at current height**; remove the centre + short runs; add **wires (or low timber upstand + wires) on top** for guarding height + bird-proofing. Confirm no LBC issue (ref notes).
 
@@ -2236,7 +2274,7 @@ The mast lifts out so the surface can be capped flush over winter.
 | 10.3 | Terrace sockets | Existing 3–4 sockets repositioned above the new tile FFL; **new IP66 double, north wall east end, 450mm FFL** | — | |
 | 10.4 | Smart control | Terrace/lighting Shellys commissioned to Home Assistant | — | Sauna-heater contactor = Phase 2 |
 
-> **Fall protection:** **no glass in Phase 1.** The dining-area glass is dropped (FA2 only +300mm; deepened M2 planter guards the south/east edges); only the hot-tub glass remains, in Phase 2 (Part L).
+> **Fall protection:** **all glass is Phase 2** (Part L) — a **west dining screen** (top 1400mm above FFL) and **two hot-tub runs** (top 2000mm above FFL; north-wall run 2800mm long). The south/east dining edges are guarded by the deepened 1m M2 planter (no glass). So **no glass in Phase 1.**
 
 ## Provisional (PC) sums — Phase 1
 
@@ -2249,12 +2287,15 @@ Roof waterproofing / insulation / deck and the scaffold (**separate roof contrac
 ## Notes for Ronan to confirm — Phase 1
 
 - **Coordinated penetration & levels drawing (all phases) issued to the roofer before the roof closes** — the critical lock-in.
-- **Which Phase-1 items genuinely fall outside planning/LBC** — esp. the bird-deterrent fixing into the listed coping, the railings top-up, and the dining-area edge treatment.
+- **Confirm with IKO** whether the inverted section needs the **Enertherm WCL/filter** under the builder-laid Protectoboard (ref 2.0) so the 20-year guarantee stands.
+- **Which Phase-1 items genuinely fall outside planning/LBC** — esp. the bird-deterrent fixing into the listed coping, and the railings top-up.
 - Finished floor levels by zone, including the **narrow FFL set for the future study threshold** (Part Q).
-- **Whether M2 planter is Phase 1** (south/east edge guarding) or deferred.
-- Eterno Ivica pedestal **bearing on the inverted insulation + the IKO ≥80 kg/m² uplift** sign-off; pedestal clusters/load-spread under all Phase-2 heavy loads.
+- **M7 planter built ahead of the Phase-2 hot-tub crane lift** — confirm the crane access path so M7 isn't in the lift line (accepted small risk).
+- Which existing terrace timber is the **deck sub-frame (dispose)** vs the **structural roof joists (retain)** — ref 0.2.
+- Pedestal **bearing on the inverted insulation + the IKO ≥80 kg/m² uplift** sign-off; pedestal clusters/load-spread under all Phase-2 heavy loads.
 - Step compliance (Approved Doc K) and any guarding to FA2.
 - Acoustic zoning — confirm the narrow section is over non-habitable space.
+- **Final planting plan still to be agreed** (ref 4) — plant schedule is a provisional allowance.
 
 ---
 
@@ -2290,7 +2331,12 @@ Roof waterproofing / insulation / deck and the scaffold (**separate roof contrac
 
 **4. Hot tub (Part O)** — supply & install the chosen model **within the SE's weight / kg-m² limit**; **crane lift** up and over; connect the Phase-1 32A radial + drain; base on the Phase-1 pedestal cluster / load-spread plate. **PC sum** until the model is chosen. **Confirm the crane access route/reach now.**
 
-**5. Hot-tub glazing (Part L)** — frameless toughened **laminated** glass, **side-mounted (point-fixed to the inner face of the parapet)**, guarding the tub sides. Confirm BC guarding now the glass guards the east/north sides directly (old M5/M6 planters removed).
+**5. Glass fall protection (Part L) — all three runs.** Frameless toughened **laminated** glass, **side-mounted (point-fixed to the inner face of the parapet)**, run in **sections** to save cost; the **SE sets the bottom height per run**:
+- **West dining screen** — top **1400mm above FFL**, west edge of FA2.
+- **Hot tub, sauna-to-north run** — top **2000mm above FFL** (900mm tub rim + 1100mm guard), full wall length.
+- **Hot tub, north-wall run** — top **2000mm above FFL**, **2800mm long**.
+
+Confirm BC guarding now the hot-tub glass guards the east/north sides directly (old M5/M6 planters removed).
 
 **6. Parasols (Part P)** — 2× **cantilever side-pole**, marine-grade: dining **3×3**, sofa **4×4 or 3×4** (per chosen brand). **Weighted bases on the tiles over a pedestal load-spread** (no roof penetration) — or ballasted within a planter; **furl in strong wind**. **PC sum** until the model is chosen.
 
@@ -2298,9 +2344,7 @@ Roof waterproofing / insulation / deck and the scaffold (**separate roof contrac
 
 **8. Final M&E (Parts K, J)** — sauna-heater Shelly Plus 1PM + 40A contactor; building eave-soffit downlights; final connections to sauna, wet room and hot tub off the Phase-1 first-fix.
 
-**9. Deferred planters & planting** — build planters **M2** (SE L, 1m deep, 700mm) and **M7** (west of tub); plant the hot-tub-zone planting (Part C/D).
-
-**10. Tiling completion** — tile the **building and hot-tub footprints** left tile-ready in Phase 1, matching the Phase-1 finish.
+**9. Tiling completion** — tile the **building and hot-tub footprints** left tile-ready in Phase 1, matching the Phase-1 finish. *(All planters and planting are built in Phase 1 — none deferred.)*
 
 ## Provisional (PC) sums — Phase 2
 
