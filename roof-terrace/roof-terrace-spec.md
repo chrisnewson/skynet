@@ -35,7 +35,8 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 - [Part O — Hot Tub](#part-o--hot-tub)
 - [Part P — Parasols](#part-p--parasols)
 - [Part Q — Terrace Access (Study Door / Window)](#part-q--terrace-access-study-door--window)
-- [Paving Options to Review](#paving-options-to-review)
+- [Specification of Works — Phase 1 (no consent assumed)](#specification-of-works--phase-1-no-consent-assumed)
+- [Specification of Works — Phase 2 (needs planning / LBC)](#specification-of-works--phase-2-needs-planning--lbc)
 
 ## Drawings
 
@@ -207,7 +208,7 @@ The two roof sections now get different systems:
 
 | Layer (top to bottom) | Notes |
 |---|---|
-| Tiles | 20mm porcelain on pedestals (Part B) — this is our finish on top of the IKO inverted system |
+| Tiles | 30mm porcelain on pedestals (Part B) — this is our finish on top of the IKO inverted system |
 | Pedestals | **Eterno Ivica** (chosen 7 Jun), **rubber acoustic pads top *and* bottom** in this section (most sound isolation — see Part B). Pedestals/paving supports sit on the WCL below |
 | **IKO Enertherm WCL (Water Control Layer)** | Laid **over** the insulation, under the paving supports — reduces rainwater cooling of the insulation; IKO's standard inverted finish layer |
 | **190mm IKO Enertherm XPS** | Inverted-roof insulation — **extruded polystyrene, HFC-free, ~300 kPa compressive (load-bearing grade)**, loose-laid, rebated, 300mm laps; achieves U ≈ 0.16. *(Was provisionally 220mm — IKO confirms 190mm.)* |
@@ -220,7 +221,7 @@ The two roof sections now get different systems:
 
 | Layer (top to bottom) | Notes |
 |---|---|
-| Tiles | 20mm porcelain on pedestals (Part B) |
+| Tiles | 30mm porcelain on pedestals (Part B) |
 | Pedestals | **Rubber acoustic pads on bottom only** in this section (less sound isolation needed — see Part B) |
 | **IKO Protectoboard 3.2mm** | Over the Permaphalt, under the paving supports — point-load protection |
 | **IKO Permaphalt 20mm** (2 × 10mm coats) | Waterproofing **on top** of the insulation, over IKO Black Sheathing Felt separating layer |
@@ -259,11 +260,11 @@ How our tile finish bears on the **inverted main section** is not yet resolved a
 
 1. **Raised pedestals under the dining (FA2, ~400mm = ~100mm low base + the 300mm raise).** *(Reduced 14 June — FA2 is now +300mm, was +500mm.)* Standard inverted paving sits on **low** supports. Pedestals of ~400mm concentrate load on a small base on the **XPS** (firm at ~300 kPa but can creep under sustained load) and raise lateral-stability and wind concerns. Confirm with IKO whether tall pedestals are acceptable **bearing on the WCL/XPS**, whether a **load-distribution layer** (e.g. Protectoboard, a bearing pad or a wider base plate) is needed under each pedestal, or whether the raised zone needs a **different support solution** (e.g. a separate raised sub-structure). *(Also one for the SE — Allan Wiseman — on lateral stability and the raised-platform load path.)*
 
-2. **⚠ Wind-uplift ballast — possible shortfall.** IKO require a **minimum loading coat of 80 kg/m²** over the XPS to resist wind uplift (their stated figure for sheltered / sub-10-storey buildings; our **exposed seafront** site may need more). **Our 20mm porcelain weighs only ~46 kg/m²** — *below* 80 — so the tile-on-pedestal finish may **not hold the insulation down on its own**. Confirm with IKO how uplift is satisfied on the inverted field: thicker pavers, supplementary ballast, the combined mass of pedestals + tiles + planters/furniture counted together, or a restrained/edge-fixed detail. This applies across the whole inverted main section.
+2. **⚠ Wind-uplift ballast — eased by the move to 30mm tiles.** IKO require a **minimum loading coat of 80 kg/m²** over the XPS to resist wind uplift (their stated figure for sheltered / sub-10-storey buildings; our **exposed seafront** site may need more). We have **moved from 20mm (~46 kg/m²) to 30mm porcelain (~70 kg/m²)** (Part B), so the field is now **close to the 80 figure** rather than well below it. Confirm with IKO that the **small remaining gap is covered by the combined mass of pedestals + tiles + planters / hot tub / building + an edge-restraint detail**, rather than needing thicker pavers or supplementary ballast. This applies across the whole inverted main section.
 
-3. **Low FA3 — thick slabs vs the 20mm grid.** For the low hot-tub/seating level (FA3), one option is **thicker paving slabs laid more directly** on the inverted finish (closer to IKO's standard ≥50mm loading coat — which also helps the 80 kg/m² uplift). But the rest of the terrace uses **20mm porcelain on the pedestal grid**, so a mixed approach means reconciling **(a) the finished floor level** and **(b) the appearance** between thick slabs and the 20mm tiles. The simplest route for a consistent look is 20mm porcelain on pedestals throughout — which loops straight back to questions 1 and 2.
+3. **Consistent 30mm-on-pedestals throughout.** With 30mm porcelain on the pedestal grid used across the whole terrace (including low FA3), there is **one finished level and one appearance** — no mixing with thick direct-laid slabs to reconcile. Confirm 30mm-on-pedestals is acceptable to IKO everywhere on the inverted field.
 
-> **Action:** **Ronan to contact IKO (James Eden) to confirm the inverted-section tiling-support build-up** — pedestals bearing on the Enertherm, the 80 kg/m² wind-uplift requirement vs our ~46 kg/m² 20mm porcelain, and the raised-FA2 (~300mm) solution — **copying Alexander Gathern (Coastal Surveyors)**, and looping in the SE (Allan Wiseman) on the tall-pedestal stability / any raised sub-structure. See [Project Team & Contacts](#project-team--contacts).
+> **Action:** **Ronan to contact IKO (James Eden) to confirm the inverted-section tiling-support build-up** — pedestals bearing on the Enertherm, the 80 kg/m² wind-uplift requirement vs our ~70 kg/m² 30mm porcelain (the small remaining gap covered by fixed load + edge restraint), and the raised-FA2 (~300mm) solution — **copying Alexander Gathern (Coastal Surveyors)**, and looping in the SE (Allan Wiseman) on the tall-pedestal stability / any raised sub-structure. See [Project Team & Contacts](#project-team--contacts).
 
 ## Levels across the terrace — three zones, two levels
 
@@ -330,7 +331,7 @@ The roofing contractors can **insert and cap drainage penetrations** for us to c
 
 > **Note for Ronan Bond:** please provide the build-up details (inverted main section, warm narrow section, the junction between the two, asphalt-to-building junction including the door-threshold detail) **as a matter of urgency** so they can be discussed with our surveyor, **IKO**, **Sussex Asphalte**, **Seaview** and **Coastal Surveyors**. **Seaview need a specification of works as soon as possible to get it costed** — scheduling is difficult at this time of year and getting the spec to them quickly is key.
 
-> **Action — Ronan to IKO (copy Coastal):** confirm the **tiling-support build-up on the inverted main section** — can the Eterno Ivica pedestals bear on the IKO Enertherm WCL/XPS (low **and** the ~400mm pedestals under the raised FA2 dining); how the **≥80 kg/m² wind-uplift** requirement is met given our 20mm porcelain is only ~46 kg/m²; and the raised-FA2 support solution. See *"Tiling support on the inverted roof"* above. Copy **Alexander Gathern (Coastal Surveyors)** and loop in the **SE (Allan Wiseman)** on tall-pedestal stability.
+> **Action — Ronan to IKO (copy Coastal):** confirm the **tiling-support build-up on the inverted main section** — can the Eterno Ivica pedestals bear on the IKO Enertherm WCL/XPS (low **and** the ~400mm pedestals under the raised FA2 dining); how the **≥80 kg/m² wind-uplift** requirement is met given our 30mm porcelain is ~70 kg/m² (small remaining gap via fixed load + edge restraint); and the raised-FA2 support solution. See *"Tiling support on the inverted roof"* above. Copy **Alexander Gathern (Coastal Surveyors)** and loop in the **SE (Allan Wiseman)** on tall-pedestal stability.
 
 **Building Control:** Sussex Asphalte are taking the plan to Building Control to check it.
 
@@ -400,14 +401,31 @@ Planters are **not** subtracted — they are built on top of the finished tiles 
 
 ## Surface material
 
-20mm porcelain pavers, R11 slip-rated minimum, frost-resistant. Italian or Spanish manufacture preferred for quality assurance. Large format preferred (600 × 600mm or larger). Finish to be mid-tone honed or textured — not polished, not white or very pale (glare and bird soiling). **Sandstone-coloured tones** (warm buff / honey / pale stone) to complement the anthracite cladding and Sussex Square's cream Regency stucco context, and to hide gull marks more forgivingly than grey.
+**30mm porcelain pavers** *(decided 16 June 2026 — was 20mm)*, R11 slip-rated minimum, frost-resistant. Italian or Spanish manufacture preferred for quality assurance. Large format preferred (600 × 600mm or larger). Finish to be mid-tone honed or textured — not polished, not white or very pale (glare and bird soiling). **Sandstone-coloured tones** (warm buff / honey / pale stone) to complement the anthracite cladding and Sussex Square's cream Regency stucco context, and to hide gull marks more forgivingly than grey.
+
+**Why 30mm, not the original 20mm** — two reasons came together:
+1. **Wind uplift.** IKO require **≥80 kg/m²** of dead load over the inverted XPS insulation to resist uplift on the main section (Part A). 20mm porcelain is only **~46 kg/m²** — well short; **30mm is ~70 kg/m²** — most of the way there, leaving only a small gap for the fixed planter / hot-tub / building load + edge restraint to make up. This largely answers the biggest tiling unknown in one move.
+2. **Stiffness.** 30mm is markedly stiffer on a pedestal grid — less flex and corner-chip risk at large format, and more tolerant of the hot-tub / parasol point loads.
+
+The modest price step-up (~£45–80/m² vs ~£35–60 for 20mm) is accepted for these gains, provided it stays within the scaffold programme.
 
 **Hard rules:**
-- 20mm thickness minimum
+- **30mm thickness** (not 20mm)
 - R11 slip rating minimum
+- Frost-resistant / coastal-rated, large format
 - No limestone or natural stone (bird uric acid etching risk)
 
-**Supplier scope:** Porcelain Superstore, Paving Superstore, Tile Mountain, or equivalent trade supplier. Samples required before order confirmed. 10–15% overage to be ordered and surplus retained in the client's garage at Sussex Square for future repairs (not stored on the roof terrace).
+> **⚠ Availability caveat — confirm before ordering.** In the UK, 30mm exterior porcelain is mostly sold as the **driveway / heavy-duty** grade — fewer decorative ranges than 20mm, and more utilitarian colours. So the constraint is finding a **30mm range in a sandstone tone Chris is happy with, in stock within the scaffold window (materials up by ~late Sept)**. Tiler / Ronan to confirm the chosen colour is genuinely available in 30mm with an acceptable lead time before the order is placed.
+
+**Suppliers to review** (trade suppliers carrying 30mm exterior porcelain — get samples + trade quotes):
+- **London Stone** — premium, wide porcelain-paving range
+- **Paving Superstore** — broad range, trade pricing
+- **Pave Direct** — outdoor porcelain specialist
+- **Exterior Pavers** (Knutsford) — one of the largest stocked porcelain ranges in the UK
+- **Royale Stones** / **Tiles and Smiles** — both stock 30mm heavy-duty porcelain
+- Plus our original shortlist (**Porcelain Superstore**, **Tile Mountain**) — confirm which carry 30mm in our tone
+
+Samples required before order confirmed. **10–15% overage** to be ordered and surplus retained in the client's garage at Sussex Square for future repairs (not stored on the roof terrace).
 
 ## Pedestal system
 
@@ -428,7 +446,7 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 >
 > Their support is to be designed **per Eterno Ivica's published load tables and IKO's point-load guidance** — extra/closer-spaced pedestals on the load lines, the correct pedestal rating, and load spread so the path is base/bearer → tile-over-pedestals → pedestals → **(inverted main: WCL → 190mm XPS insulation → Permaphalt → deck; warm narrow: Protectoboard → Permaphalt → 160mm PIR → deck)**.
 >
-> **The inverted insulation is now confirmed as 190mm IKO Enertherm XPS** (per IKO spec SF0079612), a **load-bearing grade at ~300 kPa** (≈30 t/m²) — much stiffer than a soft PIR, so the earlier "compressible insulation" worry is reduced: a hot tub at ~360–400 kg/m² (~4 kPa) is well within its rating. The real checks are therefore (a) **point loading of the 20mm porcelain tile** (don't stand a heavy base on bare tile — spread over pedestals) and (b) **long-term creep under sustained loads**. Confirm both with Eterno Ivica + the SE; don't stand a heavy base on bare tiles.
+> **The inverted insulation is now confirmed as 190mm IKO Enertherm XPS** (per IKO spec SF0079612), a **load-bearing grade at ~300 kPa** (≈30 t/m²) — much stiffer than a soft PIR, so the earlier "compressible insulation" worry is reduced: a hot tub at ~360–400 kg/m² (~4 kPa) is well within its rating. The real checks are therefore (a) **point loading of the 30mm porcelain tile** (don't stand a heavy base on bare tile — spread over pedestals; 30mm is stiffer than the original 20mm, which helps) and (b) **long-term creep under sustained loads**. Confirm both with Eterno Ivica + the SE; don't stand a heavy base on bare tiles.
 >
 > **Issue the planter footprints (Part C), the hot-tub footprint (Part O) and the parasol base positions (Part P) to Eterno Ivica, IKO and the SE before the pedestal grid is set out.** Ways to handle heavy bases: a **load-spreading plate** over several pedestals; a **continuous base** for the hot tub; or **ballasting/anchoring a parasol within a planter** (using the planter's mass and footprint — which could also let a parasol be properly anchored despite the no-fix inverted roof). Confirm the chosen approach with the suppliers and SE.
 
@@ -465,11 +483,11 @@ The finished tile level needs to coordinate with:
 - Choice of Buzon vs Eterno Ivica (or equivalent quality tier), provided rubber pad and self-levelling spec is met
 - Specific porcelain range and supplier, provided colour, tone, format, slip rating, and thickness rules are met
 - Pedestal height selection based on actual survey levels
-- Open joint width within the normal range for pedestal-laid 20mm pavers
+- Open joint width within the normal range for pedestal-laid 30mm pavers
 
 ## What is fixed
 
-- 20mm porcelain only (not natural stone, not composite decking)
+- 30mm porcelain only (not natural stone, not composite decking)
 - R11 slip rating minimum
 - Padded self-levelling pedestals
 - No adhesive bed — pedestal / floating system only
@@ -481,16 +499,16 @@ The finished tile level needs to coordinate with:
 **This is unresolved and needs IKO's confirmation — the answer shapes the whole tile finish on the main section.** It is set out in full in Part A under *"[Tiling support on the inverted roof — key question for IKO](#-tiling-support-on-the-inverted-roof--key-question-for-iko-ronan-to-lead-copying-coastal)"*. In short, three things to pin down with IKO before pricing/ordering:
 
 1. **Raised pedestals (~400mm) under the raised dining (FA2)** bearing on the WCL/XPS — acceptable as-is, or do they need a load-distribution layer / a separate raised sub-structure? (Also an SE question for stability.)
-2. **Wind-uplift ballast:** IKO want **≥80 kg/m²** over the XPS; our **20mm porcelain is only ~46 kg/m²**, so confirm how uplift is met on the inverted field (thicker pavers, extra ballast, combined pedestal+tile+planter mass, or a restrained detail).
-3. **Low FA3:** thicker slabs laid more directly (helps uplift) **vs** the 20mm porcelain-on-pedestals grid used elsewhere — if mixed, reconcile the **finished level and the appearance** between the two.
+2. **Wind-uplift ballast — now largely addressed by the 30mm tile choice.** IKO want **≥80 kg/m²** over the XPS; **30mm porcelain is ~70 kg/m²** (vs only ~46 for the old 20mm), so the field is now close to the requirement. Confirm with IKO that the **small remaining gap is covered by the fixed planter / hot-tub / building mass + edge restraint**, rather than needing thicker pavers or supplementary ballast.
+3. **Consistent finish throughout** — with 30mm porcelain on pedestals used across the whole terrace (no mixing with thick direct-laid slabs), there is **one finished level and one appearance** to coordinate. Confirm 30mm-on-pedestals is acceptable everywhere including low FA3.
 
 **Action:** Ronan to take this to IKO (James Eden), copying Coastal (Alex Gathern) and the SE — see the Part A note.
 
-> **Surface/material options** (30mm porcelain, smooth granite-aggregate concrete, larger tile sizes) are set out in **[Paving Options to Review](#paving-options-to-review)** at the end of this document — to be settled once IKO confirm the uplift requirement.
+> **Tile size — a separate look question.** We assume **600 × 600 "or larger."** Worth testing whether a **larger format** (900 × 600, 1200 × 600) reads better — fewer joints, more contemporary, suits the big flat terrace. Trade-offs to weigh with the tiler + Eterno Ivica: larger pieces need **more/closer pedestals**, are **heavier to lift up the scaffold**, and the format **sets the pedestal grid**. 30mm helps here (stiffer at large format). Decide alongside the colour/range.
 
 ## What we'd value your steer on
 
-- **Structural sign-off** for ~104m² of 20mm porcelain + pedestals + furniture / occupancy load. Usually fine but worth on record before contractors price it
+- **Structural sign-off** for ~104m² of 30mm porcelain + pedestals + furniture / occupancy load. Usually fine but worth on record before contractors price it
 - **Pedestals on the inverted insulation** — see the ⚠ open question immediately above (bearing on the IKO Enertherm WCL/XPS, the 80 kg/m² wind-uplift requirement, and the raised-FA2 support). The single biggest tiling unknown
 - **Total build-up height** at the highest and lowest points of the falls — needed to confirm sauna / wet room door threshold heights and the hot tub / parasol base recess depths
 - **Edge detail** at the parapet / planter / glass balustrade interfaces — how the tile field terminates cleanly without a visible pedestal edge
@@ -2110,13 +2128,13 @@ We are **not penetrating the roof** (the asphalt waterproofing sits at the very 
 
 **Consequence:** on a weighted surface base the parasol is **furled in strong wind** — so we're buying for **marine-grade build, not for a wind rating we can't exploit.**
 
-**Loads (critical):** the base is heavy (**~140–280kg**) and bears **base → tile → pedestals → (inverted main: WCL → 190mm XPS insulation → Permaphalt → deck).** It must **not** point-load a 20mm porcelain tile, so it needs a **load-spreading plate bearing over a cluster of extra pedestals** (load through pedestal heads, not unsupported tile). The XPS is a load-bearing grade (~300 kPa), so the key checks are the tile point-load and long-term creep — **designed with Eterno Ivica, IKO and the SE** (Part B).
+**Loads (critical):** the base is heavy (**~140–280kg**) and bears **base → tile → pedestals → (inverted main: WCL → 190mm XPS insulation → Permaphalt → deck).** It must **not** point-load a 30mm porcelain tile, so it needs a **load-spreading plate bearing over a cluster of extra pedestals** (load through pedestal heads, not unsupported tile). The XPS is a load-bearing grade (~300 kPa), so the key checks are the tile point-load and long-term creep — **designed with Eterno Ivica, IKO and the SE** (Part B).
 
 The mast lifts out so the surface can be capped flush over winter.
 
 ## What we'd value your steer on
 
-- **On-tile base detail** — load-spreading plate over a cluster of extra pedestals so neither the 20mm tile nor the compressible insulation is overloaded; **set out before the pedestal grid is fixed** (Eterno Ivica + IKO + SE)
+- **On-tile base detail** — load-spreading plate over a cluster of extra pedestals so neither the 30mm tile nor the compressible insulation is overloaded; **set out before the pedestal grid is fixed** (Eterno Ivica + IKO + SE)
 - **Whether to ballast/anchor the sofa parasol within a planter** instead, using its mass + footprint
 - **Mast collar / cap detail** at the tile surface — weather-sealed, and capped flush when the parasol is removed
 
@@ -2145,67 +2163,158 @@ The mast lifts out so the surface can be capped flush over winter.
 
 ---
 
-# Paving Options to Review
+# Specification of Works — Phase 1 (no consent assumed)
 
-*Open design study (added 11 June 2026, clarified). How to finish the terrace paving on the **inverted main section** — feeding the **wind-uplift question to IKO** in Part A (*Tiling support on the inverted roof*) and the tiling spec in [Part B](#part-b--terrace-tiling-system). **Prices are indicative, material-only, ex-VAT — get trade quotes before deciding.***
+> **Purpose.** A priced scope for **Seaview Building Company as main contractor**, to develop with Ronan Bond. It covers the **terrace fit-out** delivered during the scaffold window. The **roof waterproofing, insulation and deck** are a **separate parallel contract** (Sussex Asphalte / IKO) — shown here only as **interfaces to coordinate**, not priced. *This is the client's working draft to give Ronan a fast start point; Ronan's drawings and details are authoritative. All dimensions/areas are approximate — verify against the latest drawings before final pricing or ordering.*
 
-## The objective (read first)
+## Basis of pricing — preliminaries
 
-**We want to keep the 20mm porcelain we originally chose, at the price we originally budgeted (~£35–60/m² material).** This whole question only arises because IKO require **≥80 kg/m²** of dead weight to hold the inverted insulation down against wind, and 20mm porcelain is only **~46 kg/m²**. So the brief is narrow:
+| | |
+|---|---|
+| **Main contractor** | Seaview Building Company (prices this document). |
+| **Supply** | The builder **supplies and installs** all items unless marked **"PC sum"** (cost allowance pending final product selection) or **"by others"**. |
+| **Programme** | Tied to the scaffold (separate roof contract): **up w/c 6 July 2026, ~12 weeks, down ~late Sept 2026**. All roof-dependent Phase-1 work — penetrations, finished levels, lifting heavy materials — **must complete within this window**. Phase-2 materials are also hoisted up and stored now (see Programme & Phasing). |
+| **Listed building** | Grade I listed, Kemp Town Conservation Area. Care to listed fabric; **agree any fixings into the listed coping/parapet** with Ronan / conservation before work. |
+| **Site** | CDM, welfare, protection of the neighbouring flats below, dust/noise control, waste removal. Scaffold shared with the roofing contractor. |
 
-> **Solve the wind-uplift shortfall without escalating cost or delaying the programme.** The original 20mm porcelain price is the **benchmark, not a starting point to climb from**. Any heavier/dearer option is only on the table if (a) IKO genuinely require the weight *and* (b) it can be obtained at **close to the porcelain price and within the scaffold programme** (materials up by ~late Sept).
+## Interface with the roof contract (by others — Sussex Asphalte / IKO) — coordinate, do not price
 
-**Chris is neutral across Options A–D** — any of the four is acceptable, so the choice simply falls out of (i) what IKO require for uplift, (ii) keeping the price near the porcelain benchmark, and (iii) a sample Chris is happy with. **Option E is the fallback**, only if none of A–D work. (They're listed simplest/cheapest first, but that's not a ranking of preference.)
+- New roof build-up: **inverted main (190mm IKO XPS) + warm narrow (160mm PIR)**, Permaphalt waterproofing, new 18mm deck, Protectoboard / WCL protection layer.
+- **🚨 Highest-risk coordination item:** the builder must issue **exact positions of ALL roof penetrations — Phase 1 *and* Phase 2 — and the finished levels (FFLs by zone + the future study threshold) to the roofer BEFORE the roof is closed.** The roofer installs and caps the penetrations; a missed one cannot be added without opening the new roof.
+- The **un-tiled building and hot-tub zones** are left exposed for the consent wait and need **interim ballast / weather protection** — coordinate with the roofer (stored Phase-2 materials can double as ballast).
 
-## Option A *(simplest — no material or cost change)* — keep 20mm porcelain, make up the weight by restraint + the load already there
+## Work sections
 
-No change of material or cost. The "ballast" here is **not loose gravel** (you can't tip gravel onto a pedestal-tiled surface) — it's a combination of:
+**1. Drainage & service first-fix** *(set out before the roof is closed)*
 
-- **The heavy things already fixed to the roof.** The **planters** are heavy (~250–350 kg/m² saturated) and run **along the exposed north/east perimeter — exactly where wind uplift is worst**. The **hot tub, the sauna/wet-room building, the kitchen and stores** pin down more. So a large share of the inverted roof is already held far above 80 kg/m²; only the genuinely **open** tile field is light.
-- **Edge & corner restraint**, where uplift concentrates: a **heavier perimeter band**, or **bonded / mechanically-clipped edge pavers**, while plain 20mm porcelain stays in the field.
-- **Wind-uplift pedestal accessories** — some pedestal systems (Buzon / Eterno Ivica) offer hold-down clips or perimeter restraint. Confirm what **Eterno Ivica** provides.
+| Ref | Item | Scope & key specification | Notes / Ronan to confirm |
+|---|---|---|---|
+| 1.1 | Penetration setting-out | Issue exact positions of **all** roof penetrations (incl. Phase-2): terrace rainwater outlets, sauna floor drain, wet-room linear drain, basin waste, electric-shower, external shower, **WC 110mm soil**, hot-tub drain | **Single highest-risk item.** Ronan to issue a coordinated penetration drawing |
+| 1.2 | Foul / waste first-fix | Kitchen sink waste run to the foul stack under FA2; WC soil branch + wet-room drain capped for later connection | Sink set over the WC below for gravity fall |
+| 1.3 | Cold-water first-fix | Capped tees for outdoor tap, kitchen sink, external shower, wet room — **copper, no plastic** | |
 
-**Cost:** essentially the base porcelain price + a few restraint accessories (small). **This is Plan A** — and the first question to IKO is simply *"does the fixed load + restraint let us keep 20mm porcelain?"*
+**2. Tiling system (Part B)**
 
-## Option B — 30mm porcelain
-
-Same porcelain surface, **~70 kg/m²** (most of the way to 80), and **stiffer under the hot-tub/parasol point loads**. **~£45–80/m²** (a modest step up; available but fewer ranges). Still needs IKO's nod that the small remaining gap is covered by restraint/fixed load. **Acceptable** if the step-up is small.
-
-## Option C — 20mm porcelain **+ concrete** (only if it holds the price & schedule)
-
-Keep the 20mm porcelain **wear surface** but add the weight via concrete — either a **porcelain-on-concrete-backed paver** (porcelain top bonded to a concrete base, ~50mm, ~100+ kg/m²) or a **concrete ballast/perimeter** under/around the porcelain. Gives the bird-proof porcelain face *and* clears uplift.
-
-> **Chris is happy with this route — but only if it can be obtained at close to the base 20mm-porcelain price and within the scaffold programme.** The porcelain-on-concrete composite is more specialist and can carry a price/lead-time premium, so **confirm cost + availability before committing**; if it escalates, fall back to Option A/B.
-
-## Option D — natural granite (a strong contender if the price is right)
-
-**Not ruled out — arguably one of the best options.** It ticks every box: real granite is **dense and effectively non-staining**, so like porcelain it **shrugs off gull droppings** (unlike concrete); at **30mm ≈ 80 kg/m² / 40mm ≈ 108** it's heavy enough to meet the uplift **in the paver itself**; and at **~£27–95/m² (mid ~£45–60)** it sits **within the cost ceiling**. **The look is good** — a handsome natural stone with subtle flecking that Chris is happy with — so there's **no real aesthetic compromise**, just a different surface character to porcelain. **On the table, subject to price + a sample.** Spec **30mm+** for the weight (e.g. Marshalls Fairstone Eclipse).
-
-## Option E *(fallback)* — smooth granite-aggregate concrete
-
-Only if IKO insist the **paver itself** must carry ≥80 kg/m² *and* the porcelain and natural-granite routes don't work affordably. A **50mm** slab ≈ **~115 kg/m²**, clears uplift easily. **Downside:** concrete is more porous than porcelain or granite, so it can **stain / effloresce / grow algae** on a gull-heavy seafront roof — pick a **dense, sealed** type. Smooth-finish options (Chris prefers the smoother look), **but watch the price**:
-
-| Product | Finish | Price/m² | Thickness | Verdict on our cost ceiling |
+| Ref | Item | Scope & key specification | Approx qty | Notes / Ronan to confirm |
 |---|---|---|---|---|
-| [Tobermore Mayfair](https://www.tobermore.co.uk/professional/products/paving-slabs/mayfair-slabs/) | Ground granite surface (a touch textured) | **~£33–51** | 35 / 50mm | **Within budget** ✅ |
-| [Tobermore Braemar](https://www.tobermore.co.uk/professional/products/paving-slabs/braemar-slabs/) | Diamond-ground, smooth | **POA / stockist** | 50 / 80mm | Get a trade quote — only if near porcelain |
-| [Marshalls Argent Smooth](https://www.marshalls.co.uk/gardens-and-driveways/products/argent-smooth-garden-paving) | Sandblasted, smoothest | **~£110** | 38mm | **Too dear — effectively out** unless a trade quote roughly halves it |
+| 2.1 | 30mm porcelain on pedestals | 30mm porcelain (R11, frost/coastal-rated, sandstone tone, ≥600×600) on **Eterno Ivica** self-levelling pedestals; open joints; acoustic zoning — pads **top+bottom** (main) / **single** (narrow) / **basic** (over lift bulkhead) | ~104 m² | Tile range **PC sum** until colour chosen; **confirm 30mm available in the tone within the scaffold window** |
+| 2.2 | Levels & steps | 3 zones / 2 levels: FA1 narrow low; **FA2 dining +300mm on ~400mm pedestals, 5.75×5.1m**; FA3 low ~100mm. **Two flights of 3 steps** (400mm tread / 100mm rise): FA1→FA2 up; FA2→FA3 down on FA2's north side, 1500mm wide | — | Step going/rise/nosings + handrail/guarding to **Approved Doc K** — Ronan / BC |
+| 2.3 | Phase-2 provisions | Leave the **sauna/wet-room and hot-tub footprints un-tiled (tile-ready)**; set out & install **all Phase-2 pedestal clusters / load-spread now** (hot tub, 2 parasol bases, building footprint) | — | Adding pedestals under a finished tile field = lifting tiles |
+| 2.4 | Overage | Order +10–15% tiles; surplus to client's garage at Sussex Square | — | |
 
-Favour **paler tones** (silver / oat / buff) against the anthracite cladding and Regency context — they also hide gull marks. Get **samples + trade quotes** before any switch.
+**3. Planters (Part C) — Phase-1 set**
 
-## Ruled out — and why
+| Ref | Item | Scope & key specification | Approx qty | Notes / Ronan to confirm |
+|---|---|---|---|---|
+| 3.1 | Build planters **N1, N2, N3, N4, M1, M4** | Salvaged hardwood + treated softwood frame + Brighton pier decking cap; EPDM-lined; freestanding back panel + 30mm air gap; on bearers/pads ~25mm over the tiles with weep holes, **bearers aligned over pedestals**. Sizes per Part C inventory | 6 planters | **M2 & M7 deferred to Phase 2** (tub/building zone). **Confirm whether M2 should be Phase 1** — it guards the south/east FA3 edge (Part L) and sits along the parapet, not in the build footprint |
+| 3.2 | Soil / drainage / mulch | Drainage layer, topsoil, mulch, irrigation provision to Phase-1 planters | — | |
 
-- **Plain (standard) concrete slabs — NO.** They read as utilitarian "council paving" — wrong for a Grade I Regency seafront terrace. The *only* concrete we'd entertain is the **refined smooth granite-aggregate** type (Option E), and only as a fallback. *(Natural granite is **not** ruled out — see Option D — it's a contender if the price is right.)*
+**4. Planting (Part D)** — supply & plant the Phase-1 planters per the Part D schedule (incl. olive trees in N1/M1; movable pots). Hot-tub-zone planting (M2/M7) deferred to Phase 2.
 
-## Tile size — a separate look question
+**5. Outdoor tap (Part E)** — relocate to between the future sauna and hot tub; **brass, copper pipe (no plastic)**; fed from the 1.3 cold-water first-fix.
 
-We currently assume **600×600 "or larger."** Worth testing whether a **larger format** (e.g. 900×600, 1200×600) reads better — fewer joints, more contemporary, suits the big flat terrace. Trade-offs to weigh with the tiler + Eterno Ivica: large **20mm** porcelain **flexes more** → needs **more/closer pedestals or a backing tray** (especially near the hot tub/parasols); each piece is **heavier to lift up the scaffold**; and the format **sets the pedestal grid**. Doesn't change the cost-ceiling logic above — decide it alongside the material.
+**6. Outdoor kitchen (Part F)**
 
-## Decision sequence
+| Ref | Item | Scope & key specification | Approx qty | Notes / Ronan to confirm |
+|---|---|---|---|---|
+| 6.1 | 5-module linear run | L→R: sink + fridge + BBQ + double cupboards + Litter-Robot store; **304 brushed stainless worktop, 100mm upstand, ~50mm gap to railings** | ~4.2m run | Appliances (builder S&I): **Beefeater Signature 3000E** BBQ, **Beefeater outdoor fridge**, **Caple Zero** sink + **Caple Robo** cold-only tap |
+| 6.2 | Litter-Robot store | Built into the north end under the worktop; cat flap + 240V supply | — | |
+| 6.3 | Services | Sink waste over the WC (ref 1.2); the 2 existing conduits boxed in the sink cupboard, vented side+rear | — | |
 
-1. **Get IKO's uplift answer first** (Part A action — Ronan → IKO, copy Coastal): *can we keep 20mm (Option A) or 30mm (Option B) porcelain, given the fixed planter/hot-tub/building load + edge restraint?*
-2. **Pick whichever of A–D fits** that answer, the price ceiling and a sample Chris likes — **all four are equally acceptable to him.** If IKO accept restraint, **A/B (porcelain)** are simplest and cheapest; **C (porcelain + concrete)** and **D (natural granite)** are equally fine if a sample/price makes them attractive.
-3. **Only if none of A–D works →** **Option E** (Mayfair-class smooth granite-aggregate concrete) as the fallback. **Argent Smooth only if a trade quote brings it near porcelain.**
-4. **In parallel**, agree the **tile size** with the tiler + Eterno Ivica.
+**7. Storage (Part G)** — **Store 1** (narrow general, 1.10×0.75, ~1.0m high) and **Store 4** (main NE, 1.60×1.20, ~1.2m high, child-safe lock for chemicals); salvaged hardwood, front-opening; **bee bricks** on Store 1 external face. *(Store 2 = Litter Robot, in the kitchen run; Store 3 removed.)*
 
-**Governing rule throughout: don't let solving the wind-uplift push the paving cost materially above the original 20mm porcelain, or outside the scaffold programme.**
+**8. Railings (Part H)** — keep the **east + west railings in place at current height**; remove the centre + short runs; add **wires (or low timber upstand + wires) on top** for guarding height + bird-proofing. Confirm no LBC issue (ref notes).
+
+**9. Parapet bird deterrent (Part I)** — 3-wire stainless post-and-wire system replacing the existing spikes. Confirm LBC position for fixing into the listed coping.
+
+**10. Electrical & lighting (Parts K, J) — Phase-1 portion**
+
+| Ref | Item | Scope & key specification | Approx qty | Notes / Ronan to confirm |
+|---|---|---|---|---|
+| 10.1 | First-fix for Phase 2 | Cabling **capped + labelled**, routed in the pedestal void before tiling: sauna **40A** heater feed, wet-room electric shower **45A** + light + fan, hot-tub **32A** radial, building soffit-light feeds | — | |
+| 10.2 | Terrace lighting | **6 dimmable zones, ~16× 12V LV warm-white uplighters**; Shelly Dimmer 2 per zone (WiFi→Home Assistant); master override push-button by the sauna door | ~16 fittings | Eave-soffit downlights = Phase 2 (on the building) |
+| 10.3 | Terrace sockets | Existing 3–4 sockets repositioned above the new tile FFL; **new IP66 double, north wall east end, 450mm FFL** | — | |
+| 10.4 | Smart control | Terrace/lighting Shellys commissioned to Home Assistant | — | Sauna-heater contactor = Phase 2 |
+
+> **Fall protection:** **no glass in Phase 1.** The dining-area glass is dropped (FA2 only +300mm; deepened M2 planter guards the south/east edges); only the hot-tub glass remains, in Phase 2 (Part L).
+
+## Provisional (PC) sums — Phase 1
+
+Porcelain tile range/colour (2.1) · final planting schedule (4) · kitchen appliances if models change (6.1) · final lighting fittings selection (10.2).
+
+## Exclusions — Phase 1 (priced elsewhere)
+
+Roof waterproofing / insulation / deck and the scaffold (**separate roof contract**) · the sauna/wet-room building · hot tub · parasols · glass · study door/window — **all Phase 2**.
+
+## Notes for Ronan to confirm — Phase 1
+
+- **Coordinated penetration & levels drawing (all phases) issued to the roofer before the roof closes** — the critical lock-in.
+- **Which Phase-1 items genuinely fall outside planning/LBC** — esp. the bird-deterrent fixing into the listed coping, the railings top-up, and the dining-area edge treatment.
+- Finished floor levels by zone, including the **narrow FFL set for the future study threshold** (Part Q).
+- **Whether M2 planter is Phase 1** (south/east edge guarding) or deferred.
+- Eterno Ivica pedestal **bearing on the inverted insulation + the IKO ≥80 kg/m² uplift** sign-off; pedestal clusters/load-spread under all Phase-2 heavy loads.
+- Step compliance (Approved Doc K) and any guarding to FA2.
+- Acoustic zoning — confirm the narrow section is over non-habitable space.
+
+---
+
+# Specification of Works — Phase 2 (needs planning / LBC)
+
+> **Purpose.** The consent-dependent works, for **Seaview as main contractor**, building on the Phase-1 provisions. **Subject to planning permission / Listed Building Consent** — likely built after the scaffold is down, so Phase-2 materials are **staged up during the Phase-1 scaffold window** and the **hot tub comes by crane**. Same basis as Phase 1 (builder supplies & installs; PC sums where a product isn't finalised; dimensions approximate — verify with Ronan).
+
+## Work sections
+
+**1. Sauna / wet-room building — shell (Parts M, N)**
+
+| Ref | Item | Scope & key specification | Approx qty | Notes / Ronan to confirm |
+|---|---|---|---|---|
+| 1.1 | Structure | Timber-stud shell on the inverted roof build-up; footprint **2902 × 2488mm (~7.2 m²)**; **3m setback from the north (Bristol Gardens) parapet**; internal ceiling **2.1m**; **~1,293mm above parapet** | ~7.2 m² | **Re-present the above-parapet height to planning** (recompute on the confirmed 190mm XPS — likely a little lower). Threshold/junction details — Ronan |
+| 1.2 | Walls | 100mm PIR + foil VB; **PVDF marine-grade aluminium standing-seam cladding, anthracite** (Kalzip / Riverclack / PREFA); **A4/316 stainless fixings only** | ~28 m² cladding | Cladding system **PC sum** until chosen |
+| 1.3 | Roof | Near-flat warm roof, **150mm PIR**, standing seam (or single-ply membrane) at 3–5° fall; low-profile **stainless gull wire-grid**; gutter discharging to the terrace | ~7.5 m² | Standing seam vs membrane at low pitch — Ronan |
+
+**2. Sauna interior (Part M)**
+
+| Ref | Item | Scope & key specification | Notes / Ronan to confirm |
+|---|---|---|---|
+| 2.1 | Fit-out | Cedar T&G lining, vented batten cavity, foil VB, benches, **Harvia Cilindro PC90E (9kW)** heater + 40A isolator, controls, sauna-rated lights, inlet/outlet vents | **Kit vs site-built** undecided (PC sum) |
+| 2.2 | Glass door | **Outdoor/coastal-rated** toughened glass leaf, ~600mm, opens out, magnetic catch | Not a standard indoor cabin door |
+| 2.3 | Window | **1200 × 800mm fixed** triple-glazed | |
+
+**3. Wet room (Part N)**
+
+| Ref | Item | Scope & key specification | Notes / Ronan to confirm |
+|---|---|---|---|
+| 3.1 | Floor | **Pre-formed wet-room tray kit** + linear drain + trap; tanked; R11 porcelain bonded on, epoxy grout | Ronan specifying the exact tray (940/720 dogleg, shower at wider end) |
+| 3.2 | Fittings | Wall-hung WC + concealed cistern; wall-hung basin + cold tap; **10.5kW electric shower**; external shower | Connect to Phase-1 capped services |
+| 3.3 | Walls / door | Cement-board + porcelain to ceiling, epoxy grout; **762mm cedar door**, outward-opening | |
+
+**4. Hot tub (Part O)** — supply & install the chosen model **within the SE's weight / kg-m² limit**; **crane lift** up and over; connect the Phase-1 32A radial + drain; base on the Phase-1 pedestal cluster / load-spread plate. **PC sum** until the model is chosen. **Confirm the crane access route/reach now.**
+
+**5. Hot-tub glazing (Part L)** — frameless toughened **laminated** glass, **side-mounted (point-fixed to the inner face of the parapet)**, guarding the tub sides. Confirm BC guarding now the glass guards the east/north sides directly (old M5/M6 planters removed).
+
+**6. Parasols (Part P)** — 2× **cantilever side-pole**, marine-grade: dining **3×3**, sofa **4×4 or 3×4** (per chosen brand). **Weighted bases on the tiles over a pedestal load-spread** (no roof penetration) — or ballasted within a planter; **furl in strong wind**. **PC sum** until the model is chosen.
+
+**7. Study door / window (Part Q)** — **lower the sill 170mm** flush with the internal floor; new door/window unit; **watertight level-threshold** detail (e.g. threshold drainage channel). **Fenestration change → LBC.**
+
+**8. Final M&E (Parts K, J)** — sauna-heater Shelly Plus 1PM + 40A contactor; building eave-soffit downlights; final connections to sauna, wet room and hot tub off the Phase-1 first-fix.
+
+**9. Deferred planters & planting** — build planters **M2** (SE L, 1m deep, 700mm) and **M7** (west of tub); plant the hot-tub-zone planting (Part C/D).
+
+**10. Tiling completion** — tile the **building and hot-tub footprints** left tile-ready in Phase 1, matching the Phase-1 finish.
+
+## Provisional (PC) sums — Phase 2
+
+Cladding system (1.2) · sauna interior kit (2.1) · hot tub model (4) · parasol model (6) · glass (5).
+
+## Exclusions — Phase 2
+
+Phase-1 works · planning / LBC application fees and professional fees (client / Ronan).
+
+## Notes for Ronan to confirm — Phase 2
+
+- **Re-present the sauna above-parapet height** (~1,293mm, recompute on 190mm XPS) and the **study-door fenestration change** to planning before this phase.
+- Verify the Phase-2 connections **match the Phase-1 capped penetrations and service first-fix** positions.
+- **Crane access route / reach** for the hot tub.
+- Threshold / junction details — building on the inverted build-up; the study **level threshold**.
+- BC guarding sign-off for the hot-tub glass on the east/north sides.
+
