@@ -152,6 +152,12 @@ These are Phase-2 items, but they **must be physically built / set out during Ph
 
 Hoist up **for both phases** while the scaffold is here, and stage in the **building / hot-tub zone** (which is left un-tiled anyway): tiles + pedestals, planter / storage / kitchen timber, PIR insulation, cladding, **glass panels (dining + hot-tub)**, parasols + weighted bases, the sauna kit, and the doors + window.
 
+> **Decision point — taken near the end of the roof + exterior-decoration contract, while the scaffold is still up.** We won't commit to hauling the Phase-2 materials up at the start. Instead, **towards the end of the main roof and exterior-decoration works** we'll decide whether to get the Phase-2 materials onto the roof, weighing two things:
+> - **How planning is progressing** — if consent looks close and smooth, staging the materials now (while the scaffold pays for itself) is clearly worth it.
+> - **The builder's advice on the cost and method of getting the materials up later** if a **big delay** looks likely — i.e. how expensive / practical an alternative route is (re-scaffold, crane, or access through the building once it's built). If a later lift is cheap and easy, we may choose not to clutter the roof now; if it's costly, we stage now regardless.
+>
+> Chris to make this call with Ronan and the builder at that point — it isn't fixed in advance.
+
 > **The hot tub is the exception.** At ~1,100–1,280kg and ~2.1 × 1.5m it can't be winched up a domestic scaffold — both the weight and the size rule it out. It needs a **lorry-mounted (HIAB) or mobile crane that lifts up and over**, which is **scheduled independently of the scaffold**. So the hot tub **comes later, in Phase 2, by crane, once consent is through** — it does not need to come up during the scaffold window. *(Confirm the crane access route / reach now, per Part O, so it isn't a late surprise.)*
 
 ---
