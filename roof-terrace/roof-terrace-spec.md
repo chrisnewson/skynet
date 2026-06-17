@@ -133,7 +133,7 @@ The **flat-roof replacement is going ahead as a separate job**. **Scaffolding go
 | **M — Sauna** | **2** | Building — needs consent. *Phase-1 provision:* floor-drain penetration through the roof + heater/light/socket cabling first-fix. |
 | **N — Wet Room** | **2** | Building — needs consent. *Phase-1 provision:* WC soil + linear-drain + basin + electric-shower + external-shower penetrations, and electrical first-fix. |
 | **O — Hot Tub** | **2** | Arrives by **crane** in Phase 2 (see below). *Phase-1 provision:* 32A radial first-fix, drain penetration, pedestal/continuous-base area set out, footprint left tile-ready. |
-| **P — Parasols** | **2** | "Umbrellas" — with the building. *Phase-1 provision:* pedestal clusters / load-spread positions (or planter-ballast) for the two bases set out **before** the pedestal grid is fixed. |
+| **P — Parasols** | **2** | "Umbrellas" — with the building. *Phase-1 provision:* the **recessed base pockets + load-spread** for the two bases (set into / below the tiling on the raised FA2 section, bearing on the Protectoboard) set out **before** the pedestal grid is fixed. |
 | **Q — Study Door / Window** | **2** | Fenestration change → LBC. *Phase-1 provision:* set the narrow-section tile FFL so the future lowered, level threshold will work. |
 
 ## Phase-1 provisions that unlock Phase 2 (the "do it now or regret it" list)
@@ -142,7 +142,7 @@ These are Phase-2 items, but they **must be physically built / set out during Ph
 
 1. **All roof penetrations — including the Phase-2 ones — set out and capped before the roofer closes up.** The sauna floor drain, the wet-room linear drain + basin + electric-shower + external-shower, the **WC 110mm soil**, and the **hot-tub drain** all pierce the roof. The roofing contractor can insert and cap them for us to connect later — *but only if they have the exact positions in advance* (Part A). **This is the single highest-risk item: a missed penetration can't be added without opening the new roof.**
 2. **Service first-fix under the tiles — capped and labelled.** Hot-tub **32A radial** (Part O), sauna **40A heater feed** (Part M), wet-room **electric-shower 45A + light + fan** (Part N), terrace sockets (Part K), and the **cold-water tees** for the tap, kitchen, external shower and wet room (Parts E, F, N). Routed in the pedestal void before the tile finish goes down.
-3. **Pedestal clusters / load-spread positions set out under every future heavy load — before the pedestal grid is fixed.** The hot tub, the two parasol bases, and the building footprint (Part B). Adding pedestals under a finished tile field means lifting tiles.
+3. **Pedestal clusters / load-spread positions set out under every future heavy load — before the pedestal grid is fixed.** The hot tub, the two parasol bases, and the building footprint (Part B). Adding pedestals under a finished tile field means lifting tiles. **The two parasol bases are to be recessed into / below the tiling** (into the pedestal void on the raised FA2 tiling, bearing on the Protectoboard — Part P), so their **recess pockets + load-spreading plates must be formed before the tile field is laid.**
 4. **Leave the building + hot-tub footprints un-tiled (tile-ready), and protect the un-tiled inverted insulation.** The exposed inverted-roof insulation in those zones **needs ballast / weather protection through the consent wait** (Part A). The stored Phase-2 materials (below) can double as interim ballast.
 5. **Set the narrow-section tile FFL to suit the Phase-2 lowered study threshold** (Part Q), so the level access works once the new door/window goes in.
 
@@ -403,7 +403,7 @@ The engineer notes the ~50% remaining joist capacity is **a comfortable margin t
 
 **The lift bulkhead is tiled over** (concealing the structure), with the tiling adding **as little extra area as possible beyond the existing bulkhead footprint** — i.e. tile the bulkhead itself, don't spread a tiled apron around it. The **N4 planter (Part C) then matches that tiled bulkhead footprint exactly** and sits on top. So the bulkhead area is part of the tiled field and is **not** subtracted.
 
-Planters are **not** subtracted — they are built on top of the finished tiles (4 June meeting). This includes the **N4 lift-over-run planter**, which sits on top of the tiled bulkhead. Movable pots also sit on the tile finish. Parasol bases — whether set in the pedestal void (mast through a sealed tile sleeve) or as a weighted base on top of the tiles — are not subtracted; the on-top-vs-below detail is to be agreed between the pedestal and parasol suppliers (see the load-bearing note above and Part P).
+Planters are **not** subtracted — they are built on top of the finished tiles (4 June meeting). This includes the **N4 lift-over-run planter**, which sits on top of the tiled bulkhead. Movable pots also sit on the tile finish. Parasol bases — **strong preference to set them into / below the tiling (recessed into the pedestal void, bearing on the Protectoboard), with the mast collared flush at the tile plane** rather than a base sitting proud on the tiles — are not subtracted; the recessed detail is to be agreed between Ronan, the pedestal and parasol suppliers (see the load-bearing note above and Part P).
 
 > **Note for the surveyor:** these figures are derived from the Part C planter inventory and Part O/G/F footprints in this spec. **Please remeasure precisely against the latest drawings before contractors price the tile order** — small footprint changes (e.g. final hot tub model, kitchen module widths, planter realignments) shift the figure by several m². A 10–15% overage is to be ordered on top of the verified net area and stored in the client's garage at Sussex Square for future repairs.
 
@@ -450,7 +450,7 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 > **⚠ Load-bearing — planters, hot tub and parasol bases: detail to the pedestal manufacturer's recommendations.** These concentrated loads sit on the pedestal-and-tile field and **must not point-load a tile mid-span**:
 > - **Planters** (Part C) — heavy **sustained** loads, ~250–350 kg/m² saturated, in long runs on top of the tiles. **The pedestal grid must be designed around every planter** — extra pedestals on the planter bearer lines — and the **sustained weight checked for long-term creep** of the inverted XPS insulation. **Issue every planter footprint to Eterno Ivica + the SE.**
 > - **Hot tub** (Part O) — ~1,160–1,280 kg over ~3.2 m² ≈ **~360–400 kg/m²**
-> - **Parasol bases** (Part P) — heavy (~140–280kg), **weighted, sitting on the tiles** (no roof penetration on the inverted roof). Need a **load-spreading plate over a cluster of extra pedestals** — designed with Eterno Ivica + IKO + SE.
+> - **Parasol bases** (Part P) — heavy (~140–280kg); **strong preference to recess them into / below the tiling (into the pedestal void, bearing on the Protectoboard)** rather than sit proud on the tiles (no roof penetration either way). Recessed, the base bears **directly on the Protectoboard** within the void, so it needs a **load-spreading plate under the base** so it doesn't dent the board / insulation — designed with Eterno Ivica + IKO + SE. Both base positions are on the ~300mm raised FA2 tiling.
 >
 > Their support is to be designed **per Eterno Ivica's published load tables and IKO's point-load guidance** — extra/closer-spaced pedestals on the load lines, the correct pedestal rating, and load spread so the path is base/bearer → tile-over-pedestals → pedestals → **(inverted main: WCL → 190mm XPS insulation → Permaphalt → deck; warm narrow: Protectoboard → Permaphalt → 160mm PIR → deck)**.
 >
@@ -481,7 +481,7 @@ Open joints throughout, as dictated by the pedestal head's spacer tabs (typicall
 The finished tile level needs to coordinate with:
 - **Sauna and wet room door thresholds** — pedestal + tile build-up is typically 60–150mm above the asphalt depending on falls
 - **Hot tub base** — recessed under-tile base detail (see PART O)
-- **Parasol bases** — heavy weighted bases on the tiles, load-spread over a cluster of pedestals (see PART P)
+- **Parasol bases** — heavy bases **recessed into / below the tiling** (set into the pedestal void on the raised FA2 tiling, bearing on the Protectoboard via a load-spreading plate; mast collared flush at the tile plane) — see PART P
 - **Linear drain in wet room** — continuity of tanking and falls
 - **Lift bulkhead** — tiling must clear the bulkhead and not bridge or trap services
 - **Emergency staircase access** — full unobstructed access to the stair head must be maintained at all times
@@ -2119,7 +2119,7 @@ A hot tub holds 700–1,500 litres and is drained periodically (2–3× per year
 
 # PART P — PARASOLS
 
-> **🗓 Phase 2** ("umbrellas" — with the building). Bring the parasols + weighted bases up during the scaffold window and store them. *Phase-1 provision to build in now:* the pedestal clusters / load-spread positions (or planter-ballast) for the two bases, set out **before** the pedestal grid is fixed. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 2** ("umbrellas" — with the building). Bring the parasols + bases up during the scaffold window and store them. *Phase-1 provision to build in now:* the **recessed base pockets in the pedestal void** (bearing on the Protectoboard) and the load-spread positions for the two bases, set out **before** the pedestal grid is fixed — both bases are on the ~300mm raised FA2 tiling. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 We've used Morton Parasols before and want to use them again, or an equivalent commercial-grade alternative. Reference: [Morton Malaga commercial parasol](https://www.mortonparasols.com/commercial/malaga/).
 
@@ -2137,23 +2137,24 @@ We've used Morton Parasols before and want to use them again, or an equivalent c
 
 **Heating / lighting & side panels (both):** both offer integrated **infra-red heating + LED lighting** (Bambrella's is clearly integral — mast-internal wiring, LED in the frame extrusion; Morton's exact fitment to confirm, with a battery-LED fallback). **Neither cantilever offers full side panels** — both do **valances** (short fabric drops for low sun) only. Actual side/wind screening would come from **separate screens** (Morton "terrace screens") or our planters/glass windbreak — not the parasol.
 
-## Bases — weighted, on the tiles, no roof penetration *(revised 8 June 2026)*
+## Bases — set into / below the tiling (strong preference), no roof penetration *(revised 17 June 2026)*
 
-We are **not penetrating the roof** (the asphalt waterproofing sits at the very bottom on the deck; piercing it is against IKO's "invert the whole roof so it outlasts the building" approach). So each parasol base is a **free-standing weighted base sitting on the tiles.**
+We are **not penetrating the roof** (the asphalt waterproofing sits at the very bottom on the deck; piercing it is against IKO's "invert the whole roof so it outlasts the building" approach). Each parasol base is therefore a **free-standing weighted base** — but our **strong preference is to set it into / below the tile surface (recessed into the pedestal void), not sitting proud on the tiles.**
 
-**Why on the tiles, not recessed:** we'd looked at recessing the base down on the Protectoboard (mast collared at the tile plane for extra stability), but the pedestal-void depths rule it out — the **dining area (FA2) is raised ~300mm** (recessing a base into the pedestal void there is impractical, so **the dining parasol base must sit on the tiles**) and the **sofa area (FA3) is only ~100mm** (too shallow for a chunky weighted base). So both bases sit on the tile surface. *(A base could alternatively be ballasted/housed within a planter, using its mass + footprint — worth exploring for the sofa.)*
+**Why recessed (strong preference):** a base sitting proud on the tiles is bulky, a trip hazard and visually intrusive. We'd much rather **recess the base down into the pedestal void** with the **mast collared flush at the tile plane** — cleaner to look at and live with, and the collar adds lateral stability. **Both parasol base positions sit on the ~300mm raised tiling (FA2)**, so there is **enough void depth to recess a base** — the obstacle noted in the earlier (8 June) draft, where the sofa base was over the shallow ~100mm FA3, no longer applies now both bases are on the raised section. The base **sits on the Protectoboard** within the void (above the insulation / asphalt — so **no penetration of the waterproofing**). **Ronan to confirm the recessed detail and coordinate both base positions onto the raised tiling.**
 
-**Consequence:** on a weighted surface base the parasol is **furled in strong wind** — so we're buying for **marine-grade build, not for a wind rating we can't exploit.**
+**Consequence:** even recessed, the base is ballast-held (not fixed to structure, since we don't penetrate), so the parasol is still **furled in strong wind** — we're buying for **marine-grade build, not for a wind rating we can't exploit.** The recessed collar simply makes the standing base more stable day-to-day.
 
-**Loads (critical):** the base is heavy (**~140–280kg**) and bears **base → tile → pedestals → (inverted main: WCL → 190mm XPS insulation → Permaphalt → deck).** It must **not** point-load a 30mm porcelain tile, so it needs a **load-spreading plate bearing over a cluster of extra pedestals** (load through pedestal heads, not unsupported tile). The XPS is a load-bearing grade (~300 kPa), so the key checks are the tile point-load and long-term creep — **designed with Eterno Ivica, IKO and the SE** (Part B).
+**Loads (critical):** the base is heavy (**~140–280kg**). Recessed, it bears **base → Protectoboard → (inverted main: WCL → 190mm XPS insulation → Permaphalt → deck)** — i.e. it bears **directly on the Protectoboard within the void**, not through the pedestals. So it needs a **load-spreading plate under the base** so it doesn't point-load (dent) the Protectoboard / insulation below. The XPS is a load-bearing grade (~300 kPa), so the key checks are the bearing pressure on the board and long-term creep — **designed with Eterno Ivica, IKO and the SE** (Part B).
 
-The mast lifts out so the surface can be capped flush over winter.
+The mast lifts out and the collar caps flush so the surface is clean over winter.
 
 ## What we'd value your steer on
 
-- **On-tile base detail** — load-spreading plate over a cluster of extra pedestals so neither the 30mm tile nor the compressible insulation is overloaded; **set out before the pedestal grid is fixed** (Eterno Ivica + IKO + SE)
-- **Whether to ballast/anchor the sofa parasol within a planter** instead, using its mass + footprint
+- **Recessed base detail** — base set into the pedestal void on the raised FA2 tiling, bearing on the Protectoboard via a **load-spreading plate** so it doesn't point-load the insulation / asphalt below; mast collar flush at the tile plane; **set out before the pedestal grid is fixed** (Ronan + Eterno Ivica + IKO + SE)
+- **Confirm both base positions land on the ~300mm raised tiling** so the recess depth is available
 - **Mast collar / cap detail** at the tile surface — weather-sealed, and capped flush when the parasol is removed
+- *Fallback if a recess can't be achieved at a position:* a surface-weighted base over a pedestal load-spread, or ballasting the base within a planter using its mass + footprint
 
 ---
 
@@ -2229,7 +2230,7 @@ The mast lifts out so the surface can be capped flush over winter.
 | 2.0 | Protectoboard substrate | Supply & lay **IKO Protectoboard (3.2mm)** over **both** sections, on top of what the roof contract leaves — over the **XPS insulation** on the inverted main and over the **Permaphalt asphalt** on the warm narrow. This is the protection/separation layer the pedestals sit on. No acoustic underlay mat over it | ~120 m² (gross) | Confirm with IKO whether the inverted section also needs the **Enertherm WCL/filter** under the Protectoboard to keep the guarantee. **Ronan to confirm the hot-tub load can bear on the Protectoboard build-up** (concentrated point load → pedestals → Protectoboard → XPS → deck — may need local load-spreading) |
 | 2.1 | 30mm porcelain on pedestals | 30mm porcelain (R11, frost/coastal-rated, sandstone tone, ≥600×600) on **Eterno Ivica (or equivalent equal-spec)** self-levelling padded pedestals; open joints; acoustic zoning — pads **top+bottom** (main) / **single** (narrow) / **basic** (over lift bulkhead) | ~104 m² | Tile range **PC sum** until colour chosen; **confirm 30mm available in the tone within the scaffold window**. Builder may substitute an **equivalent-spec pedestal** (Buzon etc.) if cheaper |
 | 2.2 | Levels & steps | 3 zones / 2 levels: FA1 narrow low; **FA2 dining +300mm on ~400mm pedestals, 5.75×5.1m**; FA3 low ~100mm. **Two flights of 3 steps** (400mm tread / 100mm rise): FA1→FA2 up; FA2→FA3 down on FA2's north side, 1500mm wide | — | Step going/rise/nosings + handrail/guarding to **Approved Doc K** — Ronan / BC |
-| 2.3 | Phase-2 provisions | Leave the **sauna/wet-room and hot-tub footprints un-tiled (tile-ready)**; set out & install **all Phase-2 pedestal clusters / load-spread now** (hot tub, 2 parasol bases, building footprint) | — | Adding pedestals under a finished tile field = lifting tiles |
+| 2.3 | Phase-2 provisions | Leave the **sauna/wet-room and hot-tub footprints un-tiled (tile-ready)**; set out & install **all Phase-2 pedestal clusters / load-spread now** (hot tub, 2 parasol bases, building footprint); **form the recessed parasol-base pockets in the raised FA2 tiling** (bearing on the Protectoboard) before tiling | — | Adding pedestals — or a base recess — under a finished tile field = lifting tiles |
 | 2.4 | Overage | Order +10–15% tiles; surplus to client's garage at Sussex Square | — | |
 
 **3. Planters — all built in Phase 1, from the salvaged deck boards (section 0.1)**
@@ -2345,7 +2346,7 @@ Roof waterproofing / insulation / deck and the scaffold (**separate roof contrac
 
 Confirm BC guarding now the hot-tub glass guards the east/north sides directly (old M5/M6 planters removed).
 
-**6. Parasols (Part P)** — 2× **cantilever side-pole**, marine-grade: dining **3×3**, sofa **4×4 or 3×4** (per chosen brand). **Weighted bases on the tiles over a pedestal load-spread** (no roof penetration) — or ballasted within a planter; **furl in strong wind**. **PC sum** until the model is chosen.
+**6. Parasols (Part P)** — 2× **cantilever side-pole**, marine-grade: dining **3×3**, sofa **4×4 or 3×4** (per chosen brand). **Bases recessed into / below the tiling** (set into the pedestal void on the ~300mm raised FA2 tiling, bearing on the Protectoboard via a load-spreading plate, mast collared flush — **no roof penetration**); fallback = surface-weighted base over a pedestal load-spread or ballasted within a planter; **furl in strong wind**. **PC sum** until the model is chosen.
 
 **7. Study door / window (Part Q)** — **lower the sill 170mm** flush with the internal floor; new door/window unit; **watertight level-threshold** detail (e.g. threshold drainage channel). **Fenestration change → LBC.**
 
