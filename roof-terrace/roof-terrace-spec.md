@@ -1636,6 +1636,7 @@ To give reliable wifi coverage across the full terrace (hot tub, dining area, sm
 | **Hot tub — north-wall run** | Along the **north wall** | **2000mm above FFL** | **2800mm** | Same guarding height as the sauna-to-north run |
 
 - **Start (bottom) height of every run — Ronan to confirm with Allan Wiseman (SE).** The glass need not start at FFL; the SE sets the bottom fixing height per run.
+- **How far the glass must extend *below the top of the parapet wall* — Ronan to confirm with the SE.** Because the panels are point-fixed to the **inner face of the parapet** and cantilever upward, each panel needs to run **down the inner parapet face far enough to give the fixings the lever arm they need** for structural integrity. We want the SE to set the **minimum glass depth below the coping/parapet top** that's structurally adequate — deep enough to be safe, but **no deeper than necessary** (every extra mm of glass below the parapet top is cost with no guarding benefit, since it's hidden behind the parapet).
 - **Run the glass in sections** (multiple panels) rather than single large panes where the run allows — **to keep cost down**.
 
 We've chosen frameless toughened laminated glass throughout — keeps the view, and minimises bulk from public viewpoints (conservation area).
@@ -1669,6 +1670,7 @@ We've chosen frameless toughened laminated glass throughout — keeps the view, 
 
 - **Inner-face fixing detail** — point-fixed stainless clamps vs a low-profile inner-face channel; SE to confirm pull-out capacity against the existing masonry given Brighton seafront wind loading
 - **Start (bottom) height per run + glass thickness** — the SE (Allan) to set the **bottom fixing height** of each run (west dining, sauna-to-north, north-wall) and size the glass; the **2000mm-above-FFL hot-tub runs are tall cantilevers**, so the inner-face fixing leverage and panel thickness matter most there. Likely 17.5–21.5mm toughened laminated to BS 6180 — supplier's engineer to confirm
+- **Glass depth below the parapet top — the structurally-needed minimum.** With the panels fixed to the inner parapet face, the SE to confirm **how far each panel must extend down below the coping/parapet top** to give the point-fixings enough lever arm for integrity — set to the **minimum that's safe**, since glass hidden behind the parapet adds cost but no guarding height
 - **Panelising into sections** — confirm panel widths that keep cost down without an over-heavy fixing detail
 - **Hot-tub guarding without the planter setback** — now the east/north hot-tub planters are removed (14 June), is the glass alone acceptable to building control along those sides, or does BC want the tub held back from the glass line? (We're not banking on any concession to lower the glass below 1100mm above the rim = 2000mm above FFL.)
 - **Condition of the inner masonry face** behind the proposed fixing line — confirmation it's sound brickwork suitable for resin-anchored point fixings at this exposure
