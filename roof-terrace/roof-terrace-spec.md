@@ -4,14 +4,6 @@
 >
 > This is **Chris's informal working document** for communicating his current best understanding of the project details with **Ronan Bond**. It is **not** a finished specification. It will contain inaccuracies, gaps, and assumptions that need to be checked. **Ronan's formal documents will be the authoritative source** — this document exists to feed into them.
 
-## Brief for Surveyor
-
-This is our draft of what we'd like to build on the roof terrace at 22 Sussex Square. It covers the sauna and wet room building, the hot tub, the surrounding terrace works (railings, parapets, parasols, fall protection, tiling, and planters). We've worked through it ourselves and there will be things we've got wrong, missed, or need your steer on. Where we're confident is the look and feel and the equipment we want; where we'd really value your input is on regs, structure, and any practical issues we haven't spotted.
-
-The building shell (external walls, roof, weatherproofing) of the sauna/wet room structure is in your scope. This document covers the fit-out of those two rooms, the external openings (doors, windows), and all the terrace-wide works listed below.
-
-**Orientation:** north is to the right of the floor plan drawing.
-
 ## Contents
 
 - [Drawings](#drawings)
@@ -45,6 +37,8 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 > **Note on the steps:** the steps between the dining (FA2) and lounge (FA3) levels are shown in a **different shade only to make them stand out** in the drawings and renders. They are to be finished in the **same tiling as the rest of the floor** — there is no change of material at the steps.
 
 **Overall plan** (full terrace, updated 15 June 2026) — narrow section / **Floor Area 1** (minimal pedestal height) with stores, outdoor kitchen, lift bulkhead and stair hatch; **Floor Area 2** dining (**5.75 × 5.1m**, **300mm raised over current deck level, steps up on the north side**); **Floor Area 3** lounge / hot tub (minimal pedestal height, **same low level as Floor Area 1**, L-shape round to the hot tub); sauna / wet room building and stores. *(Reflects the revised levels in Part A — FA1 and FA3 share one low level, FA2 dining is the single raised zone — and the deletion of the old Floor Area 4.)*
+
+**Orientation:** north is to the right of the floor plan drawing.
 
 ![Overall floor plan](drawings/full-terrace-15-6-26.png)
 
