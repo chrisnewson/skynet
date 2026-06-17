@@ -1818,7 +1818,7 @@ We haven't decided whether the sauna interior — internal cedar T&G lining, foi
 - Slightly lower total cost if it all goes well
 - Total control over internal finish details (bench layout, timber choice, reclaimed materials, etc.)
 
-**Suppliers worth contacting against our internal dimensions:**
+**Suggested suppliers to consider** (against our internal dimensions) — these are starting points, **not a fixed list; please use whichever supplier you'd recommend, including your own preferred contacts:**
 
 - **Finnmark Sauna** — UK (Leeds); cut-to-size indoor kits, outdoor doors, components, heaters
 - **Auroom** — Estonia with UK distribution; premium modern aesthetic, custom indoor kits
@@ -2322,7 +2322,7 @@ Roof waterproofing / insulation / deck and the scaffold (**separate roof contrac
 
 | Ref | Item | Scope & key specification | Notes / Ronan to confirm |
 |---|---|---|---|
-| 2.1 | Fit-out | Cedar T&G lining, vented batten cavity, foil VB, benches, **Harvia Cilindro PC90E (9kW)** heater + 40A isolator, controls, sauna-rated lights, inlet/outlet vents | **Builder to recommend kit vs site-built** (which route they'd advise + supplier they'd use) — PC sum until decided |
+| 2.1 | Fit-out | Cedar T&G lining, vented batten cavity, foil VB, benches, **Harvia Cilindro PC90E (9kW)** heater + 40A isolator, controls, sauna-rated lights, inlet/outlet vents | **Builder to recommend kit vs site-built** (which route they'd advise + supplier they'd use) — PC sum until decided. *Suggested suppliers to consider (open to others): Finnmark, Auroom, Tylö Helo, Harvia* |
 | 2.2 | Glass door | **Outdoor/coastal-rated** toughened glass leaf, ~600mm, opens out, magnetic catch | Not a standard indoor cabin door |
 | 2.3 | Window | **1200 × 800mm fixed** triple-glazed | |
 
