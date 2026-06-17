@@ -1825,7 +1825,7 @@ We haven't decided whether the sauna interior — internal cedar T&G lining, foi
 - **Tylö Helo** — Sweden; established broad-range supplier, kits and components
 - **Harvia** — Finland; large industry presence, full kits and heaters
 
-We'd value your view on which route makes sense, and which supplier(s) you've worked with before or would recommend approaching. If kit-route is taken, the chosen supplier feeds back wall makeup, vapour barrier, electrical, drainage and ventilation requirements for the shell.
+**We'd specifically value the builder's recommendation here** — which route you'd advise (kit vs site-built) given cost, programme and the coastal exposure, and which supplier(s) you've worked with before or would recommend approaching. If the kit route is taken, the chosen supplier feeds back wall makeup, vapour barrier, electrical, drainage and ventilation requirements for the shell.
 
 ### External building footprint
 
@@ -2322,7 +2322,7 @@ Roof waterproofing / insulation / deck and the scaffold (**separate roof contrac
 
 | Ref | Item | Scope & key specification | Notes / Ronan to confirm |
 |---|---|---|---|
-| 2.1 | Fit-out | Cedar T&G lining, vented batten cavity, foil VB, benches, **Harvia Cilindro PC90E (9kW)** heater + 40A isolator, controls, sauna-rated lights, inlet/outlet vents | **Kit vs site-built** undecided (PC sum) |
+| 2.1 | Fit-out | Cedar T&G lining, vented batten cavity, foil VB, benches, **Harvia Cilindro PC90E (9kW)** heater + 40A isolator, controls, sauna-rated lights, inlet/outlet vents | **Builder to recommend kit vs site-built** (which route they'd advise + supplier they'd use) — PC sum until decided |
 | 2.2 | Glass door | **Outdoor/coastal-rated** toughened glass leaf, ~600mm, opens out, magnetic catch | Not a standard indoor cabin door |
 | 2.3 | Window | **1200 × 800mm fixed** triple-glazed | |
 
