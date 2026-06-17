@@ -1348,12 +1348,12 @@ Cushion / fabric storage needs **passive airflow** to prevent damp:
 
 > **🗓 Phase 1** (terrace works). Confirm with Ronan/conservation officer that the retained railings + wire top-up need no LBC. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-The narrow section of the roof terrace currently has three sets of railings. Per the **4 June meeting**, we'll **keep the railings exactly where they are — same position, same height** — no re-siting, no cladding, no replacement. The only addition is **wires (or a low timber upstand + wires) on top**, which does two jobs in one: makes up the small extra guarding height and bird-proofs them. *(The narrow section now stays on the lowest pedestals — Part A — so the floor barely rises and the railings don't need moving.)*
+The narrow section of the roof terrace currently has three sets of railings. Per the **4 June meeting**, we'll **keep the railings exactly where they are — same position, same height** — no re-siting, no cladding, no replacement. The only addition is **tensioned stainless wires on top**, which does two jobs in one: makes up the small extra guarding height and bird-proofs them. *(The narrow section now stays on the lowest pedestals — Part A — so the floor barely rises and the railings don't need moving.)*
 
 ## Changes
 
 - **Keep the existing railings in place, at their current height.**
-- **Add height + bird-proofing on top** — **tensioned stainless wires**, or a **low timber upstand with wires on top**, fixed to the railing tops. One element makes up the extra guarding height **and** acts as the gull/pigeon deterrent. Method (wires alone vs timber + wires) to be confirmed.
+- **Add height + bird-proofing on top** — **tensioned stainless wires** fixed to the railing tops. One element makes up the extra guarding height **and** acts as the gull/pigeon deterrent.
 - **Remove:** the centre railing, and the short railing joining the centre railing to the west railing (redundant under the current layout).
 - **Keep:** the east and west railings, both in place.
 
@@ -1365,7 +1365,7 @@ The narrow section of the roof terrace currently has three sets of railings. Per
 
 ## What we'd value your steer on
 
-- **Top-up detail** — best way to add the extra height + wires to the railing tops (wires alone vs a low timber upstand + wires), and the fixing into the existing railing top profile
+- **Top-up detail** — fixing the wire posts into the existing railing top profile
 - **Removal of the centre / short railings** — confirm no structural role
 - **Bird wire mount detail** at the railing tops (compatible with existing railing top profile)
 
@@ -2260,7 +2260,7 @@ The mast lifts out so the surface can be capped flush over winter.
 
 **7. Storage (Part G)** — **Store 1** (narrow general, 1.10×0.75m, ~1.0m high) and **Store 4** (main NE, 1.60×1.20m, ~1.2m high). **Built from the salvaged deck boards on a marine-ply frame**, matching the planters and kitchen; cabinet-style front-opening with stainless hinges/handles; **bee bricks** on Store 1's external face. *(Store 2 = Litter Robot, in the kitchen run; Store 3 removed.)*
 
-**8. Railings (Part H)** — keep the **east + west railings in place at current height**; remove the centre + short runs; add **wires (or low timber upstand + wires) on top** for guarding height + bird-proofing. Confirm no LBC issue (ref notes).
+**8. Railings (Part H)** — keep the **east + west railings in place at current height**; remove the centre + short runs; add **tensioned stainless wires on top** for guarding height + bird-proofing. Confirm no LBC issue (ref notes).
 
 **9. Parapet bird deterrent (Part I)** — 3-wire stainless post-and-wire system replacing the existing spikes. Confirm LBC position for fixing into the listed coping.
 
