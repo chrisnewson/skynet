@@ -66,6 +66,8 @@ The building shell (external walls, roof, weatherproofing) of the sauna/wet room
 
 ![Narrow terrace — from the main terrace, looking back towards the narrow section and study door](drawings/narrow-terrace-from-large-15-6-26.png)
 
+[↑ Back to Contents](#contents)
+
 ---
 
 # Planning Case — Why the Refined Scheme Merits Support
@@ -116,6 +118,8 @@ Beyond the standard validation drawings, the pre-app letter asks for **two speci
 > **1. Drawings showing the *views from* Bristol Gardens — not a sightline.** The officers asked specifically for *"drawings showing views from Bristol Gardens."* This means **rendered / photomontage views of how the terrace and sauna will actually look seen from vantage points along Bristol Gardens** — not a sightline or section line drawn across a plan. These views **are the evidence that answers the single "Needs Attention" point**, so they need to show the sauna's real prominence from the street and how the 3 m setback, reshaped mass and low flat profile reduce it. Verified views taken from the actual Bristol Gardens vantage points will carry far more weight than a diagram.
 >
 > **2. The Biodiversity Checklist must be completed and submitted.** The Council requires its **Biodiversity Checklist (Annex 5 — *Full and Outline Apps Biodiversity Checklist.xlsx*)** to accompany the application, plus — as a 'small' development under the Environment Act 2021 — a **demonstration of measurable Biodiversity Net Gain (BNG)**. Draft answers and the BNG case are set out in Part D; these still need to be **transferred onto the Council's checklist spreadsheet and finalised** before submission.
+
+[↑ Back to Contents](#contents)
 
 ---
 
@@ -182,6 +186,8 @@ Hoist up **for both phases** while the scaffold is here, and stage in the **buil
 
 > **The hot tub is the exception.** At ~1,120–1,280kg and ~2.1 × 1.5m it can't be winched up a domestic scaffold — both the weight and the size rule it out. It needs a **lorry-mounted (HIAB) or mobile crane that lifts up and over**, which is **scheduled independently of the scaffold**. So the hot tub **comes later, in Phase 2, by crane, once consent is through** — it does not need to come up during the scaffold window. *(Confirm the crane access route / reach now, per Part O, so it isn't a late surprise.)*
 
+[↑ Back to Contents](#contents)
+
 ---
 
 # Project Team & Contacts
@@ -200,6 +206,8 @@ Hoist up **for both phases** while the scaffold is here, and stage in the **buil
 | **Managing Agent** (22 Sussex Square) | **Albert Cooper** — Ellie Loveden | ellie@albertcooper.com |
 | **Planning Officer**, Brighton & Hove City Council | Charlie Partridge | charlie.partridge@brighton-hove.gov.uk · 01273 292205 |
 | **Principal Planning Officer** (Heritage & Projects), BHCC | Lance Penman IHBC | lance.penman@brighton-hove.gov.uk |
+
+[↑ Back to Contents](#contents)
 
 ---
 
@@ -401,6 +409,8 @@ The engineer notes the ~50% remaining joist capacity is **a comfortable margin t
 - Asphalt-to-building junction and door threshold detail — watertight, and allowing the outward-opening doors to clear, now the building sits on the Protectoboard
 - Coordination with the SE on whether doubled E–W joists in the NW quadrant are sufficient, or whether the steel needs to take more
 
+[↑ Back to Contents](#contents)
+
 ---
 
 # PART B — TERRACE TILING SYSTEM
@@ -539,6 +549,8 @@ The finished tile level needs to coordinate with:
 - **Pedestals on the inverted insulation** — see the ⚠ open question immediately above (bearing on the IKO Enertherm WCL/XPS, the 80 kg/m² wind-uplift requirement, and the raised-FA2 support). The single biggest tiling unknown
 - **Total build-up height** at the highest and lowest points of the falls — needed to confirm sauna / wet room door threshold heights and the hot tub / parasol base recess depths
 - **Edge detail** at the parapet / planter / glass balustrade interfaces — how the tile field terminates cleanly without a visible pedestal edge
+
+[↑ Back to Contents](#contents)
 
 ---
 
@@ -707,6 +719,8 @@ Now the planters sit **on top of the finished tile field** (not built into the r
 - **EPDM vs alternative liner** — happy to use HDPE or butyl if you have a preference for this exposure
 - **Salvageable hardwood quantity** — assumes we have enough sound boards for the run shown on the drawings. Contingency strategy if short
 - **Bearer / foot detail on the tiles** — best way to carry the planter on the finished tiles: bearer/pad spacing and **aligning them over the pedestals below** so the load transfers without cracking a tile; to be confirmed against the tiling pedestal layout (Part B)
+
+[↑ Back to Contents](#contents)
 
 ---
 
@@ -1028,6 +1042,8 @@ To complete the biodiversity submission, please confirm or produce:
 - Any plants on the palette you'd flag as **unsuitable for the exposed seafront location** that we should swap out
 - Confirmation of **biodiversity submission route** (SBI vs SSM) and **division of work** per Section E above
 
+[↑ Back to Contents](#contents)
+
 ---
 
 # PART E — OUTDOOR TAP
@@ -1054,6 +1070,8 @@ To complete the biodiversity submission, please confirm or produce:
 
 - Best frost-protection approach (internal stop + drain vs frost-resistant tap)
 - Pipe routing across the terrace given the new tile / pedestal build-up — preferred concealment
+
+[↑ Back to Contents](#contents)
 
 ---
 
@@ -1233,6 +1251,8 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 - **Confirmation of the ~4.2m total kitchen length** — fits within the available west-parapet run on the narrow section
 - **Cabinet layout** — **Sink / Fridge / BBQ / Double cupboards / Litter Robot** (L→R). Confirm: (a) the **sink sits squarely over the WC below** for a clean gravity-drain run, (b) the **2 existing conduits** fit and vent properly in the sink cupboard, and (c) the **Litter Robot store width (1.05m)** works under the continuous worktop at the north end
 
+[↑ Back to Contents](#contents)
+
 ---
 
 # PART G — STORAGE UNITS
@@ -1358,6 +1378,8 @@ Cushion / fabric storage needs **passive airflow** to prevent damp:
 - **Cat-flap brand confirmation** — SureFlap Microchip recommended
 - **Separate cat flap from flat → terrace** — location TBC, for Ronan to detail
 
+[↑ Back to Contents](#contents)
+
 ---
 
 # PART H — RAILINGS
@@ -1384,6 +1406,8 @@ The narrow section of the roof terrace currently has three sets of railings. Per
 - **Top-up detail** — fixing the wire posts into the existing railing top profile
 - **Removal of the centre / short railings** — confirm no structural role
 - **Bird wire mount detail** at the railing tops (compatible with existing railing top profile)
+
+[↑ Back to Contents](#contents)
 
 ---
 
@@ -1459,6 +1483,8 @@ Gulls and pigeons need a clear, flat landing strip. On a wide (450mm) coping, a 
 
 Not brand-specific. Any proprietary bird post-and-wire system meeting this spec (A4/316 components; 1.0–1.2mm SS cable; swivel bases; springs; marine-grade anchors) is acceptable. Examples include mainstream UK bird-control suppliers' post-and-wire kits — contractor to propose and submit datasheets for approval.
 
+[↑ Back to Contents](#contents)
+
 ---
 
 # PART J — SMART CONTROL (HOME ASSISTANT)
@@ -1481,6 +1507,8 @@ What this needs from the install:
 - Shellys located in dry, cool, accessible places with 2.4GHz WiFi coverage
 - Live and neutral at the back of every switch position (worth flagging early to the electrician)
 - A small DIN-rail enclosure for the heater contactor + Shellys + lighting dimmers, somewhere outside the two rooms (a single enclosure for the lot keeps cabling tidy)
+
+[↑ Back to Contents](#contents)
 
 ---
 
@@ -1631,6 +1659,8 @@ To give reliable wifi coverage across the full terrace (hot tub, dining area, sm
 - **Cable concealment** — confirmation that running 12V LV under the pedestal float zone (with conduit at planter penetrations) is acceptable from a maintenance perspective
 - Whether **socket 6 in the kitchen cabinet** needs higher than IP54 given it's inside a cabinet but on an outdoor structure
 
+[↑ Back to Contents](#contents)
+
 ---
 
 # PART L — FALL PROTECTION (GLASS BALUSTRADES & PLANTERS)
@@ -1684,6 +1714,8 @@ We've chosen frameless toughened laminated glass throughout — keeps the view, 
 - **Panelising into sections** — confirm panel widths that keep cost down without an over-heavy fixing detail
 - **Hot-tub guarding without the planter setback** — with the east/north hot-tub planters removed, is the glass alone acceptable to building control along those sides, or does BC want the tub held back from the glass line? (We're not banking on any concession to lower the glass below 1100mm above the rim = 2000mm above FFL.)
 - **Condition of the inner masonry face** behind the proposed fixing line — confirmation it's sound brickwork suitable for resin-anchored point fixings at this exposure
+
+[↑ Back to Contents](#contents)
 
 ---
 
@@ -1911,6 +1943,8 @@ Systems considered, all of which publish coastal warranties at marine specificat
 - Roof-to-wall transition — continuous standing-seam wrap, or break at a discrete fascia line?
 - Wire-grid post fixing — **non-penetrating seam clamps** on the standing seam (no roof penetration); confirm the clamp type, or the equivalent weighted/adhered base if the roof becomes a membrane
 
+[↑ Back to Contents](#contents)
+
 ---
 
 # PART N — WET ROOM
@@ -2050,6 +2084,8 @@ Grouped on the terrace wall beside the wet room door, IP55+ weatherproof:
 - Dedicated 20A radial circuit, RCD protected
 - Integral switches; lockable cover optional
 
+[↑ Back to Contents](#contents)
+
 ---
 
 # PART O — HOT TUB
@@ -2124,6 +2160,8 @@ A hot tub holds 700–1,500 litres and is drained periodically (2–3× per year
 - Crane access route up to the terrace. The tub is too heavy/bulky to winch up the scaffold, so it comes **by lorry/mobile crane in Phase 2** once consent is through (independent of the scaffold — see [Programme & Phasing](#programme--phasing--two-phase-delivery)). Please confirm the crane reach / access route **now**, so the later lift isn't a surprise.
 - Best drain route on the terrace — which existing outlet to discharge into, and any tundish / trap detail you'd want
 
+[↑ Back to Contents](#contents)
+
 ---
 
 # PART P — PARASOLS
@@ -2167,6 +2205,8 @@ The mast lifts out and the collar caps flush so the surface is clean over winter
 - **Mast collar / cap detail** at the tile surface — weather-sealed, and capped flush when the parasol is removed
 - *Fallback if a recess can't be achieved at a position:* a surface-weighted base over a pedestal load-spread, or ballasting the base within a planter using its mass + footprint
 
+[↑ Back to Contents](#contents)
+
 ---
 
 # PART Q — TERRACE ACCESS: STUDY DOOR / WINDOW
@@ -2189,6 +2229,8 @@ Access from the flat onto the terrace is via the existing **door/window from the
 - **Detailing of the lowered opening** — structural head/sill, weathering, and a watertight **level-threshold** detail onto the terrace (e.g. a threshold drainage channel so water can't track back inside at the flush junction).
 - **Specification of the new door/window** — thermal performance, security, and a conservation-appropriate appearance for the listed building.
 - **Heritage justification** for the altered opening, for the application.
+
+[↑ Back to Contents](#contents)
 
 ---
 
@@ -2316,6 +2358,8 @@ Roof waterproofing / insulation / deck and the scaffold (**separate roof contrac
 - Acoustic zoning — confirm the narrow section is over non-habitable space.
 - **Final planting plan still to be agreed** (ref 4) — plant schedule is a provisional allowance.
 
+[↑ Back to Contents](#contents)
+
 ---
 
 # Specification of Works — Phase 2 (needs planning / LBC)
@@ -2380,4 +2424,6 @@ Phase-1 works · planning / LBC application fees and professional fees (client /
 - **Crane access route / reach** for the hot tub.
 - Threshold / junction details — building on the inverted build-up; the study **level threshold**.
 - BC guarding sign-off for the hot-tub glass on the east/north sides.
+
+[↑ Back to Contents](#contents)
 
