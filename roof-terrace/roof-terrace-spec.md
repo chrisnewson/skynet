@@ -124,7 +124,7 @@ The **flat-roof replacement is going ahead as a separate job**. **Scaffolding go
 | **D — Planting** | **1** | Follows the planters; **final planting plan still to be agreed**. |
 | **E — Outdoor Tap** | **1** | — |
 | **F — Outdoor Kitchen** | **1** | Narrow section. Lay the sink-waste run to the foul stack under FA2 in Phase 1. |
-| **G — Storage** | **1** | Stores 1–4. |
+| **G — Storage** | **1** | Stores 1, 2 and 4 (Store 2 = Litter Robot in the kitchen run; Store 3 removed). |
 | **H — Railings** | **1** | Terrace works. Confirm the retained railings + wire top-up need no LBC. |
 | **I — Parapet Bird Deterrent** | **1** | Confirm the LBC position for fixing into the listed coping. |
 | **J — Smart Control** | **Split** | Terrace/lighting Shellys with Phase 1; the sauna-heater contactor with Phase 2. |
@@ -189,7 +189,7 @@ This section is foundational to most others — please read alongside PART O (ho
 
 > **Major change since the pre-application and the 31 May drawings — agreed at the 4 June 2026 meeting** (Chris, Ronan, IKO, Sussex Asphalte, Seaview, Coastal Surveyors). The build-up below **supersedes the earlier "warm roof everywhere, inverted only under the hot tub" approach.**
 >
-> **✅ Now confirmed in writing — IKO Specification SF0079612, issued 08 June 2026** (IKO Permaphalt polymer-modified mastic asphalt, for Sussex Asphalte Ltd). The layer make-ups below have been **updated to match that spec** (which supersedes our earlier provisional figures). Key confirmed points: **warm narrow section = 160mm IKO Enertherm PIR MG**; **inverted main section = 190mm IKO Enertherm XPS** (not the 220mm we'd assumed); **inverted has no separate vapour-control layer** (the deck-level Permaphalt is the vapour barrier); **20-year IKO guarantee** subject to an IKO-registered installer and IKO components only. **Project area on the IKO spec is "circa 140m²"** — reconcile with our ~120m² gross figure (likely a measurement/skirting difference — Ronan to check).
+> **✅ Now confirmed in writing — IKO Specification SF0079612, issued 08 June 2026** (IKO Permaphalt polymer-modified mastic asphalt, for Sussex Asphalte Ltd). The layer make-ups below have been **updated to match that spec** (which supersedes our earlier provisional figures). Key confirmed points: **warm narrow section = 160mm IKO Enertherm PIR MG**; **inverted main section = 190mm IKO Enertherm XPS**; **inverted has no separate vapour-control layer** (the deck-level Permaphalt is the vapour barrier); **20-year IKO guarantee** subject to an IKO-registered installer and IKO components only. **Project area on the IKO spec is "circa 140m²"** — reconcile with our ~120m² gross figure (likely a measurement/skirting difference — Ronan to check).
 
 ## Roof build-up — two systems (by section, not by zone)
 
@@ -217,9 +217,9 @@ The two roof sections now get different systems:
 | Tiles | 30mm porcelain on pedestals (Part B) — this is our finish on top of the IKO inverted system |
 | Pedestals | **Eterno Ivica** (chosen 7 Jun), **rubber acoustic pads top *and* bottom** in this section (most sound isolation — see Part B). Pedestals/paving supports sit on the WCL below |
 | **IKO Enertherm WCL (Water Control Layer)** | Laid **over** the insulation, under the paving supports — reduces rainwater cooling of the insulation; IKO's standard inverted finish layer |
-| **190mm IKO Enertherm XPS** | Inverted-roof insulation — **extruded polystyrene, HFC-free, ~300 kPa compressive (load-bearing grade)**, loose-laid, rebated, 300mm laps; achieves U ≈ 0.16. *(Was provisionally 220mm — IKO confirms 190mm.)* |
+| **190mm IKO Enertherm XPS** | Inverted-roof insulation — **extruded polystyrene, HFC-free, ~300 kPa compressive (load-bearing grade)**, loose-laid, rebated, 300mm laps; achieves U ≈ 0.16. |
 | Non-woven geotextile fleece | Below the XPS — stops the insulation bonding to the asphalt |
-| **IKO Permaphalt 20mm** (2 × 10mm coats) | Waterproofing **on the deck**, over IKO Black Sheathing Felt separating layer. **This is also the vapour barrier — an inverted roof needs no separate VCL** (resolves the earlier "VCL position" query) |
+| **IKO Permaphalt 20mm** (2 × 10mm coats) | Waterproofing **on the deck**, over IKO Black Sheathing Felt separating layer. **This is also the vapour barrier — an inverted roof needs no separate VCL** |
 | **New 18mm plywood / OSB3 deck** | IKO strip the existing waterproofing **and** old decking/insulation back to the joists and lay a **new** 18mm ply or OSB3 deck |
 | Joists | Existing structure (SE to confirm it carries the new loads) |
 
@@ -238,15 +238,15 @@ The two roof sections now get different systems:
 
 > **Solar reflective paint:** IKO call for white solar-reflective coating to all **exposed** Permaphalt (e.g. perimeter margins and skirtings). Most of the field is hidden under tiles/insulation, so this only applies to any visible asphalt.
 
-> **Protectoboard vs WCL — note for Ronan/IKO.** Our earlier "**Protectoboard over the entire terrace**" assumption is only half right against the IKO spec: IKO put **Protectoboard on the warm narrow section**, but on the **inverted main section the layer over the insulation is the WCL** (with paving supports on it), not Protectoboard. If we still want **Protectoboard locally under the concentrated loads** (hot tub, parasol bases) on the inverted section for extra point-load protection, that's a **variation to agree with IKO in writing** (see guarantee note below).
+> **Protectoboard vs WCL — note for Ronan/IKO.** Against the IKO spec, the protection layer differs by section: IKO put **Protectoboard on the warm narrow section**, but on the **inverted main section the layer over the insulation is the WCL** (with paving supports on it), not Protectoboard. If we still want **Protectoboard locally under the concentrated loads** (hot tub, parasol bases) on the inverted section for extra point-load protection, that's a **variation to agree with IKO in writing** (see guarantee note below).
 
 ## Finished roof height — needs quantifying
 
-Inverting the whole main section will **raise the finished floor level (FFL) above the current 31 May drawings.** **IKO have now confirmed the inverted insulation as 190mm XPS (not the 220mm we'd assumed)** — about **30mm thinner**, so the FFL rise (and therefore the sauna's above-parapet height) should be **a little less than the ~1,293mm figure** we'd been carrying. Ronan to recompute the exact rise from the confirmed 190mm build-up because it affects:
+Inverting the whole main section will **raise the finished floor level (FFL) above the current 31 May drawings.** With the inverted insulation confirmed at **190mm XPS**, the above-parapet height carries provisionally at **~1,293mm** but should be **recomputed on the 190mm build-up — likely a little lower**. Ronan to recompute the exact rise, because it affects:
 
-- The relationship of the FFL to the parapet, and therefore the **roof height above parapet** for the sauna/wet room building — provisionally ~1,293mm (based on the old 220mm assumption), up from the 1,150mm accepted at pre-app (heritage constraint — Part M); **recompute on 190mm — likely lower, which helps reduce the exceedance** over the pre-app figure. The increase still needs re-presenting to planning
+- The relationship of the FFL to the parapet, and therefore the **roof height above parapet** for the sauna/wet room building — provisionally ~1,293mm, up from the 1,150mm accepted at pre-app (heritage constraint — Part M); **recompute on 190mm — likely lower, which helps reduce the exceedance** over the pre-app figure. The increase still needs re-presenting to planning
 - The **glass guarding heights** (Part L), measured from FFL / hot tub rim
-- The **railing height top-up** (wires / timber + wires) on the narrow section (Part H)
+- The **railing height top-up** (tensioned stainless wires) on the narrow section (Part H)
 
 ## IKO spec — conditions that affect our design
 
@@ -264,7 +264,7 @@ Three conditions in the IKO spec (SF0079612) need flagging because they push bac
 
 How our tile finish bears on the **inverted main section** is not yet resolved and needs IKO's confirmation. IKO's spec does contemplate *"paving slabs on supports, laid over the WCL"* — so pedestals on the inverted finish are allowed in principle — but three things need pinning down:
 
-1. **Raised pedestals under the dining (FA2, ~400mm = ~100mm low base + the 300mm raise).** *(Reduced 14 June — FA2 is now +300mm, was +500mm.)* Standard inverted paving sits on **low** supports. Pedestals of ~400mm concentrate load on a small base on the **XPS** (firm at ~300 kPa but can creep under sustained load) and raise lateral-stability and wind concerns. Confirm with IKO whether tall pedestals are acceptable **bearing on the WCL/XPS**, whether a **load-distribution layer** (e.g. Protectoboard, a bearing pad or a wider base plate) is needed under each pedestal, or whether the raised zone needs a **different support solution** (e.g. a separate raised sub-structure). *(Also one for the SE — Allan Wiseman — on lateral stability and the raised-platform load path.)*
+1. **Raised pedestals under the dining (FA2, ~400mm = ~100mm low base + the 300mm raise).** Standard inverted paving sits on **low** supports. Pedestals of ~400mm concentrate load on a small base on the **XPS** (firm at ~300 kPa but can creep under sustained load) and raise lateral-stability and wind concerns. Confirm with IKO whether tall pedestals are acceptable **bearing on the WCL/XPS**, whether a **load-distribution layer** (e.g. Protectoboard, a bearing pad or a wider base plate) is needed under each pedestal, or whether the raised zone needs a **different support solution** (e.g. a separate raised sub-structure). *(Also one for the SE — Allan Wiseman — on lateral stability and the raised-platform load path.)*
 
 2. **⚠ Wind-uplift ballast — eased by the move to 30mm tiles.** IKO require a **minimum loading coat of 80 kg/m²** over the XPS to resist wind uplift (their stated figure for sheltered / sub-10-storey buildings; our **exposed seafront** site may need more). We have **moved from 20mm (~46 kg/m²) to 30mm porcelain (~70 kg/m²)** (Part B), so the field is now **close to the 80 figure** rather than well below it. Confirm with IKO that the **small remaining gap is covered by the combined mass of pedestals + tiles + planters / hot tub / building + an edge-restraint detail**, rather than needing thicker pavers or supplementary ballast. This applies across the whole inverted main section.
 
@@ -274,13 +274,13 @@ How our tile finish bears on the **inverted main section** is not yet resolved a
 
 ## Levels across the terrace — three zones, two levels
 
-*Revised 8 June 2026 — **Floor Area 3 is now set to the same finished floor level as Floor Area 1**, so the two low zones (the narrow section and the hot-tub/seating/SE area) sit at **one matching low level**, with the **raised dining zone (FA2) between them** as the single high zone. Supersedes the earlier "three different levels" idea, and the still-earlier notions of raising the whole narrow section over the lift over-run or sitting the whole main section high.* The terrace reads as **two finished levels across three zones**, set by pedestal height. **Note the layout: the raised FA2 sits between the two low zones — FA1 → (up) FA2 → (down) FA3 — so FA1 and FA3 match in height but are not one continuous surface.**
+**Floor Area 3 is set to the same finished floor level as Floor Area 1**, so the two low zones (the narrow section and the hot-tub/seating/SE area) sit at **one matching low level**, with the **raised dining zone (FA2) between them** as the single high zone. The terrace reads as **two finished levels across three zones**, set by pedestal height. **Note the layout: the raised FA2 sits between the two low zones — FA1 → (up) FA2 → (down) FA3 — so FA1 and FA3 match in height but are not one continuous surface.**
 
 | Zone | Level | How it's achieved |
 |---|---|---|
 | **Narrow section (Floor Area 1)** | **Low datum** | **Lowest practical pedestal height** on the warm-roof build-up. No longer raised up over the lift over-run. |
 | **Hot tub + seating/lounge + SE end of the large terrace (Floor Area 3)** | **Low datum — same FFL as Floor Area 1** | Low pedestals (≈100mm) on the inverted build-up, **set to land at the same finished floor level as the narrow section (FA1)** so the two low zones match in height (the raised FA2 sits between them). |
-| **Dining (Floor Area 2)** | **Raised — the one high zone, ≈300mm above the low datum** (i.e. +300mm over the current wooden deck level — *reduced from +500mm, 14 June*) | **Adjustable pedestals** on the inverted build-up (lower than the earlier +500mm scheme — Ronan / tiler to set against the build-up). **3 steps up from FA1** (between the terraces) and **3 steps down on the north side** to FA3 — all **400mm tread / 100mm rise**. |
+| **Dining (Floor Area 2)** | **Raised — the one high zone, ≈300mm above the low datum** (i.e. +300mm over the current wooden deck level) | **Adjustable pedestals** on the inverted build-up (Ronan / tiler to set against the build-up). **3 steps up from FA1** (between the terraces) and **3 steps down on the north side** to FA3 — all **400mm tread / 100mm rise**. |
 
 **Floor Area 4 is deleted** — its area is absorbed into Floor Area 3 (Chris updating the drawings).
 
@@ -288,7 +288,7 @@ How our tile finish bears on the **inverted main section** is not yet resolved a
 - **Common datum across two different build-ups.** FA1 sits on the **warm-roof** narrow section and FA3 on the **inverted** main section, which have different build-up heights — so the **pedestal heights on each must be set to bring both to the one common low FFL** (Ronan / the tiler to set this against the surveyed deck levels of the two sections).
 - **Two flights of 3 steps, both 400mm tread / 100mm riser (3 × 100mm = the 300mm FA2 rise).** FA2 is the single raised zone, ~300mm above the low datum shared by FA1 and FA3:
   - **FA1 → FA2 (up):** 3 steps **between the narrow and main terraces** lead up from the narrow section (FA1) into the raised dining (FA2). The **N1(N) planter is deepened to 800mm so its front face sits flush with the lower of these steps** (Part C).
-  - **FA2 → FA3 (down):** 3 steps **on the north side of FA2** *(revised 14 June — steps face north, was the east side)*, **1500mm wide**, lead down to the low FA3 (seating / hot tub). The **first step down is inset into FA2, the second into FA3**.
+  - **FA2 → FA3 (down):** 3 steps **on the north side of FA2**, **1500mm wide**, lead down to the low FA3 (seating / hot tub). The **first step down is inset into FA2, the second into FA3**.
 - **Lift over-run:** no longer built up over. Its top is **tiled over (minimal extra area beyond the bulkhead)**, with the **N4 low-herb planter built on top, matching that footprint exactly** (Parts B and C).
 - **Level access from the study:** keeping the narrow section (FA1) low, combined with **dropping the study door/window sill by 170mm** (see Part Q), gives a level / near-level threshold from the study straight onto the **narrow terrace (FA1)**. FA3 (hot tub / seating) is at the **same low level**, so it matches the study-threshold datum — but the raised FA2 dining sits between FA1 and FA3, so reaching FA3 is via the FA2 steps / route, not a flat walk through.
 
@@ -296,14 +296,14 @@ How our tile finish bears on the **inverted main section** is not yet resolved a
 
 - **Common low FFL** — set the pedestal heights on the warm narrow section (FA1) and the inverted main section (FA3) so both finish at the **same low floor level**, against the surveyed deck levels of the two sections.
 - **Step detail** — going, rise and nosings for the **two flights of 3 steps** (FA1→FA2 up between the terraces, and FA2→FA3 down on the north side; all 400mm tread / 100mm rise, the north flight 1500mm wide), and whether a **handrail / guarding** is required at either level change (Approved Document K).
-- **Raised pedestals** under **Floor Area 2 only** (now ~300mm above the low datum + build-up — lower than the earlier +500mm / 350–500mm scheme) still need lateral stability at height (stabilisers / bracing / restraint rails), with the acoustic pads (Part B) still seating correctly at full extension — confirm with the pedestal supplier. Floor Areas 1 and 3 are on low pedestals at the common datum.
+- **Raised pedestals** under **Floor Area 2 only** (~300mm above the low datum + build-up) still need lateral stability at height (stabilisers / bracing / restraint rails), with the acoustic pads (Part B) still seating correctly at full extension — confirm with the pedestal supplier. Floor Areas 1 and 3 are on low pedestals at the common datum.
 - **Sauna / wet room door thresholds** open onto the **low Floor Area 3** (now at the FA1 level) — confirm the threshold detail from the building floor (on the Protectoboard) to the low-pedestal tile level outside.
 - **Narrow-section railing raising (Part H) reduces** — with the narrow floor now barely rising, the retained railings need little or no added height; revisit once the low FFL is fixed.
 - **Drainage falls** on each zone, and at the step line, to be set out so water sheds correctly across both levels.
 
-## Protecting the waterproofing — by section *(revised to match IKO spec)*
+## Protecting the waterproofing — by section
 
-*We'd originally written "Protectoboard over the entire terrace." The IKO spec arranges this differently on each section, because the asphalt is in a different place:*
+The IKO spec arranges the protection layer differently on each section, because the asphalt is in a different place:
 
 - **Warm narrow section** — the Permaphalt is on **top** (above the insulation), so **IKO Protectoboard 3.2mm goes over the Permaphalt**, with the paving supports on it. This is the membrane protection here.
 - **Inverted main section** — the Permaphalt is at the **bottom** (on the deck), **buried and protected under the 190mm XPS insulation**, so there's no asphalt at the surface to "board over." The surface layer over the insulation is the **IKO Enertherm WCL**, with the paving supports on it. The membrane is protected by being below the insulation.
@@ -318,16 +318,13 @@ No acoustic underlay mat above the protection layer (it alone is the substrate f
 
 ## Building footprint — built on top of the inverted build-up
 
-**Change agreed at the 4 June meeting:** the sauna / wet room building will now be **built on top of the inverted main-section build-up** (over the XPS insulation / WCL, on the protected Permaphalt below) — *not* on its own lower slab with the asphalt dressed up to the building line (the earlier approach, now superseded). *(We'd previously written "on top of the Protectoboard"; on the inverted section the surface layer is the WCL over the XPS — see "Protecting the waterproofing" above. Ronan to confirm the exact bearing detail for the building base on the inverted system.)*
+**Agreed at the 4 June meeting:** the sauna / wet room building is **built on top of the inverted main-section build-up** (over the XPS insulation / WCL, on the protected Permaphalt below). This keeps the build-up continuous under the building and is simpler to detail. *(On the inverted section the surface layer is the WCL over the XPS — see "Protecting the waterproofing" above. Ronan to confirm the exact bearing detail for the building base on the inverted system.)*
 
-- This keeps the build-up continuous under the building and is simpler to detail.
 - All drainage / service penetrations under the building footprint must be set out **before** the roof is closed up (see Plumbing note below).
 
-### Doors-vs-build-up — likely resolved by the whole-section inverted approach
+### Doors and the finished tile level
 
-Previously the hot tub zone was to be built ~200mm higher than the surrounding warm roof, which raised a question about how the outward-opening sauna / wet room doors would clear the step. The **roof build-up under the whole main section is now one continuous inverted system**, so the earlier three-way confusion (lower / higher / intermediate build-up) and the old "400mm vs 200mm raised floor" discrepancy fall away at the *structural deck* level.
-
-**The finished tile level, however, deliberately varies by pedestal height**: the **dining zone (Floor Area 2) is raised** ~300mm on pedestals, while the **hot tub / seating / SE area (Floor Area 3) stays low** on ~100mm pedestals — **set to the same finished floor level as the narrow section (Floor Area 1)**, the two low zones matching in height with the raised FA2 dining between them (see "Levels across the terrace" above). The **sauna / wet room doors open onto the low Floor Area 3**, so **Ronan to confirm that door-threshold detail** (building floor on the Protectoboard ↔ the low-pedestal tile level outside). The **3 steps on the north side of FA2** (400mm tread / 100mm rise) connect the raised dining down to the low Floor Area 3.
+The roof build-up under the whole main section is **one continuous inverted system** at the structural deck. **The finished tile level deliberately varies by pedestal height**: the **dining zone (Floor Area 2) is raised** ~300mm on pedestals, while the **hot tub / seating / SE area (Floor Area 3) stays low** on ~100mm pedestals — **set to the same finished floor level as the narrow section (Floor Area 1)**, the two low zones matching in height with the raised FA2 dining between them (see "Levels across the terrace" above). The **sauna / wet room doors open onto the low Floor Area 3**, so **Ronan to confirm that door-threshold detail** (building floor on the Protectoboard ↔ the low-pedestal tile level outside). The **3 steps on the north side of FA2** (400mm tread / 100mm rise) connect the raised dining down to the low Floor Area 3.
 
 ## Plumbing — set out drainage before the roof is closed
 
@@ -390,7 +387,7 @@ The engineer notes the ~50% remaining joist capacity is **a comfortable margin t
 
 **Estimated tiled area: ~104m²** (of the ~120m² gross terrace footprint, once the building, hot tub, kitchen and storage footprints are subtracted).
 
-> **Change from the 4 June meeting:** the agreed approach is now to **tile the whole roof area and build the planters on top of the finished tile field**, rather than building the planters off the Protectoboard to reduce the tiling area. So **planters are no longer subtracted** from the tiled area — which raises the net figure from ~82m² to ~104m². (See Part C.)
+> **Agreed at the 4 June meeting:** **tile the whole roof area and build the planters on top of the finished tile field** (rather than building the planters off the Protectoboard). So **planters are not subtracted** from the tiled area. (See Part C.)
 
 | Subtraction | Approx m² |
 |---|---|
@@ -418,7 +415,7 @@ Planters are **not** subtracted — they are built on top of the finished tiles 
 The modest price step-up (~£45–80/m² vs ~£35–60 for 20mm) is accepted for these gains, provided it stays within the scaffold programme.
 
 **Hard rules:**
-- **30mm thickness** (not 20mm)
+- **30mm thickness**
 - R11 slip rating minimum
 - Frost-resistant / coastal-rated, large format
 - No limestone or natural stone (bird uric acid etching risk)
@@ -535,7 +532,7 @@ We want planters built from the **salvaged hardwood decking** removed from the e
 
 ## Construction principle
 
-- **Change from the 4 June meeting:** planters now sit **on top of the finished tile field**, *not* built off the Protectoboard below the tiles. The whole roof is tiled first, then the planters are built on top (see Part B). This is simpler than working the planter bases into the tile build-up, and is the agreed approach.
+- **Agreed at the 4 June meeting:** planters sit **on top of the finished tile field** — the whole roof is tiled first, then the planters are built on top (see Part B). Simpler than working the planter bases into the tile build-up.
 - Tile runs continuously **underneath** each planter. The planter sits on **bearers/feet on protective pads**, raised ~25mm off the tile, so that: (a) its weight is spread and carried down to the **pedestals below** rather than point-loading the middle of a tile; (b) there's a continuous **drainage + air gap** under the box; and (c) the porcelain is protected. See **"Sitting on the tiles — drainage & load"** below.
 - Planters are **freestanding boxes** — they do not rely on the parapet or any other wall for structural or weatherproofing function
 - Built with stainless steel fixings throughout
@@ -563,8 +560,7 @@ Treated softwood frame with hardwood cladding outside, EPDM lining inside, and s
 **Why this works structurally:**
 - Soil + saturated lightweight mix exerts hydrostatic-like load on planter walls
 - 50×50mm treated softwood uprights at 400mm centres comfortably handle 600-700mm soil depth + perimeter water saturation
-- Same construction as ground-level garden planters that hold soil for decades
-- Marine ply was structurally over-spec'd; softwood frame is the conventional answer
+- Same construction as ground-level garden planters that hold soil for decades — a treated softwood frame is the conventional answer
 
 **Why the cap is special:**
 - Brighton pier wood is **iconic and salvageable** — same wood that's been carrying the seaside crowds for over a century
@@ -575,7 +571,7 @@ Treated softwood frame with hardwood cladding outside, EPDM lining inside, and s
 
 ## Salvaged hardwood — the existing bolt holes (retained as the fixing + a feature)
 
-The existing decking boards have decking-bolt through-holes at ~800mm centres, **and Chris has the original decking bolts on site.** Rather than cut around the holes and waste board (the earlier approach), the boards are kept full-length and the **existing bolts are reused through the existing holes** to fix the cladding — **cheap, easy and low-waste:**
+The existing decking boards have decking-bolt through-holes at ~800mm centres, **and Chris has the original decking bolts on site.** The boards are kept full-length and the **existing bolts are reused through the existing holes** to fix the cladding — **cheap, easy and low-waste:**
 
 1. **Keep boards full-length; reuse the existing decking bolts through the existing holes** to fix the cladding to the softwood frame. Set the **frame uprights to line up with the bolt-hole spacing** where practical so each bolt lands on a frame member; where a hole falls between uprights, add a short **backing noggin** behind to take the bolt (or leave it as an open feature hole — the inner **EPDM liner is the waterproofing**, so a hole in the outer cladding doesn't affect watertightness).
 2. **Staggered courses** — running-bond / random stagger; joints between adjacent courses must NEVER line up vertically (reads as patchwork). The regular bolt pattern + random board lengths read as intentional, crafted salvage.
@@ -585,14 +581,9 @@ The existing decking boards have decking-bolt through-holes at ~800mm centres, *
 
 **Important: brief the builder that joint alignment between courses is a quality requirement** — if courses line up vertically, the result looks accidental, not intentional.
 
-## Estimated total cost vs original spec
+## Estimated cost
 
-| | Original (marine ply box) | Revised (softwood frame) |
-|---|---|---|
-| Materials per planter (~3-5m run) | ~£140-200 | ~£40-70 |
-| Across ~10 planters | ~£1,500-2,200 | ~£400-700 |
-| **Saving** | | **~£1,000-1,500** |
-| Plus: faster build (no marine ply box joinery), uses salvaged stock more fully (battens / hidden uses for holed scraps), Brighton pier wood as cap adds character at zero cost |
+Materials are roughly **~£40–70 per planter** (~£400–700 across the ~10 planters), since the cladding, cap and bolts are salvaged free-issue stock and only the softwood frame, EPDM and fixings are bought in.
 
 ## Sizes — planter inventory
 
@@ -608,19 +599,19 @@ The existing decking boards have decking-bolt through-holes at ~800mm centres, *
 
 | # | Planter | Footprint | Height (above terrace tile FFL) | Notes |
 |---|---|---|---|---|
-| **N1** | **L-shaped planter** along east + north parapets of narrow — **N1(E)** east leg + **N1(N)** north leg | **N1(E): 7.2m × 600mm deep** + **N1(N): 1.8m × 800mm deep** *(N1(N) deepened from 600mm, 15 June)* | **500mm** | **Still an L-shape**, wrapping the NE corner (mitred / continuous). **N1(N) is 800mm deep so its front face sits flush with the lower of the 3 steps between the narrow and main terraces** (those steps are **400mm tread / 100mm riser**, matching the FA2/FA3 steps). |
+| **N1** | **L-shaped planter** along east + north parapets of narrow — **N1(E)** east leg + **N1(N)** north leg | **N1(E): 7.2m × 600mm deep** + **N1(N): 1.8m × 800mm deep** | **500mm** | **L-shape** wrapping the NE corner (mitred / continuous). **N1(N) is 800mm deep so its front face sits flush with the lower of the 3 steps between the narrow and main terraces** (those steps are **400mm tread / 100mm riser**, matching the FA2/FA3 steps). |
 | **N2** | Square planter — east side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | **Built as a single integrated construction with N1** — they share a wall where they meet on the east parapet side |
 | **N3** | Square planter — west side, mid-narrow | **1.2m × 1.2m** × 600mm deep | 500mm | Adjoins the outdoor kitchen (Part F) on its north face — kitchen and planter meet but are independent constructions |
-| **N4** | **Lift over-run planter** *(new 5 June)* — low aromatic herbs | **1.9m × 2.1m** — **matches the tiled lift-bulkhead footprint exactly** | **400mm box** (planting kept <700mm total) | The lift bulkhead is **tiled over with minimal extra area** beyond its existing footprint (Part B), and this planter is built **on top, matching that footprint exactly**. Built exactly like the other planters (salvaged hardwood, EPDM-lined, drainage layer) and **drains through onto the tiled surface like the others** — no special over-shaft drainage detail. Sits over the lift shaft — basic pedestals, no occupants below (Part A). **Planting:** low fragrant herbs — see plant list below. |
+| **N4** | **Lift over-run planter** — low aromatic herbs | **1.9m × 2.1m** — **matches the tiled lift-bulkhead footprint exactly** | **400mm box** (planting kept <700mm total) | The lift bulkhead is **tiled over with minimal extra area** beyond its existing footprint (Part B), and this planter is built **on top, matching that footprint exactly**. Built exactly like the other planters (salvaged hardwood, EPDM-lined, drainage layer) and **drains through onto the tiled surface like the others** — no special over-shaft drainage detail. Sits over the lift shaft — basic pedestals, no occupants below (Part A). **Planting:** low fragrant herbs — see plant list below. |
 
 ### Main section
 
 | # | Planter | Footprint | Height | Notes |
 |---|---|---|---|---|
-| **M1** | **L-shaped planter** in the dining area (FA2) — **M1(W)** leg along the west edge + **M1(N)** leg along the north edge | **legs frame the enlarged FA2 (5.75 × 5.1m)** × ~600mm deep *(leg lengths per the 14 June drawing — Ronan to scale)* | **500mm** above terrace tile FFL | Frames the dining area |
-| **M2** | **L-shaped planter** in SE of main — **M2(E)** leg along the east parapet + **M2(S)** return along the south parapet | **M2(E):** 5.1m external / 4.1m internal · **M2(S):** 3.5m external / 2.5m internal · **both 1m deep** *(deepened from 600mm, 14 June)* | **700mm** above **FA3 FFL** | The **1m depth** gives better wind protection **and** enough setback that **no fall-protection glass screen is needed along the south or east parapet edges**, even with the enlarged FA2 (see Part L). Substantial windbreak for the lounge area. |
-| **M4** | Planter north of the seating area | **2.70m long × 600mm deep** *(was 3m — 14 June)* | **700mm** above terrace FFL | Substantial windbreak height for the lounge zone. Also holds the coastal-native *Armeria maritima* relocated from the removed M5 (Part D). |
-| **M7** | Planter **west of hot tub** (between tub and building) | 2m long × 600mm deep | Finishes **150mm above hot tub rim height** | The +150mm above tub rim gives wind defence on the building side of the tub. **The old east (M5) and north (M6) legs of the hot-tub U-shape were removed 14 June to give the hot tub more space** — only this west planter remains. |
+| **M1** | **L-shaped planter** in the dining area (FA2) — **M1(W)** leg along the west edge + **M1(N)** leg along the north edge | **legs frame the FA2 (5.75 × 5.1m)** × ~600mm deep *(Ronan to scale leg lengths)* | **500mm** above terrace tile FFL | Frames the dining area |
+| **M2** | **L-shaped planter** in SE of main — **M2(E)** leg along the east parapet + **M2(S)** return along the south parapet | **M2(E):** 5.1m external / 4.1m internal · **M2(S):** 3.5m external / 2.5m internal · **both 1m deep** | **700mm** above **FA3 FFL** | The **1m depth** gives better wind protection **and** enough setback that **no fall-protection glass screen is needed along the south or east parapet edges** (see Part L). Substantial windbreak for the lounge area. |
+| **M4** | Planter north of the seating area | **2.70m long × 600mm deep** | **700mm** above terrace FFL | Substantial windbreak height for the lounge zone. Also holds the coastal-native *Armeria maritima* (Part D). |
+| **M7** | Planter **west of hot tub** (between tub and building) | 2m long × 600mm deep | Finishes **150mm above hot tub rim height** | The +150mm above tub rim gives wind defence on the building side of the tub. **It is the only hot-tub planter** — the east and north legs were removed to give the tub more space, so the glass now guards those sides directly (Part L). |
 
 ### Heights summary
 
@@ -653,7 +644,7 @@ The make-up below is included **within the planter construction scope** (not a s
 | **4. Lightweight planting medium** (~300–400mm thick) | **Peat-free roof-garden / lightweight planter mix**: ~60% loam-based topsoil + 25% perlite or vermiculite + 15% well-rotted peat-free compost.<br>Pre-blended bagged options acceptable (e.g. Bourne Amenity Topsoil mix, Boughton Loam roof-garden mix, or builder's-merchant lightweight planter mix). | Provides nutrients + drainage + light weight. **Avoid heavy clay topsoil** — it compacts, waterlogs, and is heavy on the structure. |
 | **5. Mulch layer** (~25–50mm) | Composted bark or fine ornamental bark chip on top, around all plants | Retains soil moisture (reduces watering), suppresses weeds, insulates roots in winter, gives a finished look |
 
-### Special note for olive trees (5 in total)
+### Special note for olive trees (4 in total)
 
 Olives need adequate root volume. In the **600mm-deep planters** (most of them), the available rooting depth after the drainage layer is ~400-450mm — adequate for olives if managed. Where olives sit, **no polystyrene under that specific patch** — use clean 10mm gravel only for ~100mm depth, then the soil mix to ~500mm depth. This gives the olives a deeper root run and bit more weight at the base (stability for taller plants in wind).
 
@@ -661,7 +652,7 @@ Olives need adequate root volume. In the **600mm-deep planters** (most of them),
 
 - Lightweight make-up (polystyrene + gravel + lightweight soil): **~250–350 kg/m² saturated**
 - Compared to heavy make-up (all gravel + heavy topsoil): ~600–800 kg/m² saturated
-- **Saving:** ~300–400 kg/m² for the SE to take care of (significant on a ~25m² planted area)
+- **Saving:** ~300–400 kg/m² for the SE to take care of (significant on a ~26m² planted area)
 
 ### What the builders should include in their planter price
 
@@ -725,7 +716,7 @@ Calculated from the planter inventory in Part C (see Part C "Sizes" subsection f
 | | Main subtotal | | **~14.1 m²** |
 | **TOTAL planted area** | | | **~26.3 m²** |
 
-That's **~22% of the total terrace footprint** given over to soft landscape (up slightly from ~25.0 m² in the prior layout — deepening M2 to 1m more than offsets the removed M3/M5/M6 planters), with the planter runs forming a near-continuous green perimeter around the usable hard-landscaped zones.
+That's **~22% of the total terrace footprint** given over to soft landscape, with the planter runs forming a near-continuous green perimeter around the usable hard-landscaped zones.
 
 In addition: **4 olive trees** as point specimens within the east-edge run / L-shape planters (a substantial vertical planting layer, not captured in the area figure above).
 
@@ -760,7 +751,7 @@ The planting has been designed to provide **wind defence on the north and east p
 - **Olearia × haastii** is the primary back-row windbreak (1-1.5m natural compact dome, ×3 in Sussex Square photos — the most-evidenced tall coastal shrub in our palette)
 - **Pittosporum tobira full species** reserved for the SE L-shape (M2) where the 700mm × 1m-deep planter + tall plant gives a proper tall windbreak; **'Wheeler's Dwarf'** (1m compact cultivar) is the alternative
 - **Hot tub west planter (M7):** low/mid planting on the building side — the east and north hot-tub planters (M5, M6) were removed 14 June to open up the tub, so the east view to the Downs is now entirely clear
-- **4 olives** distributed as architectural specimens: **2 in N1** (anchoring the 7.2m east leg) + **1 in M1** (dining centre) + **1 in M2** (SE L-shape) *(reduced from 5 — the M3 east-of-sauna planter and its olive were removed 14 June)*
+- **4 olives** distributed as architectural specimens: **2 in N1** (anchoring the 7.2m east leg) + **1 in M1** (dining centre) + **1 in M2** (SE L-shape)
 
 ### Plant lists per planter
 
@@ -777,9 +768,9 @@ The planting has been designed to provide **wind defence on the north and east p
 
 *N4's body planting also draws on existing palette herbs — upright **Salvia rosmarinus**, **Lavandula** 'Hidcote', **Thymus**, **Origanum**, **Salvia microphylla** — so the per-species quantities/costs above will rise slightly once N4's mix is finalised against the planted area.*
 
-### Movable pots (5 at south end of narrow + scatter west of N3)
+### Movable pots (4 at south end of narrow + scatter west of N3)
 
-**South-end cluster (SE corner of narrow):** 1 large olive (focal) + 4 mixed: *Phormium tenax* (architectural), *Lavandula*, *Salvia rosmarinus*, *Cordyline australis* (compact). All moveable for flexibility.
+**South-end cluster (SE corner of narrow):** 4 mixed: *Phormium tenax* (architectural), *Lavandula*, *Salvia rosmarinus*, *Cordyline australis* (compact). All moveable for flexibility.
 
 **West of N3:** Mixed soft pots — *Lavandula*, *Stachys*, herbs. Softens the kitchen-to-N3 transition.
 
@@ -794,7 +785,6 @@ Quantities derived from the per-planter plant lists above + movable pots. Sizes 
 | Species | Common name | Qty | Supply size | Where | Unit £ | Subtotal £ |
 |---|---|---|---|---|---|---|
 | *Olea europaea* | Olive (multi-stem) | 4 | 15L pot, ~2–2.5m tall, multi-stem | 2 N1 + 1 M1 + 1 M2 | ~£100–150 | ~£400–600 |
-| *Olea europaea* | Olive — feature specimen for south-end pot | 1 | 25L+ pot, ~2m+, gnarled multi-stem | South-end movable pot cluster | ~£200–300 | ~£200–300 |
 
 **Tier 2 — Tall structural / windbreak shrubs (back row)**
 
@@ -835,22 +825,22 @@ Quantities derived from the per-planter plant lists above + movable pots. Sizes 
 | *Origanum vulgare* | Wild marjoram (UK native) | 4 | 9cm pot | 3 N3 + 1 west-of-N3 pot | ~£3–5 | ~£12–20 |
 | *Salvia rosmarinus* 'Prostratus' | Prostrate / trailing rosemary | ~6 | 2–3L pot | N4 (trailing over all edges) | ~£8–12 | ~£50–70 |
 | *Santolina chamaecyparissus* | Cotton lavender | ~4 | 2L pot | N4 | ~£6–10 | ~£25–40 |
-| *Armeria maritima* | Sea thrift (UK coastal native) | 4 | 1L / 9cm pot | M4 (relocated from removed M5) | ~£4–6 | ~£15–25 |
-| *Lithodora diffusa* | Azure-blue carpet | 2 | 1–2L pot | M2 (relocated from removed M3) | ~£5–8 | ~£10–15 |
+| *Armeria maritima* | Sea thrift (UK coastal native) | 4 | 1L / 9cm pot | M4 | ~£4–6 | ~£15–25 |
+| *Lithodora diffusa* | Azure-blue carpet | 2 | 1–2L pot | M2 | ~£5–8 | ~£10–15 |
 
 **Totals**
 
 | Tier | Plants | Estimated cost |
 |---|---|---|
-| 1 — Specimen trees | 5 | ~£600–900 |
+| 1 — Specimen trees | 4 | ~£400–600 |
 | 2 — Tall shrubs | 30 | ~£625–990 |
 | 3 — Mid shrubs | 59 | ~£500–760 |
 | 4 — Perennials / front row | 83 | ~£360–540 |
-| **Grand total — plants only** | **~177** | **~£2,100–3,200** |
+| **Grand total — plants only** | **~176** | **~£1,900–2,900** |
 
 **Notes for the nursery / supplier:**
 
-- The 4 planted-out olives in particular benefit from **multi-stem, gnarled forms** rather than tall single-trunk standards — the gnarled trunk is the visual signature of Sussex Square's olive plantings and what the heritage continuity argument leans on
+- The 4 olives in particular benefit from **multi-stem, gnarled forms** rather than tall single-trunk standards — the gnarled trunk is the visual signature of Sussex Square's olive plantings and what the heritage continuity argument leans on
 - *Pittosporum tobira* full species in M2 to be **clipped to ~1.5m max height** on site to stay within the 700mm planter's wind-defence zone without overtopping the parapet sightline from Bristol Gardens
 - A **10–15% contingency** on top of these counts is sensible (replacements during establishment, fill-out gaps in year 2)
 - All container plants ideally **peat-free supplied**
@@ -892,7 +882,7 @@ Photo-realistic visualisations of each planter at maturity. These are AI-generat
 
 ![N4 lift over-run herb planter](artists-impressions/n4.png)
 
-**South-end pots (cluster of 5: 1 olive + 4 mixed at SE corner of narrow):**
+**South-end pots (cluster of 4 mixed at SE corner of narrow):**
 
 ![South-end pots](artists-impressions/south-end-pots.png)
 
@@ -907,7 +897,7 @@ Photo-realistic visualisations of each planter at maturity. These are AI-generat
 - **Strong pollinator support** — *Nepeta × faassenii*, *Lavandula*, *Salvia rosmarinus*, *Salvia microphylla* 'Hot Lips', *Salvia nemorosa* 'Caradonna', *Phlomis fruticosa*, *Brachyglottis* 'Sunshine', *Origanum vulgare*, *Geranium* 'Rozanne', *Erigeron karvinskianus*, *Lithodora diffusa* — all in the RHS "Plants for Pollinators" list, providing nectar from early spring (*Lithodora*, *Lavandula*) through to late autumn (*Salvia microphylla*, *Erigeron*). The new **N4 fragrant-herb bed** (rosemary incl. prostrate, lavender, thyme, oregano, *Santolina*, *Salvia microphylla*) adds a concentrated, long-flowering pollinator magnet and a sensory feature in the heart of the narrow terrace — all RHS "Plants for Pollinators".
 - **Seed and overwintering value** — *Sedum* 'Purple Emperor', *Festuca glauca* tussocks, *Cynara cardunculus* seed heads, *Phormium tenax* flower spikes, *Phlomis fruticosa* whorls all left standing through winter provide seed and invertebrate cover for finches, sparrows and overwintering insects.
 - **Coastal-meadow niche** — ***Armeria maritima*** (UK coastal native, in M4), ***Origanum vulgare*** (UK native, in N3), naturalised *Erigeron karvinskianus*, *Salvia rosmarinus*, *Stachys byzantina*, *Lavandula* — together provide the Mediterranean / coastal-meadow biotope characteristic of the Sussex seafront. The broader palette in `planting.md` also includes *Crambe maritima*, *Glaucium flavum* and *Eryngium giganteum* which can be added as native enhancements if BHCC asks.
-- **Vertical layering** — **4 olive trees** distributed across 3 planters (2 in N1, 1 in M1, 1 in M2) + sub-shrub mid-layer (*Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*, *Cordyline australis*) + perennial / mat understory + the M7 west-of-tub planter — gives multi-tier habitat structure within the **~26.0 m² of planted area** (~22% of the terrace footprint, incl. the new N4 fragrant-herb bed). The parasols' fabric provides bird-safe cover when retracted.
+- **Vertical layering** — **4 olive trees** distributed across 3 planters (2 in N1, 1 in M1, 1 in M2) + sub-shrub mid-layer (*Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*, *Cordyline australis*) + perennial / mat understory + the M7 west-of-tub planter — gives multi-tier habitat structure within the **~26 m² of planted area** (~22% of the terrace footprint, incl. the N4 fragrant-herb bed). The parasols' fabric provides bird-safe cover when retracted.
 - **Specific UK native species in this plan:** *Armeria maritima* (M4), *Origanum vulgare* (N3). **Long-naturalised in S England:** *Erigeron karvinskianus* (multiple planters), *Stachys byzantina* (multiple), *Salvia rosmarinus* (multiple), *Lavandula angustifolia* (multiple). Wider palette has additional UK natives available for substitution if planning officer asks for more native content (see `planting.md`).
 - **No invasive species** — the list deliberately excludes anything on Schedule 9 of the WCA 1981 (e.g. no *Cotoneaster horizontalis*, no *Crocosmia* × *crocosmiiflora*, no *Buddleja davidii* as a primary feature).
 - **EPDM-lined hardwood planters** with lightweight peat-free roof-garden soil mix + bark mulch (see Part C planter make-up) = healthy long-term planting at minimal structural load, not a one-season display.
@@ -930,7 +920,7 @@ This subsection sets out **what we've prepared for you**, **what physical featur
 
 **Pre-development baseline:** The existing roof terrace is an **asphalted flat roof with no vegetation**. Under the Statutory Biodiversity Metric this classifies as **"Developed land; sealed surface"** — the lowest distinctiveness band (zero biodiversity units). The proposed scheme therefore starts from zero, and any planting represents net biodiversity gain — the 10% BNG threshold is comfortably exceeded by definition.
 
-**Post-development baseline:** Locked-in **~26.0 m² of planted area** (~22% of the terrace footprint, per Part C inventory and Part D "Planted area" subsection — including the N4 fragrant-herb bed over the lift over-run) plus **4 olive trees** distributed as point specimens (2 in N1, 1 in M1, 1 in M2), plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs" (primarily *Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*), "Native species-rich elements" (*Armeria maritima*, *Origanum vulgare*), naturalised wildflowers (*Erigeron*, *Stachys*, *Lavandula*) and "Mixed scrub" texture within hardwood-clad container planters.
+**Post-development baseline:** Locked-in **~26 m² of planted area** (~22% of the terrace footprint, per Part C inventory and Part D "Planted area" subsection — including the N4 fragrant-herb bed over the lift over-run) plus **4 olive trees** distributed as point specimens (2 in N1, 1 in M1, 1 in M2), plus the physical enhancement features below. Habitat types are a mix of "Ornamental non-native shrubs" (primarily *Olearia × haastii*, *Pittosporum tobira*, *Phormium tenax*), "Native species-rich elements" (*Armeria maritima*, *Origanum vulgare*), naturalised wildflowers (*Erigeron*, *Stachys*, *Lavandula*) and "Mixed scrub" texture within hardwood-clad container planters.
 
 **Native species in this windbreak plan + wider palette available for substitution:**
 
@@ -1049,7 +1039,7 @@ To complete the biodiversity submission, please confirm or produce:
 
 > **🗓 Phase 1** (narrow section). Lay the sink-waste run to the foul stack under FA2, and the cold-water tee, in the first-fix before tiling. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-An outdoor kitchen on the **narrow section** comprising **5 modules in a single straight run** under a continuous stainless worktop. *Order revised 15 June 2026* (left → right): **sink, fridge, BBQ, double cupboards, Litter Robot.** Key points of the revision:
+An outdoor kitchen on the **narrow section** comprising **5 modules in a single straight run** under a continuous stainless worktop, left → right: **sink, fridge, BBQ, double cupboards, Litter Robot.** Key points:
 
 - The **sink is now at the south (left) end, positioned directly above the WC on the floor below** so the waste can drain straight down. The **two existing plumbing + electrical conduits are retained in the cupboard below the sink**, boxed in and **well ventilated to the side and rear**.
 - The **Litter Robot store (former Store 2) has moved up to the north (right) end of the run** and is now **built into the kitchen line under the same continuous stainless worktop** (see Part G).
@@ -1144,7 +1134,7 @@ Built to match the storage units and planters:
 
 ### Worktop
 
-- **Material:** **304 stainless steel, brushed / satin finish** — fabricated to size with cut-outs for sink, BBQ head and (eventually) fridge ventilation grille. ~£500-£800 for the **3.3m × 0.7m** piece needed for the linear 5-module layout
+- **Material:** **304 stainless steel, brushed / satin finish** — fabricated to size with cut-outs for sink, BBQ head and (eventually) fridge ventilation grille. ~£500-£800 for the **~4.2m × 0.7m** piece needed for the linear 5-module layout
   - **Brushed finish is essential outdoors** — polished stainless shows every water spot, raindrop and salt-aerosol mark within weeks at a coastal site. Brushed absorbs the marks into the grain direction and stays looking premium.
   - Grain direction to run parallel to the front edge of the worktop (matches the sink's brushed grain)
   - Heat-resistant (BBQ-adjacent), lightweight (good for roof load)
@@ -1158,7 +1148,7 @@ Built to match the storage units and planters:
   - Lockable, digital thermostat (0–10°C), fan-assisted frost-free with auto defrost
   - Dimensions: 555W × 495D × 850H mm — fits a standard 600mm cabinet bay with margin
   - Matches the BBQ brand (Beefeater) — visual continuity in stainless finish
-- **Position:** module 2 — **to the left of the BBQ** (revised 5 June), with a cupboard beyond it; worktop running continuously over the top
+- **Position:** module 2 — **to the left of the BBQ**, with a cupboard beyond it; worktop running continuously over the top
 - **Power:** plugs into a 13A socket inside the cabinet (junction off **Socket #5** in Part K — single feed, switched on at the wall when needed)
 - **Ventilation:** front-vented unit — keep front grille clear and ensure cabinet bay has the recommended manufacturer airgap above and behind
 
@@ -1204,8 +1194,8 @@ Built to match the storage units and planters:
 | BBQ head | Beefeater Signature 3000E 4-burner built-in | £896 |
 | Sink | Caple Zero 1 Bowl 400×450mm brushed stainless | £346 |
 | Tap | Caple Robo brushed stainless monobloc (cold-only) | £190 |
-| Worktop | **304 brushed stainless, 3.3m × 0.7m fabricated** | **~£500-£800** |
-| Cabinet | **Salvaged hardwood + marine ply inner (5 modules, ~3.3m run)** | **~£500-£700** |
+| Worktop | **304 brushed stainless, ~4.2m × 0.7m fabricated** | **~£500-£800** |
+| Cabinet | **Salvaged hardwood + marine ply inner (5 modules, ~4.2m run)** | **~£500-£700** |
 | Fridge | Beefeater Single Door Outdoor Tropical 118L | £1,299 |
 | Plumbing / hardware | Pipe fittings, vents, hinges, drain trap, gas bottle, ball valve | ~£200 |
 | **TOTAL** | | **~£3,931-£4,431** |
@@ -1218,8 +1208,8 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 - **Gas Safe-compliant LPG cabinet venting** — preferred grille type / sizing for the bottle compartment
 - **Whether to install a second socket** flush with the worktop area, or to keep using socket #5 only
 - **Whether the kitchen unit's base needs to be on stainless feet** like the storage units, or sit directly on the Protectoboard (to be coordinated with the waste pipe routing)
-- **Confirmation of 3.3m total kitchen length** — fits within the available west-parapet run on the narrow section
-- **Cabinet layout** — revised 15 June to **Sink / Fridge / BBQ / Double cupboards / Litter Robot** (L→R). Confirm: (a) the **sink sits squarely over the WC below** for a clean gravity-drain run, (b) the **2 existing conduits** fit and vent properly in the sink cupboard, and (c) the **Litter Robot store width (1.05m)** works under the continuous worktop at the north end
+- **Confirmation of the ~4.2m total kitchen length** — fits within the available west-parapet run on the narrow section
+- **Cabinet layout** — **Sink / Fridge / BBQ / Double cupboards / Litter Robot** (L→R). Confirm: (a) the **sink sits squarely over the WC below** for a clean gravity-drain run, (b) the **2 existing conduits** fit and vent properly in the sink cupboard, and (c) the **Litter Robot store width (1.05m)** works under the continuous worktop at the north end
 
 ---
 
@@ -1227,19 +1217,17 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 
 > **🗓 Phase 1** — Stores 1, 2 and 4 (none depend on the building; Store 2 goes in with the kitchen run). See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-**Three** outdoor storage cabinets *(revised 15 June — was four)* — **Store 1** (narrow, general), **Store 2** (the Litter Robot store, now built into the north end of the outdoor kitchen run — see Part F), and **Store 4** (main section). **Store 3 has been removed** (its conduit-covering job is now done by the cupboard below the kitchen sink). All built from salvaged hardwood deck boards (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves.
+**Three** outdoor storage cabinets — **Store 1** (narrow, general), **Store 2** (the Litter Robot store, built into the north end of the outdoor kitchen run — see Part F), and **Store 4** (main section). All built from salvaged hardwood deck boards (matching the planters and outdoor kitchen aesthetic). **Cabinet-style:** front-opening doors with internal shelves.
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
 ## Inventory
 
-*(Revised 15 June 2026 to match the latest drawings — Store 3 removed, Store 2 moved into the kitchen run.)*
-
 | # | Position | Footprint (W × D) | Notes |
 |---|---|---|---|
-| **1 — Narrow, general** | Narrow section (per 15 June drawing) | **1.10 × 0.75m** × **~1.0m high** | General narrow-section storage; cupboard with internal shelves. Bee bricks integrated into an external face (Part D). *(The conduit-boxing previously noted here is now handled in the kitchen sink cupboard — Part F.)* |
-| **2 — Litter Robot** (now in the kitchen run) | **North end of the outdoor kitchen run** (per 15 June drawing) | **1.05 × 1.00m** × under the kitchen worktop (~0.9m) | Houses the cat's **Litter Robot 4/5** — the 1.0m depth gives the room the LR needs (~686mm deep + cat-landing space). **Built into the kitchen line under the continuous stainless worktop** (Part F). **Cat flap** in the front face + **240V power** (Part K). |
-| **4 — Main (NE) store** | NE of the main section | **1.60 × 1.20m** × **~1.2m high** *(reduced from 1.80m, 14 June — lets the sofa/seating area slide slightly north)* | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions, hot tub chemicals. |
+| **1 — Narrow, general** | Narrow section | **1.10 × 0.75m** × **~1.0m high** | General narrow-section storage; cupboard with internal shelves. Bee bricks integrated into an external face (Part D). Conduit-boxing is handled in the kitchen sink cupboard (Part F). |
+| **2 — Litter Robot** (in the kitchen run) | **North end of the outdoor kitchen run** | **1.05 × 1.00m** × under the kitchen worktop (~0.9m) | Houses the cat's **Litter Robot 4/5** — the 1.0m depth gives the room the LR needs (~686mm deep + cat-landing space). **Built into the kitchen line under the continuous stainless worktop** (Part F). **Cat flap** in the front face + **240V power** (Part K). |
+| **4 — Main (NE) store** | NE of the main section | **1.60 × 1.20m** × **~1.2m high** | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions, hot tub chemicals. |
 
 > **Heights:** Store 1 is **~1.0m high to line up with the narrow-section railings** (Part H) for a clean, consistent line; the **Litter Robot store (Store 2) sits under the ~0.9m kitchen worktop**; **Store 4 is ~1.2m high**. All sit below parapet height.
 
@@ -1283,7 +1271,7 @@ Because access is via front doors, the roof is a **fixed sloped top** with no op
 
 - 18mm marine ply, ~250-300mm deep, full width of unit
 - **Store 2 (Litter Robot):** **no shelf at LR level** — the LR takes most of the bay; any spare width can take a narrow shelf above.
-- **Store 1:** general cupboard storage / shelves. *(Conduit boxing has moved to the kitchen sink cupboard — Part F.)*
+- **Store 1:** general cupboard storage / shelves.
 - **Store 4 (main):** **2-3 vertical bays** of shelving (full-width single shelves, or divided depending on what's stored). Sized to fit the hot tub cover when folded as one option.
 - Stainless ply support cleats screwed to the side walls
 
@@ -1543,12 +1531,12 @@ Restrained counts — picking out specimens, olives and corners rather than blan
 
 | Zone | Area | Fittings | Count |
 |---|---|---|---|
-| **1** | South-end pot cluster (5 pots) + pots west of N3 | 1 on the central olive pot, 1 grazing the wider cluster, 1 on the W-of-N3 group | **3** |
+| **1** | South-end pot cluster (4 pots) + pots west of N3 | 2 across the pot cluster, 1 on the W-of-N3 group | **3** |
 | **2** | Narrow section planters **N1 + N2 + N3** | 3 along the long N1 east run (one per olive), 1 in N2, 1 in N3 | **5** |
 | **3** | Dining area — planter **M1** (L-shape) | 1 per olive (2) + 1 corner accent | **3** |
 | **4** | Lounge SE corner — planter **M2** (L-shape) | 1 per olive (2), 1 on the Cynara focal, 1 picking out the corner Phormium | **4** |
-| **5** | Sauna / wet room **door downlights** *(the M3 planter uplighter is removed — M3 deleted 14 June)* | 2× eave/soffit door downlights | **0 + 2** |
-| **6** | Hot tub — planter **M7 (west)** *(M5 east + M6 north removed 14 June)* | 1 uplighter on M7, **angled away from the tub seating** so it doesn't dazzle | **1** |
+| **5** | Sauna / wet room **door downlights** | 2× eave/soffit door downlights | **0 + 2** |
+| **6** | Hot tub — planter **M7 (west)** | 1 uplighter on M7, **angled away from the tub seating** so it doesn't dazzle | **1** |
 
 **Total:** ~16 uplighters + 2 downlights.
 
