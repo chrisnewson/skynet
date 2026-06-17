@@ -1233,7 +1233,7 @@ Total: ~£4,000-4,400 across the 5-module linear layout.
 |---|---|---|---|
 | **1 — Narrow, general** | Narrow section (per 15 June drawing) | **1.10 × 0.75m** × **~1.0m high** | General narrow-section storage; cupboard with internal shelves. Bee bricks integrated into an external face (Part D). *(The conduit-boxing previously noted here is now handled in the kitchen sink cupboard — Part F.)* |
 | **2 — Litter Robot** (now in the kitchen run) | **North end of the outdoor kitchen run** (per 15 June drawing) | **1.05 × 1.00m** × under the kitchen worktop (~0.9m) | Houses the cat's **Litter Robot 4/5** — the 1.0m depth gives the room the LR needs (~686mm deep + cat-landing space). **Built into the kitchen line under the continuous stainless worktop** (Part F). **Cat flap** in the front face + **240V power** (Part K). |
-| **4 — Main (NE) store** | NE of the main section | **1.60 × 1.20m** × **~1.2m high** *(reduced from 1.80m, 14 June — lets the sofa/seating area slide slightly north)* | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions. **Child-safe lock** if hot tub chemicals stored here. |
+| **4 — Main (NE) store** | NE of the main section | **1.60 × 1.20m** × **~1.2m high** *(reduced from 1.80m, 14 June — lets the sofa/seating area slide slightly north)* | General terrace storage — hot tub cover when off, BBQ accessories, garden tools, cushions, hot tub chemicals. |
 
 > **Heights:** Store 1 is **~1.0m high to line up with the narrow-section railings** (Part H) for a clean, consistent line; the **Litter Robot store (Store 2) sits under the ~0.9m kitchen worktop**; **Store 4 is ~1.2m high**. All sit below parapet height.
 
@@ -1294,7 +1294,6 @@ Because access is via front doors, the roof is a **fixed sloped top** with no op
 - **Hinges:** A4 / 316 stainless butt hinges (external/exposed) — typically 2 pairs per door
 - **Door handles:** A4 / 316 stainless drop or D-handles
 - **Latches:** stainless magnetic catches inside; visible **stainless turn-knob latch** or recessed lock on the front face
-- **Lock:** child-safe lock specifically on unit #4 if hot tub chemicals stored there
 - **All exposed fixings:** A4 / 316 stainless. **Internal / hidden bracketry and shelf cleats can be A2 / 304** (cost saving — A2 is fine where it's not exposed to salt aerosol).
 
 ## Litter Robot + cat-flap detail (Store 2)
@@ -2259,7 +2258,7 @@ The mast lifts out so the surface can be capped flush over winter.
 | 4 | Double cupboards | ~1.0–1.2m | General BBQ / kitchen storage |
 | 5 | Litter-Robot store | 1.05m × 1.0m deep | Litter Robot under the worktop; **cat flap + 240V** (Part K) |
 
-**7. Storage (Part G)** — **Store 1** (narrow general, 1.10×0.75m, ~1.0m high) and **Store 4** (main NE, 1.60×1.20m, ~1.2m high, **child-safe lock** for chemicals). **Built from the salvaged deck boards on a marine-ply frame**, matching the planters and kitchen; cabinet-style front-opening with stainless hinges/handles; **bee bricks** on Store 1's external face. *(Store 2 = Litter Robot, in the kitchen run; Store 3 removed.)*
+**7. Storage (Part G)** — **Store 1** (narrow general, 1.10×0.75m, ~1.0m high) and **Store 4** (main NE, 1.60×1.20m, ~1.2m high). **Built from the salvaged deck boards on a marine-ply frame**, matching the planters and kitchen; cabinet-style front-opening with stainless hinges/handles; **bee bricks** on Store 1's external face. *(Store 2 = Litter Robot, in the kitchen run; Store 3 removed.)*
 
 **8. Railings (Part H)** — keep the **east + west railings in place at current height**; remove the centre + short runs; add **wires (or low timber upstand + wires) on top** for guarding height + bird-proofing. Confirm no LBC issue (ref notes).
 
