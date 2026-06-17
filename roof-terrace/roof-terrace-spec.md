@@ -146,7 +146,7 @@ The **flat-roof replacement is going ahead as a separate job**. **Scaffolding go
 | Part | Phase | Phasing note |
 |---|---|---|
 | **A — Roof Build-up & Structure** | **1** | The roof job itself + the tiling substrate. Carries the critical penetration and levels provisions. |
-| **B — Tiling** | **1** | Tile the bulk in Phase 1, **but leave the sauna/wet-room and hot-tub footprints un-tiled / tile-ready**, and **set out all Phase-2 pedestal clusters now** (hot tub, parasols, building). |
+| **B — Tiling** | **1** | **Tile the whole terrace in Phase 1, including the hot-tub area** (tub craned on top later, on a dense pedestal cluster + load-spreading base). Only the **sauna/wet-room building footprint** is left un-tiled (the building bears on the roof build-up). **Set out all Phase-2 pedestal clusters now** (hot tub, parasols, building). |
 | **C — Planters** | **1** | **All planters in Phase 1** *(16 June)*, built from salvaged deck boards. M7 (beside the hot-tub footprint) built ahead of the Phase-2 crane lift — accepted small risk; coordinate the crane path. |
 | **D — Planting** | **1** | Follows the planters; **final planting plan still to be agreed**. |
 | **E — Outdoor Tap** | **1** | — |
@@ -159,7 +159,7 @@ The **flat-roof replacement is going ahead as a separate job**. **Scaffolding go
 | **L — Fall Protection (Glass)** | **2** | **All glass is Phase 2** *(updated 16 June)*: a **west dining screen** (top 1400mm above FFL) plus **two hot-tub runs** (2000mm above FFL; north-wall run 2800mm long). The south/east dining glass stays deleted (M2 planters guard there). All fixes into parapet masonry — **no roof lock-in** — so it waits with the tub. Run in sections to save cost; SE sets the bottom height per run. |
 | **M — Sauna** | **2** | Building — needs consent. *Phase-1 provision:* floor-drain penetration through the roof + heater/light/socket cabling first-fix. |
 | **N — Wet Room** | **2** | Building — needs consent. *Phase-1 provision:* WC soil + linear-drain + basin + electric-shower + external-shower penetrations, and electrical first-fix. |
-| **O — Hot Tub** | **2** | Arrives by **crane** in Phase 2 (see below). *Phase-1 provision:* 32A radial first-fix, drain penetration, pedestal/continuous-base area set out, footprint left tile-ready. |
+| **O — Hot Tub** | **2** | Arrives by **crane** in Phase 2 — in the **single post-consent lift** with the Phase-2 materials (see below). *Phase-1 provision:* 32A radial first-fix, drain penetration, and a **dense pedestal cluster + continuous load-spreading base under the (Phase-1-tiled) tub area**; the tub is placed on top later. |
 | **P — Parasols** | **2** | "Umbrellas" — with the building. *Phase-1 provision:* the **recessed base pockets + load-spread** for the two bases (set into / below the tiling on the raised FA2 section, bearing on the Protectoboard) set out **before** the pedestal grid is fixed. |
 | **Q — Study Door / Window** | **2** | Fenestration change → LBC. *Phase-1 provision:* set the narrow-section tile FFL so the future lowered, level threshold will work. |
 
@@ -170,22 +170,20 @@ These are Phase-2 items, but they **must be physically built / set out during Ph
 1. **All roof penetrations — including the Phase-2 ones — set out and capped before the roofer closes up.** The sauna floor drain, the wet-room linear drain + basin + electric-shower + external-shower, the **WC 110mm soil**, and the **hot-tub drain** all pierce the roof. The roofing contractor can insert and cap them for us to connect later — *but only if they have the exact positions in advance* (Part A). **This is the single highest-risk item: a missed penetration can't be added without opening the new roof.**
 2. **Service first-fix under the tiles — capped and labelled.** Hot-tub **32A radial** (Part O), sauna **40A heater feed** (Part M), wet-room **electric-shower 45A + light + fan** (Part N), terrace sockets (Part K), and the **cold-water tees** for the tap, kitchen, external shower and wet room (Parts E, F, N). Routed in the pedestal void before the tile finish goes down.
 3. **Pedestal clusters / load-spread positions set out under every future heavy load — before the pedestal grid is fixed.** The hot tub, the two parasol bases, and the building footprint (Part B). Adding pedestals under a finished tile field means lifting tiles. **The two parasol bases are to be recessed into / below the tiling** (into the pedestal void on the raised FA2 tiling, bearing on the Protectoboard — Part P), so their **recess pockets + load-spreading plates must be formed before the tile field is laid.**
-4. **Leave the building + hot-tub footprints un-tiled (tile-ready), and protect the un-tiled inverted insulation.** The exposed inverted-roof insulation in those zones **needs ballast / weather protection through the consent wait** (Part A). The stored Phase-2 materials (below) can double as interim ballast.
+4. **Leave only the sauna/wet-room building footprint un-tiled** — the building is built on the roof build-up in Phase 2, so you tile up to it then. **The hot-tub area IS tiled in Phase 1** (the tub is craned onto it later). Protect the exposed insulation in the un-tiled building footprint with **ballast / weather protection through the consent wait** (Part A).
 5. **Set the narrow-section tile FFL to suit the Phase-2 lowered study threshold** (Part Q), so the level access works once the new door/window goes in.
 
-## Materials on site during the scaffold window
+## Phase-2 materials and the hot tub — one crane lift, after consent
 
-> **Why staging matters: the scaffold likely comes down before consent arrives.** The scaffold is down around **late September 2026**, but Listed Building Consent on a Grade I building usually takes a couple of months from validation — so Phase 2 probably **cannot be built before the scaffold goes**. That makes staging the Phase-2 materials up now (and the hot tub by crane later) the expected path, not a contingency.
+**Decided:** rather than pre-staging Phase-2 materials up the scaffold before consent, **everything for Phase 2 comes up together in a single builder-orchestrated crane lift, once Listed Building Consent is through** — the Phase-2 materials *and* the hot tub in the same operation.
 
-Hoist up **for both phases** while the scaffold is here, and stage in the **building / hot-tub zone** (which is left un-tiled anyway): tiles + pedestals, planter / storage / kitchen timber, PIR insulation, cladding, **glass panels (dining + hot-tub)**, parasols + weighted bases, the sauna kit, and the doors + window.
+**Why this way:** the consent-dependent items are the expensive, design-specific ones — the **sauna kit, cladding, the glass (cut to the final layout), the hot tub, parasols, and the door/window**. Buying and lifting them only **after** consent removes the risk of paying for things planning might still change on a Grade I listed scheme. A crane is needed for the hot tub anyway, so adding the materials to that one mobilisation is largely marginal — one survey, one set of permits, one oversail consent. The terrace is **fully usable after Phase 1 regardless** (tiled, planted, kitchen, tap, lighting); only the sauna / tub / glass are pending.
 
-> **Decision point — taken near the end of the roof + exterior-decoration contract, while the scaffold is still up.** We won't commit to hauling the Phase-2 materials up at the start. Instead, **towards the end of the main roof and exterior-decoration works** we'll decide whether to get the Phase-2 materials onto the roof, weighing two things:
-> - **How planning is progressing** — if consent looks close and smooth, staging the materials now (while the scaffold pays for itself) is clearly worth it.
-> - **The builder's advice on the cost and method of getting the materials up later** if a **big delay** looks likely — i.e. how expensive / practical an alternative route is (re-scaffold, crane, or access through the building once it's built). If a later lift is cheap and easy, we may choose not to clutter the roof now; if it's costly, we stage now regardless.
->
-> Chris to make this call with Ronan and the builder at that point — it isn't fixed in advance.
+**The whole terrace — including the hot-tub area — is tiled in Phase 1.** Only the **sauna/wet-room building footprint** is left un-tiled (the building bears on the build-up; tile up to it once built). The hot tub is **placed on its Phase-1-tiled footprint** (over the dense pedestal cluster + load-spreading base) in the post-consent lift. **Spare tiles are held in the client's garage** to make good if anything has to be lifted and relaid after a planning-driven change.
 
-> **The hot tub is the exception.** At ~1,120–1,280kg and ~2.1 × 1.5m it can't be winched up a domestic scaffold — both the weight and the size rule it out. It needs a **lorry-mounted (HIAB) or mobile crane that lifts up and over**, which is **scheduled independently of the scaffold**. So the hot tub **comes later, in Phase 2, by crane, once consent is through** — it does not need to come up during the scaffold window. *(Confirm the crane access route / reach now, per Part O, so it isn't a late surprise.)*
+**The lift (see Part O):** a **mobile-crane contract lift** — *not* a lorry-loader (the terrace is ~3 storeys up and ~10–15 m in from the rear street, past a lorry-loader's envelope). The crane lifts the tub **empty** (dry weight a few hundred kg), so **reach and access — not weight — are the constraint.** The **builder coordinates** it: crane survey, the Brighton & Hove **road-closure / parking-suspension permit**, **oversail consent** from affected neighbours (the jib swings over adjoining property), and **ground-bearing checks** (Regency pavements often have vaults beneath). The hot-tub dealer supplies the tub kerbside with its designated lifting points; a specialist crane firm executes the lift.
+
+**Phase-2 build access:** the crane only *places* materials — it doesn't give working-at-height access to build the sauna and fix the parapet glass. That is expected to be do-able **off the terrace with a mobile tower/podium** (the building is single-storey and set 3 m back; the glass fixes to the inner parapet face) — **confirm with the builder** so a re-scaffold isn't needed.
 
 [↑ Back to Contents](#contents)
 
@@ -214,7 +212,7 @@ Hoist up **for both phases** while the scaffold is here, and stage in the **buil
 
 # PART A — ROOF BUILD-UP & STRUCTURE (ASPHALT, INSULATION, JOISTS)
 
-> **🗓 Phase 1** — the roof job itself + the tiling substrate. This Part carries the **critical Phase-1 provisions** (roof penetrations, levels, ballast of the un-tiled zones). See [Programme & Phasing](#programme--phasing--two-phase-delivery), and the "Programme / phasing" subsection below.
+> **🗓 Phase 1** — the roof job itself + the tiling substrate. This Part carries the **critical Phase-1 provisions** (roof penetrations, levels, ballast of the un-tiled building footprint). See [Programme & Phasing](#programme--phasing--two-phase-delivery), and the "Programme / phasing" subsection below.
 
 This section is foundational to most others — please read alongside PART O (hot tub), PART B (tiling), and PART C (planters), since loads from those land here.
 
@@ -416,20 +414,21 @@ The engineer notes the ~50% remaining joist capacity is **a comfortable margin t
 
 # PART B — TERRACE TILING SYSTEM
 
-> **🗓 Phase 1** — but with two Phase-2 carve-outs. **Leave the sauna/wet-room and hot-tub footprints un-tiled (tile-ready)** until those Phase-2 elements are built, and **set out all the Phase-2 pedestal clusters now** (hot tub, parasol bases, building footprint) before the pedestal grid is fixed. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 1** — with one Phase-2 carve-out. **Tile the whole terrace in Phase 1, including the hot-tub area** (the tub is craned on top later, on a dense pedestal cluster + load-spreading base); leave **only the sauna/wet-room building footprint** un-tiled (the building bears on the build-up — tile up to it once built). **Set out all the Phase-2 pedestal clusters now** (hot tub, parasol bases, building footprint) before the pedestal grid is fixed. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-**Estimated tiled area: ~104m²** (of the ~120m² gross terrace footprint, once the building, hot tub, kitchen and storage footprints are subtracted).
+**Estimated tiled area: ~107m²** (of the ~120m² gross terrace footprint, once the building, kitchen and storage footprints are subtracted — the hot-tub area **is** tiled in Phase 1, with the tub craned on top later).
 
 > **Agreed at the 4 June meeting:** **tile the whole roof area and build the planters on top of the finished tile field** (rather than building the planters off the Protectoboard). So **planters are not subtracted** from the tiled area. (See Part C.)
 
 | Subtraction | Approx m² |
 |---|---|
 | Sauna/wet room building external footprint (~2.90 × 2.49m) | ~7.2 |
-| Hot tub (~2.07 × 1.53m) | ~3.2 |
 | Outdoor kitchen run incl. the Litter Robot store (~4.2m run, 0.7m deep / 1.0m at the litter end) | ~3.3 |
 | Storage units — Store 1 (~0.8) + Store 4 (~1.9) *(Store 2 counted in the kitchen run; Store 3 removed)* | ~2.7 |
-| **Total subtracted** | **~16.4** |
-| **Net tiled area (gross 120m² − subtractions)** | **~104m²** |
+| **Total subtracted** | **~13.2** |
+| **Net tiled area (gross 120m² − subtractions)** | **~107m²** |
+
+*(The hot-tub footprint is **not** subtracted — the hot-tub area is tiled in Phase 1 and the tub sits on top.)*
 
 **The lift bulkhead is tiled over** (concealing the structure), with the tiling adding **as little extra area as possible beyond the existing bulkhead footprint** — i.e. tile the bulkhead itself, don't spread a tiled apron around it. The **N4 planter (Part C) then matches that tiled bulkhead footprint exactly** and sits on top. So the bulkhead area is part of the tiled field and is **not** subtracted.
 
@@ -510,7 +509,7 @@ Open joints throughout, as dictated by the pedestal head's spacer tabs (typicall
 
 The finished tile level needs to coordinate with:
 - **Sauna and wet room door thresholds** — pedestal + tile build-up is typically 60–150mm above the asphalt depending on falls
-- **Hot tub base** — recessed under-tile base detail (see PART O)
+- **Hot tub base** — the tub sits on the **Phase-1-tiled area over a dense pedestal cluster + continuous load-spreading base** (the shell needs full, level support — not spaced pavers); craned on in Phase 2 (see PART O)
 - **Parasol bases** — heavy bases **recessed into / below the tiling** (set into the pedestal void on the raised FA2 tiling, bearing on the Protectoboard via a load-spreading plate; mast collared flush at the tile plane) — see PART P
 - **Linear drain in wet room** — continuity of tanking and falls
 - **Lift bulkhead** — tiling must clear the bulkhead and not bridge or trap services
@@ -546,7 +545,7 @@ The finished tile level needs to coordinate with:
 
 ## What we'd value your steer on
 
-- **Structural sign-off** for ~104m² of 30mm porcelain + pedestals + furniture / occupancy load. Usually fine but worth on record before contractors price it
+- **Structural sign-off** for ~107m² of 30mm porcelain + pedestals + furniture / occupancy load. Usually fine but worth on record before contractors price it
 - **Pedestals on the inverted insulation** — see the ⚠ open question immediately above (bearing on the IKO Enertherm WCL/XPS, the 80 kg/m² wind-uplift requirement, and the raised-FA2 support). The single biggest tiling unknown
 - **Total build-up height** at the highest and lowest points of the falls — needed to confirm sauna / wet room door threshold heights and the hot tub / parasol base recess depths
 - **Edge detail** at the parapet / planter / glass balustrade interfaces — how the tile field terminates cleanly without a visible pedestal edge
@@ -2091,7 +2090,7 @@ Grouped on the terrace wall beside the wet room door, IP55+ weatherproof:
 
 # PART O — HOT TUB
 
-> **🗓 Phase 2** (needs planning/LBC). It arrives **by crane in Phase 2**, scheduled independently of the scaffold (it's too heavy/bulky to winch up — see [Programme & Phasing](#programme--phasing--two-phase-delivery)). *Phase-1 provisions to build in now:* the 32A radial first-fix, the drain roof penetration, the pedestal/continuous-base area set out, and the footprint left tile-ready.
+> **🗓 Phase 2** (needs planning/LBC). It arrives **by crane in Phase 2** — in the **single post-consent crane lift** that also brings up the Phase-2 building materials, glass and parasols (see [Programme & Phasing](#programme--phasing--two-phase-delivery)). *Phase-1 provisions to build in now:* the 32A radial first-fix, the drain roof penetration, and a **dense pedestal cluster + continuous load-spreading base under the (Phase-1-tiled) tub footprint**; the tub is placed on top later.
 
 We're planning to site a hot tub on the terrace alongside the sauna/wet room building. Including this here because the **structural loading on the terrace deck is the critical question for you**, and the model choice drives weight, footprint, and electrical supply. Final model TBC; shortlist below in our preferred order.
 
@@ -2155,10 +2154,20 @@ A hot tub holds 700–1,500 litres and is drained periodically (2–3× per year
 - Flow rate to be checked against the chosen outlet — a 1,000L drain via standard hose takes ~30 min, which should be within typical roof-drain capacity but worth confirming.
 - **Fill:** via the outdoor tap (Part E) + garden hose — no fixed fill plumbing required.
 
+## Craning it up — with the Phase-2 materials
+
+The hot tub comes up in the **single post-consent crane lift** that also brings the Phase-2 building materials, glass and parasols (see [Programme & Phasing](#programme--phasing--two-phase-delivery)). From a first look at access:
+
+- **A mobile-crane contract lift, not a lorry-loader (HIAB).** The terrace is ~3 storeys up and ~10–15 m in from the rear street, with a ~2.5 m roadside wall — past a lorry-loader's reach, so a **mid-sized mobile crane** is needed (sized by the lift firm's survey). The crane lifts the tub **empty** (dry/shipping weight is a few hundred kg — confirm with the dealer), so **reach and access, not weight, are the binding constraint.**
+- **Contract lift** (the crane firm owns the survey, lift plan, appointed person and insurance) — the right basis for a one-off lift over a listed building.
+- **The builder coordinates** the lift and the consents: the Brighton & Hove **road-closure / parking-suspension permit**, **oversail consent** from affected neighbours (the jib swings over adjoining property), and **ground-bearing checks** (Regency pavements often have vaults beneath). The hot-tub dealer delivers the tub kerbside with its **designated lifting points**.
+- **Placement:** the tub lands on its **Phase-1-tiled footprint** (over the dense pedestal cluster + load-spreading base) and is protected while the building work finishes, or scheduled last in the lift sequence. The shell needs **full, level support** — confirm the base detail with Ronan / SE / the tub supplier (not spaced pavers alone).
+
 ## What we need from you on this
 
 - **Filled-load sign-off** sits with our SE (see Part A) — Rev A (8 June) confirms two bounding tubs pass with no strengthening; we're awaiting his confirmation of the weight basis and a single maximum filled weight + maximum load per m² to buy within
-- Crane access route up to the terrace. The tub is too heavy/bulky to winch up the scaffold, so it comes **by lorry/mobile crane in Phase 2** once consent is through (independent of the scaffold — see [Programme & Phasing](#programme--phasing--two-phase-delivery)). Please confirm the crane reach / access route **now**, so the later lift isn't a surprise.
+- **Crane lift** — builder to commission a **contract-lift survey** of the rear street now (crane size, set-up position, permits, oversail, ground bearing), so the post-consent lift isn't a late surprise. See "Craning it up" above.
+- **Hot-tub base detail** — the continuous, fully-supported level base under the Phase-1-tiled tub footprint (dense pedestals + load-spreading deck), to suit the tub manufacturer's base requirement
 - Best drain route on the terrace — which existing outlet to discharge into, and any tundish / trap detail you'd want
 
 [↑ Back to Contents](#contents)
@@ -2167,7 +2176,7 @@ A hot tub holds 700–1,500 litres and is drained periodically (2–3× per year
 
 # PART P — PARASOLS
 
-> **🗓 Phase 2** ("umbrellas" — with the building). Bring the parasols + bases up during the scaffold window and store them. *Phase-1 provision to build in now:* the **recessed base pockets in the pedestal void** (bearing on the Protectoboard) and the load-spread positions for the two bases, set out **before** the pedestal grid is fixed — both bases are on the ~300mm raised FA2 tiling. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 2** ("umbrellas" — with the building). The parasols + bases come up in the **single post-consent crane lift** with the other Phase-2 materials. *Phase-1 provision to build in now:* the **recessed base pockets in the pedestal void** (bearing on the Protectoboard) and the load-spread positions for the two bases, set out **before** the pedestal grid is fixed — both bases are on the ~300mm raised FA2 tiling. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 We've used Morton Parasols before and want to use them again, or an equivalent commercial-grade alternative. Reference: [Morton Malaga commercial parasol](https://www.mortonparasols.com/commercial/malaga/).
 
@@ -2257,7 +2266,7 @@ Access from the flat onto the terrace is via the existing **door/window from the
 - **➡ This builder then supplies and lays the IKO Protectoboard over BOTH sections** (work section 2.0) as the protection/separation layer and pedestal substrate — see Tiling below. *(Confirm with IKO whether the inverted section also needs the Enertherm WCL/filter under the Protectoboard so the 20-year guarantee stands.)*
 - **🚨 Highest-risk coordination item:** the builder must issue **exact positions of ALL roof penetrations — Phase 1 *and* Phase 2 — and the finished levels (FFLs by zone + the future study threshold) to the roofer BEFORE the roof is closed.** The roofer installs and caps the penetrations; a missed one cannot be added without opening the new roof.
 - **Coordinate the strip-out so the good hardwood deck boards are set aside on site** (work section 0) for reuse in the planters, kitchen and storage — not skipped with the roof waste. **The structural roof joists are retained** (per the SE's calcs) and must not be removed.
-- The **un-tiled building and hot-tub zones** are left exposed for the consent wait and need **interim ballast / weather protection** — coordinate with the roofer (stored Phase-2 materials can double as ballast).
+- The **un-tiled building footprint** is left exposed for the consent wait and needs **interim ballast / weather protection** — coordinate with the roofer. (The hot-tub area is tiled in Phase 1.)
 
 ## Work sections
 
@@ -2282,9 +2291,9 @@ Access from the flat onto the terrace is via the existing **door/window from the
 | Ref | Item | Scope & key specification | Approx qty | Notes / Ronan to confirm |
 |---|---|---|---|---|
 | 2.0 | Protectoboard substrate | Supply & lay **IKO Protectoboard (3.2mm)** over **both** sections, on top of what the roof contract leaves — over the **XPS insulation** on the inverted main and over the **Permaphalt asphalt** on the warm narrow. This is the protection/separation layer the pedestals sit on. No acoustic underlay mat over it | ~120 m² (gross) | Confirm with IKO whether the inverted section also needs the **Enertherm WCL/filter** under the Protectoboard to keep the guarantee. **Ronan to confirm the hot-tub load can bear on the Protectoboard build-up** (concentrated point load → pedestals → Protectoboard → XPS → deck — may need local load-spreading) |
-| 2.1 | 30mm porcelain on pedestals | 30mm porcelain (R11, frost/coastal-rated, sandstone tone, ≥600×600) on **Eterno Ivica (or equivalent equal-spec)** self-levelling padded pedestals; open joints; acoustic zoning — pads **top+bottom** (main) / **single** (narrow) / **basic** (over lift bulkhead) | ~104 m² | Tile range **PC sum** until colour chosen; **confirm 30mm available in the tone within the scaffold window**. Builder may substitute an **equivalent-spec pedestal** (Buzon etc.) if cheaper |
+| 2.1 | 30mm porcelain on pedestals | 30mm porcelain (R11, frost/coastal-rated, sandstone tone, ≥600×600) on **Eterno Ivica (or equivalent equal-spec)** self-levelling padded pedestals; open joints; acoustic zoning — pads **top+bottom** (main) / **single** (narrow) / **basic** (over lift bulkhead) | ~107 m² | Tile range **PC sum** until colour chosen; **confirm 30mm available in the tone within the scaffold window**. Builder may substitute an **equivalent-spec pedestal** (Buzon etc.) if cheaper |
 | 2.2 | Levels & steps | 3 zones / 2 levels: FA1 narrow low; **FA2 dining +300mm on ~400mm pedestals, 5.75×5.1m**; FA3 low ~100mm. **Two flights of 3 steps** (400mm tread / 100mm rise): FA1→FA2 up; FA2→FA3 down on FA2's north side, 1500mm wide | — | Step going/rise/nosings + handrail/guarding to **Approved Doc K** — Ronan / BC |
-| 2.3 | Phase-2 provisions | Leave the **sauna/wet-room and hot-tub footprints un-tiled (tile-ready)**; set out & install **all Phase-2 pedestal clusters / load-spread now** (hot tub, 2 parasol bases, building footprint); **form the recessed parasol-base pockets in the raised FA2 tiling** (bearing on the Protectoboard) before tiling | — | Adding pedestals — or a base recess — under a finished tile field = lifting tiles |
+| 2.3 | Phase-2 provisions | Leave **only the sauna/wet-room building footprint** un-tiled (building bears on the build-up); **tile the hot-tub area in Phase 1** over a **dense pedestal cluster + continuous load-spreading base** (tub craned on top in Phase 2). Set out & install **all Phase-2 pedestal clusters / load-spread now** (hot tub, 2 parasol bases, building); **form the recessed parasol-base pockets** before tiling | — | Adding pedestals — or a base recess — under a finished tile field = lifting tiles |
 | 2.4 | Overage | Order +10–15% tiles; surplus to client's garage at Sussex Square | — | |
 
 **3. Planters — all built in Phase 1, from the salvaged deck boards (section 0.1)**
@@ -2303,7 +2312,7 @@ Access from the flat onto the terrace is via the existing **door/window from the
 | **M7** | West of hot tub | 2.0m × 600mm | +150mm above the tub rim |
 
 - **Soil / drainage / mulch:** drainage layer, topsoil / lightweight mix, mulch to all planters; **4 olive trees** (2 in N1, 1 in M1, 1 in M2) may need a locally deeper root detail (600mm general depth).
-- **M7 sits beside the hot-tub footprint** (left un-tiled tile-ready). Building it now, ahead of the Phase-2 crane lift of the tub, is an **accepted small risk** — coordinate the crane access path with Ronan so M7 isn't in the lift line.
+- **M7 sits beside the hot-tub area** (tiled in Phase 1). Building it now, ahead of the Phase-2 crane lift of the tub, is an **accepted small risk** — coordinate the crane access path with Ronan so M7 isn't in the lift line.
 
 **4. Planting** — supply & plant all planters (incl. the 4 olive trees) + the movable pots. **⚠ The final planting plan is still to be agreed** — treat the plant schedule as a **provisional allowance** until confirmed.
 
@@ -2365,7 +2374,7 @@ Roof waterproofing / insulation / deck and the scaffold (**separate roof contrac
 
 # Specification of Works — Phase 2 (needs planning / LBC)
 
-> **Purpose.** The consent-dependent works, for **Seaview as main contractor**, building on the Phase-1 provisions. **Subject to planning permission / Listed Building Consent** — likely built after the scaffold is down, so Phase-2 materials are **staged up during the Phase-1 scaffold window** and the **hot tub comes by crane**. Same basis as Phase 1 (builder supplies & installs; PC sums where a product isn't finalised; dimensions approximate — verify with Ronan).
+> **Purpose.** The consent-dependent works, for **Seaview as main contractor**, building on the Phase-1 provisions. **Subject to planning permission / Listed Building Consent** — built after the scaffold is down, so **all Phase-2 materials and the hot tub come up together in a single builder-orchestrated crane lift once consent is through** (see [Programme & Phasing](#programme--phasing--two-phase-delivery)). Same basis as Phase 1 (builder supplies & installs; PC sums where a product isn't finalised; dimensions approximate — verify with Ronan).
 
 ## Work sections
 
@@ -2393,7 +2402,7 @@ Roof waterproofing / insulation / deck and the scaffold (**separate roof contrac
 | 3.2 | Fittings | Wall-hung WC + concealed cistern; wall-hung basin + cold tap; **10.5kW electric shower**; external shower | Connect to Phase-1 capped services |
 | 3.3 | Walls / door | Cement-board + porcelain to ceiling, epoxy grout; **762mm cedar door**, outward-opening | |
 
-**4. Hot tub (Part O)** — supply & install the chosen model **within the SE's weight / kg-m² limit**; **crane lift** up and over; connect the Phase-1 32A radial + drain; base on the Phase-1 pedestal cluster / load-spread plate. **PC sum** until the model is chosen. **Confirm the crane access route/reach now.**
+**4. Hot tub (Part O)** — supply & install the chosen model **within the SE's weight / kg-m² limit**; brought up in the **single post-consent crane lift** with the other Phase-2 materials; **placed on its Phase-1-tiled footprint over the dense pedestal cluster + continuous load-spreading base**; connect the Phase-1 32A radial + drain. **PC sum** until the model is chosen. **Builder to coordinate the contract lift, permits and oversail consents** (commission the survey now).
 
 **5. Glass fall protection (Part L) — all three runs.** Frameless toughened **laminated** glass, **side-mounted (point-fixed to the inner face of the parapet)**, run in **sections** to save cost; the **SE sets the bottom height per run**:
 - **West dining screen** — top **1400mm above FFL**, west edge of FA2.
@@ -2408,7 +2417,7 @@ Confirm BC guarding now the hot-tub glass guards the east/north sides directly (
 
 **8. Final M&E (Parts K, J)** — sauna-heater Shelly Plus 1PM + 40A contactor; building eave-soffit downlights; final connections to sauna, wet room and hot tub off the Phase-1 first-fix.
 
-**9. Tiling completion** — tile the **building and hot-tub footprints** left tile-ready in Phase 1, matching the Phase-1 finish. *(All planters and planting are built in Phase 1 — none deferred.)*
+**9. Tiling completion** — tile up to / around the **sauna/wet-room building** once it's built, matching the Phase-1 finish. *(The hot-tub area, all other tiling, planters and planting are done in Phase 1.)*
 
 ## Provisional (PC) sums — Phase 2
 
