@@ -158,7 +158,7 @@ Hoist up **for both phases** while the scaffold is here, and stage in the **buil
 >
 > Chris to make this call with Ronan and the builder at that point — it isn't fixed in advance.
 
-> **The hot tub is the exception.** At ~1,100–1,280kg and ~2.1 × 1.5m it can't be winched up a domestic scaffold — both the weight and the size rule it out. It needs a **lorry-mounted (HIAB) or mobile crane that lifts up and over**, which is **scheduled independently of the scaffold**. So the hot tub **comes later, in Phase 2, by crane, once consent is through** — it does not need to come up during the scaffold window. *(Confirm the crane access route / reach now, per Part O, so it isn't a late surprise.)*
+> **The hot tub is the exception.** At ~1,120–1,280kg and ~2.1 × 1.5m it can't be winched up a domestic scaffold — both the weight and the size rule it out. It needs a **lorry-mounted (HIAB) or mobile crane that lifts up and over**, which is **scheduled independently of the scaffold**. So the hot tub **comes later, in Phase 2, by crane, once consent is through** — it does not need to come up during the scaffold window. *(Confirm the crane access route / reach now, per Part O, so it isn't a late surprise.)*
 
 ---
 
@@ -446,7 +446,7 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 
 > **⚠ Load-bearing — planters, hot tub and parasol bases: detail to the pedestal manufacturer's recommendations.** These concentrated loads sit on the pedestal-and-tile field and **must not point-load a tile mid-span**:
 > - **Planters** (Part C) — heavy **sustained** loads, ~250–350 kg/m² saturated, in long runs on top of the tiles. **The pedestal grid must be designed around every planter** — extra pedestals on the planter bearer lines — and the **sustained weight checked for long-term creep** of the inverted XPS insulation. **Issue every planter footprint to Eterno Ivica + the SE.**
-> - **Hot tub** (Part O) — ~1,160–1,280 kg over ~3.2 m² ≈ **~360–400 kg/m²**
+> - **Hot tub** (Part O) — ~1,120–1,280 kg over ~3.2 m² ≈ **~350–400 kg/m²**
 > - **Parasol bases** (Part P) — heavy (~140–280kg); **strong preference to recess them into / below the tiling (into the pedestal void, bearing on the Protectoboard)** rather than sit proud on the tiles (no roof penetration either way). Recessed, the base bears **directly on the Protectoboard** within the void, so it needs a **load-spreading plate under the base** so it doesn't dent the board / insulation — designed with Eterno Ivica + IKO + SE. Both base positions are on the ~300mm raised FA2 tiling.
 >
 > Their support is to be designed **per Eterno Ivica's published load tables and IKO's point-load guidance** — extra/closer-spaced pedestals on the load lines, the correct pedestal rating, and load spread so the path is base/bearer → tile-over-pedestals → pedestals → **(inverted main: WCL → 190mm XPS insulation → Permaphalt → deck; warm narrow: Protectoboard → Permaphalt → 160mm PIR → deck)**.
@@ -750,7 +750,7 @@ The planting has been designed to provide **wind defence on the north and east p
 - **Layered planting (back / mid / front)** in each planter — tall windbreak species at the back (against parapet), mid-tall in the middle, low/trailing at the front
 - **Olearia × haastii** is the primary back-row windbreak (1-1.5m natural compact dome, ×3 in Sussex Square photos — the most-evidenced tall coastal shrub in our palette)
 - **Pittosporum tobira full species** reserved for the SE L-shape (M2) where the 700mm × 1m-deep planter + tall plant gives a proper tall windbreak; **'Wheeler's Dwarf'** (1m compact cultivar) is the alternative
-- **Hot tub west planter (M7):** low/mid planting on the building side — the east and north hot-tub planters (M5, M6) were removed 14 June to open up the tub, so the east view to the Downs is now entirely clear
+- **Hot tub west planter (M7):** low/mid planting on the building side — the east and north hot-tub planters were removed to open up the tub, so the east view to the Downs is entirely clear
 - **4 olives** distributed as architectural specimens: **2 in N1** (anchoring the 7.2m east leg) + **1 in M1** (dining centre) + **1 in M2** (SE L-shape)
 
 ### Plant lists per planter
@@ -1613,9 +1613,9 @@ To give reliable wifi coverage across the full terrace (hot tub, dining area, sm
 
 # PART L — FALL PROTECTION (GLASS BALUSTRADES & PLANTERS)
 
-> **🗓 Phase 2 (all glass).** *Updated 16 June:* **all glass — the west dining screen and both hot-tub runs — is Phase 2.** It fixes into parapet masonry (no roof penetration), so it locks nothing into the Phase-1 roof and can wait. The earlier south/east dining glass stays **deleted** (planters guard those edges). See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 2 (all glass).** **All glass — the west dining screen and both hot-tub runs — is Phase 2.** It fixes into parapet masonry (no roof penetration), so it locks nothing into the Phase-1 roof and can wait. The south/east dining glass is **deleted** (planters guard those edges). See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-**Change (16 June):** with **Floor Area 2 raised only ~300mm** and the **deepened 1m M2 planters** guarding the south and east parapet edges, the previously-planned **south/east dining glass stays deleted** *(confirm with Ronan / BC that the planter setback satisfies Approved Document K there)*. Two needs remain, both now confirmed as glass — **a west dining screen and two hot-tub runs:**
+With **Floor Area 2 raised only ~300mm** and the **deepened 1m M2 planters** guarding the south and east parapet edges, the **south/east dining glass is deleted** *(confirm with Ronan / BC that the planter setback satisfies Approved Document K there)*. Two glass needs remain — **a west dining screen and two hot-tub runs:**
 
 | Run | Location | Top of glass | Run length | Notes |
 |---|---|---|---|---|
@@ -1638,7 +1638,7 @@ We've chosen frameless toughened laminated glass throughout — keeps the view, 
 
 ## Planters around the hot tub
 
-> **Change (14 June):** the **east and north hot-tub planters (M5, M6) were removed to give the hot tub more space** (Part C). So the previously-planned **500mm planter setback inside the glass no longer runs along the east/north (glazed) sides** — the glass there guards directly, with the tub closer to the parapet line. Only the **west planter (M7)** remains, on the building side (no glass run there). **Flag to building control:** the hot-tub guarding now relies on the glass alone on the east/north, without the planter setback that was previously offered.
+> The **east and north hot-tub planters (M5, M6) were removed to give the hot tub more space** (Part C), so there is **no planter setback inside the glass on the east/north (glazed) sides** — the glass guards directly, with the tub closer to the parapet line. Only the **west planter (M7)** remains, on the building side (no glass run there). **Flag to building control:** the hot-tub guarding relies on the glass alone on the east/north, without a planter setback.
 
 - **M7 (west of tub):** finishes ~150mm above the hot tub rim — wind defence on the building side
 - Visual interest / planting feature on the west side
@@ -1660,7 +1660,7 @@ We've chosen frameless toughened laminated glass throughout — keeps the view, 
 - **Start (bottom) height per run + glass thickness** — the SE (Allan) to set the **bottom fixing height** of each run (west dining, sauna-to-north, north-wall) and size the glass; the **2000mm-above-FFL hot-tub runs are tall cantilevers**, so the inner-face fixing leverage and panel thickness matter most there. Likely 17.5–21.5mm toughened laminated to BS 6180 — supplier's engineer to confirm
 - **Glass depth below the parapet top — the structurally-needed minimum.** With the panels fixed to the inner parapet face, the SE to confirm **how far each panel must extend down below the coping/parapet top** to give the point-fixings enough lever arm for integrity — set to the **minimum that's safe**, since glass hidden behind the parapet adds cost but no guarding height
 - **Panelising into sections** — confirm panel widths that keep cost down without an over-heavy fixing detail
-- **Hot-tub guarding without the planter setback** — now the east/north hot-tub planters are removed (14 June), is the glass alone acceptable to building control along those sides, or does BC want the tub held back from the glass line? (We're not banking on any concession to lower the glass below 1100mm above the rim = 2000mm above FFL.)
+- **Hot-tub guarding without the planter setback** — with the east/north hot-tub planters removed, is the glass alone acceptable to building control along those sides, or does BC want the tub held back from the glass line? (We're not banking on any concession to lower the glass below 1100mm above the rim = 2000mm above FFL.)
 - **Condition of the inner masonry face** behind the proposed fixing line — confirmation it's sound brickwork suitable for resin-anchored point fixings at this exposure
 
 ---
@@ -1711,16 +1711,16 @@ Upper bench is an **L wrapping the SW corner**; the lower step is a **single str
 | Upper bench, south wall (corner return seat) | 950mm | 650mm | ~0.95m (to the heater) |
 | Lower step — **single straight section**, west wall | 450mm | 350mm | runs the southern length, stops clear of the door |
 
-*Revised 5 June 2026:* the **west bench depth is increased to 650mm** so its step front lines up with the south bench / heater line — that lets the **lower step be one clean straight section** instead of jogging round the corner. Total west bench depth is now ~1000mm (650 + 350 step), leaving a ~500mm clear strip down the east side.
+The **west bench is 650mm deep** so its step front lines up with the south bench / heater line — that lets the **lower step be one clean straight section** instead of jogging round the corner. Total west bench depth is ~1000mm (650 + 350 step), leaving a ~500mm clear strip down the east side.
 
 **One person lies full-length** on the 2.15m west bench; the south leg is a **corner return seat** for a second person (the 1.5m south wall is too short to lie along on its own), using the west step / floor for feet. The **lower step stops short of the north (door) end**, so you step onto clear floor as you enter — not onto the bench. The south return is **cut back at the SE end** for clearance to the Harvia Cilindro PC90E (360 × 340mm) and its guard rail in the SE corner — final clearances per the manufacturer's manual.
 
 ## Door
 
 - North wall, 600mm clear opening, **clear of the bench** (you step onto open floor on entry — see benches above)
-- **Glass sauna door** *(revised 5 June 2026 — was solid cedar).* Toughened safety glass leaf in a timber (cedar) or marine-grade aluminium frame.
+- **Glass sauna door.** Toughened safety glass leaf in a timber (cedar) or marine-grade aluminium frame.
 - **Must be an outdoor / weatherproof-rated assembly — not a standard indoor sauna-cabin glass door.** It needs to be insulated (sealed double/triple glazing or a properly weather-sealed external sauna door), with full-perimeter weather seals and a weathered threshold, because this door is the external face of the building on an exposed coastal roof. Most catalogue glass sauna doors are for indoor cabins — confirm the external/coastal rating with the supplier.
-- **Glass finish: CLEAR** *(decided 5 June — no privacy needed at this position).* Keeps it open and lets the sauna glow out across the terrace in the evening.
+- **Glass finish: CLEAR** — no privacy needed at this position. Keeps it open and lets the sauna glow out across the terrace in the evening.
 - **Coastal hardware:** A4/316 stainless or solid brass hinges, catch and handle only.
 - Magnetic catch, 50N+ pull (wind-resistant); heat-tolerant (timber / cool-touch) handle.
 - **Outward-opening** (swings out onto the terrace — keeps the swing out of the small sauna and is the right way for egress), with restrictor to limit swing in wind. Needs clear swing space on the terrace side.
@@ -1750,7 +1750,6 @@ Upper bench is an **L wrapping the SW corner**; the lower step is a **single str
 - **Heat shield panel** above the heater is recommended given the radiant output of the 9 kW column heater
 - 10mm² silicon-rated cable to a fused spur in the corner (cable rated comfortably above the 37.5 A continuous draw)
 - Heater guard rail (usually supplied with unit)
-- **Note:** previous spec assumed a Harvia Vega 4 kW — undersized for this volume and small stone mass = poor löyly. Superseded.
 - **Sourcing note:** The PC90E is the 240V single-phase factory variant of the Cilindro PC90 line. Most UK retailers stock the standard PC90 (400V 3-phase); UK sauna suppliers should be able to source the PC90E directly, or alternatively wire a standard PC90 for 230V single-phase per the Harvia installation manual.
 
 ### Electrical assumption (to be verified)
@@ -1864,7 +1863,7 @@ Systems considered, all of which publish coastal warranties at marine specificat
 
 **Form: basically flat** — a near-flat warm roof with a minimal drainage fall (3–5° to north, just enough to shed water), in **continuous PVDF anthracite aluminium standing seam wrapping over from the wall cladding** so the building reads as a single skin.
 
-**Why flat:** the flat form keeps the structure as low as possible above the parapet. The current height is **~1,293mm above parapet** (flat roof = warm-roof build-up + standing seam ≈ 250–300mm above the internal ceiling). This is **~143mm above the 1,150mm in the revised heritage statement** — the increase comes from the higher finished floor level after inverting the whole main roof section (Part A), not from the building itself growing — and **will need re-presenting to planning**. The earlier pitched form was driven by the older 900mm envelope and the gull-avoidance threshold; the flat form + the bird-wire grid below remain viable and visually simpler from every public viewpoint.
+**Why flat:** the flat form keeps the structure as low as possible above the parapet. The current height is **~1,293mm above parapet** (flat roof = warm-roof build-up + standing seam ≈ 250–300mm above the internal ceiling). This is **~143mm above the 1,150mm in the revised heritage statement** — the increase comes from the higher finished floor level after inverting the whole main roof section (Part A), not from the building itself growing — and **will need re-presenting to planning**. The flat form + the bird-wire grid below are visually simpler from every public viewpoint.
 
 **Build-up:**
 
@@ -1934,7 +1933,7 @@ The whole floor is one tanked wet zone — no shower trays, no enclosures, no gl
 
 ## Floor
 
-**Build-up change (8 June 2026):** instead of a site-laid sand/cement screed worked to falls, the floor is now a **pre-formed wet room tray kit** — a complete kit consisting of a **wet room tray (floor former) with a built-in slope, a linear drain, and a waste trap**. The former is laid straight onto the structural floor of the building and tiled directly over. **Ronan is specifying the exact tray** (he has the product details); the description here is the make-up we're working to.
+**Floor build-up:** the wet-room floor is a **pre-formed wet room tray kit** — a complete kit consisting of a **wet room tray (floor former) with a built-in slope, a linear drain, and a waste trap**. The former is laid straight onto the structural floor of the building and tiled directly over. **Ronan is specifying the exact tray** (he has the product details); the description here is the make-up we're working to.
 
 Why the change: the kit gives a **factory-formed, guaranteed fall** to the drain (no reliance on the screeding being worked accurately to 1:80 on site), comes **pre-waterproofed**, and adds **acoustic and thermal insulation** in the floor build-up. The **linear drain** option is also the **more affordable** of the kit's drainage choices — in keeping with our aim to keep this floor **low-profile and reasonable-cost**.
 
@@ -1945,7 +1944,7 @@ Why the change: the kit gives a **factory-formed, guaranteed fall** to the drain
 - R11 porcelain floor tile bonded straight onto the former, epoxy grout
 - **Shower is at the wider (940mm) end of the room** — the tray's drain and fall are set out for the wet zone at that end
 
-> **For Ronan to specify / confirm.** Ronan has the details of the chosen tray. The points for him to tie down against the kit: that the former suits the room's **940mm / 720mm dogleg** around the terrace wall (above) with the **shower at the wider end**, and the **drain line ~1050mm from the north door wall**. Pre-formed trays come in set sizes and slope patterns, so we need either a former sized to the room (cut to the dogleg) or one whose linear-drain position and fall direction match our layout. The earlier design fell **toward the drain from both directions** (wet zone south, dry zone north) — a standard former typically has a **single fall**, so the drain position and fall direction may shift to suit the kit. Steer throughout: keep it **low-profile and reasonable cost**.
+> **For Ronan to specify / confirm.** Ronan has the details of the chosen tray. The points for him to tie down against the kit: that the former suits the room's **940mm / 720mm dogleg** around the terrace wall (above) with the **shower at the wider end**, and the **drain line ~1050mm from the north door wall**. Pre-formed trays come in set sizes and slope patterns, so we need either a former sized to the room (cut to the dogleg) or one whose linear-drain position and fall direction match our layout. A standard former typically has a **single fall**, so the drain position and fall direction may shift to suit the kit. Steer throughout: keep it **low-profile and reasonable cost**.
 
 ## Walls
 
@@ -2058,7 +2057,7 @@ Shortlist of tubs that fit the envelope is below. Final tub TBC pending SE sign-
 | (M) | [Pre-owned Marquis Spirit](https://www.hunsburyhottubs.co.uk/hot-tubs/pre-owned/) | USA (Oregon) | Rectangular | 213 × 165 × 91cm (+3cm long) | 1,280 | 365 | £3,500–5,500 |
 | (H) | [Hydropool Serenity 4300](https://www.hydropoolspasandhottubs.co.uk/product/serenity-4300/) | **Canada** (genuine) | Rectangular | 216 × 158 × 86cm (+6cm long) | 1,163 | 342 | ~£7,295 (new) |
 
-**On the radar — Hydropool Serenity 4300 (added 6 June):** the one Hydropool that gets near the envelope. Worth keeping in view for its **patented self-cleaning** (filters all the water every ~15 min — a real plus on a roof terrace that's awkward to drain) and **genuine Canadian build**. Structurally it's comfortable — at **1,163 kg / 342 kg/m² it sits *inside* the Marquis Spirit bounding check** (1,280 / 365), so if that passes, this is covered. The catches: it's **~6cm over the envelope on length** and **~£7,295 new — over our £6k cap** (pre-owned Hydropool is rare in the UK). A premium "if the budget stretches" option, not the value pick.
+**On the radar — Hydropool Serenity 4300:** the one Hydropool that gets near the envelope. Worth keeping in view for its **patented self-cleaning** (filters all the water every ~15 min — a real plus on a roof terrace that's awkward to drain) and **genuine Canadian build**. Structurally it's comfortable — at **1,163 kg / 342 kg/m² it sits *inside* the Marquis Spirit bounding check** (1,280 / 365), so if that passes, this is covered. The catches: it's **~6cm over the envelope on length** and **~£7,295 new — over our £6k cap** (pre-owned Hydropool is rare in the UK). A premium "if the budget stretches" option, not the value pick.
 
 **Removed (don't fit 170 × 210cm envelope):**
 - RotoSpa Orbis (183cm dia round — too wide)
@@ -2150,7 +2149,7 @@ The mast lifts out and the collar caps flush so the surface is clean over winter
 
 > **🗓 Phase 2** (fenestration change → LBC). *Phase-1 provision to build in now:* set the narrow-section tile FFL so the future lowered, level threshold will work once the new door/window goes in. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-*New item, 5 June 2026.* Access from the flat onto the terrace is via the existing **door/window from the study** at the **south end of the narrow terrace**. We want to turn this into a proper level threshold.
+Access from the flat onto the terrace is via the existing **door/window from the study** at the **south end of the narrow terrace**. We want to turn this into a proper level threshold.
 
 ## Change
 
