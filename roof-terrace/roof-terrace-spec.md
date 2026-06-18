@@ -443,7 +443,7 @@ Planters are **not** subtracted — they are built on top of the finished tiles 
 
 **Coastal caveats to verify before the order is placed** *(the trade-off for choosing stone over porcelain):*
 - **Iron-spotting / rust.** Yellow granite is iron-rich, and iron inclusions can rust-streak in salt-laden seafront air. **Confirm with the supplier and wet-test the sample** (wet it and leave it) before committing.
-- **Sealing.** Granite is low-porosity but not zero — plan to **seal** it (especially near the kitchen / BBQ / hot tub) and re-seal periodically. *(Porcelain would never need this — the maintenance cost of going stone.)*
+- **Protective finish — specified, not optional.** Granite is low-porosity but not zero, so the slabs are to be treated with **the manufacturer's / supplier's recommended protective sealer**, applied **per their instructions** (impregnating/penetrating sealer, correct number of coats, applied before the terrace is brought into use, with attention to the kitchen / BBQ / hot-tub zones) and **rated for coastal / salt exposure**, then **re-sealed at the manufacturer's stated interval**. Ask the supplier (Paving Superstore / CED) to **name the exact product and method** for this granite. *(Porcelain would never need this — it's the maintenance cost of going stone, so it must be priced in and applied.)*
 - **Wet slip.** Confirm a **wet PTV ≥ 36** for the bush-hammered / sawn finish (most flamed/bush-hammered granite is grippy, but get the figure on record).
 - **Slab weight.** Get the **actual kg per 600 × 600 slab** (≈ 29 kg expected) for the SE's dead-load check — the ~81 kg/m² above is calculated from density, not a datasheet, and granite is heavier than the porcelain it replaces.
 
@@ -452,6 +452,7 @@ Planters are **not** subtracted — they are built on top of the finished tiles 
 - R11 / wet-PTV ≥ 36 minimum
 - Frost- / coastal-rated, large format (600 × 600 minimum)
 - **Granite** — a dense, acid-resistant, frost-proof stone. *(No limestone, sandstone or marble — those etch from bird uric acid and are too porous; granite is the durable exception that does not etch.)*
+- **Treated with the manufacturer's recommended protective sealer** (coastal-rated), applied per their method before use and re-sealed at their stated interval — to be included in the builder's price
 
 > **⚠ Confirm before ordering.** The two checks that decide it: (1) the **sample passes the iron-spot + wet-slip test** against the stucco/cladding, and (2) **all 8 pallets are in stock with a lead time inside the scaffold window** (materials up by ~late Sept). Compare the Paving Superstore quote against CED/Corfe (same stone, likely cheaper) before placing the order.
 
@@ -522,6 +523,7 @@ The finished tile level needs to coordinate with:
 - Padded self-levelling pedestals
 - No adhesive bed — pedestal / floating system only
 - Open joints between tiles
+- **Manufacturer's recommended coastal-rated protective sealer applied** (in the builder's scope)
 - Overage tiles retained in the client's garage at Sussex Square (not on the roof terrace)
 
 ## ⚠ Open: can the pedestals bear on the inverted (IKO Enertherm) insulation?
@@ -2285,7 +2287,7 @@ Access from the flat onto the terrace is via the existing **door/window from the
 | Ref | Item | Scope & key specification | Approx qty | Notes / Ronan to confirm |
 |---|---|---|---|---|
 | 2.0 | Protectoboard substrate | Supply & lay **IKO Protectoboard (3.2mm)** over **both** sections, on top of what the roof contract leaves — over the **XPS insulation** on the inverted main and over the **Permaphalt asphalt** on the warm narrow. This is the protection/separation layer the pedestals sit on. No acoustic underlay mat over it | ~120 m² (gross) | Confirm with IKO whether the inverted section also needs the **Enertherm WCL/filter** under the Protectoboard to keep the guarantee. **Ronan to confirm the hot-tub load can bear on the Protectoboard build-up** (concentrated point load → pedestals → Protectoboard → XPS → deck — may need local load-spreading) |
-| 2.1 | 30mm yellow granite on pedestals | **30mm yellow/buff natural granite** (R11 / wet-PTV ≥36, frost/coastal-rated, ≥600×600) on **Eterno Ivica (or equivalent equal-spec)** self-levelling padded pedestals; open joints; acoustic zoning — pads **top+bottom** (main) / **single** (narrow) / **basic** (over lift bulkhead) | ~107 m² net (**order ~119 m² / 8 pallets** incl. overage) | **Lead quote: Paving Superstore "Pro Range Granite Yellow" 600×600×30mm — £7,666.66 ex VAT incl. dedicated delivery** (£64.40/m²); **CED/Corfe same stone being priced ~£52.50/m²**. ~81 kg/m² **meets the IKO 80 kg/m² uplift on its own**. Confirm sample (**iron-spot + wet-slip**), **actual slab weight** (SE), stock + lead time. Builder may substitute an **equivalent-spec pedestal** (Buzon etc.) if cheaper |
+| 2.1 | 30mm yellow granite on pedestals | **30mm yellow/buff natural granite** (R11 / wet-PTV ≥36, frost/coastal-rated, ≥600×600) on **Eterno Ivica (or equivalent equal-spec)** self-levelling padded pedestals; open joints; acoustic zoning — pads **top+bottom** (main) / **single** (narrow) / **basic** (over lift bulkhead); **treated with the manufacturer's recommended coastal-rated protective sealer** (applied before use, re-sealed per their interval) | ~107 m² net (**order ~119 m² / 8 pallets** incl. overage) | **Lead quote: Paving Superstore "Pro Range Granite Yellow" 600×600×30mm — £7,666.66 ex VAT incl. dedicated delivery** (£64.40/m²); **CED/Corfe same stone being priced ~£52.50/m²**. ~81 kg/m² **meets the IKO 80 kg/m² uplift on its own**. Confirm sample (**iron-spot + wet-slip**), **actual slab weight** (SE), stock + lead time. Builder may substitute an **equivalent-spec pedestal** (Buzon etc.) if cheaper |
 | 2.2 | Levels & steps | 3 zones / 2 levels: FA1 narrow low; **FA2 dining +300mm on ~400mm pedestals, 5.75×5.1m**; FA3 low ~100mm. **Two flights of 3 steps** (400mm tread / 100mm rise): FA1→FA2 up; FA2→FA3 down on FA2's north side, 1500mm wide | — | Step going/rise/nosings + handrail/guarding to **Approved Doc K** — Ronan / BC |
 | 2.3 | Phase-2 provisions | Leave **only the sauna/wet-room building footprint** un-tiled (building bears on the build-up); **tile the hot-tub area in Phase 1** over a **dense pedestal cluster + continuous load-spreading base** (tub craned on top in Phase 2). Set out & install **all Phase-2 pedestal clusters / load-spread now** (hot tub, 2 parasol bases, building); **form the recessed parasol-base pockets** before tiling | — | Adding pedestals — or a base recess — under a finished tile field = lifting tiles |
 | 2.4 | Overage | Order +10–15% tiles; surplus to client's garage at Sussex Square | — | |
