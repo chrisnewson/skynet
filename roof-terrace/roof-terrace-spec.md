@@ -237,7 +237,7 @@ The two roof sections now get different systems:
 
 | Layer (top to bottom) | Notes |
 |---|---|
-| Tiles | 30mm porcelain on pedestals (Part B) — this is our finish on top of the IKO inverted system |
+| Tiles | 30mm granite on pedestals (Part B) — this is our finish on top of the IKO inverted system |
 | Pedestals | **Eterno Ivica** (chosen 7 Jun), **rubber acoustic pads top *and* bottom** in this section (most sound isolation — see Part B). Pedestals/paving supports sit on the WCL below |
 | **IKO Enertherm WCL (Water Control Layer)** | Laid **over** the insulation, under the paving supports — reduces rainwater cooling of the insulation; IKO's standard inverted finish layer |
 | **190mm IKO Enertherm XPS** | Inverted-roof insulation — **extruded polystyrene, HFC-free, ~300 kPa compressive (load-bearing grade)**, loose-laid, rebated, 300mm laps; achieves U ≈ 0.16. |
@@ -250,7 +250,7 @@ The two roof sections now get different systems:
 
 | Layer (top to bottom) | Notes |
 |---|---|
-| Tiles | 30mm porcelain on pedestals (Part B) |
+| Tiles | 30mm granite on pedestals (Part B) |
 | Pedestals | **Rubber acoustic pads on bottom only** in this section (less sound isolation needed — see Part B) |
 | **IKO Protectoboard 3.2mm** | Over the Permaphalt, under the paving supports — point-load protection |
 | **IKO Permaphalt 20mm** (2 × 10mm coats) | Waterproofing **on top** of the insulation, over IKO Black Sheathing Felt separating layer |
@@ -289,11 +289,11 @@ How our tile finish bears on the **inverted main section** is not yet resolved a
 
 1. **Raised pedestals under the dining (FA2, ~400mm = ~100mm low base + the 300mm raise).** Standard inverted paving sits on **low** supports. Pedestals of ~400mm concentrate load on a small base on the **XPS** (firm at ~300 kPa but can creep under sustained load) and raise lateral-stability and wind concerns. Confirm with IKO whether tall pedestals are acceptable **bearing on the WCL/XPS**, whether a **load-distribution layer** (e.g. Protectoboard, a bearing pad or a wider base plate) is needed under each pedestal, or whether the raised zone needs a **different support solution** (e.g. a separate raised sub-structure). *(Also one for the SE — Allan Wiseman — on lateral stability and the raised-platform load path.)*
 
-2. **⚠ Wind-uplift ballast — eased by the move to 30mm tiles.** IKO require a **minimum loading coat of 80 kg/m²** over the XPS to resist wind uplift (their stated figure for sheltered / sub-10-storey buildings; our **exposed seafront** site may need more). We have **moved from 20mm (~46 kg/m²) to 30mm porcelain (~70 kg/m²)** (Part B), so the field is now **close to the 80 figure** rather than well below it. Confirm with IKO that the **small remaining gap is covered by the combined mass of pedestals + tiles + planters / hot tub / building + an edge-restraint detail**, rather than needing thicker pavers or supplementary ballast. This applies across the whole inverted main section.
+2. **⚠ Wind-uplift ballast — now met by the move to 30mm granite.** IKO require a **minimum loading coat of 80 kg/m²** over the XPS to resist wind uplift (their stated figure for sheltered / sub-10-storey buildings; our **exposed seafront** site may need more). We have **moved from 20mm porcelain (~46 kg/m²) to 30mm natural granite (~81 kg/m²)** (Part B), so the field **now meets the 80 figure on its own**. Confirm the **actual slab weight** with the supplier, and confirm with IKO that ~81 kg/m² is sufficient for our exposed seafront exposure (pedestals + planters / hot tub / building add further dead load on top); no supplementary ballast or edge restraint should be needed. This applies across the whole inverted main section.
 
-3. **Consistent 30mm-on-pedestals throughout.** With 30mm porcelain on the pedestal grid used across the whole terrace (including low FA3), there is **one finished level and one appearance** — no mixing with thick direct-laid slabs to reconcile. Confirm 30mm-on-pedestals is acceptable to IKO everywhere on the inverted field.
+3. **Consistent 30mm-on-pedestals throughout.** With 30mm granite on the pedestal grid used across the whole terrace (including low FA3), there is **one finished level and one appearance** — no mixing with thick direct-laid slabs to reconcile. Confirm 30mm-on-pedestals is acceptable to IKO everywhere on the inverted field.
 
-> **Action:** **Ronan to contact IKO (James Eden) to confirm the inverted-section tiling-support build-up** — pedestals bearing on the Enertherm, the 80 kg/m² wind-uplift requirement vs our ~70 kg/m² 30mm porcelain (the small remaining gap covered by fixed load + edge restraint), and the raised-FA2 (~300mm) solution — **copying Alexander Gathern (Coastal Surveyors)**, and looping in the SE (Allan Wiseman) on the tall-pedestal stability / any raised sub-structure. See [Project Team & Contacts](#project-team--contacts).
+> **Action:** **Ronan to contact IKO (James Eden) to confirm the inverted-section tiling-support build-up** — pedestals bearing on the Enertherm, the 80 kg/m² wind-uplift requirement (now met by our ~81 kg/m² 30mm granite — confirm the actual slab weight), and the raised-FA2 (~300mm) solution — **copying Alexander Gathern (Coastal Surveyors)**, and looping in the SE (Allan Wiseman) on the tall-pedestal stability / any raised sub-structure. See [Project Team & Contacts](#project-team--contacts).
 
 ## Levels across the terrace — three zones, two levels
 
@@ -359,7 +359,7 @@ The roofing contractors can **insert and cap drainage penetrations** for us to c
 
 > **Note for Ronan Bond:** please provide the build-up details (inverted main section, warm narrow section, the junction between the two, asphalt-to-building junction including the door-threshold detail) **as a matter of urgency** so they can be discussed with our surveyor, **IKO**, **Sussex Asphalte**, **Seaview** and **Coastal Surveyors**. **Seaview need a specification of works as soon as possible to get it costed** — scheduling is difficult at this time of year and getting the spec to them quickly is key.
 
-> **Action — Ronan to IKO (copy Coastal):** confirm the **tiling-support build-up on the inverted main section** — can the Eterno Ivica pedestals bear on the IKO Enertherm WCL/XPS (low **and** the ~400mm pedestals under the raised FA2 dining); how the **≥80 kg/m² wind-uplift** requirement is met given our 30mm porcelain is ~70 kg/m² (small remaining gap via fixed load + edge restraint); and the raised-FA2 support solution. See *"Tiling support on the inverted roof"* above. Copy **Alexander Gathern (Coastal Surveyors)** and loop in the **SE (Allan Wiseman)** on tall-pedestal stability.
+> **Action — Ronan to IKO (copy Coastal):** confirm the **tiling-support build-up on the inverted main section** — can the Eterno Ivica pedestals bear on the IKO Enertherm WCL/XPS (low **and** the ~400mm pedestals under the raised FA2 dining); how the **≥80 kg/m² wind-uplift** requirement is met — now satisfied by our 30mm granite at ~81 kg/m² (confirm the actual slab weight); and the raised-FA2 support solution. See *"Tiling support on the inverted roof"* above. Copy **Alexander Gathern (Coastal Surveyors)** and loop in the **SE (Allan Wiseman)** on tall-pedestal stability.
 
 **Building Control:** Sussex Asphalte are taking the plan to Building Control to check it.
 
@@ -432,31 +432,30 @@ Planters are **not** subtracted — they are built on top of the finished tiles 
 
 ## Surface material
 
-**30mm porcelain pavers** *(decided 16 June 2026 — was 20mm)*, R11 slip-rated minimum, frost-resistant. Italian or Spanish manufacture preferred for quality assurance. Large format preferred (600 × 600mm or larger). Finish to be mid-tone honed or textured — not polished, not white or very pale (glare and bird soiling). **Sandstone-coloured tones** (warm buff / honey / pale stone) to complement the anthracite cladding and Sussex Square's cream Regency stucco context, and to hide gull marks more forgivingly than grey.
+**30mm yellow / buff natural granite paving** *(decided 18 June 2026 — supersedes the 16 June "30mm porcelain" choice, now withdrawn: the only warm-tone 30mm porcelain on the UK market, "Living Sand", was discontinued).* Solid full-body granite, large format, R11 / wet-PTV ≥ 36, frost- and coastal-rated. Warm **sandstone-style tone — buff / honey / amber** — to complement the anthracite cladding and Sussex Square's cream Regency stucco context, and to hide gull marks more forgivingly than grey.
 
-**Why 30mm, not the original 20mm** — two reasons came together:
-1. **Wind uplift.** IKO require **≥80 kg/m²** of dead load over the inverted XPS insulation to resist uplift on the main section (Part A). 20mm porcelain is only **~46 kg/m²** — well short; **30mm is ~70 kg/m²** — most of the way there, leaving only a small gap for the fixed planter / hot-tub / building load + edge restraint to make up. This largely answers the biggest tiling unknown in one move.
-2. **Stiffness.** 30mm is markedly stiffer on a pedestal grid — less flex and corner-chip risk at large format, and more tolerant of the hot-tub / parasol point loads.
+**Specified product (lead quote):** **Paving Superstore "Pro Range Granite Yellow", 600 × 600 × 30mm** — quoted **£7,666.66 ex VAT / £9,200 inc** for **8 pallets = 119.04 m²**, including dedicated (Moffett) delivery (≈ **£64.40/m² ex VAT**, within budget). **Equivalent value alternative being priced:** **CED Stone "Imperial Yellow Granite" / Corfe Stone "Yellow Granite"** — the same stone at ~£52.50/m² ex VAT (potentially ~£1,400 less across the order). Final supplier to be confirmed on price + sample + lead time.
 
-The modest price step-up (~£45–80/m² vs ~£35–60 for 20mm) is accepted for these gains, provided it stays within the scaffold programme.
+**Why natural granite at 30mm — it solves the wind-uplift problem outright:**
+1. **Wind uplift.** IKO require **≥80 kg/m²** of dead load over the inverted XPS insulation to resist uplift on the main section (Part A). **30mm solid granite is ≈ 81 kg/m²** (granite ≈ 2,700 kg/m³) — so the tile field **meets IKO's requirement on its own**, with no reliance on edge restraint or borrowing mass from the planters / hot tub / building. *(30mm porcelain reached only ~70 and needed that top-up; 20mm only ~46.)* This is the single biggest reason for the switch.
+2. **Availability.** With "Living Sand" discontinued, **there is no warm-tone 30mm porcelain left on the UK market** — natural granite is now the only route to a warm sandstone tone at the thickness the uplift case needs.
+3. **Durability & point loads.** Solid granite is extremely hard-wearing, frost-proof at ~0.4% water absorption, and very tolerant of the hot-tub / parasol point loads.
+
+**Coastal caveats to verify before the order is placed** *(the trade-off for choosing stone over porcelain):*
+- **Iron-spotting / rust.** Yellow granite is iron-rich, and iron inclusions can rust-streak in salt-laden seafront air. **Confirm with the supplier and wet-test the sample** (wet it and leave it) before committing.
+- **Sealing.** Granite is low-porosity but not zero — plan to **seal** it (especially near the kitchen / BBQ / hot tub) and re-seal periodically. *(Porcelain would never need this — the maintenance cost of going stone.)*
+- **Wet slip.** Confirm a **wet PTV ≥ 36** for the bush-hammered / sawn finish (most flamed/bush-hammered granite is grippy, but get the figure on record).
+- **Slab weight.** Get the **actual kg per 600 × 600 slab** (≈ 29 kg expected) for the SE's dead-load check — the ~81 kg/m² above is calculated from density, not a datasheet, and granite is heavier than the porcelain it replaces.
 
 **Hard rules:**
-- **30mm thickness**
-- R11 slip rating minimum
-- Frost-resistant / coastal-rated, large format
-- No limestone or natural stone (bird uric acid etching risk)
+- **30mm thickness** (for the ~81 kg/m² uplift mass + stiffness)
+- R11 / wet-PTV ≥ 36 minimum
+- Frost- / coastal-rated, large format (600 × 600 minimum)
+- **Granite** — a dense, acid-resistant, frost-proof stone. *(No limestone, sandstone or marble — those etch from bird uric acid and are too porous; granite is the durable exception that does not etch.)*
 
-> **⚠ Availability caveat — confirm before ordering.** In the UK, 30mm exterior porcelain is mostly sold as the **driveway / heavy-duty** grade — fewer decorative ranges than 20mm, and more utilitarian colours. So the constraint is finding a **30mm range in a sandstone tone Chris is happy with, in stock within the scaffold window (materials up by ~late Sept)**. Tiler / Ronan to confirm the chosen colour is genuinely available in 30mm with an acceptable lead time before the order is placed.
+> **⚠ Confirm before ordering.** The two checks that decide it: (1) the **sample passes the iron-spot + wet-slip test** against the stucco/cladding, and (2) **all 8 pallets are in stock with a lead time inside the scaffold window** (materials up by ~late Sept). Compare the Paving Superstore quote against CED/Corfe (same stone, likely cheaper) before placing the order.
 
-**Suppliers to review** (trade suppliers carrying 30mm exterior porcelain — get samples + trade quotes):
-- **London Stone** — premium, wide porcelain-paving range
-- **Paving Superstore** — broad range, trade pricing
-- **Pave Direct** — outdoor porcelain specialist
-- **Exterior Pavers** (Knutsford) — one of the largest stocked porcelain ranges in the UK
-- **Royale Stones** / **Tiles and Smiles** — both stock 30mm heavy-duty porcelain
-- Plus our original shortlist (**Porcelain Superstore**, **Tile Mountain**) — confirm which carry 30mm in our tone
-
-Samples required before order confirmed. **10–15% overage** to be ordered and surplus retained in the client's garage at Sussex Square for future repairs (not stored on the roof terrace).
+Samples required before order confirmed (Paving Superstore + CED/Corfe both requested). The quoted **119.04 m² (8 pallets)** already carries a ~10–15% overage over the ~107 m² net; surplus retained in the client's garage at Sussex Square for future repairs (not on the roof terrace). **Order the whole quantity in one batch** — natural stone varies between batches and cannot be colour-matched on a later top-up.
 
 ## Pedestal system
 
@@ -477,7 +476,7 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 >
 > Their support is to be designed **per Eterno Ivica's published load tables and IKO's point-load guidance** — extra/closer-spaced pedestals on the load lines, the correct pedestal rating, and load spread so the path is base/bearer → tile-over-pedestals → pedestals → **(inverted main: WCL → 190mm XPS insulation → Permaphalt → deck; warm narrow: Protectoboard → Permaphalt → 160mm PIR → deck)**.
 >
-> **The inverted insulation is now confirmed as 190mm IKO Enertherm XPS** (per IKO spec SF0079612), a **load-bearing grade at ~300 kPa** (≈30 t/m²) — much stiffer than a soft PIR, so the earlier "compressible insulation" worry is reduced: a hot tub at ~360–400 kg/m² (~4 kPa) is well within its rating. The real checks are therefore (a) **point loading of the 30mm porcelain tile** (don't stand a heavy base on bare tile — spread over pedestals; 30mm is stiffer than the original 20mm, which helps) and (b) **long-term creep under sustained loads**. Confirm both with Eterno Ivica + the SE; don't stand a heavy base on bare tiles.
+> **The inverted insulation is now confirmed as 190mm IKO Enertherm XPS** (per IKO spec SF0079612), a **load-bearing grade at ~300 kPa** (≈30 t/m²) — much stiffer than a soft PIR, so the earlier "compressible insulation" worry is reduced: a hot tub at ~360–400 kg/m² (~4 kPa) is well within its rating. The real checks are therefore (a) **point loading of the 30mm granite slab** (don't stand a heavy base on a bare slab — spread over pedestals; solid 30mm granite is very stiff, which helps) and (b) **long-term creep under sustained loads**. Confirm both with Eterno Ivica + the SE; don't stand a heavy base on bare tiles.
 >
 > **Issue the planter footprints (Part C), the hot-tub footprint (Part O) and the parasol base positions (Part P) to Eterno Ivica, IKO and the SE before the pedestal grid is set out.** Ways to handle heavy bases: a **load-spreading plate** over several pedestals; a **continuous base** for the hot tub; or **ballasting/anchoring a parasol within a planter** (using the planter's mass and footprint — which could also let a parasol be properly anchored despite the no-fix inverted roof). Confirm the chosen approach with the suppliers and SE.
 
@@ -512,14 +511,14 @@ The finished tile level needs to coordinate with:
 ## What builders have scope on
 
 - Choice of Buzon vs Eterno Ivica (or equivalent quality tier), provided rubber pad and self-levelling spec is met
-- Specific porcelain range and supplier, provided colour, tone, format, slip rating, and thickness rules are met
+- Specific granite supplier (e.g. Paving Superstore vs CED/Corfe), provided colour, tone, format, slip and 30mm thickness rules are met
 - Pedestal height selection based on actual survey levels
 - Open joint width within the normal range for pedestal-laid 30mm pavers
 
 ## What is fixed
 
-- 30mm porcelain only (not natural stone, not composite decking)
-- R11 slip rating minimum
+- 30mm natural granite only (not porcelain, not limestone/sandstone/marble, not composite decking)
+- R11 / wet-PTV ≥ 36 minimum
 - Padded self-levelling pedestals
 - No adhesive bed — pedestal / floating system only
 - Open joints between tiles
@@ -530,16 +529,16 @@ The finished tile level needs to coordinate with:
 **This is unresolved and needs IKO's confirmation — the answer shapes the whole tile finish on the main section.** It is set out in full in Part A under *"[Tiling support on the inverted roof — key question for IKO](#-tiling-support-on-the-inverted-roof--key-question-for-iko-ronan-to-lead-copying-coastal)"*. In short, three things to pin down with IKO before pricing/ordering:
 
 1. **Raised pedestals (~400mm) under the raised dining (FA2)** bearing on the WCL/XPS — acceptable as-is, or do they need a load-distribution layer / a separate raised sub-structure? (Also an SE question for stability.)
-2. **Wind-uplift ballast — now largely addressed by the 30mm tile choice.** IKO want **≥80 kg/m²** over the XPS; **30mm porcelain is ~70 kg/m²** (vs only ~46 for the old 20mm), so the field is now close to the requirement. Confirm with IKO that the **small remaining gap is covered by the fixed planter / hot-tub / building mass + edge restraint**, rather than needing thicker pavers or supplementary ballast.
-3. **Consistent finish throughout** — with 30mm porcelain on pedestals used across the whole terrace (no mixing with thick direct-laid slabs), there is **one finished level and one appearance** to coordinate. Confirm 30mm-on-pedestals is acceptable everywhere including low FA3.
+2. **Wind-uplift ballast — now fully met by the 30mm granite choice.** IKO want **≥80 kg/m²** over the XPS; **30mm solid granite is ≈ 81 kg/m²**, so the tile field **meets the requirement on its own** (vs ~70 for 30mm porcelain, which needed a top-up, and ~46 for the old 20mm). Confirm the actual slab weight with the supplier to put this beyond doubt, but no supplementary ballast or edge restraint should be needed for uplift.
+3. **Consistent finish throughout** — with 30mm granite on pedestals used across the whole terrace (no mixing with thick direct-laid slabs), there is **one finished level and one appearance** to coordinate. Confirm 30mm-on-pedestals is acceptable everywhere including low FA3.
 
 **Action:** Ronan to take this to IKO (James Eden), copying Coastal (Alex Gathern) and the SE — see the Part A note.
 
-> **Tile size — a separate look question.** We assume **600 × 600 "or larger."** Worth testing whether a **larger format** (900 × 600, 1200 × 600) reads better — fewer joints, more contemporary, suits the big flat terrace. Trade-offs to weigh with the tiler + Eterno Ivica: larger pieces need **more/closer pedestals**, are **heavier to lift up the scaffold**, and the format **sets the pedestal grid**. 30mm helps here (stiffer at large format). Decide alongside the colour/range.
+> **Tile size.** The specified Paving Superstore Pro Range Yellow is **600 × 600 × 30mm** (the quoted format). The same yellow granite is also available larger (e.g. **900 × 600** from CED/Corfe / Paving Superstore) — worth weighing if a larger format reads better (fewer joints, more contemporary). Trade-offs with the tiler + Eterno Ivica: larger pieces need **more/closer pedestals**, are **heavier to lift up the scaffold** (granite is dense — a 900 × 600 × 30mm slab is ~44 kg), and the format **sets the pedestal grid**. Decide alongside the final supplier choice.
 
 ## What we'd value your steer on
 
-- **Structural sign-off** for ~107m² of 30mm porcelain + pedestals + furniture / occupancy load. Usually fine but worth on record before contractors price it
+- **Structural sign-off** for ~107m² of 30mm granite + pedestals + furniture / occupancy load — note granite (~81 kg/m²) is a heavier dead load than the porcelain it replaces (~70), so worth re-confirming with the SE against the joist margin, plus the **actual slab weight** from the supplier. Usually fine but worth on record before contractors price it
 - **Pedestals on the inverted insulation** — see the ⚠ open question immediately above (bearing on the IKO Enertherm WCL/XPS, the 80 kg/m² wind-uplift requirement, and the raised-FA2 support). The single biggest tiling unknown
 - **Total build-up height** at the highest and lowest points of the falls — needed to confirm sauna / wet room door threshold heights and the hot tub / parasol base recess depths
 - **Edge detail** at the parapet / planter / glass balustrade interfaces — how the tile field terminates cleanly without a visible pedestal edge
@@ -561,7 +560,7 @@ We want planters built from the **salvaged hardwood decking** removed from the e
 ## Construction principle
 
 - **Agreed at the 4 June meeting:** planters sit **on top of the finished tile field** — the whole roof is tiled first, then the planters are built on top (see Part B). Simpler than working the planter bases into the tile build-up.
-- Tile runs continuously **underneath** each planter. The planter sits on **bearers/feet on protective pads**, raised ~25mm off the tile, so that: (a) its weight is spread and carried down to the **pedestals below** rather than point-loading the middle of a tile; (b) there's a continuous **drainage + air gap** under the box; and (c) the porcelain is protected. See **"Sitting on the tiles — drainage & load"** below.
+- Tile runs continuously **underneath** each planter. The planter sits on **bearers/feet on protective pads**, raised ~25mm off the tile, so that: (a) its weight is spread and carried down to the **pedestals below** rather than point-loading the middle of a tile; (b) there's a continuous **drainage + air gap** under the box; and (c) the granite is protected. See **"Sitting on the tiles — drainage & load"** below.
 - Planters are **freestanding boxes** — they do not rely on the parapet or any other wall for structural or weatherproofing function
 - Built with stainless steel fixings throughout
 - **Aim** — reference image:
@@ -583,7 +582,7 @@ Treated softwood frame with hardwood cladding outside, EPDM lining inside, and s
 | **Frame** | **50×50mm treated softwood (e.g. C16-graded UC4 treated)** — 4 corner posts (full height), top + bottom horizontal rails, intermediate vertical uprights at ~400mm centres. **Concealed structure** — never exposed to weather, treated to UC4 (in-ground) standard for belt-and-braces. | ~£15-25/planter materials |
 | **Cross-bracing** | Diagonal softwood bracing within frame for L-shape and longer planters (>2m) to handle soil thrust | Included in frame |
 | **Base** | Sloped ~1% to the drain holes; **25–30mm weep holes through the timber base + EPDM at ~600mm centres**, each with a geotextile cap inside. Water weeps onto the tile field and drains away through the **open (un-grouted) tile joints** (Part B) → Protectoboard → roof falls. | Standard |
-| **Bearers** | **Treated softwood / stainless bearers on rubber pads**, raising the base **~25mm off the tiles** — gives the under-planter **drainage + air gap** (water escapes, tile dries, no ponding/staining) and protects the porcelain. **Bearer lines to align over the tile pedestals below** so the load transfers feet → tile → pedestal (coordinate the pedestal grid under planters with the tiler — Part B). | Standard |
+| **Bearers** | **Treated softwood / stainless bearers on rubber pads**, raising the base **~25mm off the tiles** — gives the under-planter **drainage + air gap** (water escapes, tile dries, no ponding/staining) and protects the granite. **Bearer lines to align over the tile pedestals below** so the load transfers feet → tile → pedestal (coordinate the pedestal grid under planters with the tiler — Part B). | Standard |
 
 **Why this works structurally:**
 - Soil + saturated lightweight mix exerts hydrostatic-like load on planter walls
@@ -621,7 +620,7 @@ Materials are roughly **~£40–70 per planter** (~£400–700 across the ~10 pl
 
 > **Compass orientation:** RIGHT=N, LEFT=S, TOP=W, BOTTOM=E on the floorplan.
 
-**General depth convention:** Most planters are **600mm total footprint** (570mm planter box + 30mm air gap to the wall behind), which aligns exactly with one 600mm porcelain tile width. Heights are stated as visible above the tile FFL — and since planters now sit **on top of the finished tiles** (4 June meeting), the visible height is essentially the full constructed height of the box.
+**General depth convention:** Most planters are **600mm total footprint** (570mm planter box + 30mm air gap to the wall behind), which aligns exactly with one 600mm granite tile width. Heights are stated as visible above the tile FFL — and since planters now sit **on top of the finished tiles** (4 June meeting), the visible height is essentially the full constructed height of the box.
 
 ### Narrow section
 
@@ -1086,7 +1085,7 @@ An outdoor kitchen on the **narrow section** comprising **5 modules in a single 
 
 ![Outdoor kitchen artist's impression](artists-impressions/outdoor-kitchen.png)
 
-> **Indicative only — for look and feel, not the exact layout.** This is an AI-generated impression and doesn't get the precise arrangement right. It conveys the **materials and mood** we're after: salvaged silver-grey hardwood-clad modules under a continuous brushed stainless worktop, stepping up to the raised dining area (FA2), on sandstone-toned porcelain tiles against the seafront railings. The **actual module order, cabinet widths, BBQ hood profile, fridge model and adjacent planter positions follow the spec below — not the image.**
+> **Indicative only — for look and feel, not the exact layout.** This is an AI-generated impression and doesn't get the precise arrangement right. It conveys the **materials and mood** we're after: salvaged silver-grey hardwood-clad modules under a continuous brushed stainless worktop, stepping up to the raised dining area (FA2), on sandstone-toned granite tiles against the seafront railings. The **actual module order, cabinet widths, BBQ hood profile, fridge model and adjacent planter positions follow the spec below — not the image.**
 
 ## Layout
 
@@ -1733,7 +1732,7 @@ We've chosen frameless toughened laminated glass throughout — keeps the view, 
 
 ## Floor
 
-- Tanked (continuous with adjacent wet room), screeded to fall, R11 porcelain tile to match the rest of the terrace
+- Tanked (continuous with adjacent wet room), screeded to fall, **R11 porcelain tile bonded onto the tanking** (porcelain suits the tanked wet floor; the open terrace finish is 30mm granite — Part B) — under the duckboards
 - Removable softwood duckboards laid on top of the tile (flat-pack kit, e.g. Finnmark, ~£80–150)
 - Stainless steel high-temperature drain connected to the terrace drainage
 
@@ -2286,7 +2285,7 @@ Access from the flat onto the terrace is via the existing **door/window from the
 | Ref | Item | Scope & key specification | Approx qty | Notes / Ronan to confirm |
 |---|---|---|---|---|
 | 2.0 | Protectoboard substrate | Supply & lay **IKO Protectoboard (3.2mm)** over **both** sections, on top of what the roof contract leaves — over the **XPS insulation** on the inverted main and over the **Permaphalt asphalt** on the warm narrow. This is the protection/separation layer the pedestals sit on. No acoustic underlay mat over it | ~120 m² (gross) | Confirm with IKO whether the inverted section also needs the **Enertherm WCL/filter** under the Protectoboard to keep the guarantee. **Ronan to confirm the hot-tub load can bear on the Protectoboard build-up** (concentrated point load → pedestals → Protectoboard → XPS → deck — may need local load-spreading) |
-| 2.1 | 30mm porcelain on pedestals | 30mm porcelain (R11, frost/coastal-rated, sandstone tone, ≥600×600) on **Eterno Ivica (or equivalent equal-spec)** self-levelling padded pedestals; open joints; acoustic zoning — pads **top+bottom** (main) / **single** (narrow) / **basic** (over lift bulkhead) | ~107 m² | Tile range **PC sum** until colour chosen; **confirm 30mm available in the tone within the scaffold window**. Builder may substitute an **equivalent-spec pedestal** (Buzon etc.) if cheaper |
+| 2.1 | 30mm yellow granite on pedestals | **30mm yellow/buff natural granite** (R11 / wet-PTV ≥36, frost/coastal-rated, ≥600×600) on **Eterno Ivica (or equivalent equal-spec)** self-levelling padded pedestals; open joints; acoustic zoning — pads **top+bottom** (main) / **single** (narrow) / **basic** (over lift bulkhead) | ~107 m² net (**order ~119 m² / 8 pallets** incl. overage) | **Lead quote: Paving Superstore "Pro Range Granite Yellow" 600×600×30mm — £7,666.66 ex VAT incl. dedicated delivery** (£64.40/m²); **CED/Corfe same stone being priced ~£52.50/m²**. ~81 kg/m² **meets the IKO 80 kg/m² uplift on its own**. Confirm sample (**iron-spot + wet-slip**), **actual slab weight** (SE), stock + lead time. Builder may substitute an **equivalent-spec pedestal** (Buzon etc.) if cheaper |
 | 2.2 | Levels & steps | 3 zones / 2 levels: FA1 narrow low; **FA2 dining +300mm on ~400mm pedestals, 5.75×5.1m**; FA3 low ~100mm. **Two flights of 3 steps** (400mm tread / 100mm rise): FA1→FA2 up; FA2→FA3 down on FA2's north side, 1500mm wide | — | Step going/rise/nosings + handrail/guarding to **Approved Doc K** — Ronan / BC |
 | 2.3 | Phase-2 provisions | Leave **only the sauna/wet-room building footprint** un-tiled (building bears on the build-up); **tile the hot-tub area in Phase 1** over a **dense pedestal cluster + continuous load-spreading base** (tub craned on top in Phase 2). Set out & install **all Phase-2 pedestal clusters / load-spread now** (hot tub, 2 parasol bases, building); **form the recessed parasol-base pockets** before tiling | — | Adding pedestals — or a base recess — under a finished tile field = lifting tiles |
 | 2.4 | Overage | Order +10–15% tiles; surplus to client's garage at Sussex Square | — | |
@@ -2344,7 +2343,7 @@ Access from the flat onto the terrace is via the existing **door/window from the
 
 ## Provisional (PC) sums — Phase 1
 
-Porcelain tile range/colour (2.1) · final planting schedule (4) · kitchen appliances if models change (6.1) · final lighting fittings selection (10.2).
+Granite supplier & final colour (2.1 — Paving Superstore vs CED/Corfe, pending sample) · final planting schedule (4) · kitchen appliances if models change (6.1) · final lighting fittings selection (10.2).
 
 ## Exclusions — Phase 1 (priced elsewhere)
 
