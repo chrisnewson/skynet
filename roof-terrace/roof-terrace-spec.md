@@ -167,6 +167,8 @@ These are Phase-2 items, but they **must be physically built / set out during Ph
 4. **Leave only the sauna/wet-room building footprint un-tiled** — the building is built on the roof build-up in Phase 2, so you tile up to it then. **The hot-tub area IS tiled in Phase 1** (the tub is craned onto it later). Protect the exposed insulation in the un-tiled building footprint with **ballast / weather protection through the consent wait** (Part A).
 5. **Set the narrow-section tile FFL to suit the Phase-2 lowered study threshold** (Part Q), so the level access works once the new door/window goes in.
 
+> **⚠ Phase-1 site logistics — keep water on the roof for the whole build.** All planting goes in during Phase 1 (Part D) and must be **watered right through the ~12-week summer build to handover**, so **a working tap (the existing one, or a temporary standpipe teed off the building cold supply) must remain available on the roof at all times during Phase 1**. The tap is being relocated (Part E) — **sequence the changeover so the supply is never capped off with plants in the ground**, and agree who is responsible for watering during the build.
+
 ## Phase-2 materials and the hot tub — one crane lift, after consent
 
 **Decided:** rather than pre-staging Phase-2 materials up the scaffold before consent, **everything for Phase 2 comes up together in a single builder-orchestrated crane lift, once Listed Building Consent is through** — the Phase-2 materials *and* the hot tub in the same operation.
@@ -722,6 +724,8 @@ Now the planters sit **on top of the finished tile field** (not built into the r
 # PART D — PLANTING PALETTE & BIODIVERSITY
 
 > **🗓 Phase 1** — follows the planters; **all planting in Phase 1**, though the **final planting plan is still to be agreed**. The biodiversity enhancements on the building (sparrow/bat boxes) are Phase 2; the bee bricks on the store are Phase 1. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+>
+> **⚠ Keep the planting watered throughout the build.** Because the planting goes in during Phase 1 and the scaffold is up for ~12 weeks (summer), the new plants must be **watered for the whole build through to handover** — so **a working tap must be kept available on the roof at all times during Phase 1** (see [Part E](#part-e--outdoor-tap)). Don't let the water supply be capped off during the tap relocation with plants in the ground; agree who waters during the build.
 
 This section sets out the **approximate planted area**, the **planting palette**, and the **biodiversity case** for the full Listed Building Application — in particular for the **Biodiversity Net Gain (BNG)** demonstration and **Biodiversity Checklist** requirements that the planning officer raised at pre-application (PRE2025/00255).
 
@@ -1051,6 +1055,14 @@ To complete the biodiversity submission, please confirm or produce:
 - Existing outdoor tap
 - Plastic panel behind the existing tap
 - **Existing plastic waterproofing at the SE corner of the large terrace** — removed together with the tap (the new IKO roof build-up replaces it)
+
+## ⚠ Keep a working tap on the roof at all times during Phase 1 — for watering
+
+**The roof must never be left without a usable water supply during Phase 1.** Planting goes in during Phase 1 (Part D), and the planters must be **kept watered right through the ~12-week build and on to handover** — losing the supply for even a short spell in summer can kill new planting. The existing tap is being removed and a new one fitted (below), so **sequence the changeover so there is always a working tap with a hose connector available on the roof**:
+
+- **Keep the existing tap live until the new tap (or a temporary standpipe teed off the building cold supply) is connected and working** — never cap off the supply with plants in the ground.
+- If the supply must be interrupted briefly, provide a **temporary hose/standpipe** so watering can continue.
+- **Brief this to Seaview and the roof contractor** so neither disconnects the water without a replacement in place, and **agree who is responsible for watering** during the build (contractor vs Chris).
 
 ## New tap — relocated
 
@@ -2272,7 +2284,7 @@ Access from the flat onto the terrace is via the existing **door/window from the
 |---|---|---|---|
 | 0.1 | Client supplies salvaged boards **+ decking bolts** | **Chris sorts and supplies the sound salvaged hardwood deck boards + the existing decking bolts** (held on site) as **free-issue materials** to the builder, for use as the cladding/carcass of the **planters, outdoor kitchen and storage** (sections 3, 6, 7). The boards keep their existing bolt holes, and the bolts are **reused through those holes as the fixing** (random staggered joints — intended salvage look). **No salvage-sorting labour in the builder's price** | The planters/kitchen/stores are **built from this client-supplied salvaged timber + bolts** — quantity available depends on how many boards are sound |
 | 0.2 | Dispose of redundant timber & rubbish | Remove and dispose of the **poor-quality deck boards**, the **redundant timber deck sub-frame / bearers**, and the **old furniture and rubbish currently on the roof** | |
-| 0.3 | SE-corner plastic waterproofing + old tap | Remove the **existing plastic waterproofing at the SE corner of the large terrace**, together with the **existing outdoor tap, its plastic backing panel and the existing plastic water-supply run** (Part E). The new IKO build-up + new tap replace them | |
+| 0.3 | SE-corner plastic waterproofing + old tap | Remove the **existing plastic waterproofing at the SE corner of the large terrace**, together with the **existing outdoor tap, its plastic backing panel and the existing plastic water-supply run** (Part E). The new IKO build-up + new tap replace them | **⚠ Do not leave the roof without water** — keep the existing tap (or a temporary standpipe) live until the new tap is connected, so the new planting can be watered throughout Phase 1 (see ref 5 / Part E) |
 
 **1. Drainage & service first-fix** *(set out before the roof is closed)*
 
@@ -2312,7 +2324,7 @@ Access from the flat onto the terrace is via the existing **door/window from the
 
 **4. Planting** — supply & plant all planters (incl. the 4 olive trees) + the movable pots. **⚠ The final planting plan is still to be agreed** — treat the plant schedule as a **provisional allowance** until confirmed.
 
-**5. Outdoor tap (Part E)** — relocate to between the future sauna and hot tub; **brass, copper pipe (no plastic)**; fed from the 1.3 cold-water first-fix.
+**5. Outdoor tap (Part E)** — relocate to between the future sauna and hot tub; **brass, copper pipe (no plastic)**; fed from the 1.3 cold-water first-fix. **⚠ Keep a working tap (the existing one, or a temporary standpipe teed off the building cold supply) live on the roof throughout Phase 1** so the new planting can be watered for the whole build — **never cap off the water with plants in the ground**; sequence the old→new tap changeover so the supply is continuous, and agree who waters during the build.
 
 **6. Outdoor kitchen — narrow section, 5-module linear run (built from the salvaged deck boards)**
 
