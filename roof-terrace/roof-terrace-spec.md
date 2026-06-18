@@ -2007,6 +2007,7 @@ Why the change: the kit gives a **factory-formed, guaranteed fall** to the drain
 - Standard wall-hung WC, ~520–560mm projection (e.g. Roca The Gap, Vitra S20, Geberit iCon)
 - Centred on south wall
 - Concealed cistern in stud framing behind
+- **The boxing above the WC** (built out to conceal the cistern) is **to be fitted with a recessed cupboard for towel storage** — door-fronted, finished to match the wet-room walls, taking advantage of the depth created by the cistern stud-out above the visible cistern panel
 
 ## Sink
 
@@ -2393,7 +2394,7 @@ Roof waterproofing / insulation / deck and the scaffold (**separate roof contrac
 | Ref | Item | Scope & key specification | Notes / Ronan to confirm |
 |---|---|---|---|
 | 3.1 | Floor | **Pre-formed wet-room tray kit** + linear drain + trap; tanked; R11 porcelain bonded on, epoxy grout | Ronan specifying the exact tray (940/720 dogleg, shower at wider end) |
-| 3.2 | Fittings | Wall-hung WC + concealed cistern; wall-hung basin + cold tap; **10.5kW electric shower**; external shower | Connect to Phase-1 capped services |
+| 3.2 | Fittings | Wall-hung WC + concealed cistern; wall-hung basin + cold tap; **10.5kW electric shower**; external shower. **Boxing above the WC fitted with a door-fronted towel-storage cupboard** (uses the cistern stud-out depth) | Connect to Phase-1 capped services |
 | 3.3 | Walls / door | Cement-board + porcelain to ceiling, epoxy grout; **762mm cedar door**, outward-opening | |
 
 **4. Hot tub (Part O)** — supply & install the chosen model **within the SE's weight / kg-m² limit**; brought up in the **single post-consent crane lift** with the other Phase-2 materials; **placed on its Phase-1-tiled footprint over the dense pedestal cluster + continuous load-spreading base**; connect the Phase-1 32A radial + drain. **PC sum** until the model is chosen. **Builder to coordinate the contract lift, permits and oversail consents** (commission the survey now).
