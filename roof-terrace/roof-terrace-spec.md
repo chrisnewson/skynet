@@ -2355,7 +2355,7 @@ Access from the flat onto the terrace is via the existing **door/window from the
 
 > **Fall protection:** **all glass is Phase 2** (Part L) — a **west dining screen** (top 1400mm above FFL) and **two hot-tub runs** (top 2000mm above FFL; north-wall run 2800mm long). The south/east dining edges are guarded by the deepened 1m M2 planter (no glass). So **no glass in Phase 1.**
 
-**11. Chimney cowl replacement** — Remove the existing chimney cowl (it whistles) and fit the **client-supplied replacement, already bought and on site: Brewer Cowls "Ultimate" Flue Outlet Chimney Cowl, round strap-fix, multifuel, 150–250mm, terracotta.** **Install only** (client-supplied). Best done while the scaffold is up for chimney access. *Ronan to confirm whether a like-for-like cowl swap on the listed building needs LBC sign-off.*
+**11. Chimney cowl replacement** — Remove the existing chimney cowl (it whistles) and fit the **client-supplied replacement, already bought and on site: Brewer Cowls "Ultimate" Flue Outlet Chimney Cowl, round strap-fix, multifuel, 150–250mm, terracotta.** **Install only** (client-supplied). Best done while the scaffold is up for chimney access.
 
 ## Provisional (PC) sums — Phase 1
 
