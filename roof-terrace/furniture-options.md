@@ -1,146 +1,148 @@
 # Roof Terrace — Garden Furniture Options
 
-*Working shortlist for 22 Sussex Square roof terrace — dining + lounge. Prices captured 21 June 2026 from supplier websites; many are "sale" prices that move, so **confirm live before ordering**. This is an informal options sheet to discuss, not a final spec.*
+*Working shortlist for the 22 Sussex Square roof terrace — dining + lounge. Prices captured 21 June 2026 from supplier websites; many are "sale" prices that move, so **confirm live before ordering**. Informal options sheet to discuss, not a final spec.*
+
+**Version 2 — 21 Jun 2026.** *Changes from v1: removed Rengard (disliked) and the over-budget options (Indian Ocean Burnham, Idyll, Cane-line Ocean); added modern **armless** dining chairs; added affordable modular options (Wealden Benches, Maze Florence, Habitat); added extra module/combined photos on the modular picks; added Corido (contemporary teak).*
 
 ---
 
 ## The brief (what's driving the choices)
 
-- **Location:** Brighton seafront, top-floor roof terrace → **severe salt air + high wind**. Material must be corrosion-proof and heavy enough not to shift.
-- **Plan:** leave only the **hard frames** outside year-round; **all cushions stored** indoors (cushion storage is being built in). This solves the bird-poo / rain / fabric-fade problem.
-- **Dining:** extendable table seating **10–12**, with **modern, non-folding chairs** (we don't want the old-fashioned recliner/folding look).
+- **Location:** Brighton seafront, top-floor roof terrace → **severe salt air + high wind.** Material must be corrosion-proof and heavy enough not to shift.
+- **Plan:** leave only the **hard frames** outside year-round; **all cushions stored** indoors (storage being built in). Solves bird-poo / rain / fade.
+- **Dining:** extendable table seating **10–12**, with **modern, non-folding chairs** — *we don't want the old-fashioned recliner or folding look; armless modern chairs preferred.*
 - **Lounge:** modular sofa + chairs + stools, ideally **reconfigurable into a daybed** — modularity is a big plus.
-- **Budget:** ~£3,000–£6,000 **combined**. Tight for this scope, so the strategy is value-tier dining to protect spend for a nicer lounge.
+- **Budget:** ~£3,000–£6,000 **combined.** Tight, so the strategy is value-tier dining to protect spend for a nicer lounge.
 
-**Materials verdict for our exposure:** **Teak** is the best (salt-proof, heavy, ages to a silver-grey unless oiled). **Acacia/eucalyptus** are weaker (warp/rot risk) — fine inland, a gamble here. For metal, only **cast aluminium** (solid, heavy) or **316 marine-grade stainless** belong at the seafront — avoid **steel frames** (rust) and thin **tube aluminium** (blows about). **Rope/Olefin weave** is excellent for seats (no cushion, hose it down). Even teak should be **lightly ballasted/anchored** against storm gusts — same approach as the parasols.
+**Materials verdict for our exposure:** **Teak** is best (salt-proof, heavy, silvers unless oiled). **Acacia/eucalyptus** weaker (warp/rot). Metal: only **cast aluminium** (solid/heavy) or **316 marine stainless** belong here — avoid **steel** (rusts) and thin **tube aluminium** (blows about). **Rope/Olefin** weave is great for seats (no cushion, hose it down). Even teak should be **lightly ballasted/anchored** against storm gusts — same as the parasols.
 
 ---
 
-## Recommended basket (fits budget, gets the modern look)
+## Recommended basket (modern look, in budget)
 
 | | Item | Price |
 |---|---|---|
-| **Dining** | Teak extending table (Teakunique Orchid £1,445) + 10 modern stacking chairs (Poppy £205 ea) | **~£3,495** |
-| **Lounge** | Luxus Amalfi Corner Teak Sofa Set (modern, low) | **£1,941** |
-| | **Total** | **~£5,436** |
+| **Dining** | Teak extending table (Teakunique Orchid £1,445) + 10 modern **armless** stacking chairs (Corido Hilgrove £110 ea) | **~£2,545** |
+| **Lounge** | Luxus Amalfi Corner Teak Sofa Set (modern low) | **£1,941** |
+| | **Total** | **~£4,486** |
 
-*Cheaper route if you want a true push-together daybed lounge or more headroom: pair a teak table with **rope+aluminium stacking chairs** (~£120/ea) instead of Poppy → dining ~£2,700, freeing budget for the **Teakunique Maluku** modular daybed lounge.*
+*Want a true push-together daybed lounge? Swap the Amalfi for the **Teakunique Maluku** modular (~£3,000) → total ~£5,545, still in budget.*
 
 ---
 
 # DINING OPTIONS
 
-> Tip: you don't have to take a set's chairs. **Buy the table and chairs separately** — keep an extending teak table you like and put modern chairs round it.
+> Tip: don't have to take a set's chairs. **Buy the table and chairs separately** — keep an extending teak table you like and put modern chairs round it.
 
-### 1. Teakunique Orchid table + Poppy chairs — ⭐ modern, recommended
-<img src="https://teakunique.co.uk/cdn/shop/products/Orchid_Extending_Rectangular_Table_2_Sizes.png?v=1763978670&width=1445" width="360"> <img src="https://teakunique.co.uk/cdn/shop/files/humphrey_grace-Teakunique-325copy2.jpg?v=1770396689&width=1445" width="300">
+### 1. Teak extending table + Corido Hilgrove armless stacking chairs — ⭐ modern, recommended
+<img src="https://teakunique.co.uk/cdn/shop/products/Orchid_Extending_Rectangular_Table_2_Sizes.png?v=1763978670&width=1445" width="330"> <img src="https://www.corido.co.uk/3599-home_default/hilgrove-teak-stacking-garden-chair.jpg" width="240">
 
-- **Table:** Orchid Extending Rectangular, solid teak, clean modern legs — **from £1,445** (2 sizes; confirm larger seats 10–12)
-- **Chairs:** Poppy — **£205 each** — contemporary curved back, **stacks** (stacking ≠ folding; stores easily)
-- **Total ≈ £3,495** (table + 10 chairs) / £3,905 with 12 chairs
-- Same brand as the Maluku lounge below, so it all matches.
-- Table: https://teakunique.co.uk/collections/teak-dining-tables/products/orchid-extending-rectangular-teak-garden-tables · Chair: https://teakunique.co.uk/collections/teak-dining-chairs/products/poppy-stacking-chairs
+- **Table:** Teakunique Orchid Extending Rectangular, solid teak, clean modern legs — **from £1,445** (2 sizes; confirm larger seats 10–12)
+- **Chairs:** Corido **Hilgrove Stacking** teak — **£110 each** — **armless, modern, stacks** (stacking ≠ folding)
+- **Total ≈ £2,545** (table + 10 chairs) / £2,765 with 12 — the best value-for-modern route, leaves the most for the lounge.
+- Table: https://teakunique.co.uk/collections/teak-dining-tables/products/orchid-extending-rectangular-teak-garden-tables · Chair: https://www.corido.co.uk/hilgrove-teak-stacking-garden-chair.html
 
-### 2. Jati Oxburgh 10-Seater Set — value, complete set
-<img src="https://www.jati.co.uk/7680-home_default/oxburgh-10-seater-teak-2-3m-extending-table-with-tewkesbury-recliners.jpg" width="360">
+### 2. Corido Hilgrove 12-Seater Contemporary Set — the complete modern look
+<img src="https://www.corido.co.uk/9580-large_default/hilgrove-12-seater-teak-oval-dining-set-with-armchairs-and-side-chairs.jpg" width="360">
 
-- Teak, **2–3m extending** table + 10 Tewkesbury recliner chairs — **£2,310**
-- Cheapest complete teak set, **but the recliner chairs are the dated look we flagged.** Good table; consider swapping the chairs.
+- 4m oval Grade A teak, **seats 12**, with carver armchairs + **armless side chairs** — **£3,830** (was £4,030)
+- The full coordinated contemporary set. **Priciest dining option, and the table is fixed (not extending)** — pair only with a cheaper lounge to stay in budget.
+- https://www.corido.co.uk/hilgrove-12-seater-teak-oval-dining-set-with-armchairs-and-side-chairs.html
+
+### 3. Teakunique Orchid table + Poppy chairs — modern teak (curved)
+<img src="https://teakunique.co.uk/cdn/shop/files/humphrey_grace-Teakunique-325copy2.jpg?v=1770396689&width=1445" width="280">
+
+- Orchid extending table (from £1,445) + **Poppy** chairs — **£205 each** — contemporary curved back, **armless, stacks**
+- **Total ≈ £3,495** (table + 10). Nicer chair than Hilgrove, but ~£1k more across 10 seats.
+- https://teakunique.co.uk/collections/teak-dining-chairs/products/poppy-stacking-chairs
+
+### 4. Jati Oxburgh 10-Seater Set — cheapest complete set
+<img src="https://www.jati.co.uk/7680-home_default/oxburgh-10-seater-teak-2-3m-extending-table-with-tewkesbury-recliners.jpg" width="340">
+
+- Teak, **2–3m extending** table + 10 recliner chairs — **£2,310**
+- Good table, but the **recliner chairs are the dated look we want to avoid** — best treated as a table + swap the chairs.
 - https://www.jati.co.uk/ten-seater-garden-table-and-chairs-10-seater-dining-sets-garden-furniture-sets
 
-### 3. Sandringham 10-Seater Extending Set — budget
-<img src="https://www.gardenbenches.com/pub/media/catalog/product/cache/38729559164810be698cd4c04e33aad7/r/e/rectangle-extending-dining-set-10-stacking-chairs.jpg" width="360">
+### 5. Sandringham 10-Seater Extending — budget
+<img src="https://www.gardenbenches.com/pub/media/catalog/product/cache/38729559164810be698cd4c04e33aad7/r/e/rectangle-extending-dining-set-10-stacking-chairs.jpg" width="340">
 
-- Grade A teak, extends **210→300cm**, table + 10 stacking chairs — **£1,395** (was £2,295)
-- Cheapest of all; stacking chairs are plain but not folding. Single-source retailer — check reviews/warranty.
+- Grade A teak, extends **210→300cm**, table + 10 stacking chairs — **£1,395** (was £2,295). Cheapest overall; plain (not folding) chairs.
 - https://www.gardenbenches.com/10-seater-extending-teak-rectangle-dining-table-set
 
-### 4. Teak Garden Furniture Outlet 10-Seater — budget alt
-<img src="https://teakgardenfurnitureoutlet.co.uk/wp-content/uploads/2022/09/Teak-extending-set-1o-seater-.jpg" width="360">
+### 6. Teak Garden Furniture Outlet 10-Seater — budget alt
+<img src="https://teakgardenfurnitureoutlet.co.uk/wp-content/uploads/2022/09/Teak-extending-set-1o-seater-.jpg" width="340">
 
-- Teak, **200–300cm** extending (x110cm) + 10 stacking chairs — **£1,599** (was £3,100)
-- Similar to Sandringham. One Trustpilot review flagged cushions failing within ~1 year — inspect quality.
+- Teak, **200–300cm** extending + 10 stacking chairs — **£1,599** (was £3,100). One Trustpilot review flagged cushions failing within ~1 yr — inspect.
 - https://teakgardenfurnitureoutlet.co.uk/product/teak-garden-furniture-rectangle-extending-table-10
 
-### 5. Indian Ocean Burnham — premium reference (table only)
-<img src="https://www.indian-ocean.co.uk/cdn/shop/products/Burnham_Tables-747272.jpg?v=1626974036" width="360">
-
-- Solid teak, **stainless steel** fittings, butterfly-fold extension; 294cm seats **6–10 extended** — **£3,590 table only**
-- Beautiful, but eats the budget before chairs/lounge. Here as the quality benchmark.
-- https://www.indian-ocean.co.uk/products/burnham-teak-table
-
-### 6. Corido Contemporary Dining — modern bucket chairs (get a quote)
-*(No photo — their site blocked automated access; browse direct.)*
-- UK contemporary teak brand; modern **bucket-style chairs** with extending teak tables — the most modern set look. Price not published online — **request a quote.**
-- https://www.corido.co.uk/contemporary-dining-set · https://www.corido.co.uk/extending-dining-table-and-chairs-extendable-dining-table-set
-
-> **Modern chairs to pair with any teak table:** Teakunique **Poppy** (£205, teak, stacks) — or cheaper **rope + aluminium stacking** chairs like Harbour **Leo** (woven rope seat, aluminium frame, stacks, no cushion to store — coastal-ideal; ~£100–150, confirm): https://shopharbour.com/products/leo-stacking-dining-chair
+> **Modern armless chairs to put round any teak table:** **Corido Hilgrove Stacking £110** (armless, stacks) ⭐ best value · **Teakunique Poppy £205** (curved, armless, stacks) · **Teakunique Bali £315** (slim minimalist, armless, doesn't stack).
 
 ---
 
 # LOUNGE OPTIONS
 
-**Daybed key:** ✅✅ = purpose-built daybed / push modules into a bed · ✅ = chaise/lounger module makes a bed · ◐ = reconfigures (L/R, splits) but not a flat bed.
+**Daybed key:** ✅✅ = push modules into a bed / purpose-built daybed · ✅ = pieces combine into a daybed · ◐ = reconfigures (L/R, splits) but not a flat bed.
 
 ### 1. Luxus Amalfi Corner Teak Sofa Set — ⭐ modern, recommended
 <img src="https://www.luxushomeandgarden.com/cdn/shop/files/rn-image_picker_lib_temp_0168c1ed-258e-4ffb-b67b-3351335f3855_1024x.jpg?v=1776068081" width="360">
 
 - **£1,941** (was £2,999) · solid teak · sleek **low modern** profile (closest to the Swyft look we liked)
-- **Modularity ◐** — corner set with customisable L-shape layout; not a push-into-bed daybed.
+- **Modularity ◐** — corner set, customisable L-shape; not a push-into-bed daybed.
 - https://www.luxushomeandgarden.com/products/amalfi-corner-teak-sofa-and-table-set
 
 ### 2. Teakunique Maluku II Modular — ⭐ best for a daybed
-<img src="https://teakunique.co.uk/cdn/shop/products/Teak_Maluku_Modular_Corner_Sofa_Section.jpg?v=1772195253&width=1445" width="360">
+<img src="https://teakunique.co.uk/cdn/shop/products/Teak_Maluku_Modular_Corner_Sofa_Section.jpg?v=1772195253&width=1445" width="250"> <img src="https://teakunique.co.uk/cdn/shop/files/sectional-with-chaise-and-matching-background.png" width="250"> <img src="https://teakunique.co.uk/cdn/shop/files/outdoor-lifestyle-sofa-image.png" width="250">
 
-- Solid teak · **£825 per corner module** (mid modules + ottomans extra; a full set ≈ **£2,500–£3,500**)
+*(L→R: single corner module · modules combined with a chaise · full set in situ)*
+- Solid teak · **£825 per corner module** (mid modules + ottomans extra; full set ≈ **£2,500–£3,500**)
 - **Modularity ✅✅** — corner + mid + ottoman units combine freely; **push the ottomans together to form a daybed.** Olefin + quick-dry cushions. Matches the Orchid/Poppy dining.
 - https://teakunique.co.uk/products/maluku-modular-sofa-corner-section
 
-### 3. Sherborne Teak Corner Sofa Set — value, classic
+### 3. Wealden Benches Modular Teak Daybed — affordable daybed
+<img src="https://wealdenbenches.co.uk/cdn/shop/files/Classic-Outdoor-Wooden-Garden-Day-Bed-Sofa-black-cushions.jpg?v=1768156573&width=1946" width="360">
+
+- A-grade teak · **from £655 per piece** (sale; was £695) — standalone sofa that **combines with matching pieces into a full daybed**
+- **Modularity ✅** — build the daybed up from pieces; cheapest teak route to a real daybed. Confirm full daybed-config total.
+- https://wealdenbenches.co.uk/products/outdoor-wooden-garden-sofa
+
+### 4. Sherborne Teak Corner Sofa Set — value classic
 <img src="https://www.gardenbenches.com/pub/media/catalog/product/cache/38729559164810be698cd4c04e33aad7/t/e/teak-garden-sofa-set-cream-cushions.jpg" width="360">
 
 - **£1,499** (was £2,249) · Grade A teak · 5-seat corner + coffee table · **made in England**
-- **Modularity ◐** — chaise extension clamps to either side (left/right-handed). **High-back classic style** — comfy and great value, but *not* the modern low look.
+- **Modularity ◐** — chaise clamps to either side (L/R). **High-back classic style** — comfy, great value, but *not* the modern low look.
 - https://www.gardenbenches.com/wooden-garden-corner-sofa-sets
 
-### 4. Idyll Home Recycled Teak Modular — characterful, chaise daybed
-<img src="https://idyllhome.co.uk/cdn/shop/files/recycled_teak_module_sofa_and_chaise.jpg" width="360">
+### 5. Maze Florence Rope-Weave Corner Sofa Set — rope alternative
+<img src="https://www.mazeliving.co.uk/uploads/product_images/33221-flo-lcss-cl-1-mobile-0.webp" width="360">
 
-- FSC **recycled teak** (reclaimed look, wooden patches) · **£1,435.50 per module** (centre / corner / chaise-long)
-- **Modularity ✅** — mix modules incl. a **chaise-long = lounger/daybed.** Lovely, but ~4 modules ≈ £5,700 — pricey for the lounge slot.
-- https://idyllhome.co.uk/products/teak-modular-garden-sofa
+- **from £1,049** · aluminium frame + rope weave + coffee table (a version comes with a **rising table + 2 stools**)
+- **Modularity ◐** — modular corner; rope seats need no cushion. Good value if you warm to rope after all.
+- https://www.mazeliving.co.uk/product/maze-florence-rope-weave-large-corner-sofa-set-with-rectangular-coffee-table
 
-### 5. Cane-line Ocean Modular — premium rope, purpose daybed
-<img src="https://www.worm.co.uk/cdn/shop/collections/Caneline-Ocean-Modular-LS_480x480.jpg?v=1614085231" width="360">
+### 6. Habitat Multi Way Modular — budget, reconfigures to a bed
+<img src="https://cdn.mos.cms.futurecdn.net/Spsq59Yua4uzAbDDwMCqA8.jpg" width="360">
 
-- Danish · aluminium frame + **Soft Rope** weave (seat needs no cushion — leave out, hose down) · **£525–£1,665 per piece**
-- **Modularity ✅✅** — full modular range **including a dedicated daybed module.** The technically-ideal coastal piece, but premium-priced.
-- Collection: https://www.worm.co.uk/collections/ocean-modular · Daybed: https://www.worm.co.uk/collections/outdoor-woven/products/ocean-soft-rope-large-daybed
-
-### 6. Rengard Monaco Rope Modular Corner Set — flexible, good value
-<img src="https://rengard.co.uk/wp-content/uploads/2023/12/rengard-website-product-monaco-corner-sofa-set-patio-300x300.jpg" width="360">
-
-- **£1,599** · **aluminium** frame + **Olefin rope** + teak coffee table
-- **Modularity ◐** — corner set that **splits into two separate sofas**; reconfigurable, though not a flat bed.
-- https://rengard.co.uk/product/monaco-aluminium-rope-modular-corner-sofa-set-with-teak-coffee-table/
+- **£450** · reconfigures into a straight sofa, two loungers, an L-shape, or **sun-lounger/bed**
+- **Modularity ✅✅** — the most flexible cheap option. **⚠ Caveat: eucalyptus + STEEL frame** = corrosion risk at the seafront; a short-life budget pick, not a 10-year one.
+- https://www.livingetc.com/shopping/habitat-multi-way-modular-garden-sofa
 
 ---
 
 ## Timing — buy into the end-of-summer clearance
 
-The well-established UK pattern (couldn't be hard-verified this round, treat as guidance):
-- **Late Aug–Sept = best clearance** (often 30–50% off) as retailers clear stock before winter — downside is picked-over choice.
-- **Black Friday / January** = patchy for garden furniture (off-season, limited range).
+Well-established UK pattern (treat as guidance — couldn't be hard-verified):
+- **Late Aug–Sept = best clearance** (often 30–50% off) before winter — downside is picked-over choice.
+- **Black Friday / January** = patchy for garden furniture (off-season).
 - **Spring (Feb–Apr)** = new ranges, best *choice* but full price.
 
-**Our timing is lucky:** the terrace fit-out completes **late Sept 2026**, landing right in the clearance window — so waiting isn't a sacrifice. Note that **teak specialists (Jati, Teakunique, Luxus) run near-permanent "was/now" pricing** rather than big seasonal swings, so for teak the date barely matters; it's the mainstream lounge/rope sets where Aug–Sept saves real money.
+**Our timing is lucky:** fit-out completes **late Sept 2026**, landing in the clearance window. Note teak specialists (Jati, Teakunique, Luxus, Corido) run near-permanent "was/now" pricing rather than big seasonal swings, so for teak the date barely matters — it's the mainstream/rope sets (Maze, Habitat) where Aug–Sept saves real money.
 
 ---
 
 ## Before ordering — checklist
-- [ ] Confirm the chosen extending table's **largest size seats 10–12** (Orchid lists "from £1,445" — big size costs more).
-- [ ] Confirm cushions are **Olefin or Sunbrella** with **quick-dry foam** (all sets above say Olefin — good).
+- [ ] Confirm the extending table's **largest size seats 10–12** (Orchid lists "from £1,445" — big size costs more).
+- [ ] Confirm cushions are **Olefin or Sunbrella** with **quick-dry foam**.
 - [ ] Confirm lounge frames have a **slatted teak seat base** so they look intentional with cushions off.
-- [ ] Avoid **steel** frames; confirm any aluminium is **cast** (heavy), not thin tube.
-- [ ] Plan **ballast/anchoring** for big pieces + bring in light stools/chairs in storms (coordinate with Ronan — no roof penetration).
-- [ ] Order **samples** where possible (esp. budget single-source sets) before committing.
+- [ ] Avoid **steel** frames (Habitat is steel — budget only); confirm any aluminium is **cast**, not tube.
+- [ ] Plan **ballast/anchoring** for big pieces + bring in light chairs/stools in storms (coordinate with Ronan — no roof penetration).
+- [ ] Order **samples** where possible before committing.
