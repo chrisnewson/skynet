@@ -75,7 +75,35 @@
 - Teak, **200–300cm** extending + 10 stacking chairs — **£1,599** (was £3,100). One Trustpilot review flagged cushions failing within ~1 yr — inspect.
 - https://teakgardenfurnitureoutlet.co.uk/product/teak-garden-furniture-rectangle-extending-table-10
 
-> **Modern armless chairs to put round any teak table:** **Corido Hilgrove Stacking £110** (armless, stacks) ⭐ best value · **Teakunique Poppy £205** (curved, armless, stacks) · **Teakunique Bali £315** (slim minimalist, armless, doesn't stack).
+---
+
+## Contemporary dining chairs (mix & match with any teak table)
+
+Buy the table once, then choose chairs to taste. All of these are **non-folding** and contemporary; the first three are **armless**.
+
+### Armless
+<img src="https://www.corido.co.uk/3599-home_default/hilgrove-teak-stacking-garden-chair.jpg" width="210"> <img src="https://teakunique.co.uk/cdn/shop/files/humphrey_grace-Teakunique-325copy2.jpg?v=1770396689&width=1445" width="210"> <img src="https://teakunique.co.uk/cdn/shop/files/BaliDiningChairstudioshot.jpg" width="210">
+
+| Chair | Style | Price | Stacks? | Link |
+|---|---|---|---|---|
+| **Corido Hilgrove Stacking** ⭐ | teak, clean stacking — best value | **£110** | ✅ | [link](https://www.corido.co.uk/hilgrove-teak-stacking-garden-chair.html) |
+| **Teakunique Poppy** | teak, contemporary **curved** back | **£205** | ✅ | [link](https://teakunique.co.uk/collections/teak-dining-chairs/products/poppy-stacking-chairs) |
+| **Teakunique Bali** | teak, slim minimalist | **£315** | ✗ | [link](https://teakunique.co.uk/collections/teak-dining-chairs) |
+
+### With arms (carvers — for the head of the table, or all round)
+<img src="https://teakunique.co.uk/cdn/shop/products/Teak_Flores_Stacking_Carver_Chair_6.jpg" width="210">
+
+| Chair | Style | Price | Stacks? |
+|---|---|---|---|
+| **Teakunique Flores Stacking Carver** | teak, modern, with arms | **£235** | ✅ |
+| **Teakunique Bali Carver** | teak, slim with arms | **£355** | ✗ |
+
+### Different material — rope/aluminium (very contemporary, no cushion to store)
+<img src="https://www.mazeliving.co.uk/uploads/product_images/33093-flo-8srds-cl-1-mobile-0.webp" width="300">
+
+- **Maze Florence rope** — armless rope-weave on an aluminium frame; the seat needs no cushion, so it's coastal-friendly and nothing to bring in. *Sold within Maze dining sets (rope dining sets from ~£999), not as single chairs* — note if you'd want them round your own teak table. [link](https://www.mazeliving.co.uk/shop/garden-furniture/dining-sets?material=Rope+Weave)
+
+**My steer:** **10× Corido Hilgrove (£110)** for the best modern-armless value (~£1,100 in chairs), or **Poppy (£205)** if you prefer the curved back; mix in **two Flores carvers** at the ends if you'd like arms at the head seats.
 
 ---
 
