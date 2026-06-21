@@ -53,7 +53,7 @@ The cheaper contemporary table + chairs frees budget for the **Maluku daybed lou
 ### Maze Ambition — ceramic top
 <img src="https://www.mazeliving.co.uk/uploads/product_images/9229-fb-amb-10exds-ot-sq21-mobile-0.webp" width="300">
 
-- Aluminium frame + **ceramic top**. **10-seat extending — £3,349 as a full set** (table + 10 chairs); table sold separately too.
+- Aluminium frame + **ceramic top**. **Sold only as a full set — £3,349** (table + 10 chairs); **not available table-only**, so if you want a stone top without the chairs, the **Maxim above is the one.**
 - https://www.mazeliving.co.uk/product/maze-ambition-10-seat-extending-dining-set/colour/oatmeal-with-grey-frame
 
 *Also quote: **Alexander Rose Rimini** (aluminium + ceramic, 2.3→3m, seats 12), Bridgman, Nova, Kettler.*
