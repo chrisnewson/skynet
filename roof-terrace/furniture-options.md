@@ -76,14 +76,14 @@ Beyond looks, two things matter here: **weight** (won't blow) and a **seagull-pr
 | Chair | Look | Weight | Seagull seat | Cushion | Price ea. |
 |---|---|---|---|---|---|
 | **Teakunique Poppy** ⭐ | teak, curved back | **~7–8 kg (heavy)** | ◐ teak slats shed water (bare teak can mark) | optional | **£205** |
-| **Teak + rope** (source TBC) | teak frame + rope seat | **~8 kg (heavy)** | ✓ rope sheds, no cushion | none | ~£200–400 |
+| **Teak + rope** (premium/import) | teak frame + rope seat | **~8 kg (heavy)** | ✓ rope sheds, no cushion | none | Gloster ~£400+ / US import ~£500 |
 | **Cane-line Breeze** | woven seat, sled legs | 6.4 kg | ✓ woven | yes (store) | £520 |
 | **Mobellia Amalfi** | aluminium + cord | ~6 kg | ◐ cord ok | yes (store) | £124.50 |
 | **Nardi Bora** | resin, perforated | **4.5 kg (light)** | ✓ wipe-clean | none | £126 |
 | **Cane-line Choice** | moulded shell | **3.7 kg (very light)** | ✓ shell, drains | none | £310 |
 
 **The steer:**
-- **Heaviest + seagull-proof + contemporary = a teak or teak+rope chair (~8 kg).** It stays put and the slat/rope seat shrugs off droppings. **Poppy** (teak, UK, £205) is the accessible pick; a teak frame with a **rope** seat is the ideal (no cushion, hoses clean) — UK stock is thin, I can source it for you.
+- **Heaviest + seagull-proof + contemporary = a teak or teak+rope chair (~8 kg).** It stays put and the slat/rope seat shrugs off droppings. **Poppy** (teak, UK, £205) is the accessible heavy pick. A teak frame with a **rope** seat is the ideal (no cushion, hoses clean) but **UK mid-price stock is scarce** — it's either premium (**Gloster ~£400+**) or a US import, so Poppy is the realistic UK choice unless we go premium.
 - **Light but lovely (Nardi £126, Cane-line Choice £310): ~4 kg → they blow when empty.** Mitigations: dining chairs **tuck under a heavy table** (the Maxim/Nardi table shelters them), and you bring them in / weight them in storms — same as the cushions.
 
 **Best pairing:** heavy seagull-proof **table** (Maze Maxim stone top, £1,999) + **teak / teak-rope chairs** so the chairs resist wind too. Go Nardi/Choice only if you're happy to tuck & store them.
