@@ -30,6 +30,7 @@ The cheaper contemporary table + chairs frees budget for the **Maluku daybed lou
 <img src="https://www.juliajones.co.uk/images/products/standard/2120.jpg" width="330">
 
 - Italian, minimal — powder-coated **aluminium top + frame**; slatted so rain (and a hose) runs straight through. **£1,439**, extends 210→280cm (~10 seats).
+- **Weight ~54 kg** — surprisingly heavy for aluminium; **won't blow in normal weather**, anchor only for storm gusts.
 - https://www.juliajones.co.uk/nardi-rio-aluminium-outdoor-extending-dining-table-210-280cm/p2120
 
 ### Mobellia Amalfi — aluminium A-frame
@@ -45,7 +46,8 @@ The cheaper contemporary table + chairs frees budget for the **Maluku daybed lou
 ### Maze Maxim ⭐ — sintered-stone top
 <img src="https://www.mazeliving.co.uk/uploads/product_images/43558-fb-dn-max-12ex-ss-st-1-large.jpg" width="330">
 
-- Aluminium frame + **sintered-stone top** (charcoal) — the toughest, most stain-proof surface going. **£1,999 table-only**, extends 8→12.
+- Aluminium frame + **sintered-stone top** (charcoal) — the toughest, most stain-proof surface going. **£1,999 table-only** (buy without Maze's chairs), extends 8→12.
+- The stone top is **heavy → the most wind-stable table here**, *and* fully seagull-proof. **⭐ best all-round for the seafront** — pair with chairs of your choice.
 - https://www.mazeliving.co.uk/product/maze-maxim-extending-aluminium-dining-table
 
 ### Maze Ambition — ceramic top
@@ -65,23 +67,28 @@ The cheaper contemporary table + chairs frees budget for the **Maluku daybed lou
 
 # 2 · DINING CHAIRS
 
-Contemporary, cheapest first. Under ~£150 means resin or aluminium (not teak); **Poppy** is the cheapest *teak* contemporary chair.
+Beyond looks, two things matter here: **weight** (won't blow) and a **seagull-proof seat** (rope/shell/slat — sheds droppings, hoses clean; no fabric left out). The honest tension: cheap contemporary chairs (resin/shell) are **light**; the heavy ones are **teak / cast-aluminium**.
 
-<img src="https://www.juliajones.co.uk/images/products/standard/2122.jpg" width="180"> <img src="https://www.mobellia.com/cdn/shop/products/fauteuilamalfiblancfrontal.jpg?v=1685517588&width=2048" width="180"> <img src="https://teakunique.co.uk/cdn/shop/files/Poppy_Chair_3.jpg" width="180"> <img src="https://cane-line.co.uk/cdn/shop/files/54500PPS_54504SS_1320_81065eca-90ff-4bac-8029-dda582a07acb.png?v=1772198234" width="165">
+<img src="https://www.juliajones.co.uk/images/products/standard/2122.jpg" width="175"> <img src="https://teakunique.co.uk/cdn/shop/files/Poppy_Chair_3.jpg" width="175"> <img src="https://cane-line.co.uk/cdn/shop/files/54500PPS_54504SS_1320_81065eca-90ff-4bac-8029-dda582a07acb.png?v=1772198234" width="160"> <img src="https://cane-line.co.uk/cdn/shop/files/5467LS_5467YSN92_1013.png?v=1761044875" width="165">
 
-*(L→R: Nardi Bora · Mobellia Amalfi · Teakunique Poppy · Cane-line Choice)*
+*(L→R: Nardi Bora · Teakunique Poppy · Cane-line Choice · Cane-line Breeze)*
 
-| Chair | Material / look | Arms | Cushion? | Price | 10 chairs |
+| Chair | Look | Weight | Seagull seat | Cushion | Price ea. |
 |---|---|---|---|---|---|
-| **Nardi Bora** ⭐ value | Italian resin, perforated, anthracite — bombproof | armless | none | **£126** | £1,260 |
-| **Mobellia Amalfi** | aluminium + cord, matches the table | arms | yes (store) | **£124.50** (pair £249) | £1,245 |
-| **Teakunique Poppy** ⭐ teak | teak, curved wrap-around back | near-armless | optional pad | **£205** | £2,050 |
-| **Cane-line Choice** | sculptural moulded shell — sharpest look | low arms | none | **£310** | £3,100 |
-| **Cane-line Breeze** | woven rope, sled legs | arms | yes (store) | **£520** | £5,200 |
+| **Teakunique Poppy** ⭐ | teak, curved back | **~7–8 kg (heavy)** | ◐ teak slats shed water (bare teak can mark) | optional | **£205** |
+| **Teak + rope** (source TBC) | teak frame + rope seat | **~8 kg (heavy)** | ✓ rope sheds, no cushion | none | ~£200–400 |
+| **Cane-line Breeze** | woven seat, sled legs | 6.4 kg | ✓ woven | yes (store) | £520 |
+| **Mobellia Amalfi** | aluminium + cord | ~6 kg | ◐ cord ok | yes (store) | £124.50 |
+| **Nardi Bora** | resin, perforated | **4.5 kg (light)** | ✓ wipe-clean | none | £126 |
+| **Cane-line Choice** | moulded shell | **3.7 kg (very light)** | ✓ shell, drains | none | £310 |
 
-Links: [Nardi Bora](https://www.juliajones.co.uk/nardi-bora-chair/p2122) · [Mobellia Amalfi](https://www.mobellia.com/en-gb/products/set-of-2-amalfi-garden-armchairs) · [Poppy](https://teakunique.co.uk/collections/teak-dining-chairs/products/poppy-stacking-chairs) · [Choice](https://cane-line.co.uk/products/choice-chair-outdoor) · [Breeze](https://cane-line.co.uk/products/breeze-chair)
+**The steer:**
+- **Heaviest + seagull-proof + contemporary = a teak or teak+rope chair (~8 kg).** It stays put and the slat/rope seat shrugs off droppings. **Poppy** (teak, UK, £205) is the accessible pick; a teak frame with a **rope** seat is the ideal (no cushion, hoses clean) — UK stock is thin, I can source it for you.
+- **Light but lovely (Nardi £126, Cane-line Choice £310): ~4 kg → they blow when empty.** Mitigations: dining chairs **tuck under a heavy table** (the Maxim/Nardi table shelters them), and you bring them in / weight them in storms — same as the cushions.
 
-*(Other Nardi armless options: Costa £126, Trill £153, Doga £169.)*
+**Best pairing:** heavy seagull-proof **table** (Maze Maxim stone top, £1,999) + **teak / teak-rope chairs** so the chairs resist wind too. Go Nardi/Choice only if you're happy to tuck & store them.
+
+*(Other Nardi armless options: Costa £126, Trill £153, Doga £169. Links: [Nardi Bora](https://www.juliajones.co.uk/nardi-bora-chair/p2122) · [Poppy](https://teakunique.co.uk/collections/teak-dining-chairs/products/poppy-stacking-chairs) · [Choice](https://cane-line.co.uk/products/choice-chair-outdoor) · [Breeze](https://cane-line.co.uk/products/breeze-chair))*
 
 ---
 
