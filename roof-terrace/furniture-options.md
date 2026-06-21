@@ -23,29 +23,43 @@ The cheaper contemporary table + chairs frees budget for the **Maluku daybed lou
 
 # 1 · DINING TABLES
 
-**Look for:** slim aluminium A-frame legs + a **non-porous, wipe-clean top** (seagull-proof). Avoid real-teak tops — they stain from droppings.
+**Contemporary = slim aluminium A-frame/legs. Seagull-proof = a non-porous, wipe-clean top.** Grouped by top material — all stain-proof against droppings. (Real teak/wood tops are dropped: porous, they stain.)
 
-### Mobellia Amalfi — aluminium extending ⭐ (the look you liked)
-<img src="https://www.mobellia.com/cdn/shop/files/AMALFI_TABLEAUTOMATIQUE.jpg" width="300"> <img src="https://www.mobellia.com/cdn/shop/files/TABLTEA076_2.jpg" width="300">
+## Metal (aluminium) tops — no rust, drains, wipe clean
+### Nardi Rio ⭐ — aluminium slat top
+<img src="https://www.juliajones.co.uk/images/products/standard/2120.jpg" width="330">
 
-- White/anthracite aluminium A-frame, teak-look top, tool-free "automatic" extension.
-- **10-seat (200→260cm) £599** · **12-seat (240→300cm) £799**
-- ⚠ **Confirm the top is aluminium/composite (wipe-clean), not real wood**, so droppings don't stain. Aluminium is light — **ballast against wind**.
+- Italian, minimal — powder-coated **aluminium top + frame**; slatted so rain (and a hose) runs straight through. **£1,439**, extends 210→280cm (~10 seats).
+- https://www.juliajones.co.uk/nardi-rio-aluminium-outdoor-extending-dining-table-210-280cm/p2120
+
+### Mobellia Amalfi — aluminium A-frame
+<img src="https://www.mobellia.com/cdn/shop/files/AMALFI_TABLEAUTOMATIQUE.jpg" width="280"> <img src="https://www.mobellia.com/cdn/shop/files/TABLTEA076_2.jpg" width="280">
+
+- White/anthracite aluminium A-frame, teak-look top, tool-free extension. **10-seat £599 · 12-seat £799.**
+- ⚠ Confirm the top is **aluminium/composite, not real wood**. Light — **ballast against wind**.
 - https://www.mobellia.com/en-gb/collections/extending-table
 
-### Maze Ambition — ceramic top ⭐ (fully seagull-proof)
-<img src="https://www.mazeliving.co.uk/uploads/product_images/9229-fb-amb-10exds-ot-sq21-mobile-0.webp" width="320">
+*Budget: generic powder-coated aluminium slatted-top 10-seat extenders (~£300–600, e.g. Garden Chic, Direct Home) — modern and they drain, just lighter-built.*
 
-- Contemporary aluminium frame + **ceramic top** — non-porous, wipes clean, won't stain or scratch. Reputable UK brand (guarantee, finance).
-- **10-seat extending — £3,349 as a complete set** (table + 10 chairs); table also sold separately — ask for table-only price.
+## Stone tops — sintered stone / ceramic — ultra stain & scratch-proof
+### Maze Maxim ⭐ — sintered-stone top
+<img src="https://www.mazeliving.co.uk/uploads/product_images/43558-fb-dn-max-12ex-ss-st-1-large.jpg" width="330">
+
+- Aluminium frame + **sintered-stone top** (charcoal) — the toughest, most stain-proof surface going. **£1,999 table-only**, extends 8→12.
+- https://www.mazeliving.co.uk/product/maze-maxim-extending-aluminium-dining-table
+
+### Maze Ambition — ceramic top
+<img src="https://www.mazeliving.co.uk/uploads/product_images/9229-fb-amb-10exds-ot-sq21-mobile-0.webp" width="300">
+
+- Aluminium frame + **ceramic top**. **10-seat extending — £3,349 as a full set** (table + 10 chairs); table sold separately too.
 - https://www.mazeliving.co.uk/product/maze-ambition-10-seat-extending-dining-set/colour/oatmeal-with-grey-frame
 
-### Ceramic-top extending tables — the seagull-proof gold standard
-For a top that *never* stains, a **ceramic / sintered-stone** top on an aluminium frame is ideal and very contemporary:
-- **Alexander Rose Rimini** — aluminium + ceramic-effect top, 2.3→3m, **seats 12** (reputable brand; get a quote).
-- Also worth quoting: **Bridgman, Nova, Kettler, Time Out Space** ceramic ranges.
+*Also quote: **Alexander Rose Rimini** (aluminium + ceramic, 2.3→3m, seats 12), Bridgman, Nova, Kettler.*
 
-*Dropped: the traditional teak trestle tables (Orchid, Jati, Sandringham) — not contemporary, and a teak top stains from gulls.*
+## Premium design references
+**Cane-line** (aluminium or **316 stainless** tops) and **Fermob** (powder-coated, 25 colours) — iconic contemporary. Note **Fermob is steel**, so coastally the coating must stay perfect — **aluminium, 316 stainless or stone tops are the safer seafront bets.**
+
+*Dropped: traditional teak trestle tables (Orchid, Jati, Sandringham) — not contemporary, and a teak top stains from gulls.*
 
 ---
 
