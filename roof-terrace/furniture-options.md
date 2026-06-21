@@ -9,15 +9,15 @@
 - **Frames out, cushions stored** — only hard frames live outside; all cushions come indoors (storage being built in).
 - **Budget** ~£3,000–£6,000 combined.
 
-## Recommended basket (contemporary, seagull-proof, in budget)
+## Recommended basket (contemporary, dark top, seagull-proof, wind-stable)
 | | Item | Price |
 |---|---|---|
-| **Table** | Mobellia Amalfi aluminium extending (10-seat) — *confirm non-porous top* | **£599** |
-| **Chairs** | 10× Nardi Bora resin (£126) — or Poppy teak (£205) | **£1,260** (or £2,050) |
+| **Table** | Maze Maxim — **dark charcoal sintered-stone** top, heavy & wind-stable, table-only | **£1,999** |
+| **Chairs** | 10× Teakunique Poppy teak (~8 kg, passes wind) | **£2,050** |
 | **Lounge** | Luxus Amalfi Corner teak — or Maluku modular daybed (~£3,000) | **£1,941** |
-| | **Total** | **~£3,800–£5,600** |
+| | **Total** | **~£5,990** |
 
-The cheaper contemporary table + chairs frees budget for the **Maluku daybed lounge** while staying under £6k.
+Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439) → drops the total to ~£5,430. Both tables are dark, seagull-proof and heavy enough for wind.
 
 ---
 
@@ -29,7 +29,7 @@ The cheaper contemporary table + chairs frees budget for the **Maluku daybed lou
 ### Nardi Rio ⭐ — aluminium slat top
 <img src="https://www.juliajones.co.uk/images/products/standard/2120.jpg" width="330">
 
-- Italian, minimal — powder-coated **aluminium top + frame**; slatted so rain (and a hose) runs straight through. **£1,439**, extends 210→280cm (~10 seats).
+- Italian, minimal — powder-coated **aluminium top + frame**; slatted so rain (and a hose) runs straight through. Comes in **anthracite (dark — matches your brief)**. **£1,439**, extends 210→280cm (~10 seats).
 - **Weight ~54 kg** — surprisingly heavy for aluminium; **won't blow in normal weather**, anchor only for storm gusts.
 - https://www.juliajones.co.uk/nardi-rio-aluminium-outdoor-extending-dining-table-210-280cm/p2120
 
@@ -67,26 +67,19 @@ The cheaper contemporary table + chairs frees budget for the **Maluku daybed lou
 
 # 2 · DINING CHAIRS
 
-Beyond looks, two things matter here: **weight** (won't blow) and a **seagull-proof seat** (rope/shell/slat — sheds droppings, hoses clean; no fabric left out). The honest tension: cheap contemporary chairs (resin/shell) are **light**; the heavy ones are **teak / cast-aluminium**.
+**Wind is a hard line — anything under ~7 kg is out.** On an exposed seafront roof a light chair blows when empty, so the cheap resin/shell chairs are removed. What passes is **heavy: teak (~8 kg) or cast aluminium (~10 kg)** — and both look right against a dark stone top (warm contrast, or tonal). *(See the mockup above for the four styles in the palette.)*
 
-<img src="https://www.juliajones.co.uk/images/products/standard/2122.jpg" width="175"> <img src="https://teakunique.co.uk/cdn/shop/files/Poppy_Chair_3.jpg" width="175"> <img src="https://cane-line.co.uk/cdn/shop/files/54500PPS_54504SS_1320_81065eca-90ff-4bac-8029-dda582a07acb.png?v=1772198234" width="160"> <img src="https://cane-line.co.uk/cdn/shop/files/5467LS_5467YSN92_1013.png?v=1761044875" width="165">
+<img src="https://teakunique.co.uk/cdn/shop/files/Poppy_Chair_3.jpg" width="220">
 
-*(L→R: Nardi Bora · Teakunique Poppy · Cane-line Choice · Cane-line Breeze)*
-
-| Chair | Look | Weight | Seagull seat | Cushion | Price ea. |
+| Chair | Material | Weight | Seagull seat | Cushion | Price ea. |
 |---|---|---|---|---|---|
-| **Teakunique Poppy** ⭐ | teak, curved back | **~7–8 kg (heavy)** | ◐ teak slats shed water (bare teak can mark) | optional | **£205** |
-| **Teak + rope** (premium/import) | teak frame + rope seat | **~8 kg (heavy)** | ✓ rope sheds, no cushion | none | Gloster ~£400+ / US import ~£500 |
-| **Cane-line Breeze** | woven seat, sled legs | 6.4 kg | ✓ woven | yes (store) | £520 |
-| **Mobellia Amalfi** | aluminium + cord | ~6 kg | ◐ cord ok | yes (store) | £124.50 |
-| **Nardi Bora** | resin, perforated | **4.5 kg (light)** | ✓ wipe-clean | none | £126 |
-| **Cane-line Choice** | moulded shell | **3.7 kg (very light)** | ✓ shell, drains | none | £310 |
+| **Teakunique Poppy** ⭐ | teak, curved back | **~8 kg ✓** | teak slats shed water | optional | **£205** |
+| **Teak + rope seat** | teak frame + rope | **~8 kg ✓** | ✓ rope, no cushion | none | Gloster ~£400+ / import |
+| **Cast aluminium** | solid cast metal | **~10 kg ✓** | ✓ wipe-clean | none | varies (UK contemporary ones scarce) |
 
-**The steer:**
-- **Heaviest + seagull-proof + contemporary = a teak or teak+rope chair (~8 kg).** It stays put and the slat/rope seat shrugs off droppings. **Poppy** (teak, UK, £205) is the accessible heavy pick. A teak frame with a **rope** seat is the ideal (no cushion, hoses clean) but **UK mid-price stock is scarce** — it's either premium (**Gloster ~£400+**) or a US import, so Poppy is the realistic UK choice unless we go premium.
-- **Light but lovely (Nardi £126, Cane-line Choice £310): ~4 kg → they blow when empty.** Mitigations: dining chairs **tuck under a heavy table** (the Maxim/Nardi table shelters them), and you bring them in / weight them in storms — same as the cushions.
+**Ruled out on wind (too light):** Nardi resin (4.5 kg), Cane-line Choice (3.7 kg), Cane-line Breeze (6.4 kg), Mobellia Amalfi (~6 kg). All lovely and seagull-proof, but they'd shift in a gale — **fail the hard line.**
 
-**Best pairing:** heavy seagull-proof **table** (Maze Maxim stone top, £1,999) + **teak / teak-rope chairs** so the chairs resist wind too. Go Nardi/Choice only if you're happy to tuck & store them.
+**Steer:** **Poppy teak (£205, ~8 kg)** is the realistic UK pick that passes wind *and* suits a dark top (warm wood against charcoal stone, ties to the yellow granite). A teak+**rope** seat is the ideal seagull seat but premium (Gloster); contemporary **cast aluminium** is the heaviest but scarce in the UK — I can hunt one if you want a non-teak look.
 
 *(Other Nardi armless options: Costa £126, Trill £153, Doga £169. Links: [Nardi Bora](https://www.juliajones.co.uk/nardi-bora-chair/p2122) · [Poppy](https://teakunique.co.uk/collections/teak-dining-chairs/products/poppy-stacking-chairs) · [Choice](https://cane-line.co.uk/products/choice-chair-outdoor) · [Breeze](https://cane-line.co.uk/products/breeze-chair))*
 
