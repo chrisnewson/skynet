@@ -113,11 +113,29 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - Solid teak · **£825 per corner module** (full set ≈ **£2,500–£3,500**). **Modularity ✅✅** — ottomans push together into a daybed.
 - https://teakunique.co.uk/products/maluku-modular-sofa-corner-section
 
+### 4 Seasons Outdoor Piacenza — modern modular ⭐ (mid-price)
+<img src="https://themodernfurniturecompany.com/cdn/shop/files/IMG_8901_d8d81aae-de57-4923-9eda-0e3dd9efd278.jpg" width="360">
+
+- **£2,499** · dark aluminium frame + rope detailing + light cushions · **rounded chaise end to stretch out**. Reputable brand, in stock. Frame ties to the anthracite/dark palette; cushions stored.
+- https://themodernfurniturecompany.com/collections/outdoor-sofas
+
+### 4 Seasons Outdoor Alicante — sofa + chairs + stools
+<img src="https://themodernfurniturecompany.com/cdn/shop/files/Alicante_lounge_with_Footstool_and_Monroe_coffee_table_Terre_2.jpg" width="360">
+
+- **£2,699** · sofa + 2 armchairs + footstools + coffee table — the "sofa + chairs + stools" combo; footstools nudge together for a lounger. Dark aluminium + rope, light cushions.
+- https://themodernfurniturecompany.com/collections/outdoor-sofas
+
 ### Sherborne Teak Corner — value classic
 <img src="https://www.gardenbenches.com/pub/media/catalog/product/cache/38729559164810be698cd4c04e33aad7/t/e/teak-garden-sofa-set-cream-cushions.jpg" width="340">
 
 - **£1,499** · Grade A teak, 5-seat corner + coffee table, made in England. **Modularity ◐** — chaise clamps L/R. *High-back classic style* (not the low modern look).
 - https://www.gardenbenches.com/wooden-garden-corner-sofa-sets
+
+### Cane-line Space — premium reference (the look to aim for)
+<img src="https://www.worm.co.uk/cdn/shop/products/daybed-teak_1000x.jpg" width="360">
+
+- Very low modern modular **daybed** — slim dark aluminium base + integrated **teak** table + light cushions; sits perfectly with the dark/teak palette. **Premium: ~£4,470 per module** (a full set is well over budget) — here as the aspiration; the Piacenza and Maluku get a similar low-modular look for far less.
+- https://www.worm.co.uk/products/space-daybed-module-with-teak-table-left
 
 ---
 
