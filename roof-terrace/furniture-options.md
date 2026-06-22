@@ -113,18 +113,6 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - Solid teak · **£825 per corner module** (full set ≈ **£2,500–£3,500**). **Modularity ✅✅** — ottomans push together into a daybed.
 - https://teakunique.co.uk/products/maluku-modular-sofa-corner-section
 
-### Wealden Benches Modular Teak Daybed — affordable daybed
-<img src="https://wealdenbenches.co.uk/cdn/shop/files/Classic-Outdoor-Wooden-Garden-Day-Bed-Sofa-black-cushions.jpg?v=1768156573&width=1946" width="340">
-
-- A-grade teak · **from £655 per piece** — combines into a full daybed. **Modularity ✅** — cheapest teak route to a daybed.
-- https://wealdenbenches.co.uk/products/outdoor-wooden-garden-sofa
-
-### Maze Florence Rope-Weave Corner — contemporary rope
-<img src="https://www.mazeliving.co.uk/uploads/product_images/33221-flo-lcss-cl-1-mobile-0.webp" width="340">
-
-- **from £1,049** · aluminium + rope weave + coffee table. **Modularity ◐** — rope seats need no cushion.
-- https://www.mazeliving.co.uk/product/maze-florence-rope-weave-large-corner-sofa-set-with-rectangular-coffee-table
-
 ### Sherborne Teak Corner — value classic
 <img src="https://www.gardenbenches.com/pub/media/catalog/product/cache/38729559164810be698cd4c04e33aad7/t/e/teak-garden-sofa-set-cream-cushions.jpg" width="340">
 
