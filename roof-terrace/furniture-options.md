@@ -88,33 +88,33 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 # 2 · DINING CHAIRS
 
-Steered to **metal, not wood** (wood fights the dark ceramic/stone tops). The seafront forces one genuine trade-off — and the **galvanised-steel** question pins it down:
+Metal, not wood (wood fights the dark ceramic/stone tops). **The £695 chair is not the answer.** The overnight hunt found that affordable, dark, contemporary **aluminium** dining chairs *do* exist — they hide in the **contract / hospitality channel** (built for café terraces). Aluminium = won't rust; slatted seats drain and wipe clean. The one honest open item is **weight** (aluminium is light, ~4–6 kg) → managed by the **wind plan** (tuck under the heavy stone table + bring in for storms, same as the cushions). Want heavier → duplex-galvanised steel.
 
-> **The rule that decides everything: galvanised = silver; dark = painted.** True hot-dip galvanised steel is coastal-tough and heavy — but it comes out **silver**. To get a **dark** chair that won't rust you switch metal to **powder-coated marine aluminium (anthracite)** — which is **lighter**. No affordable chair is dark **and** heavy **and** coastal-proof at once; only the £695 Fermob Bellevie manages all three. So pick a route:
+### ⭐ The solve — contract aluminium (dark, contemporary, won't rust, affordable)
+<img src="chair-images/bastille.jpg" width="200"> <img src="chair-images/chazey.jpg" width="200"> <img src="chair-images/lincoln.jpg" width="200"> <img src="chair-images/archer.jpg" width="200">
 
-<img src="https://www.beethamnurseries.co.uk/files/images/webshop/fermob-luxemburg-chair-anthracite-600x600-6a05b66b4d71f_n.png" width="200"> <img src="https://www.italiandesigncontract.com/utenti/italiandesigncontract_com/cache/_pics/8/6/intrigo-3715-ar-01_75fa5cec00e3bf7d9825ed51a768fea5_t.jpg" width="200"> <img src="https://hauslondon.com/cdn/shop/files/AA598-C191_HeeDininghotgalvanised.jpg" width="200">
+*(L→R: Bastille · Chazey · Lincoln · Sklum Archer)*
 
-*(Fermob Luxembourg anthracite · Pedrali Intrigo, shown coral/also anthracite · HAY Hee galvanised — silver)*
-
-### Route 1 — DARK aluminium (matches the tables; light → needs a wind plan)
-| Chair | Look | Weight | Price | Notes |
+| Chair | Look | Material | Price | Notes |
 |---|---|---|---|---|
-| **Pedrali Intrigo** ⭐ | die-cast aluminium, open wireframe | **5.5 kg** | ~£250 | anthracite/black; heaviest of the dark options; wipe-clean shell |
-| **Fermob Luxembourg** | iconic slatted aluminium | ~3.8 kg | **£235** | anthracite/liquorice; slatted seat drains; elegant but lightest |
+| **Cafe Reality Bastille** ⭐ | charcoal vertical-slat, clean modern | aluminium | **£126** | armless; slatted seat drains; contract-grade |
+| **Cafe Reality Chazey** | dark slat, stackable | aluminium | **£114** | cheapest slat; black/charcoal |
+| **Cafe Reality Lincoln** | black **wishbone** + slat seat | aluminium | **£138** | design-icon shape, with arms |
+| **Sklum Archer** | anthracite frame + mesh seat | aluminium | **£89** | cheapest; mesh drains; with arms |
 
-Aluminium **won't rust at all**. Both are light, so **tuck under the heavy stone table + bring in for storms** (same wind plan as the cushions).
+Browse the range (anthracite/charcoal/black, all <£150, contract-grade): [cafereality.co.uk/cat/aluminium-chairs](https://www.cafereality.co.uk/cat/aluminium-chairs). *Weight isn't published — email to confirm before ordering (aluminium, so expect ~4–6 kg → wind plan applies).*
 
-### Route 2 — GALVANISED steel (heavy + most gull-proof, but SILVER)
-| **HAY Hee — hot-dip galvanised** ⭐ | wire-mesh, industrial designer | heavy steel | **£259** | genuine hot-dip galv (coastal-tough); the wire seat is the best gull seat going; **silver only** |
+### Heavier, if wind worries you more than looks
+- **Duplex-galvanised steel café chairs** — Bolero gun-metal **~£27**, LeisureBench gunmetal £52 · ~5 kg · dark · zinc-under-paint (coastal-OK; treat as a ~5–8 yr consumable + annual freshwater rinse). Industrial Tolix look. [Bolero GL329](https://www.nisbets.co.uk/bolero-bistro-steel-side-chair-gun-metal/gl329)
+- **Jati teak-on-hot-dip-galvanised** — **£120–140, 12–15 kg** (the weight champion, genuinely coastal) — but a *traditional café-folding* look, not modern. [Jati](https://www.jati.co.uk/cafe-folding-garden-bistro-chair-black)
+- **Lazy Susan cast aluminium** — Kate £180 / 8.3 kg · dark · but lattice/traditional.
 
-*A **dark** galvanised look only exists as "duplex" (galvanise **then** powder-coat — the zinc protects even where paint chips), e.g. trade LeisureBench gunmetal ~£50. **Avoid plain powder-coated steel** (the AR Oslo, anthracite Tolix replicas) — that just rusts.*
+### Premium (reference only)
+- **Pedrali Intrigo** (~£250, 5.5 kg, anthracite die-cast aluminium — contemporary, heavier) · **Fermob Bellevie** (£695, 19.5 kg — the only dark + genuinely heavy + alu, but priced out at 10–12).
 
-### Route 3 — No compromise (dark + heavy + coastal), premium
-| **Fermob Bellevie** | square aluminium frame, cushioned | **19.5 kg** | £695 | the only one that's dark, genuinely heavy AND won't rust — but ×10 ≈ £7k |
+**My steer:** the **Cafe Reality Bastille (£126)** or **Chazey (£114)** is the answer — genuinely contemporary, dark, **aluminium so it won't rust**, and affordable; manage the lightness with the table-tuck + storm plan. If wind matters more than the look, the **duplex gun-metal Bolero (~£27)** or the heavy **Jati (12 kg)**. *(Galvanised rule: bare galvanised = silver; for dark you need either duplex galv-then-paint, or aluminium. Avoid plain powder-coated steel like the AR Oslo — it rusts.)*
 
-**My steer:** for a **dark** chair against the stone top, **Pedrali Intrigo (anthracite, ~£250, 5.5 kg)** is the best balance — contemporary, won't rust, heaviest of the affordable darks — with a wind plan. Embrace **industrial silver** and the **HAY Hee galvanised (£259)** is the toughest + most gull-proof. Only the **Fermob Bellevie (£695)** skips the wind plan entirely. *(If you ever reconsider wood: teak Poppy £205 / Banda £465 are heavy + contemporary and pass wind outright.)*
-
-Links: [Pedrali Intrigo](https://www.italiandesigncontract.com/en/seats/metal-chairs/intrigo-3715-%E2%80%93-stackable-indoor-outdoor-aluminium-pedrali-chair-various-colours-also-for-outdoor-use/) · [Fermob Luxembourg](https://www.fermob-london.co.uk/luxembourg-chair/p5180) · [HAY Hee galvanised](https://hauslondon.com/products/hee-dining-chair-hot-galvanised-by-hay) · [Fermob Bellevie](https://www.worm.co.uk/collections/bellevie-collection/products/bellevie-dining-armchair)
+Links: [Bastille](https://www.cafereality.co.uk/prod/bastille-outdoor-aluminium-side-chair) · [Chazey](https://www.cafereality.co.uk/prod/chazey-outdoor-aluminium-side-chairs) · [Lincoln](https://www.cafereality.co.uk/prod/lincoln-aluminium-outdoor-side-chair) · [Sklum Archer](https://www.sklum.com/uk/buy-garden-chairs/103265-aluminium-stackable-garden-chair-archer.html)
 
 ---
 
