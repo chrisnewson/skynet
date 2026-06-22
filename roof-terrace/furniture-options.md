@@ -110,7 +110,8 @@ Browse the range (anthracite/charcoal/black, all <£150, contract-grade): [cafer
 - **Lazy Susan cast aluminium** — Kate £180 / 8.3 kg · dark · but lattice/traditional.
 
 ### Premium (reference only)
-- **Pedrali Intrigo** (~£250, 5.5 kg, anthracite die-cast aluminium — contemporary, heavier) · **Fermob Bellevie** (£695, 19.5 kg — the only dark + genuinely heavy + alu, but priced out at 10–12).
+- **Cane-line Lean** (£375–490, **6.45 kg**, black weave + aluminium — lovely, the heaviest of the aluminium chairs, coastal-correct, but ~£4–6k for 10–12) · **Pedrali Intrigo** (~£250, 5.5 kg, anthracite die-cast aluminium) · **Fermob Bellevie** (£695, 19.5 kg — the only dark + genuinely heavy + alu, priced out at scale).
+- *(Glassdomain — the retailer for the Lean — site is "new website in progress", no live prices; check back when it's live.)*
 
 **My steer:** the **Cafe Reality Bastille (£126)** or **Chazey (£114)** is the answer — genuinely contemporary, dark, **aluminium so it won't rust**, and affordable; manage the lightness with the table-tuck + storm plan. If wind matters more than the look, the **duplex gun-metal Bolero (~£27)** or the heavy **Jati (12 kg)**. *(Galvanised rule: bare galvanised = silver; for dark you need either duplex galv-then-paint, or aluminium. Avoid plain powder-coated steel like the AR Oslo — it rusts.)*
 
