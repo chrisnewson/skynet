@@ -68,7 +68,14 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - Aluminium frame + **ceramic top**. **Sold only as a full set — £3,349** (table + 10 chairs); **not available table-only**, so if you want a stone top without the chairs, the **Maxim above is the one.**
 - https://www.mazeliving.co.uk/product/maze-ambition-10-seat-extending-dining-set/colour/oatmeal-with-grey-frame
 
-*Also quote: **Alexander Rose Rimini** (aluminium + ceramic, 2.3→3m, seats 12), Bridgman, Nova, Kettler.*
+### Dark contemporary alternatives to the Maxim
+<img src="https://crownhillgarden.com/wp-content/uploads/2026/01/X26SOAD07_PRIMARY_V1.jpg" width="360">
+
+- **Bramblecrest Sofia** ⭐ — **£1,799 for table + 10 chairs** · dark **anthracite ceramic** top on a sculptural **X-leg** aluminium frame (the X-base look from the render). Excellent value — or take the table and use Poppy/Banda chairs. [link](https://crownhillgarden.com/product/bramblecrest-sofia-aluminium-10-seat-patio-set-with-x-leg-extending-table-and-10-chairs-in-anthracite/)
+- **Alexander Rose Rimini** — **~£1,293 table-only** · ceramic-glass, but **mid-grey, not charcoal** · extends to 300cm, seats 10–12. [link](https://alexanderrose.shop/products/rimini-extending-table-2-3m-3-0m-x-1-0m)
+- **Cane-line Drop (Fossil Black)** — £5,100 table-only · the deepest dark ceramic — premium reference. [link](https://www.worm.co.uk/products/drop-extendable-dining-table)
+
+*Note: the Maxim is unusual in being sold **table-only** — most dark-ceramic 10–12 extenders only come as full sets.*
 
 ## Premium design references
 **Cane-line** (aluminium or **316 stainless** tops) and **Fermob** (powder-coated, 25 colours) — iconic contemporary. Note **Fermob is steel**, so coastally the coating must stay perfect — **aluminium, 316 stainless or stone tops are the safer seafront bets.**
@@ -81,19 +88,24 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 **Wind is a hard line — anything under ~7 kg is out.** On an exposed seafront roof a light chair blows when empty, so the cheap resin/shell chairs are removed. What passes is **heavy: teak (~8 kg) or cast aluminium (~10 kg)** — and both look right against a dark stone top (warm contrast, or tonal). *(See the front-runner renders above — teak Poppy chairs in our palette.)*
 
-<img src="https://teakunique.co.uk/cdn/shop/files/Poppy_Chair_3.jpg" width="220">
+<img src="https://teakunique.co.uk/cdn/shop/files/Poppy_Chair_3.jpg" width="220"> <img src="https://teakunique.co.uk/cdn/shop/files/Banda_Chair_Set_of_4_Banda_Chairs_summer_set_4.jpg?v=1764073659&width=1445" width="220">
+
+*(Poppy · Banda — two genuinely contemporary teak chairs that pass the wind line)*
 
 | Chair | Material | Weight | Seagull seat | Cushion | Price ea. |
 |---|---|---|---|---|---|
 | **Teakunique Poppy** ⭐ | teak, curved back | **~8 kg ✓** | teak slats shed water | optional | **£205** |
-| **Teak + rope seat** | teak frame + rope | **~8 kg ✓** | ✓ rope, no cushion | none | Gloster ~£400+ / import |
-| **Cast aluminium** | solid cast metal | **~10 kg ✓** | ✓ wipe-clean | none | varies (UK contemporary ones scarce) |
+| **Teakunique Banda** ⭐ | teak frame + curved rope back | **7 kg ✓** | ✓ rope (pad stores) | seat pad | **£465** |
+| **Cane-line Stay** (teak swivel) | woven shell on teak base | **9 kg ✓** | ✓ woven, no cushion | none | £1,020 |
+| **Cast aluminium** | solid cast metal | **~10 kg ✓** | ✓ wipe-clean | none | varies (UK contemporary scarce) |
 
 **Ruled out on wind (too light):** Nardi resin (4.5 kg), Cane-line Choice (3.7 kg), Cane-line Breeze (6.4 kg), Mobellia Amalfi (~6 kg). All lovely and seagull-proof, but they'd shift in a gale — **fail the hard line.**
 
-**Steer:** **Poppy teak (£205, ~8 kg)** is the realistic UK pick that passes wind *and* suits a dark top (warm wood against charcoal stone, ties to the yellow granite). A teak+**rope** seat is the ideal seagull seat but premium (Gloster); contemporary **cast aluminium** is the heaviest but scarce in the UK — I can hunt one if you want a non-teak look.
+**Steer:** **Poppy (£205)** and **Banda (£465)** are the two genuinely-contemporary teak chairs that pass the wind line — Poppy clean/curved, Banda with a soft rope-wrapped back and arms. **Cane-line Stay** (£1,020, 9 kg) is the heavy premium choice.
 
-*(Other Nardi armless options: Costa £126, Trill £153, Doga £169. Links: [Nardi Bora](https://www.juliajones.co.uk/nardi-bora-chair/p2122) · [Poppy](https://teakunique.co.uk/collections/teak-dining-chairs/products/poppy-stacking-chairs) · [Choice](https://cane-line.co.uk/products/choice-chair-outdoor) · [Breeze](https://cane-line.co.uk/products/breeze-chair))*
+*Lovely but too light for the exposed terrace (fail the wind line):* Indian Ocean Oslo (£315, 5.5 kg, teak + aluminium), Gloster Sway sling (5.3 kg), Gloster Lima wicker (5 kg). Modern, but they'd shift.
+
+Links: [Poppy](https://teakunique.co.uk/products/poppy-stacking-chairs) · [Banda](https://teakunique.co.uk/products/banda-chair) · [Cane-line Stay](https://cane-line.co.uk/products/stay-chair-with-teak-swivel)
 
 ---
 
@@ -131,6 +143,20 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - **£1,499** · Grade A teak, 5-seat corner + coffee table, made in England. **Modularity ◐** — chaise clamps L/R. *High-back classic style* (not the low modern look).
 - https://www.gardenbenches.com/wooden-garden-corner-sofa-sets
 
+### Maze Eve Corner — charcoal modular ⭐ (value, dark frame)
+<img src="https://outdoorluxeonline.com/cdn/shop/files/IMG-2471_1024x.webp?v=1740963553" width="360">
+
+- **£1,985** · slim **charcoal aluminium**, low modern corner; **arms convert to side tables**; reconfigurable. In stock. The dark frame ties straight into the palette.
+- https://outdoorluxeonline.com/products/maze-outdoor-fabric-eve-corner-group-charcoa
+
+### Tribu Mood — premium teak
+<img src="https://www.gomodern.co.uk/var/images/product/1200.863/GM-MOOD-12-1.jpg" width="360">
+
+- **£2,560** · A-grade teak frame + woven Tricord, low minimalist lounger. Premium Belgian design.
+- https://www.gomodern.co.uk/tribu-mood-garden-sofa.html
+
+*More wider-supplier options (not pictured): Fast Aikana aluminium daybed (£3,330, Go Modern), Heal's Eos modular (£1,808), Skagerak Tradition teak modular (~£1,865/module), Emu Tami matt-black aluminium (£3,170).*
+
 ### Cane-line Space — premium reference (the look to aim for)
 <img src="https://www.worm.co.uk/cdn/shop/products/daybed-teak_1000x.jpg" width="360">
 
@@ -138,6 +164,16 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - https://www.worm.co.uk/products/space-daybed-module-with-teak-table-left
 
 ---
+
+## Build quality — independent checks
+
+Honest summary of what independent sources say (the headline: review evidence is *thin* for Nardi and Teakunique — not bad, just sparse — and *mixed* for Maze).
+
+- **Nardi Rio** — Italian, **contract/commercial-grade**, made in Italy, award-winning; well-regarded by the trade. But almost no independent buyer reviews, and the one substantive review reported the **aluminium top scratches easily** and a **refused transit-damage claim**. **Do:** order the **"Rio Alu"** (all-aluminium, not the resin Rio), **request Nardi's optional saltwater anti-corrosion treatment**, get the **~2-yr warranty + delivery-damage cover in writing**, and **inspect on arrival**.
+- **Teakunique Poppy / Banda** — small UK family firm, Indonesia-made, **strong 10-year warranty**. No complaint cluster — but also **no independent review base**, and the "Grade A teak" claim is **self-asserted, not verified**. **Do:** **order a sample** to check the teak, and look up Teakunique's live Google rating before committing. (Teak will silver and develop hairline cracks — normal, not a defect.)
+- **Maze (Maxim/Ambition)** — headline Trustpilot ~4.3/5 (≈9,000), but a real tail of complaints: **delivery damage / chipped sintered-stone tops**, **powder-coat peeling**, slow replacement parts, and a **narrow warranty** (structural + rust only; 48-hr defect window). **Do:** confirm the **ceramic/stone top is covered in writing**, and **inspect the top carefully on delivery** (the stone edges chip in transit). Reasonable mid-market value, not premium.
+
+**Bottom line:** Nardi Rio and the Teakunique chairs are sound coastal choices *with conditions* (anti-corrosion spec + warranty in writing for Nardi; a sample for Teakunique). The Maxim is good value but has a known delivery-damage risk on the stone top — inspect on arrival or consider the Bramblecrest Sofia as the alternative. On all aluminium pieces the weak point at the seafront is the **powder coating** — inspect for chips on delivery and rinse salt off periodically.
 
 ## Timing & checklist
 - **Buy in the Aug–Sept clearance** (fit-out completes late Sept 2026) — best discounts on aluminium/rope sets; teak specialists barely move seasonally.
