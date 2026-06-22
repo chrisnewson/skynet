@@ -21,6 +21,18 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 ---
 
+## How it looks — front-runner pairings
+
+*In our palette: dark table top · anthracite standing-seam wall behind · buff/yellow granite floor · teak Poppy chairs. The teak reads as a warm/cool contrast against the dark top — no clash — and ties to the granite.*
+
+**Maze charcoal stone-top table + Poppy teak chairs**
+<img src="artists-impressions/maze%20and%20poppy.png" width="540">
+
+**Nardi Rio anthracite aluminium table + Poppy teak chairs** (cleaner, more minimal)
+<img src="artists-impressions/nardi%20rio%20with%20poppy%20chairs.png" width="540">
+
+---
+
 # 1 · DINING TABLES
 
 **Contemporary = slim aluminium A-frame/legs. Seagull-proof = a non-porous, wipe-clean top.** Grouped by top material — all stain-proof against droppings. (Real teak/wood tops are dropped: porous, they stain.)
@@ -67,7 +79,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 # 2 · DINING CHAIRS
 
-**Wind is a hard line — anything under ~7 kg is out.** On an exposed seafront roof a light chair blows when empty, so the cheap resin/shell chairs are removed. What passes is **heavy: teak (~8 kg) or cast aluminium (~10 kg)** — and both look right against a dark stone top (warm contrast, or tonal). *(See the mockup above for the four styles in the palette.)*
+**Wind is a hard line — anything under ~7 kg is out.** On an exposed seafront roof a light chair blows when empty, so the cheap resin/shell chairs are removed. What passes is **heavy: teak (~8 kg) or cast aluminium (~10 kg)** — and both look right against a dark stone top (warm contrast, or tonal). *(See the front-runner renders above — teak Poppy chairs in our palette.)*
 
 <img src="https://teakunique.co.uk/cdn/shop/files/Poppy_Chair_3.jpg" width="220">
 
