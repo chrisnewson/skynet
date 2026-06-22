@@ -91,31 +91,30 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 Metal, not wood (wood fights the dark ceramic/stone tops). **The £695 chair is not the answer.** The overnight hunt found that affordable, dark, contemporary **aluminium** dining chairs *do* exist — they hide in the **contract / hospitality channel** (built for café terraces). Aluminium = won't rust; slatted seats drain and wipe clean. The one honest open item is **weight** (aluminium is light, ~4–6 kg) → managed by the **wind plan** (tuck under the heavy stone table + bring in for storms, same as the cushions). Want heavier → duplex-galvanised steel.
 
 ### ⭐ The solve — contract aluminium (dark, contemporary, won't rust, affordable)
-<img src="chair-images/bastille.jpg" width="200"> <img src="chair-images/chazey.jpg" width="200"> <img src="chair-images/lincoln.jpg" width="200"> <img src="chair-images/archer.jpg" width="200">
+<img src="chair-images/bastille.jpg" width="220"> <img src="chair-images/chazey.jpg" width="220"> <img src="chair-images/archer.jpg" width="220">
 
-*(L→R: Bastille · Chazey · Lincoln · Sklum Archer)*
+*(L→R: Bastille · Chazey · Sklum Archer — the same clean aluminium-slat look as the Swyft chair, but in dark + in stock)*
 
 | Chair | Look | Material | Price | Notes |
 |---|---|---|---|---|
 | **Cafe Reality Bastille** ⭐ | charcoal vertical-slat, clean modern | aluminium | **£126** | armless; slatted seat drains; contract-grade |
 | **Cafe Reality Chazey** | dark slat, stackable | aluminium | **£114** | cheapest slat; black/charcoal |
-| **Cafe Reality Lincoln** | black **wishbone** + slat seat | aluminium | **£138** | design-icon shape, with arms |
 | **Sklum Archer** | anthracite frame + mesh seat | aluminium | **£89** | cheapest; mesh drains; with arms |
 
 Browse the range (anthracite/charcoal/black, all <£150, contract-grade): [cafereality.co.uk/cat/aluminium-chairs](https://www.cafereality.co.uk/cat/aluminium-chairs). *Weight isn't published — email to confirm before ordering (aluminium, so expect ~4–6 kg → wind plan applies).*
 
-### Heavier, if wind worries you more than looks
-- **Duplex-galvanised steel café chairs** — Bolero gun-metal **~£27**, LeisureBench gunmetal £52 · ~5 kg · dark · zinc-under-paint (coastal-OK; treat as a ~5–8 yr consumable + annual freshwater rinse). Industrial Tolix look. [Bolero GL329](https://www.nisbets.co.uk/bolero-bistro-steel-side-chair-gun-metal/gl329)
-- **Jati teak-on-hot-dip-galvanised** — **£120–140, 12–15 kg** (the weight champion, genuinely coastal) — but a *traditional café-folding* look, not modern. [Jati](https://www.jati.co.uk/cafe-folding-garden-bistro-chair-black)
-- **Lazy Susan cast aluminium** — Kate £180 / 8.3 kg · dark · but lattice/traditional.
+### Heavier options — ruled out on looks
+*The genuinely heavy coastal chairs — duplex-galvanised gun-metal café chairs (Bolero/LeisureBench), Jati teak-on-galvanised (12–15 kg), Lazy Susan cast aluminium — are all out: you didn't like the look. So it's the light aluminium-slat chairs above **+ the wind plan**, or splurge on the heavier **Cane-line Lean (6.45 kg)** below.*
 
 ### Premium (reference only)
 - **Cane-line Lean** (£375–490, **6.45 kg**, black weave + aluminium — lovely, the heaviest of the aluminium chairs, coastal-correct, but ~£4–6k for 10–12) · **Pedrali Intrigo** (~£250, 5.5 kg, anthracite die-cast aluminium) · **Fermob Bellevie** (£695, 19.5 kg — the only dark + genuinely heavy + alu, priced out at scale).
 - *(Glassdomain — the retailer for the Lean — site is "new website in progress", no live prices; check back when it's live.)*
 
-**My steer:** the **Cafe Reality Bastille (£126)** or **Chazey (£114)** is the answer — genuinely contemporary, dark, **aluminium so it won't rust**, and affordable; manage the lightness with the table-tuck + storm plan. If wind matters more than the look, the **duplex gun-metal Bolero (~£27)** or the heavy **Jati (12 kg)**. *(Galvanised rule: bare galvanised = silver; for dark you need either duplex galv-then-paint, or aluminium. Avoid plain powder-coated steel like the AR Oslo — it rusts.)*
+**My steer:** the **Cafe Reality Bastille (£126)** or **Chazey (£114)** is the answer — genuinely contemporary, dark, **aluminium so it won't rust**, affordable, and the same clean slat look you liked in the Swyft chair (but in dark + in stock). Manage the lightness with the table-tuck + storm plan. If you'd pay for more weight + a designer woven seat, the **Cane-line Lean (£420, 6.45 kg)** is the splurge. *(Galvanised rule: bare galvanised = silver; for dark you need duplex galv-then-paint or aluminium. Avoid plain powder-coated steel like the AR Oslo — it rusts.)*
 
-Links: [Bastille](https://www.cafereality.co.uk/prod/bastille-outdoor-aluminium-side-chair) · [Chazey](https://www.cafereality.co.uk/prod/chazey-outdoor-aluminium-side-chairs) · [Lincoln](https://www.cafereality.co.uk/prod/lincoln-aluminium-outdoor-side-chair) · [Sklum Archer](https://www.sklum.com/uk/buy-garden-chairs/103265-aluminium-stackable-garden-chair-archer.html)
+*Swyft Garden Dining Chair 01 (£140, the link you sent) — same nice aluminium-slat look, but **olive/taupe only (no dark)**, ~4 kg, currently sold out; and Swyft's table is **fixed ~6–8 seats (no extending)** — so it doesn't fit our dark-top, 10–12, extending brief.*
+
+Links: [Bastille](https://www.cafereality.co.uk/prod/bastille-outdoor-aluminium-side-chair) · [Chazey](https://www.cafereality.co.uk/prod/chazey-outdoor-aluminium-side-chairs) · [Sklum Archer](https://www.sklum.com/uk/buy-garden-chairs/103265-aluminium-stackable-garden-chair-archer.html)
 
 ---
 
