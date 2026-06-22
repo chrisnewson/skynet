@@ -35,7 +35,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 # 1 · DINING TABLES
 
-**Contemporary = slim aluminium A-frame/legs. Seagull-proof = a non-porous, wipe-clean top.** Grouped by top material — all stain-proof against droppings. (Real teak/wood tops are dropped: porous, they stain.)
+**Extending is a hard rule** — every table here extends. **Contemporary = slim aluminium A-frame/legs. Seagull-proof = a non-porous, wipe-clean top.** Grouped by top material — all stain-proof against droppings. (Real teak/wood tops are dropped: porous, they stain.)
 
 ## Metal (aluminium) tops — no rust, drains, wipe clean
 ### Nardi Rio ⭐ — aluminium slat top
@@ -82,30 +82,39 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 *Dropped: traditional teak trestle tables (Orchid, Jati, Sandringham) — not contemporary, and a teak top stains from gulls.*
 
+**Alexander Rose — checked (you like the brand):** lovely brand, but their *extending* tables don't fit. Only two extend: the **[Roble Tivoli](https://alexanderrose.shop/collections/outdoor-dining/products/roble-tivoli-extending-table-2m-2-9m-x-1m)** (a **wood** top — stains from gulls) and the **[Portofino](https://alexanderrose.shop/collections/outdoor-dining/products/portofino-metal-extending-table-2-7-1-5x0-9m)** (£531, but **steel** mesh — rusts at the coast, and only ~8 seats). Their nice ceramic **Rimini is fixed-top, not extending.** So AR's clean style is right, but for a dark-ceramic *extender* the Bramblecrest Sofia / Maze Maxim do it instead.
+
 ---
 
 # 2 · DINING CHAIRS
 
-**Wind is a hard line — anything under ~7 kg is out.** On an exposed seafront roof a light chair blows when empty, so the cheap resin/shell chairs are removed. What passes is **heavy: teak (~8 kg) or cast aluminium (~10 kg)** — and both look right against a dark stone top (warm contrast, or tonal). *(See the front-runner renders above — teak Poppy chairs in our palette.)*
+Steered to **metal, not wood** (wood fights the dark ceramic/stone tops). The seafront forces one genuine trade-off — and the **galvanised-steel** question pins it down:
 
-<img src="https://teakunique.co.uk/cdn/shop/files/Poppy_Chair_3.jpg" width="220"> <img src="https://teakunique.co.uk/cdn/shop/files/Banda_Chair_Set_of_4_Banda_Chairs_summer_set_4.jpg?v=1764073659&width=1445" width="220">
+> **The rule that decides everything: galvanised = silver; dark = painted.** True hot-dip galvanised steel is coastal-tough and heavy — but it comes out **silver**. To get a **dark** chair that won't rust you switch metal to **powder-coated marine aluminium (anthracite)** — which is **lighter**. No affordable chair is dark **and** heavy **and** coastal-proof at once; only the £695 Fermob Bellevie manages all three. So pick a route:
 
-*(Poppy · Banda — two genuinely contemporary teak chairs that pass the wind line)*
+<img src="https://www.beethamnurseries.co.uk/files/images/webshop/fermob-luxemburg-chair-anthracite-600x600-6a05b66b4d71f_n.png" width="200"> <img src="https://www.italiandesigncontract.com/utenti/italiandesigncontract_com/cache/_pics/8/6/intrigo-3715-ar-01_75fa5cec00e3bf7d9825ed51a768fea5_t.jpg" width="200"> <img src="https://hauslondon.com/cdn/shop/files/AA598-C191_HeeDininghotgalvanised.jpg" width="200">
 
-| Chair | Material | Weight | Seagull seat | Cushion | Price ea. |
-|---|---|---|---|---|---|
-| **Teakunique Poppy** ⭐ | teak, curved back | **~8 kg ✓** | teak slats shed water | optional | **£205** |
-| **Teakunique Banda** ⭐ | teak frame + curved rope back | **7 kg ✓** | ✓ rope (pad stores) | seat pad | **£465** |
-| **Cane-line Stay** (teak swivel) | woven shell on teak base | **9 kg ✓** | ✓ woven, no cushion | none | £1,020 |
-| **Cast aluminium** | solid cast metal | **~10 kg ✓** | ✓ wipe-clean | none | varies (UK contemporary scarce) |
+*(Fermob Luxembourg anthracite · Pedrali Intrigo, shown coral/also anthracite · HAY Hee galvanised — silver)*
 
-**Ruled out on wind (too light):** Nardi resin (4.5 kg), Cane-line Choice (3.7 kg), Cane-line Breeze (6.4 kg), Mobellia Amalfi (~6 kg). All lovely and seagull-proof, but they'd shift in a gale — **fail the hard line.**
+### Route 1 — DARK aluminium (matches the tables; light → needs a wind plan)
+| Chair | Look | Weight | Price | Notes |
+|---|---|---|---|---|
+| **Pedrali Intrigo** ⭐ | die-cast aluminium, open wireframe | **5.5 kg** | ~£250 | anthracite/black; heaviest of the dark options; wipe-clean shell |
+| **Fermob Luxembourg** | iconic slatted aluminium | ~3.8 kg | **£235** | anthracite/liquorice; slatted seat drains; elegant but lightest |
 
-**Steer:** **Poppy (£205)** and **Banda (£465)** are the two genuinely-contemporary teak chairs that pass the wind line — Poppy clean/curved, Banda with a soft rope-wrapped back and arms. **Cane-line Stay** (£1,020, 9 kg) is the heavy premium choice.
+Aluminium **won't rust at all**. Both are light, so **tuck under the heavy stone table + bring in for storms** (same wind plan as the cushions).
 
-*Lovely but too light for the exposed terrace (fail the wind line):* Indian Ocean Oslo (£315, 5.5 kg, teak + aluminium), Gloster Sway sling (5.3 kg), Gloster Lima wicker (5 kg). Modern, but they'd shift.
+### Route 2 — GALVANISED steel (heavy + most gull-proof, but SILVER)
+| **HAY Hee — hot-dip galvanised** ⭐ | wire-mesh, industrial designer | heavy steel | **£259** | genuine hot-dip galv (coastal-tough); the wire seat is the best gull seat going; **silver only** |
 
-Links: [Poppy](https://teakunique.co.uk/products/poppy-stacking-chairs) · [Banda](https://teakunique.co.uk/products/banda-chair) · [Cane-line Stay](https://cane-line.co.uk/products/stay-chair-with-teak-swivel)
+*A **dark** galvanised look only exists as "duplex" (galvanise **then** powder-coat — the zinc protects even where paint chips), e.g. trade LeisureBench gunmetal ~£50. **Avoid plain powder-coated steel** (the AR Oslo, anthracite Tolix replicas) — that just rusts.*
+
+### Route 3 — No compromise (dark + heavy + coastal), premium
+| **Fermob Bellevie** | square aluminium frame, cushioned | **19.5 kg** | £695 | the only one that's dark, genuinely heavy AND won't rust — but ×10 ≈ £7k |
+
+**My steer:** for a **dark** chair against the stone top, **Pedrali Intrigo (anthracite, ~£250, 5.5 kg)** is the best balance — contemporary, won't rust, heaviest of the affordable darks — with a wind plan. Embrace **industrial silver** and the **HAY Hee galvanised (£259)** is the toughest + most gull-proof. Only the **Fermob Bellevie (£695)** skips the wind plan entirely. *(If you ever reconsider wood: teak Poppy £205 / Banda £465 are heavy + contemporary and pass wind outright.)*
+
+Links: [Pedrali Intrigo](https://www.italiandesigncontract.com/en/seats/metal-chairs/intrigo-3715-%E2%80%93-stackable-indoor-outdoor-aluminium-pedrali-chair-various-colours-also-for-outdoor-use/) · [Fermob Luxembourg](https://www.fermob-london.co.uk/luxembourg-chair/p5180) · [HAY Hee galvanised](https://hauslondon.com/products/hee-dining-chair-hot-galvanised-by-hay) · [Fermob Bellevie](https://www.worm.co.uk/collections/bellevie-collection/products/bellevie-dining-armchair)
 
 ---
 
