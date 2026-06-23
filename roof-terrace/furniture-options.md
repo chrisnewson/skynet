@@ -210,21 +210,35 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 ---
 
-### Vermobil — Fox · £167
+### Vermobil — Fox · £167 (side chair) / £177 (armchair)
+
+**Side chair — no arms:**
 
 <img src="chair-images/fox.jpg" width="100%">
 
-*Note: photo shows Grey Mud FA (olive/sage) colorway — also available in Black (NE) and Ancient Grey (AG)*
+*Photo shows Grey Mud FA (olive/sage) colorway — also available in Black (NE) and Ancient Grey (AG)*
 
-- **Price:** £167/chair (RRP £222) · **Lead time: 6–10 weeks** (made to order)
-- **Size:** W45 × D53 × H81cm
+**Armchair — with arms (£10 more):**
+
+<img src="chair-images/fox-armchair-lifestyle.jpg" width="100%">
+
+<img src="chair-images/fox-armchair-single.jpg" width="100%">
+
+*Armchair photos in red — same design, available in Black, Ancient Grey, and 5 other colours*
+
+**With optional seat cushion (stored indoors when not in use):**
+
+<img src="chair-images/fox-cushion.jpg" width="100%">
+
+- **Price:** Side chair £167 (RRP £222) · Armchair £177 (RRP £236) · **Lead time: 6–10 weeks** (made to order)
+- **Size:** W45 × D53 × H81cm (side chair)
 - **Material:** **Duplex galvanised steel** (galvanised then qualicoat powder-coated) — confirmed coastal-safe
-- **Colour:** 7 options: **Black NE** · **Grey Mud FA** (olive/sage — shown) · **Ancient Grey AG** · Ivory White · Matt White · Bronzo · Beige · **Weight:** Unpublished · **Arms:** No · **Stackable:** Yes · **Seat:** Smooth pressed steel shell (wipe-clean)
+- **Colour:** 7 options: **Black NE** · **Grey Mud FA** (olive/sage — side chair photo) · **Ancient Grey AG** · Ivory White · Matt White · Bronzo · Beige · **Weight:** Unpublished · **Arms:** Armchair version available · **Stackable:** Yes · **Seat:** Smooth pressed steel shell (wipe-clean); 8 cushion fabrics available separately (UV/water/mould resistant, 5-yr warranty)
 - **Reviews:** deluxdeco.co.uk — **5.0/5 Trustpilot (235 reviews). Excellent.** Professional service, highly praised delivery teams.
 
-**Pros:** Confirmed duplex galv = properly coastal-safe; smooth pressed-steel seat — clean and wipe-clean; good discount off RRP; excellent retailer · **Cons:** 6–10 week lead time; weight unpublished; optional seat cushion (stored indoors)
+**Pros:** Confirmed duplex galv = properly coastal-safe; smooth pressed-steel seat — clean and wipe-clean; armchair option for comfort; good discount off RRP; excellent retailer · **Cons:** 6–10 week lead time; weight unpublished; ⚠ order in July for Sept fit-out
 
-[deluxdeco.co.uk — Vermobil Fox](https://www.deluxdeco.co.uk/fox-chair.html)
+[deluxdeco.co.uk — Fox side chair](https://www.deluxdeco.co.uk/fox-chair.html) · [Fox armchair](https://www.deluxdeco.co.uk/fox-armchair.html)
 
 ---
 
