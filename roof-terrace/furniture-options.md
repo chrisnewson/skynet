@@ -59,9 +59,13 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 ## How it looks — the two routes
 
-### Route A — Teakunique Orchid teak table + Poppy teak chairs
+### Route A — Teakunique Orchid teak table + Poppy teak chairs (fresh / oiled)
 
 <img src="artists-impressions/Poppy%20and%20Teak%20Unique%20Orchid.png" width="100%">
+
+### Route A — same combination left to weather (silver-grey patina, zero maintenance)
+
+<img src="artists-impressions/maze%20and%20poppy%20(aged).png" width="100%">
 
 ### Route B — Bramblecrest Sofia stone table + SCAB Si-Si chairs (no cushions)
 
