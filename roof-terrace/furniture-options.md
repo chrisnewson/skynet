@@ -347,7 +347,13 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 <img src="chair-images/sisi.jpg" width="100%">
 
-*⚠ No Anthracite/Dove Grey product photography online — SCAB only publish lifestyle shots in sage/green. Photo shows the actual Si-Si 2503 design (pressed-steel oval back + seat) in sage colourway. **Anthracite (ZA)** = dark charcoal; **Dove Grey (ZT)** = warm mid-grey — request swatches from arredinitaly before ordering.*
+*Si-Si 2503 in **anthracite** — the correct dark colourway (ZA).*
+
+**With optional seat cushion (shown in dove grey ZT):**
+
+<img src="chair-images/sisi-cushion.jpg" width="100%">
+
+*Cushion shown in Dove Grey (ZT) — same cushion available in anthracite. Seat cushion is an optional extra; store indoors when not in use.*
 
 - **Price:** £181/chair (sold in pairs)
 - **Size:** W50 × D55 × H81cm (CATAS-certified)
