@@ -118,7 +118,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 <img src="artists-impressions/mobellia%20amalfi.webp" width="100%">
 
 - **Price:** 10-seat £599 · 12-seat £799
-- **Size:** 10-seat 200→**260**×96cm · 12-seat 240→**300**×96cm · H75cm
+- **Size:** **⭐ Preferred: 10-seat 200→260×96cm** (fits ≤220cm compact constraint) · 12-seat 240→300×96cm · H75cm
 - **Material:** Aluminium A-frame; **cemented composite top** (non-porous, wipe-clean — confirmed from Mobellia's site)
 - **Colour:** White or anthracite frame
 - **Reviews:** mobellia.com — not independently verified on Trustpilot; online-only retailer; check returns policy before ordering.
@@ -126,12 +126,13 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 **Pros:**
 - Lowest price by far; tool-free extension; modern A-frame look
 - Composite top is seagull-proof (non-porous)
+- **Starts at 200cm** — fits when you need it compact
 
 **Cons:**
 - Light build — ballast against wind
 - No independent review base found
 
-[mobellia.com — extending tables](https://www.mobellia.com/en-gb/collections/extending-table)
+[mobellia.com — Amalfi 10-seat (200→260cm)](https://www.mobellia.com/en-gb/products/automatic-extendable-garden-table-10-seats-aluminium-amalfi-200-260x96?variant=56303906750812)
 
 [↑ Tables](#tables) · [↑ Contents](#contents)
 
@@ -146,7 +147,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 <img src="https://www.mazeliving.co.uk/uploads/product_images/43558-fb-dn-max-12ex-ss-st-1-large.jpg" width="100%">
 
 - **Price:** £1,999 table-only
-- **Size:** 280×100cm → **340×100cm** → **400×100cm** (three-step extension, 8→10→12 seats) · H77.5cm
+- **Size:** 280×100cm → **340×100cm** → **400×100cm** (three-step extension, 8→10→12 seats) · H77.5cm · **⚠ Smallest setting is 280cm** — if you need ≤220cm when compact, the Maxim is too big. The Nardi Rio (210→280) and Mobellia (200→260) both start smaller.
 - **Colour:** Charcoal or Latte (sintered-stone top)
 - **Material:** Aluminium frame + sintered-stone top
 - **Reviews:** mazeliving.co.uk — **~9,600 Trustpilot reviews, mixed.** Headline positive but a real tail of complaints: delivery delays, rattan/coating issues on older ranges. Known delivery-damage risk on stone edges. Confirm stone top is covered in warranty; inspect carefully on arrival.
@@ -211,9 +212,11 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 <img src="chair-images/chazey.jpg" width="100%">
 
+*Photo shows multiple Chazey colourways stacked — grey/anthracite is the rightmost dark chair in the stack. Cafe Reality site is Cloudflare-blocked so a standalone grey shot couldn't be retrieved; contact them to confirm grey availability.*
+
 - **Price:** £114/chair
 - **Material:** Powder-coated marine aluminium
-- **Colour:** Black / charcoal · **Weight:** ~4–6 kg (unpublished) · **Arms:** No · **Stackable:** Yes · **Seat:** Slatted (drains)
+- **Colour:** Black / charcoal / grey (confirm availability with Cafe Reality) · **Weight:** ~4–6 kg (unpublished) · **Arms:** No · **Stackable:** Yes · **Seat:** Slatted (drains)
 - **Reviews:** cafereality.co.uk — **no independent Trustpilot listing found**; reviews self-hosted. Established UK contract/hospitality supplier serving cafés and restaurants. No red flags.
 
 **Pros:** Cheapest coastal-safe chair here; clean dark slat look; stackable · **Cons:** No independent review verification; light (wind plan applies)
@@ -268,6 +271,8 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 <img src="chair-images/summer.jpg" width="100%">
 
+*Photo in anthracite — the correct colour. Optional seat cushions available as an accessory (stored indoors when not in use — no cushion product shots available online).*
+
 - **Price:** ~£148/chair
 - **Material:** **Duplex galvanised + powder-coated steel** — zinc under the colour → dark AND rustproof at the coast
 - **Colour:** Dark anthracite confirmed; multiple finishes available — ask tecnoarredo3 for current colour chart · **Weight:** Unpublished · **Arms:** No · **Stackable:** Yes · **Seat:** Horizontal wire-rod grid (drains perfectly, nothing pools)
@@ -289,7 +294,7 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 <img src="chair-images/fox.jpg" width="100%">
 
-*Photo shows Grey Mud FA (olive/sage) colorway — also available in Black (NE) and Ancient Grey (AG)*
+*⚠ No colour-specific photography exists online — deluxdeco shows the same photos regardless of which colour you select. Photos show **Grey Mud FA** (olive/sage). **Ancient Grey (AG)** is a cool mid-grey — same design, different tone. Order samples/swatches before committing.*
 
 **Armchair — with arms (£10 more):**
 
@@ -297,7 +302,7 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 <img src="chair-images/fox-armchair-single.jpg" width="100%">
 
-*Armchair photos in red — same design, available in Black, Ancient Grey, and 5 other colours*
+*Armchair photos in red — Ancient Grey (AG) unavailable online; same pressed-steel design in any colour*
 
 **With optional seat cushion (stored indoors when not in use):**
 
@@ -342,7 +347,7 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 <img src="chair-images/sisi.jpg" width="100%">
 
-*Note: photo shows a pale colourway — Anthracite (ZA) and Dove Grey (ZT) both confirmed available*
+*⚠ No Anthracite/Dove Grey product photography online — SCAB only publish lifestyle shots in sage/green. Photo shows the actual Si-Si 2503 design (pressed-steel oval back + seat) in sage colourway. **Anthracite (ZA)** = dark charcoal; **Dove Grey (ZT)** = warm mid-grey — request swatches from arredinitaly before ordering.*
 
 - **Price:** £181/chair (sold in pairs)
 - **Size:** W50 × D55 × H81cm (CATAS-certified)
