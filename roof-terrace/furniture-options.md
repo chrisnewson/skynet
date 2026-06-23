@@ -104,29 +104,34 @@ Metal, not wood (wood fights the dark ceramic/stone tops). **The £695 chair is 
 Browse the range (anthracite/charcoal/black, all <£150, contract-grade): [cafereality.co.uk/cat/aluminium-chairs](https://www.cafereality.co.uk/cat/aluminium-chairs). *Weight isn't published — email to confirm before ordering (aluminium, so expect ~4–6 kg → wind plan applies).*
 
 ### More dark aluminium finds (verified by eye)
-<img src="chair-images/zaltana.jpg" width="200"> <img src="chair-images/joncols.jpg" width="200"> <img src="chair-images/alua.jpg" width="200"> <img src="chair-images/culip.jpg" width="200">
+<img src="chair-images/zaltana.jpg" width="155"> <img src="chair-images/joncols.jpg" width="155"> <img src="chair-images/alua.jpg" width="155"> <img src="chair-images/culip.jpg" width="155"> <img src="chair-images/lyona.jpg" width="155"> <img src="chair-images/zory.jpg" width="155">
 
-*(L→R: Kave Home Zaltana · Joncols · HOUE Alua · Culip — all powder-coated marine aluminium, dark, contemporary, in stock with UK delivery)*
+*(L→R: Kave Home Zaltana · Joncols · HOUE Alua · Culip · La Redoute Lyona · Zory — all powder-coated marine aluminium, dark, contemporary, UK delivery)*
 
 | Chair | Look | Material | Price | Weight | Notes |
 |---|---|---|---|---|---|
+| **La Redoute Lyona** ⭐ | matte-black, perforated-mesh back + slatted seat, slim tapered legs | aluminium | **£200** *(set of 2 = £399.99; ~£130/chair seen at Made/Next — worth checking)* | **3.9 kg** | armless; perforated seat drains; stackable; the most "design-shop" clean of the lot. [link](https://www.laredoute.co.uk/ppdp/prod-350903799.aspx) |
 | **Kave Home Zaltana** ⭐ | anthracite frame + dark mesh sling | aluminium | **£145** | unpub. (chase) | with arms; textilene mesh seat drains, no cushion; stackable. Best value here. [link](https://kavehome.com/gb/en/p/zaltana-stackable-outdoor-chair-in-aluminium-with-a-matt-dark-grey-painted-finish) |
+| **La Redoute Zory** | black frame + black sling seat + back, minimal | aluminium | **£155** *(set of 2 = £309.99)* | **2.2 kg** | armless; textilene sling; stackable. ⚠ lightest of all (2.2 kg) → wind plan matters most here. [link](https://www.laredoute.co.uk/ppdp/prod-351331322.aspx) |
+| **Kave Home Culip** | black frame + dark cord weave | aluminium + cord | **£179** | unpub. (chase) | with arms; the Cane-line Lean *look* for far less. ⚠ seat is woven cord (not bare metal / removable cushion) — stays out, drains, but flag if you want metal-only. [link](https://kavehome.com/gb/en/p/culip-aluminium-and-cord-stackable-outdoor-chair-in-grey) |
 | **Kave Home Joncols** | black, horizontal flat-slat back + slatted seat | aluminium | **£199** | unpub. (chase) | with arms; clean architectural; stackable; top of budget. [link](https://kavehome.com/gb/en/p/joncols-stackable-outdoor-chair-in-aluminium-with-grey-painted-finish) |
 | **HOUE Alua** ⭐ | all-aluminium slat seat + back, curved | aluminium | **~£233** *(stretch)* | **4.8 kg** | the most refined/architectural; black + 5 colours; stacks up to 10; Danish design. [link](https://www.hollowaysofludlow.com/products/houe-alua-dining-chair) |
-| **Kave Home Culip** | black frame + dark cord weave | aluminium + cord | **£179** | unpub. (chase) | with arms; the Cane-line Lean *look* for far less. ⚠ seat is woven cord (not bare metal / removable cushion) — stays out, drains, but flag if you want metal-only. [link](https://kavehome.com/gb/en/p/culip-aluminium-and-cord-stackable-outdoor-chair-in-grey) |
 
-*All four eyeballed from the live product photos — genuinely contemporary + dark, no café/lattice/wishbone styling. Kave don't publish chair weights (email to confirm; expect ~4–6 kg → same wind plan). HOUE Alua is the one with a published weight (4.8 kg) and the only all-aluminium slatted seat of the four.*
+*All six eyeballed from the live product photos — genuinely contemporary + dark, no café/lattice/wishbone styling. Kave don't publish chair weights (email to confirm; expect ~4–6 kg → wind plan). These are all light (2.2–4.8 kg) — fine on the seafront via the tuck-under-the-table + storm-stow plan; if you'd rather have weight, see the steel below.*
 
-### Coastal steel — duplex galvanised (dark + rustproof)
-<img src="chair-images/muuto-linear.jpg" width="220">
+### Coastal steel — galvanised (the wider net)
+<img src="chair-images/muuto-linear.jpg" width="200"> <img src="chair-images/xline.jpg" width="200">
+
+*(Muuto Linear — duplex galv, dark · HAY X-Line — hot-galvanised silver frame + black panel)*
 
 | Chair | Look | Material | Price | Weight | Notes |
 |---|---|---|---|---|---|
-| **Muuto Linear Steel side chair** ⭐ | minimalist slim slatted, gently curved back | **galvanised + powder-coated steel** (duplex — zinc under the colour, so dark *and* rustproof) | **£259** *(stretch)* | ~7.5 kg | **Anthracite Black** (also dark green/grey); bare slatted seat; armless (armchair version exists); stacks ×5; made-to-order ~5 wks. The one genuinely on-brief contemporary steel chair found — heavier than the aluminium options. [link](https://www.nest.co.uk/product/muuto-outdoor-linear-steel-side-chair) |
+| **Muuto Linear Steel side chair** ⭐ | minimalist slim slatted, gently curved back | **duplex galvanised + powder-coated steel** (zinc under the colour → dark *and* rustproof) | **£259** *(stretch)* | ~7.5 kg | **Anthracite Black** (also dark green/grey); bare slatted seat; armless; stacks ×5; made-to-order ~5 wks. Heavier than the aluminium options. [link](https://www.nest.co.uk/product/muuto-outdoor-linear-steel-side-chair) |
+| **HAY X-Line Chair** | iconic 1977 high-tech wire X-frame + perforated panel | **hot-galvanised steel frame** (silver) + powder-coated perforated steel seat/back | **~£226** *(stretch)* | unpub. (slim wire, ~4–5 kg) | armless; bare perforated seat drains; stacks ×10; silver galv frame + **black** panel (also other colours). A design classic — genuinely architectural, not café/Tolix. [link](https://royaldesign.co.uk/x-line-chair-hot-galvanized-steel-powder-coated) |
 
-*Duplex galvanised = hot-dip galvanised THEN powder-coated, so the zinc protects even where the colour chips — the only way to get a **dark** steel chair that survives the seafront (bare galvanised comes out silver). Image shown is the dark-green armchair (form only); order in **Anthracite Black**, armless. Verified the material wording on Muuto's and nest.co.uk's pages.*
+*Since you're now happy with galvanised **silver**, the HAY X-Line comes into play — its frame is true hot-dip galvanised (the coast-tough, maintenance-free finish) with a dark panel seat. Both eyeballed. Heavier-but-dark = Muuto; lighter-but-iconic = X-Line.*
 
-> **Steel category — honest note:** contemporary coastal-safe steel chairs are genuinely rare. Almost every "contract metal café chair" is **plain powder-coated mild steel** (rusts at the coast) — ruled out. The 316-stainless route is real but premium: **Barlow Tyrie Equinox** (316 stainless + Textilene sling, clean modern) is the safe reference but **£414/chair** — out of budget. The hunt for affordable duplex/316 continues.
+> **Steel — honest note:** contemporary coastal-safe steel is still rare and tends to sit at £225–260 (stretch). Almost every "contract metal café chair" is **plain powder-coated mild steel** (rusts) — ruled out; the genuinely heavy cheap galvanised chairs are nearly all **Tolix-style café** form, which you've ruled out on looks. 316-stainless is premium (Barlow Tyrie Equinox £414 — reference only). So steel here is a *bonus* alongside the abundant aluminium, not a separate quota.
 
 ### Heavier options — ruled out on looks
 *The genuinely heavy coastal chairs — duplex-galvanised gun-metal café chairs (Bolero/LeisureBench), Jati teak-on-galvanised (12–15 kg), Lazy Susan cast aluminium — are all out: you didn't like the look. So it's the light aluminium-slat chairs above **+ the wind plan**, or splurge on the heavier **Cane-line Lean (6.45 kg)** below.*
