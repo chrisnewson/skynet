@@ -13,11 +13,12 @@
 **[What we're optimising for](#optimising)** · **[Recommended basket](#basket)** · **[How it looks](#looks)**
 
 **[1 · Dining Tables](#tables)**
-- Metal tops: [Nardi Rio £1,439](#nardi-rio) · [Mobellia Amalfi £599–799](#mobellia-amalfi)
+- Metal tops: [Nardi Rio £1,439](#nardi-rio) · [Mobellia Amalfi £599–799](#mobellia-amalfi) · [Vermobil Extia £1,333 ⭐](#extia)
 - Stone tops: [Maze Maxim £1,999 ⭐](#maze-maxim) · [Bramblecrest Sofia £1,799 ⭐](#bramblecrest-sofia)
 
 **[2 · Dining Chairs](#chairs)**
-- [Chazey £114](#chazey) · [Bastille £126 ⭐](#bastille) · [Zaltana £145 ⭐](#zaltana) · [Summer £148 ⭐](#summer) · [Fox £167/177 ⭐](#fox) · [Culip £179](#culip) · [Si-Si £181 ⭐](#si-si) · [Mogan £185](#mogan) · [Joncols £199](#joncols) · [Lyona £200 ⭐](#lyona) · [Alua £233 ⭐](#alua)
+- **With arms:** [Zaltana £145 ⭐](#zaltana) · [Fox armchair £177 ⭐](#fox) · [Culip £179](#culip) · [Joncols £199](#joncols) · [Twist armchair £209 ⭐](#twist)
+- **Without arms:** [Chazey £114](#chazey) · [Bastille £126 ⭐](#bastille) · [Summer £148 ⭐](#summer) · [Fox side chair £167 ⭐](#fox) · [Si-Si £181 ⭐](#si-si) · [Mogan £185](#mogan) · [Lyona £200 ⭐](#lyona) · [Alua £233 ⭐](#alua)
 
 **[3 · Sofas & comfy chairs](#sofas)**
 - [Sherborne £1,499](#sherborne) · [Luxus Amalfi £1,941 ⭐](#luxus-amalfi) · [Maze Eve £1,985 ⭐](#maze-eve) · [4S Piacenza £2,499 ⭐](#piacenza) · [Teakunique Maluku £825/mod ⭐](#maluku) · [Tribu Mood £2,560](#tribu-mood) · [4S Alicante £2,699](#alicante) · [Cane-line Space (ref)](#cane-line-space)
@@ -98,7 +99,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - **Price:** £1,439 table-only
 - **Size:** 210×100cm → **280×100cm** (extends, ~10 seats) · H76cm
 - **Material:** Powder-coated aluminium frame + slatted aluminium top
-- **Colour:** Anthracite (dark)
+- **Colour:** **Anthracite** · Bianco (white) · Tortora (taupe/warm greige) — 3 options
 - **Weight:** ~54 kg (unusually heavy for aluminium)
 - **Reviews:** juliajones.co.uk — not independently checked on Trustpilot; established UK specialist outdoor furniture retailer. Nardi is Italian contract/commercial-grade, award-winning — well-regarded by the trade.
 
@@ -126,7 +127,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - **Price:** 10-seat £599 · 12-seat £799
 - **Size:** **⭐ Preferred: 10-seat 200→260×96cm** (fits ≤220cm compact constraint) · 12-seat 240→300×96cm · H75cm
 - **Material:** Aluminium A-frame; **cemented composite top** (non-porous, wipe-clean — confirmed from Mobellia's site)
-- **Colour:** White or anthracite frame
+- **Colour:** Anthracite frame · White frame; top in **anthracite, taupe, or wood-effect** — 4 combinations
 - **Reviews:** mobellia.com — not independently verified on Trustpilot; online-only retailer; check returns policy before ordering.
 
 **Pros:**
@@ -139,6 +140,51 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - No independent review base found
 
 [mobellia.com — Amalfi 10-seat (200→260cm)](https://www.mobellia.com/en-gb/products/automatic-extendable-garden-table-10-seats-aluminium-amalfi-200-260x96?variant=56303906750812)
+
+[↑ Tables](#tables) · [↑ Contents](#contents)
+
+---
+
+<a id="extia"></a>
+
+### Vermobil — Extia ⭐ (steel flat top — matches Fox & Twist palette)
+
+<img src="artists-impressions/fox%20armchair.jpg" width="100%">
+
+*Fox armchairs at the Extia table — same Vermobil collection, perfectly matched.*
+
+<img src="artists-impressions/fox%20without%20cushion.jpg" width="100%">
+
+*Fox side chairs at the Extia table in Grey Mud (olive/sage) — same design, 7 shared colour options.*
+
+- **Price:** £1,333 (from £1,778 — 25% off) table-only
+- **Size:** Size 1: 140→200×80cm · **Size 2: 180→250×90cm** (preferred — more width and length for 8–10 seats)
+- **Material:** **Duplex galvanised + qualicoat powder-coated steel** — same coastal-safe construction as the Fox & Si-Si chairs
+- **Top:** Solid flat steel — wipe-clean, seagull-proof ✓
+- **Colour:** **7 options — identical palette to Fox chairs and Twist armchair**: Black NE · Grey Mud FA · Ancient Grey AG · Ivory White BS · Matt White BCU · Bronzo BRO (see swatch below)
+- **Weight:** Not published — steel construction likely heavier than aluminium alts ✓
+- **Reviews:** deluxdeco.co.uk — **5.0/5 Trustpilot (235 reviews).** Same retailer as Fox; excellent service.
+- **Lead time:** 6–10 weeks (made to order)
+- **Guarantee:** 10-year frame
+
+<img src="artists-impressions/fox%20ancient%20grey.jpg" width="100%">
+
+*Shared colour palette — Fox chairs, Twist armchair, and Extia table all available in these 7 finishes.*
+
+**Pros:**
+- ⭐ **Designed as a matched set** with Fox chairs and Twist armchair — table and chairs in identical colour, from one supplier
+- Duplex galv construction = dark colours + coastal-safe (zinc under every chip)
+- Solid flat top = completely seagull-proof, wipe-clean
+- Both sizes start ≤220cm compact ✓
+- 10-year guarantee; excellent retailer
+
+**Cons:**
+- ⚠ Table top material is steel — confirm it doesn't get uncomfortably hot in direct sun
+- Size 2 at 250cm extended seats 8–10; confirm 10 chairs fit comfortably (armchairs need more room per seat)
+- 6–10 week lead time — order before August for September fit-out
+- Weight not published; confirm it's heavy enough to resist wind without ballasting
+
+[deluxdeco.co.uk — Extia extendable table](https://www.deluxdeco.co.uk/extia-extendable-table.html)
 
 [↑ Tables](#tables) · [↑ Contents](#contents)
 
@@ -208,7 +254,9 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 # 2 · Dining Chairs
 
-Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't rust. Steel needs to be **duplex galvanised** (galv then powder-coat — zinc under the colour, survives chips) or **316 stainless**. Managed by the **wind plan**: chairs tuck under the heavy stone table + come in for storms. All seats are bare metal — wipe-clean, drain, no fixed cushions.
+Metal, not wood. Aluminium won't rust. Steel needs to be **duplex galvanised** (zinc under the colour, survives chips) or **316 stainless**. All seats are bare metal — wipe-clean, drain, no fixed cushions.
+
+**Chairs with arms** (Alex's preference): [Zaltana £145](#zaltana) · [Fox armchair £177](#fox) · [Culip £179](#culip) · [Joncols £199](#joncols) · [Twist armchair £209](#twist). Any of these mix well with the armless versions from the same brand/palette.
 
 ---
 
@@ -294,35 +342,65 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 <a id="fox"></a>
 
-### Vermobil — Fox · £167 (side chair) / £177 (armchair)
+### Vermobil — Fox · £167 (side chair) / £177 (armchair) ⭐ matches Extia table & Twist armchair
 
 **Side chair — no arms:**
 
-<img src="chair-images/fox.jpg" width="100%">
+<img src="artists-impressions/fox%20without%20cushion.jpg" width="100%">
 
-*⚠ No colour-specific photography exists online — deluxdeco shows the same photos regardless of which colour you select. Photos show **Grey Mud FA** (olive/sage). **Ancient Grey (AG)** is a cool mid-grey — same design, different tone. Order samples/swatches before committing.*
+**With optional seat cushion:**
+
+<img src="artists-impressions/fox%20with%20cushion.jpg" width="100%">
+
+*Seat cushion shown in Grey Mud (olive) — available in 8 outdoor fabrics, store indoors.*
 
 **Armchair — with arms (£10 more):**
 
-<img src="chair-images/fox-armchair-lifestyle.jpg" width="100%">
+<img src="artists-impressions/fox%20armchair.jpg" width="100%">
 
-<img src="chair-images/fox-armchair-single.jpg" width="100%">
+*Fox armchair with the Extia table — same Vermobil collection.*
 
-*Armchair photos in red — Ancient Grey (AG) unavailable online; same pressed-steel design in any colour*
+**Colour palette (shared with Extia table and Twist armchair):**
 
-**With optional seat cushion (stored indoors when not in use):**
-
-<img src="chair-images/fox-cushion.jpg" width="100%">
+<img src="artists-impressions/fox%20ancient%20grey.jpg" width="100%">
 
 - **Price:** Side chair £167 (RRP £222) · Armchair £177 (RRP £236) · **Lead time: 6–10 weeks** (made to order)
-- **Size:** Side chair W45 × D53 × H81cm (armchair wider — confirm with deluxdeco)
-- **Material:** **Duplex galvanised steel** (galvanised then qualicoat powder-coated) — confirmed coastal-safe
-- **Colour:** 7 options: **Black NE** · **Grey Mud FA** (olive/sage — side chair photo) · **Ancient Grey AG** · Ivory White · Matt White · Bronzo · Beige · **Weight:** Unpublished · **Arms:** Armchair version available · **Stackable:** Yes · **Seat:** Smooth pressed steel shell (wipe-clean); 8 cushion fabrics available separately (UV/water/mould resistant, 5-yr warranty)
-- **Reviews:** deluxdeco.co.uk — **5.0/5 Trustpilot (235 reviews). Excellent.** Professional service, highly praised delivery teams.
+- **Size:** Side chair W45 × D53 × H81cm · Armchair wider — confirm with deluxdeco
+- **Material:** **Duplex galvanised + qualicoat powder-coated steel** — confirmed coastal-safe
+- **Colour:** 7 options — **same palette as Extia table and Twist armchair** (see swatch above) · **Weight:** Unpublished · **Arms:** Armchair version £177 · **Stackable:** Yes · **Seat:** Smooth pressed steel shell (wipe-clean); 8 cushion fabrics separately (UV/water/mould resistant, 5-yr warranty)
+- **Reviews:** deluxdeco.co.uk — **5.0/5 Trustpilot (235 reviews). Excellent.**
 
-**Pros:** Confirmed duplex galv = properly coastal-safe; smooth pressed-steel seat — clean and wipe-clean; armchair option for comfort; good discount off RRP; excellent retailer · **Cons:** ⚠ 6–10 week lead time — order July for Sept fit-out; weight unpublished
+**Pros:** Confirmed duplex galv = properly coastal-safe; smooth pressed-steel seat; armchair option; perfectly matched to Extia table and Twist armchair from same brand; excellent retailer · **Cons:** ⚠ 6–10 week lead time — order July for Sept fit-out; weight unpublished
 
 [deluxdeco.co.uk — Fox side chair](https://www.deluxdeco.co.uk/fox-chair.html) · [Fox armchair](https://www.deluxdeco.co.uk/fox-armchair.html)
+
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
+---
+
+<a id="twist"></a>
+
+### Vermobil — Twist armchair ⭐ · £209 (with arms — matches Fox & Extia)
+
+<img src="chair-images/twist-armchair.jpg" width="100%">
+
+*Photo in dark bronze/anthracite — same slatted seat, slim arms, dining height.*
+
+**Colour palette (shared with Fox chairs and Extia table):**
+
+<img src="artists-impressions/fox%20ancient%20grey.jpg" width="100%">
+
+- **Price:** £209 (from £279 — 25% off) · **Lead time: 9–15 weeks** ⚠ (made to order — order by July for September fit-out)
+- **Size:** W55 × D56 × H88cm (dining height)
+- **Material:** **Duplex galvanised + qualicoat powder-coated steel** — same coastal-safe construction as Fox
+- **Colour:** 7 options — **identical palette to Fox chairs and Extia table** (see swatch above) · **Weight:** Unpublished · **Arms:** Yes ✓ · **Stackable:** Yes · **Seat:** Slatted metal (drains, wipe-clean); cushion options likely available — confirm with deluxdeco
+- **Reviews:** deluxdeco.co.uk — 5.0/5 Trustpilot (235 reviews). Excellent.
+
+**Note:** Back panel appears to have a separate insert in the product photo — **confirm with deluxdeco whether the back is all-metal or includes a fabric/textile component** (if fabric, it needs to come indoors like cushions).
+
+**Pros:** ⭐ Arms make it more comfortable for long dinners; perfectly matched to Fox side chairs and Extia table — can mix armchairs and side chairs in one palette; stackable; duplex galv = coastal-safe · **Cons:** 9–15 week lead time is the longest on this list — order early; 55cm width means armchairs take more table room (8 fit around a 250cm table, not 10); back panel to confirm
+
+[deluxdeco.co.uk — Twist armchair](https://www.deluxdeco.co.uk/twist-armchair.html)
 
 [↑ Chairs](#chairs) · [↑ Contents](#contents)
 
