@@ -19,6 +19,7 @@
 **[2 · Dining Chairs](#chairs)**
 - **With arms:** [Zaltana £145 ⭐](#zaltana) · [Fox armchair £177 ⭐](#fox) · [Culip £179](#culip) · [Joncols £199](#joncols) · [Twist armchair £209 ⭐](#twist)
 - **Without arms:** [Chazey £114](#chazey) · [Bastille £126 ⭐](#bastille) · [Summer £148 ⭐](#summer) · [Fox side chair £167 ⭐](#fox) · [Si-Si £181 ⭐](#si-si) · [Mogan £185](#mogan) · [Lyona £200 ⭐](#lyona) · [Alua £233 ⭐](#alua)
+- **Teak — Route A:** [Cyan Vero £125 ⭐](#teak-vero) · [Cyan Sora £125](#teak-sora) · [Eterna Oxford £149](#teak-oxford) · [B&S Semeru £169 ⭐](#teak-semeru) · [Treviso £260](#teak-treviso) · [4S Julia £360](#teak-julia) · [Skagerak Plank £619 ⭐](#teak-plank) · [Cane-line Grace £1,005](#teak-grace) · [Tribu Kos £1,220](#teak-kos)
 
 **[3 · Sofas & comfy chairs](#sofas)**
 - [Sherborne £1,499](#sherborne) · [Luxus Amalfi £1,941 ⭐](#luxus-amalfi) · [Maze Eve £1,985 ⭐](#maze-eve) · [4S Piacenza £2,499 ⭐](#piacenza) · [Teakunique Maluku £825/mod ⭐](#maluku) · [Tribu Mood £2,560](#tribu-mood) · [4S Alicante £2,699](#alicante) · [Cane-line Space (ref)](#cane-line-space)
@@ -254,7 +255,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 # 2 · Dining Chairs
 
-Metal, not wood. Aluminium won't rust. Steel needs to be **duplex galvanised** (zinc under the colour, survives chips) or **316 stainless**. All seats are bare metal — wipe-clean, drain, no fixed cushions.
+Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel needs to be **duplex galvanised** (zinc under the colour, survives chips) or **316 stainless**; all seats bare metal — wipe-clean, drain, no fixed cushions. **Route A = teak** is a separate group further down → [Teak dining chairs — Route A](#teak-chairs).
 
 **Chairs with arms** (Alex's preference): [Zaltana £145](#zaltana) · [Fox armchair £177](#fox) · [Culip £179](#culip) · [Joncols £199](#joncols) · [Twist armchair £209](#twist). Any of these mix well with the armless versions from the same brand/palette.
 
@@ -534,6 +535,199 @@ Metal, not wood. Aluminium won't rust. Steel needs to be **duplex galvanised** (
 **Steer:** **Cafe Reality Bastille (£126)** or **Chazey (£114)** for lowest-cost coastal-safe aluminium. **SCAB Summer (£148)** is the duplex steel standout at the price. **SCAB Si-Si (£181, 8.7 kg)** is the heaviest and has a dove grey option. **Vermobil Fox (£167/177)** and **Mogan (£185)** both confirmed duplex galv via deluxdeco 5.0/5 — note the 6–10 week lead time. **HOUE Alua (£233)** via Holloways for the most architectural aluminium option.
 
 *Swyft Garden Dining Chair 01 (£140) — same aluminium-slat look, but olive/taupe only (no dark), sold out, and Swyft's table is fixed ~6–8 seats. Doesn't fit the brief.*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
+<a id="teak-chairs"></a>
+
+## Teak dining chairs — Route A
+
+Solid teak instead of metal. Teak is naturally oily, rot-proof and salt-tough — left out it silvers to grey with **zero maintenance**, and at ~8–12 kg it passes the Brighton wind test where light aluminium doesn't. All bare-teak seats drain and are seagull-proof; any removable pad stores indoors. Sorted cheapest first. **Verify by eye and order a sample first** — teak grade and finish vary a lot between sellers.
+
+*Benchmark = the Teakunique Poppy (£205 · curved sculpted back · armless · stacks · ~8 kg). The chairs below are alternatives with a cleaner contemporary line and/or stronger independent reviews. All verified by eye from the product photo.*
+
+---
+
+<a id="teak-vero"></a>
+
+### Cyan Teak — Vero ⭐ · £125 *(best value)*
+
+<img src="chair-images/teak-vero.jpg" width="100%">
+
+- **Price:** £125/chair
+- **Material:** Grade-A teak (*Tectona grandis*) — mortise-and-tenon joints, stainless-steel fittings
+- **Colour:** Natural teak (silvers if left out) · **Weight:** Unpublished — described "lightweight"; ⚠ confirm ≥7 kg for wind · **Arms:** No · **Stackable:** Yes · **Seat:** Curved/scooped slatted teak (drains)
+- **Reviews:** cyan-teak-furniture.com — **Trustpilot 5.0 (~199 reviews, store-level).** Best-reviewed teak retailer here.
+
+**Pros:** Cleanest contemporary Scandi line on the list at the lowest price; armless + stackable; genuine Grade-A teak; strong independent reviews · **Cons:** Weight unpublished (confirm it's heavy enough); reviews are store- not product-level
+
+[cyan-teak-furniture.com — Vero](https://www.cyan-teak-furniture.com/vero-teak-stacking-side-chair)
+
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
+---
+
+<a id="teak-sora"></a>
+
+### Cyan Teak — Sora · £125 *(woven back — cheap Banda look)*
+
+<img src="chair-images/teak-sora.jpg" width="100%">
+
+- **Price:** from £125/chair
+- **Material:** Grade-A teak frame + **Rehau Raucord® woven panel** (⚠ synthetic rattan, **not** natural rope/cord)
+- **Colour:** Natural teak + grey weave · **Weight:** Unpublished (high-back, lightweight) · **Arms:** No · **Stackable:** Yes · **Seat:** Teak seat; woven back panel
+- **Reviews:** cyan-teak-furniture.com — same as Vero (Trustpilot 5.0, ~199 store-level).
+
+**Pros:** The Teakunique Banda woven look at a quarter of the price; armless + stackable; clean Japandi profile · **Cons:** Weave is synthetic Raucord (stays outside permanently; not natural cord); weight unpublished
+
+[cyan-teak-furniture.com — Sora](https://www.cyan-teak-furniture.com/sora-woven-stacking-chair)
+
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
+---
+
+<a id="teak-oxford"></a>
+
+### Eterna Home — Oxford · £149
+
+<img src="chair-images/teak-oxford.jpg" width="100%">
+
+*Photo shows the **carver** (with arms) and a seat pad — Eterna also list an armless stacking side chair; confirm which you're ordering.*
+
+- **Price:** £149/chair (sold in pairs, £298)
+- **Material:** Grade-A teak (*Tectona grandis*), purpose-built **outdoor**; high natural oils, no treatment needed
+- **Colour:** Natural teak · **Weight:** Unpublished · **Arms:** ⚠ carver shown has arms (an armless stacking version is listed) · **Stackable:** Yes (up to 4) · **Seat:** Curved horizontal-slat back; optional cushion
+- **Reviews:** eternahome.co.uk — **Trustpilot 4.0 (~56 reviews — small sample; some delivery-delay complaints).**
+
+**Pros:** Genuine *outdoor* Grade-A teak; stackable; curved slatted back reads contemporary; cushion option · **Cons:** Photo is the carver — confirm the armless side chair; young/small review base
+
+[eternahome.co.uk — Oxford](https://eternahome.co.uk/products/teak-garden-furniture-stacking-chairs-priced-for-1)
+
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
+---
+
+<a id="teak-semeru"></a>
+
+### Barker & Stonehouse — Semeru ⭐ · £169 *(closest to the Poppy)*
+
+<img src="chair-images/teak-semeru.jpg" width="100%">
+
+- **Price:** £169/chair (sale, was £215)
+- **Material:** Solid teak — smooth, unfinished wood
+- **Colour:** Natural teak · **Weight:** **8 kg (published — passes wind)** · **Arms:** No · **Stackable:** No · **Seat:** Sculpted solid-teak seat
+- **Reviews:** barkerandstonehouse.co.uk — **Trustpilot ~4.5 (large, retailer-level).** Long-established UK retailer.
+- ⚠ **Caveat:** marketed as an **indoor** unfinished-teak chair, not a designated outdoor model. Unfinished teak weathers fine outside (it silvers) but confirm coastal suitability + joinery/hardware with B&S. The range also has an armchair and a leather-seat variant — order the plain **armless wood** one.
+
+**Pros:** The closest match to the Poppy benchmark — curved sculpted wrap-back, clean lines, armless; 8 kg published; keen price · **Cons:** Indoor-listed (confirm outdoor use); not stackable
+
+[barkerandstonehouse.co.uk — Semeru](https://www.barkerandstonehouse.co.uk/chairs/semeru-dining-chair)
+
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
+---
+
+<a id="teak-treviso"></a>
+
+### Teak Warehouse — Treviso · ~£260 *(⚠ confirm UK shipping)*
+
+<img src="chair-images/teak-treviso.jpg" width="100%">
+
+- **Price:** ~£260/chair (sale, ~$329, was ~$459)
+- **Material:** A-grade teak, thick-cut
+- **Colour:** Natural teak · **Weight:** **8.2 kg (published)** · **Arms:** Slim integrated · **Stackable:** Yes (up to 4) · **Seat:** Curved high slatted back
+- **Reviews:** teakwarehouse.com — positive but modest volume; ⚠ the former **UK** arm has poor delivery reviews.
+- ⚠ **Caveat:** ships from Dallas, USA — UK delivery + duties uncertain. Treat as a **look reference** unless they confirm UK shipping.
+
+**Pros:** Strong nautical-contemporary curved back; 8.2 kg; stackable; A-grade teak · **Cons:** US shipping/duties + UK delivery doubt; slim arms
+
+[teakwarehouse.com — Treviso](https://teakwarehouse.com/products/treviso-stacking-teak-dining-chair)
+
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
+---
+
+<a id="teak-julia"></a>
+
+### 4 Seasons Outdoor — Julia · £360 *(stretch — comfort armchair)*
+
+<img src="chair-images/teak-julia.jpg" width="100%">
+
+- **Price:** £360/chair (was £449)
+- **Material:** **Brushed FSC teak** frame + removable seat & back cushions (store indoors)
+- **Colour:** Brushed (limed) teak + neutral cushions · **Weight:** Unpublished · **Arms:** Slim modern · **Stackable:** Yes · **Seat:** Cushioned
+- **Reviews:** 4 Seasons Outdoor brand well-regarded; retailer reviews self-hosted (The Modern Furniture Company).
+
+**Pros:** Genuinely modern angular frame from a reputable garden brand; comfortable cushioned armchair; stackable; FSC teak · **Cons:** Over budget (stretch); has arms + cushions (cushions come in; confirm solid teak, not veneer)
+
+[themodernfurniturecompany.com — 4S Julia](https://themodernfurniturecompany.com/products/4-season-outdoor-julia-living-chair-teak-brushed-with-2-cushions-copy)
+
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
+---
+
+<a id="teak-plank"></a>
+
+### Skagerak (Fritz Hansen) — Plank ⭐ · ~£619 *(premium design benchmark)*
+
+<img src="chair-images/teak-plank.jpg" width="100%">
+
+- **Price:** ~£619/chair (was £729)
+- **Material:** Untreated solid teak, **FSC 100%**
+- **Colour:** Natural teak · **Weight:** Unpublished · **Arms:** No · **Stackable:** No · **Seat:** Slatted teak; architectural plank back
+- **Reviews:** innes.co.uk self-hosted; Skagerak / Fritz Hansen is a premium Danish design house.
+
+**Pros:** The cleanest, most architectural design here — a true modern-design benchmark; certified solid teak; armless · **Cons:** Premium price (reference only); not stackable
+
+[innes.co.uk — Skagerak Plank](https://www.innes.co.uk/products/skagerak-plank-outdoor-dining-chair)
+
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
+---
+
+<a id="teak-grace"></a>
+
+### Cane-line — Grace · ~£1,005 *(premium reference — heaviest)*
+
+<img src="chair-images/teak-grace.jpg" width="100%">
+
+- **Price:** ~£1,005/chair
+- **Material:** Grade-A teak, **SVLK certified**
+- **Colour:** Natural teak · **Weight:** **13 kg (heaviest — best wind)** · **Arms:** Yes · **Stackable:** No · **Seat:** Slatted teak; cubic X cross-back
+- **Reviews:** cane-line.co.uk self-hosted; Cane-line is a premium Danish brand.
+
+**Pros:** Heaviest / most wind-proof; clean cubic X-back; full Grade-A teak · **Cons:** Premium price (reference); arms; not stackable
+
+[cane-line.co.uk — Grace](https://cane-line.co.uk/products/grace-chair)
+
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
+---
+
+<a id="teak-kos"></a>
+
+### Tribu — Kos · ~£1,220 *(premium reference)*
+
+<img src="chair-images/teak-kos.jpg" width="100%">
+
+- **Price:** ~£1,220/chair
+- **Material:** Teak frame, broad-slat (confirm seat/back are teak vs rope)
+- **Colour:** Natural teak + cushion pad · **Weight:** Unpublished · **Arms:** Slim · **Stackable:** Yes (up to 3) · **Seat:** Broad-slat teak + pad
+- **Reviews:** gomodern.co.uk self-hosted; Tribu is a premium Belgian brand.
+
+**Pros:** Pure modern broad-slat design; stackable; premium build · **Cons:** Premium price (reference); slim arms
+
+[gomodern.co.uk — Tribu Kos](https://www.gomodern.co.uk/tribu-kos-teak-garden-dining-chair.html)
+
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
+---
+
+**Steer (teak / Route A):** For value + the cleanest contemporary line, **Cyan Vero (£125)** is the standout — order a sample and confirm the weight. **Barker & Stonehouse Semeru (£169)** is the closest match to the Poppy's sculpted curved back (confirm outdoor use). **Cyan Sora (£125)** gives the woven Banda look cheaply. **Skagerak Plank (~£619)** is the design benchmark if budget flexes. Be aware the genuine-teak + contemporary + sub-£300 + reliable-UK-delivery intersection is narrow — most unambiguously clean designs (Plank / Grace / Kos) sit £600+.
+
+*Dead ends (checked, rejected):* Tikamoon **Blaise** £369 (wishbone Y-back + indoor varnish) and **Jonàk** £189 (indoor; ~6 kg sister model — borderline for wind); Indian Ocean **Oslo** (teak **+ aluminium** frame, only 5.5 kg — fails solid-teak + weight); **Barlow Tyrie Equinox** / **Gloster Sway** (teak frame + sling, not solid teak; £400+); most Wayfair "teak" woven chairs are **acacia / teak-effect**; Teakunique **Riverbank** (traditional spindle) / **Snapdragon** (folding).
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
