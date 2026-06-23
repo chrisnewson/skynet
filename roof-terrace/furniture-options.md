@@ -1,6 +1,32 @@
+<a id="top"></a>
+
 # Roof Terrace — Garden Furniture Options
 
 *Shortlist for the 22 Sussex Square roof terrace (Brighton seafront). Three sections: **Dining tables**, **Dining chairs**, **Sofas & comfy chairs**. Prices captured June 2026 — confirm live before ordering.*
+
+---
+
+<a id="contents"></a>
+
+## Contents
+
+**[What we're optimising for](#optimising)** · **[Recommended basket](#basket)** · **[How it looks](#looks)**
+
+**[1 · Dining Tables](#tables)**
+- Metal tops: [Nardi Rio £1,439](#nardi-rio) · [Mobellia Amalfi £599–799](#mobellia-amalfi)
+- Stone tops: [Maze Maxim £1,999 ⭐](#maze-maxim) · [Bramblecrest Sofia £1,799 ⭐](#bramblecrest-sofia)
+
+**[2 · Dining Chairs](#chairs)**
+- [Chazey £114](#chazey) · [Bastille £126 ⭐](#bastille) · [Zaltana £145 ⭐](#zaltana) · [Summer £148 ⭐](#summer) · [Fox £167/177 ⭐](#fox) · [Culip £179](#culip) · [Si-Si £181 ⭐](#si-si) · [Mogan £185](#mogan) · [Joncols £199](#joncols) · [Lyona £200 ⭐](#lyona) · [Alua £233 ⭐](#alua)
+
+**[3 · Sofas & comfy chairs](#sofas)**
+- [Sherborne £1,499](#sherborne) · [Luxus Amalfi £1,941 ⭐](#luxus-amalfi) · [Maze Eve £1,985 ⭐](#maze-eve) · [4S Piacenza £2,499 ⭐](#piacenza) · [Teakunique Maluku £825/mod ⭐](#maluku) · [Tribu Mood £2,560](#tribu-mood) · [4S Alicante £2,699](#alicante) · [Cane-line Space (ref)](#cane-line-space)
+
+**[Timing & checklist](#checklist)**
+
+---
+
+<a id="optimising"></a>
 
 ## What we're optimising for
 - **Severe coastal exposure** — salt air + high wind. Heavy / corrosion-proof; **teak**, **cast aluminium** or **316 stainless** only — no steel, no thin tube aluminium.
@@ -8,6 +34,12 @@
 - **Seagull-proof table top** — gulls will foul the dining table, so the **top must be non-porous and wipe-clean**: **ceramic / sintered stone / HPL / glass / powder-coated (or wood-effect) aluminium.** Real **teak/wood tops are porous and stain** from droppings — avoid for the table.
 - **Frames out, cushions stored** — only hard frames live outside; all cushions come indoors (storage being built in).
 - **Budget** ~£3,000–£6,000 combined.
+
+[↑ Contents](#contents)
+
+---
+
+<a id="basket"></a>
 
 ## Recommended basket (contemporary, dark top, seagull-proof, wind-stable)
 | | Item | Price |
@@ -19,7 +51,11 @@
 
 Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439) → drops the total to ~£5,430. Both tables are dark, seagull-proof and heavy enough for wind.
 
+[↑ Contents](#contents)
+
 ---
+
+<a id="looks"></a>
 
 ## How it looks — front-runner pairings
 
@@ -33,13 +69,21 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 <img src="artists-impressions/nardi%20rio%20with%20poppy%20chairs.png" width="100%">
 
+[↑ Contents](#contents)
+
 ---
 
-# 1 · DINING TABLES
+<a id="tables"></a>
+
+# 1 · Dining Tables
 
 **Extending is a hard rule** — every table here extends. **Contemporary = slim aluminium A-frame/legs. Seagull-proof = a non-porous, wipe-clean top.** Grouped by top material — all stain-proof against droppings. (Real teak/wood tops are dropped: porous, they stain.)
 
+---
+
 ## Metal (aluminium) tops — no rust, drains, wipe clean
+
+<a id="nardi-rio"></a>
 
 ### Nardi — Rio ⭐ (aluminium slat top)
 
@@ -63,7 +107,11 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 [juliajones.co.uk — Nardi Rio](https://www.juliajones.co.uk/nardi-rio-aluminium-outdoor-extending-dining-table-210-280cm/p2120)
 
+[↑ Tables](#tables) · [↑ Contents](#contents)
+
 ---
+
+<a id="mobellia-amalfi"></a>
 
 ### Mobellia — Amalfi (aluminium A-frame)
 
@@ -85,9 +133,13 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 [mobellia.com — extending tables](https://www.mobellia.com/en-gb/collections/extending-table)
 
+[↑ Tables](#tables) · [↑ Contents](#contents)
+
 ---
 
 ## Stone tops — sintered stone / ceramic — ultra stain & scratch-proof
+
+<a id="maze-maxim"></a>
 
 ### Maze — Maxim ⭐ (sintered-stone top)
 
@@ -97,7 +149,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - **Size:** 280×100cm → **340×100cm** → **400×100cm** (three-step extension, 8→10→12 seats) · H77.5cm
 - **Colour:** Charcoal or Latte (sintered-stone top)
 - **Material:** Aluminium frame + sintered-stone top
-- **Reviews:** mazeliving.co.uk — **~9,600 Trustpilot reviews, mixed.** Headline positive but a real tail of complaints: delivery delays (months), rattan/coating issues on older ranges. Specifically for the Maxim: known delivery-damage risk on stone edges. Confirm stone top is covered in warranty; inspect carefully on arrival.
+- **Reviews:** mazeliving.co.uk — **~9,600 Trustpilot reviews, mixed.** Headline positive but a real tail of complaints: delivery delays, rattan/coating issues on older ranges. Known delivery-damage risk on stone edges. Confirm stone top is covered in warranty; inspect carefully on arrival.
 
 **Pros:**
 - Sintered stone = toughest, most stain-proof surface going; seagull-proof
@@ -106,13 +158,17 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - Sold **table-only** — pick any chairs you like
 
 **Cons:**
-- Known delivery-damage risk on stone edges (chip in transit) — inspect on arrival
+- Known delivery-damage risk on stone edges — inspect on arrival
 - Narrow warranty (structural + rust only; 48-hr defect window) — confirm stone top is covered in writing
 - 400cm is a very long run — check it fits the dining zone (FA2 = 5.75m)
 
 [mazeliving.co.uk — Maze Maxim](https://www.mazeliving.co.uk/product/maze-maxim-extending-aluminium-dining-table)
 
+[↑ Tables](#tables) · [↑ Contents](#contents)
+
 ---
+
+<a id="bramblecrest-sofia"></a>
 
 ### Bramblecrest — Sofia ⭐ (dark ceramic X-leg, best value)
 
@@ -137,15 +193,19 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 *Other dark-ceramic alternatives:* **Alexander Rose Rimini** ~£1,293 (table-only, ceramic-glass, mid-grey not charcoal, extends to 300cm) · **Cane-line Drop (Fossil Black)** £5,100 (the deepest dark ceramic — premium reference only).
 
-*Note: most dark-ceramic 10–12-seat extenders only come as full sets. The Maxim is the exception — sold table-only.*
+[↑ Tables](#tables) · [↑ Contents](#contents)
 
 ---
 
-# 2 · DINING CHAIRS
+<a id="chairs"></a>
+
+# 2 · Dining Chairs
 
 Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't rust. Steel needs to be **duplex galvanised** (galv then powder-coat — zinc under the colour, survives chips) or **316 stainless**. Managed by the **wind plan**: chairs tuck under the heavy stone table + come in for storms. All seats are bare metal — wipe-clean, drain, no fixed cushions.
 
 ---
+
+<a id="chazey"></a>
 
 ### Cafe Reality — Chazey · £114
 
@@ -160,7 +220,11 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 [cafereality.co.uk — Chazey](https://www.cafereality.co.uk/prod/chazey-outdoor-aluminium-side-chairs)
 
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
 ---
+
+<a id="bastille"></a>
 
 ### Cafe Reality — Bastille ⭐ · £126
 
@@ -175,7 +239,11 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 [cafereality.co.uk — Bastille](https://www.cafereality.co.uk/prod/bastille-outdoor-aluminium-side-chair)
 
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
 ---
+
+<a id="zaltana"></a>
 
 ### Kave Home — Zaltana ⭐ · £145
 
@@ -190,16 +258,17 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 [kavehome.com — Zaltana](https://kavehome.com/gb/en/p/zaltana-stackable-outdoor-chair-in-aluminium-with-a-matt-dark-grey-painted-finish)
 
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
 ---
+
+<a id="summer"></a>
 
 ### SCAB Design — Summer ⭐ · £148
 
 <img src="chair-images/summer.jpg" width="100%">
 
-*Note: photo shows the chair in dark anthracite/graphite*
-
 - **Price:** ~£148/chair
-- **Size:** W50 × D57 × H84cm (estimated — confirm with tecnoarredo3)
 - **Material:** **Duplex galvanised + powder-coated steel** — zinc under the colour → dark AND rustproof at the coast
 - **Colour:** Dark anthracite confirmed; multiple finishes available — ask tecnoarredo3 for current colour chart · **Weight:** Unpublished · **Arms:** No · **Stackable:** Yes · **Seat:** Horizontal wire-rod grid (drains perfectly, nothing pools)
 - **Reviews:** tecnoarredo3.co.uk — **4.7/5 Trustpilot (224 reviews). Excellent.** 88% 5-star; legitimate Italian retailer; responsive customer service.
@@ -208,7 +277,11 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 [tecnoarredo3.co.uk — SCAB Summer](https://www.tecnoarredo3.co.uk/summer-chair-scab)
 
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
 ---
+
+<a id="fox"></a>
 
 ### Vermobil — Fox · £167 (side chair) / £177 (armchair)
 
@@ -231,16 +304,20 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 <img src="chair-images/fox-cushion.jpg" width="100%">
 
 - **Price:** Side chair £167 (RRP £222) · Armchair £177 (RRP £236) · **Lead time: 6–10 weeks** (made to order)
-- **Size:** W45 × D53 × H81cm (side chair)
+- **Size:** Side chair W45 × D53 × H81cm (armchair wider — confirm with deluxdeco)
 - **Material:** **Duplex galvanised steel** (galvanised then qualicoat powder-coated) — confirmed coastal-safe
 - **Colour:** 7 options: **Black NE** · **Grey Mud FA** (olive/sage — side chair photo) · **Ancient Grey AG** · Ivory White · Matt White · Bronzo · Beige · **Weight:** Unpublished · **Arms:** Armchair version available · **Stackable:** Yes · **Seat:** Smooth pressed steel shell (wipe-clean); 8 cushion fabrics available separately (UV/water/mould resistant, 5-yr warranty)
 - **Reviews:** deluxdeco.co.uk — **5.0/5 Trustpilot (235 reviews). Excellent.** Professional service, highly praised delivery teams.
 
-**Pros:** Confirmed duplex galv = properly coastal-safe; smooth pressed-steel seat — clean and wipe-clean; armchair option for comfort; good discount off RRP; excellent retailer · **Cons:** 6–10 week lead time; weight unpublished; ⚠ order in July for Sept fit-out
+**Pros:** Confirmed duplex galv = properly coastal-safe; smooth pressed-steel seat — clean and wipe-clean; armchair option for comfort; good discount off RRP; excellent retailer · **Cons:** ⚠ 6–10 week lead time — order July for Sept fit-out; weight unpublished
 
 [deluxdeco.co.uk — Fox side chair](https://www.deluxdeco.co.uk/fox-chair.html) · [Fox armchair](https://www.deluxdeco.co.uk/fox-armchair.html)
 
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
 ---
+
+<a id="culip"></a>
 
 ### Kave Home — Culip · £179
 
@@ -255,7 +332,11 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 [kavehome.com — Culip](https://kavehome.com/gb/en/p/culip-aluminium-and-cord-stackable-outdoor-chair-in-grey)
 
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
 ---
+
+<a id="si-si"></a>
 
 ### SCAB Design — Si-Si 2503 ⭐ · £181
 
@@ -264,33 +345,41 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 *Note: photo shows a pale colourway — Anthracite (ZA) and Dove Grey (ZT) both confirmed available*
 
 - **Price:** £181/chair (sold in pairs)
-- **Size:** W50 × D55 × H81cm (CATAS-certified — confirmed spec)
+- **Size:** W50 × D55 × H81cm (CATAS-certified)
 - **Material:** **Duplex galvanised + powder-coated steel** — zinc under the paint → dark AND rustproof
-- **Colour:** **Anthracite (ZA)** and **Dove Grey (ZT)** both available — two genuine options · **Weight:** 8.7 kg (heaviest chair on this list) · **Arms:** No · **Stackable:** Yes · **Seat:** Pressed/curved steel sheet (wipe-clean)
+- **Colour:** **Anthracite (ZA)** and **Dove Grey (ZT)** both available · **Weight:** 8.7 kg (heaviest chair on this list) · **Arms:** No · **Stackable:** Yes · **Seat:** Pressed/curved steel sheet (wipe-clean)
 - **Reviews:** arredinitaly.com — positive Trustpilot (47 reviews — small sample; Chamber of Commerce registered; legitimate Italian retailer).
 
-**Pros:** **Heaviest chair on list at 8.7 kg** — best wind resistance of any non-teak option; duplex galv = dark AND coastal-safe; **dove grey is a genuine grey option**; Italian CATAS-certified · **Cons:** Small retailer (47 reviews); sold in pairs only; confirm UK delivery lead time
+**Pros:** **Heaviest chair at 8.7 kg** — best wind resistance of any non-teak option; duplex galv = dark AND coastal-safe; **dove grey is a genuine grey option**; Italian CATAS-certified · **Cons:** Small retailer (47 reviews); sold in pairs only; confirm UK delivery lead time
 
 [arredinitaly.com — SCAB Si-Si 2503](https://www.arredinitaly.com/gb/metal-chairs/13893-si-si-2503-chairs-scab-design.html)
 
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
 ---
+
+<a id="mogan"></a>
 
 ### Vermobil — Mogan · £185
 
 <img src="chair-images/mogan.jpg" width="100%">
 
-*Note: the right-hand chair in the photo has an optional seat cushion pad — the chair itself has a bare slatted metal seat*
+*The right-hand chair in the photo has an optional seat cushion pad — the chair itself has a bare slatted metal seat*
 
 - **Price:** £185/chair (RRP £247) · **Lead time: 6–10 weeks** (made to order)
 - **Material:** **Duplex galvanised steel** (same spec as Fox — galvanised + qualicoat powder coat)
 - **Colour:** Anthracite + other options (confirm with deluxdeco) · **Weight:** Unpublished · **Arms:** No · **Stackable:** Yes · **Seat:** Square-back horizontal slatted steel (drains)
 - **Reviews:** deluxdeco.co.uk — **5.0/5 Trustpilot (235 reviews). Excellent.**
 
-**Pros:** Clean square-back geometric design; good saving on RRP; confirmed duplex galv = coastal-safe; excellent retailer · **Cons:** 6–10 week lead time; weight unpublished; cushion in photo is optional (stored indoors)
+**Pros:** Clean square-back geometric design; good saving on RRP; confirmed duplex galv = coastal-safe; excellent retailer · **Cons:** ⚠ 6–10 week lead time — order July for Sept fit-out; weight unpublished
 
 [deluxdeco.co.uk — Vermobil Mogan](https://www.deluxdeco.co.uk/mogan-chair.html)
 
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
 ---
+
+<a id="joncols"></a>
 
 ### Kave Home — Joncols · £199
 
@@ -305,7 +394,11 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 [kavehome.com — Joncols](https://kavehome.com/gb/en/p/joncols-stackable-outdoor-chair-in-aluminium-with-grey-painted-finish)
 
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
 ---
+
+<a id="lyona"></a>
 
 ### La Redoute — Lyona ⭐ · £200
 
@@ -320,7 +413,11 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 [laredoute.co.uk — Lyona](https://www.laredoute.co.uk/ppdp/prod-350903799.aspx)
 
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
 ---
+
+<a id="alua"></a>
 
 ### HOUE — Alua ⭐ · ~£233 *(stretch)*
 
@@ -335,19 +432,27 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't ru
 
 [hollowaysofludlow.com — HOUE Alua](https://www.hollowaysofludlow.com/products/houe-alua-dining-chair)
 
----
-
-**Steer:** **Cafe Reality Bastille (£126)** or **Chazey (£114)** for lowest-cost coastal-safe aluminium. **SCAB Summer (£148)** is the duplex steel standout at the price — dark AND genuinely rustproof. **SCAB Si-Si (£181, 8.7 kg)** is the heaviest and has a dove grey option if you want grey. **Vermobil Fox (£167)** and **Mogan (£185)** are both confirmed duplex galv via the excellent deluxdeco.co.uk (5.0/5) — note the 6–10 week lead time. **HOUE Alua (£233)** via Holloways is the most architectural aluminium option.
-
-*Swyft Garden Dining Chair 01 (£140) — same aluminium-slat look, but olive/taupe only (no dark), sold out, and Swyft's table is fixed ~6–8 seats (no extending). Doesn't fit the brief.*
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
 
 ---
 
-# 3 · SOFAS & COMFY CHAIRS
+**Steer:** **Cafe Reality Bastille (£126)** or **Chazey (£114)** for lowest-cost coastal-safe aluminium. **SCAB Summer (£148)** is the duplex steel standout at the price. **SCAB Si-Si (£181, 8.7 kg)** is the heaviest and has a dove grey option. **Vermobil Fox (£167/177)** and **Mogan (£185)** both confirmed duplex galv via deluxdeco 5.0/5 — note the 6–10 week lead time. **HOUE Alua (£233)** via Holloways for the most architectural aluminium option.
+
+*Swyft Garden Dining Chair 01 (£140) — same aluminium-slat look, but olive/taupe only (no dark), sold out, and Swyft's table is fixed ~6–8 seats. Doesn't fit the brief.*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
+<a id="sofas"></a>
+
+# 3 · Sofas & Comfy Chairs
 
 Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed · ✅ pieces combine into a daybed · ◐ reconfigures (L/R, splits) but not flat.
 
 ---
+
+<a id="sherborne"></a>
 
 ### Sherborne — Teak Corner · £1,499 (value classic)
 
@@ -361,7 +466,11 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 
 [gardenbenches.com — Sherborne Teak Corner](https://www.gardenbenches.com/wooden-garden-corner-sofa-sets)
 
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
 ---
+
+<a id="luxus-amalfi"></a>
 
 ### Luxus — Amalfi Corner Teak ⭐ · £1,941
 
@@ -375,7 +484,11 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 
 [luxushomeandgarden.com — Amalfi Corner](https://www.luxushomeandgarden.com/products/amalfi-corner-teak-sofa-and-table-set)
 
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
 ---
+
+<a id="maze-eve"></a>
 
 ### Maze — Eve Corner ⭐ · £1,985 (value, dark frame)
 
@@ -385,39 +498,51 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 - **Material:** Slim charcoal aluminium frame; fabric cushions (store indoors) · **Modularity:** ◐ — arms convert to side tables
 - **Reviews:** mazeliving.co.uk — **~9,600 Trustpilot reviews, mixed.** Same caveat as the Maxim table: delivery delays reported, coating issues on some lines. Confirm the Eve sofa specifically before ordering; inspect on delivery.
 
-**Pros:** Dark charcoal aluminium ties to the palette; modern low profile; in stock; arms convert to side tables · **Cons:** Not a flat daybed; mixed reviews (confirm availability before ordering)
+**Pros:** Dark charcoal aluminium ties to the palette; modern low profile; arms convert to side tables · **Cons:** Not a flat daybed; mixed reviews
 
 [outdoorluxeonline.com — Maze Eve](https://outdoorluxeonline.com/products/maze-outdoor-fabric-eve-corner-group-charcoa)
 
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
 ---
 
-### 4 Seasons Outdoor — Piacenza ⭐ · £2,499 (mid-price)
+<a id="piacenza"></a>
+
+### 4 Seasons Outdoor — Piacenza ⭐ · £2,499
 
 <img src="https://themodernfurniturecompany.com/cdn/shop/files/IMG_8901_d8d81aae-de57-4923-9eda-0e3dd9efd278.jpg" width="100%">
 
 - **Price:** £2,499
 - **Material:** Dark aluminium frame + rope detailing; light cushions (store indoors) · **Modularity:** ✅ — rounded chaise end
-- **Reviews:** 4 Seasons Outdoor brand — **Trustpilot: 121 reviews, positive with caveats.** One long-term customer reports furniture in top condition after 8 years. Some quality concerns at purchase (small cracks, loosening paint). themodernfurniturecompany.com as retailer: limited independent data; one stock-availability complaint reported.
+- **Reviews:** 4 Seasons Outdoor brand — **Trustpilot: 121 reviews, positive with caveats.** One long-term customer reports furniture in top condition after 8 years. Some quality concerns at purchase. themodernfurniturecompany.com as retailer: limited independent data.
 
 **Pros:** Dark aluminium ties to palette; rounded chaise; reputable brand; cushions storable · **Cons:** Limited retailer review data; not a flat daybed
 
 [themodernfurniturecompany.com — 4 Seasons Piacenza](https://themodernfurniturecompany.com/collections/outdoor-sofas)
 
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
 ---
 
-### Teakunique — Maluku II Modular ⭐ · from £825/module, ~£2,500–£3,500 full set (best for a daybed)
+<a id="maluku"></a>
+
+### Teakunique — Maluku II Modular ⭐ · from £825/module (~£2,500–£3,500 full set)
 
 <img src="https://teakunique.co.uk/cdn/shop/products/Teak_Maluku_Modular_Corner_Sofa_Section.jpg?v=1772195253&width=1445" width="100%">
 
 - **Price:** £825/corner module; full corner set ≈ £2,500–£3,500
 - **Material:** Solid teak · **Modularity:** ✅✅ — ottomans push together into a true flat daybed
-- **Reviews:** teakunique.co.uk — ⚠ **no Trustpilot listing found.** Reviews are self-hosted only; no independent verification. Small UK family firm; strong self-stated 10-year warranty; "Grade A teak" is self-asserted. Order a sample before committing.
+- **Reviews:** teakunique.co.uk — ⚠ **no Trustpilot listing found.** Reviews are self-hosted only; no independent verification. Small UK family firm; self-stated 10-year warranty. Order a sample before committing.
 
 **Pros:** Best daybed option on the list; solid teak = coastal-proof; modular — scale to budget · **Cons:** ⚠ No independent review base — verify teak quality with a sample first
 
 [teakunique.co.uk — Maluku II](https://teakunique.co.uk/products/maluku-modular-sofa-corner-section)
 
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
 ---
+
+<a id="tribu-mood"></a>
 
 ### Tribu — Mood · £2,560 (premium teak)
 
@@ -425,15 +550,19 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 
 - **Price:** £2,560
 - **Material:** A-grade teak frame + woven Tricord · **Modularity:** ◐
-- **Reviews:** gomodern.co.uk — **43 Trustpilot reviews, generally positive.** Small boutique retailer; praised for knowledgeable service and expert assembly. Tribu is Belgian premium brand with a strong reputation in the trade.
+- **Reviews:** gomodern.co.uk — **43 Trustpilot reviews, generally positive.** Small boutique retailer; praised for knowledgeable service. Tribu is Belgian premium brand, well-regarded in the trade.
 
-**Pros:** Premium Belgian design; low minimalist profile; teak + Tricord cord combination is elegant and coastal-durable · **Cons:** Premium price; boutique retailer (small review sample); cord weave seat is fixed (confirm it drains)
+**Pros:** Premium Belgian design; low minimalist profile; teak + Tricord is elegant and coastal-durable · **Cons:** Premium price; boutique retailer (small review sample)
 
 [gomodern.co.uk — Tribu Mood](https://www.gomodern.co.uk/tribu-mood-garden-sofa.html)
 
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
 ---
 
-### 4 Seasons Outdoor — Alicante · £2,699 (sofa + chairs + stools)
+<a id="alicante"></a>
+
+### 4 Seasons Outdoor — Alicante · £2,699
 
 <img src="https://themodernfurniturecompany.com/cdn/shop/files/Alicante_lounge_with_Footstool_and_Monroe_coffee_table_Terre_2.jpg" width="100%">
 
@@ -445,7 +574,11 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 
 [themodernfurniturecompany.com — 4 Seasons Alicante](https://themodernfurniturecompany.com/collections/outdoor-sofas)
 
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
 ---
+
+<a id="cane-line-space"></a>
 
 ### Cane-line — Space · ~£4,470/module *(reference — the aspiration look)*
 
@@ -453,24 +586,35 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 
 - **Price:** ~£4,470/module (a full set is well over budget)
 - **Material:** Slim dark aluminium base + integrated teak table + light cushions
-- **Reviews:** worm.co.uk — reputable UK design retailer; not independently checked on Trustpilot. Cane-line is a well-established Danish premium brand.
+- **Reviews:** worm.co.uk — reputable UK design retailer. Cane-line is a well-established Danish premium brand.
 
-**Pros:** Very low modern modular daybed; dark/teak palette match is perfect; the look to aim for · **Cons:** Well over budget — reference only; Piacenza and Maluku achieve a similar low-modular look for far less
+**Pros:** Very low modern modular daybed; dark/teak palette match is perfect; the look to aim for · **Cons:** Well over budget — reference only; Piacenza and Maluku achieve a similar look for far less
 
 [worm.co.uk — Cane-line Space](https://www.worm.co.uk/products/space-daybed-module-with-teak-table-left)
 
-*More options (not pictured):* Fast Aikana aluminium daybed (£3,330, Go Modern) · Heal's Eos modular (£1,808) · Skagerak Tradition teak modular (~£1,865/module) · Emu Tami matt-black aluminium (£3,170).
+*More options (not pictured):* Fast Aikana aluminium daybed (£3,330) · Heal's Eos modular (£1,808) · Skagerak Tradition teak modular (~£1,865/module) · Emu Tami matt-black aluminium (£3,170).
+
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
 
 ---
 
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
+<a id="checklist"></a>
+
 ## Timing & checklist
+
 - **Buy in the Aug–Sept clearance** (fit-out completes late Sept 2026) — best discounts on aluminium/rope sets; teak specialists barely move seasonally.
 - [ ] Confirm the table's **top is non-porous** (ceramic/HPL/aluminium) and its **largest size seats 10–12**.
 - [ ] **⚠ Bramblecrest Sofia extending dimensions** — confirm exact cm before ordering (not published online).
 - [ ] Confirm sofa cushions are **Olefin/Sunbrella + quick-dry foam**; frames have a slatted base so they look right with cushions off.
 - [ ] **Ballast/anchor** big pieces + the aluminium table against wind (no roof penetration — coordinate with Ronan).
 - [ ] Order **samples** before committing.
-- [ ] For Vermobil Fox/Mogan: **6–10 week lead time** — order in time for Sept 2026 fit-out.
+- [ ] **⚠ Vermobil Fox/Mogan: 6–10 week lead time** — order July 2026 to arrive for Sept fit-out.
 - [ ] For SCAB Si-Si: confirm UK delivery lead time with arredinitaly.com.
 - [ ] For Teakunique: order a teak sample before committing (no independent Trustpilot reviews).
 - [ ] For Kave Home chairs (Zaltana/Culip/Joncols): confirm stock availability + delivery lead time upfront.
+
+[↑ Top](#top) · [↑ Contents](#contents)
