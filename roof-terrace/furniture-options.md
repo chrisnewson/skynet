@@ -45,7 +45,8 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 <img src="https://www.juliajones.co.uk/images/products/standard/2120.jpg" width="100%">
 
-- **Price:** £1,439 table-only; extends 210→280cm (~10 seats)
+- **Price:** £1,439 table-only
+- **Size:** 210×100cm → **280×100cm** (extends, ~10 seats) · H76cm
 - **Material:** Powder-coated aluminium frame + slatted aluminium top
 - **Colour:** Anthracite (dark)
 - **Weight:** ~54 kg (unusually heavy for aluminium)
@@ -69,12 +70,13 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 <img src="artists-impressions/mobellia%20amalfi.webp" width="100%">
 
 - **Price:** 10-seat £599 · 12-seat £799
+- **Size:** 10-seat 200→**260**×96cm · 12-seat 240→**300**×96cm · H75cm
 - **Material:** Aluminium A-frame; **cemented composite top** (non-porous, wipe-clean — confirmed from Mobellia's site)
 - **Colour:** White or anthracite frame
 - **Reviews:** mobellia.com — not independently verified on Trustpilot; online-only retailer; check returns policy before ordering.
 
 **Pros:**
-- Lowest price; tool-free extension; modern A-frame look
+- Lowest price by far; tool-free extension; modern A-frame look
 - Composite top is seagull-proof (non-porous)
 
 **Cons:**
@@ -91,19 +93,22 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 <img src="https://www.mazeliving.co.uk/uploads/product_images/43558-fb-dn-max-12ex-ss-st-1-large.jpg" width="100%">
 
-- **Price:** £1,999 table-only; extends 8→12 seats
+- **Price:** £1,999 table-only
+- **Size:** 280×100cm → **340×100cm** → **400×100cm** (three-step extension, 8→10→12 seats) · H77.5cm
+- **Colour:** Charcoal or Latte (sintered-stone top)
 - **Material:** Aluminium frame + sintered-stone top
-- **Colour:** Charcoal (dark)
 - **Reviews:** mazeliving.co.uk — **~9,600 Trustpilot reviews, mixed.** Headline positive but a real tail of complaints: delivery delays (months), rattan/coating issues on older ranges. Specifically for the Maxim: known delivery-damage risk on stone edges. Confirm stone top is covered in warranty; inspect carefully on arrival.
 
 **Pros:**
 - Sintered stone = toughest, most stain-proof surface going; seagull-proof
 - Heavy stone top = the most wind-stable table on this list
+- Three-step extension: 280, 340, or 400cm — genuinely seats 12
 - Sold **table-only** — pick any chairs you like
 
 **Cons:**
 - Known delivery-damage risk on stone edges (chip in transit) — inspect on arrival
 - Narrow warranty (structural + rust only; 48-hr defect window) — confirm stone top is covered in writing
+- 400cm is a very long run — check it fits the dining zone (FA2 = 5.75m)
 
 [mazeliving.co.uk — Maze Maxim](https://www.mazeliving.co.uk/product/maze-maxim-extending-aluminium-dining-table)
 
@@ -114,6 +119,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 <img src="https://crownhillgarden.com/wp-content/uploads/2026/01/X26SOAD07_PRIMARY_V1.jpg" width="100%">
 
 - **Price:** £1,799 for table + 10 chairs
+- **Size:** Extending X-leg table; standard Sofia tables run 165–200×95cm (6–8 seats); 10-seat extending version — ⚠ **exact extended dimensions not published online; confirm with Crownhill or Bramblecrest before ordering**
 - **Material:** Aluminium X-leg frame + dark anthracite ceramic top
 - **Colour:** Anthracite
 - **Reviews:** Bramblecrest brand — **4.5/5 Trustpilot (4,600+ reviews), 5-year structural guarantee.** One of the better-reviewed brands here. Strong customer service.
@@ -125,6 +131,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 **Cons:**
 - Sold as a set only (not table-only)
+- ⚠ Exact extended dimensions not published — **confirm before ordering**
 
 [crownhillgarden.com — Bramblecrest Sofia](https://crownhillgarden.com/product/bramblecrest-sofia-aluminium-10-seat-patio-set-with-x-leg-extending-table-and-10-chairs-in-anthracite/)
 
@@ -136,22 +143,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 # 2 · DINING CHAIRS
 
-Metal, not wood. All entries sorted by price, cheapest first. Aluminium = won't rust; managed by the **wind plan** (tuck under the heavy stone table + bring in for storms). Steel options are heavier and appear further up the price range. *(Silver = bare hot-dip galvanised; dark = powder-coated. Dark steel = duplex galvanised or marine aluminium.)*
-
----
-
-### Sklum — Archer · £89
-
-<img src="chair-images/archer.jpg" width="100%">
-
-- **Price:** £89/chair
-- **Material:** Powder-coated marine aluminium
-- **Colour:** Anthracite · **Weight:** ~4–6 kg (unpublished) · **Arms:** Yes · **Stackable:** Yes · **Seat:** Mesh (drains)
-- **Reviews:** sklum.com — **Trustpilot: mixed** (268,000+ reviews). Good product feedback but recurring complaints about slow UK delivery, missing parts, no UK warehouse. Low financial risk at £89 but check delivery lead time before ordering.
-
-**Pros:** Best value by price; arms included; mesh seat drains · **Cons:** Delivery risk (no UK warehouse); weight unpublished; lighter finish than Bastille
-
-[sklum.com — Archer](https://www.sklum.com/uk/buy-garden-chairs/103265-aluminium-stackable-garden-chair-archer.html)
+Metal, not wood. All entries sorted by price, cheapest first. Aluminium won't rust. Steel needs to be **duplex galvanised** (galv then powder-coat — zinc under the colour, survives chips) or **316 stainless**. Managed by the **wind plan**: chairs tuck under the heavy stone table + come in for storms. All seats are bare metal — wipe-clean, drain, no fixed cushions.
 
 ---
 
@@ -162,9 +154,9 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium = won't 
 - **Price:** £114/chair
 - **Material:** Powder-coated marine aluminium
 - **Colour:** Black / charcoal · **Weight:** ~4–6 kg (unpublished) · **Arms:** No · **Stackable:** Yes · **Seat:** Slatted (drains)
-- **Reviews:** cafereality.co.uk — **no independent Trustpilot listing found**; reviews are self-hosted on their site. Established UK contract/hospitality furniture supplier serving cafés and restaurants — a legitimate professional trade channel; recent reviews describe 56-chair café orders as "fabulous." No red flags, but no independent verification.
+- **Reviews:** cafereality.co.uk — **no independent Trustpilot listing found**; reviews self-hosted. Established UK contract/hospitality supplier serving cafés and restaurants. No red flags.
 
-**Pros:** Cheapest coastal-safe chair here; clean dark slat look; stackable; aluminium won't rust · **Cons:** No independent review verification; light (wind plan applies)
+**Pros:** Cheapest coastal-safe chair here; clean dark slat look; stackable · **Cons:** No independent review verification; light (wind plan applies)
 
 [cafereality.co.uk — Chazey](https://www.cafereality.co.uk/prod/chazey-outdoor-aluminium-side-chairs)
 
@@ -179,7 +171,7 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium = won't 
 - **Colour:** Charcoal · **Weight:** ~4–6 kg (unpublished) · **Arms:** No · **Stackable:** Yes · **Seat:** Vertical slat (drains)
 - **Reviews:** cafereality.co.uk — same as Chazey above; established UK contract supplier, no independent Trustpilot listing.
 
-**Pros:** Contemporary vertical-slat look — clean and modern; contract-grade build; coastal-safe aluminium · **Cons:** No independent review base; light (wind plan applies); weight unpublished
+**Pros:** Contemporary vertical-slat look — clean and modern; contract-grade; coastal-safe · **Cons:** No independent review base; light (wind plan applies)
 
 [cafereality.co.uk — Bastille](https://www.cafereality.co.uk/prod/bastille-outdoor-aluminium-side-chair)
 
@@ -191,27 +183,30 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium = won't 
 
 - **Price:** £145/chair
 - **Material:** Powder-coated marine aluminium
-- **Colour:** Anthracite · **Weight:** Unpublished (email to confirm) · **Arms:** Yes · **Stackable:** Yes · **Seat:** Textilene mesh sling (drains; no cushion)
-- **Reviews:** kavehome.com — **Trustpilot: ~41,000 reviews, polarized.** Many 5-star but a recurring cluster of complaints about slow delivery and wrong products. Confirm stock availability and lead time before ordering.
+- **Colour:** Anthracite (dark) · **Weight:** Unpublished · **Arms:** Yes · **Stackable:** Yes · **Seat:** Textilene mesh sling (drains; no cushion)
+- **Reviews:** kavehome.com — **Trustpilot: ~41,000 reviews, polarized.** Many 5-star but recurring delivery complaints. Confirm stock and lead time before ordering.
 
-**Pros:** Best value with arms + contemporary look; textilene sling drains and wipes clean; stackable · **Cons:** Weight unpublished; delivery complaints; light (wind plan applies)
+**Pros:** Best value with arms + contemporary look; textilene sling drains; stackable · **Cons:** Weight unpublished; delivery complaints; light (wind plan applies)
 
 [kavehome.com — Zaltana](https://kavehome.com/gb/en/p/zaltana-stackable-outdoor-chair-in-aluminium-with-a-matt-dark-grey-painted-finish)
 
 ---
 
-### La Redoute — Zory · £155
+### SCAB Design — Summer ⭐ · £148
 
-<img src="chair-images/zory.jpg" width="100%">
+<img src="chair-images/summer.jpg" width="100%">
 
-- **Price:** £155/chair (set of 2 = £309.99)
-- **Material:** Powder-coated marine aluminium
-- **Colour:** Black · **Weight:** 2.2 kg (published) · **Arms:** No · **Stackable:** Yes · **Seat:** Textilene sling (drains)
-- **Reviews:** laredoute.co.uk — **Trustpilot: large established French retailer; mixed reviews.** Evri delivery complaints and returns difficulties reported. For small items like chairs the delivery risk is lower than for large furniture. Pay by card for protection.
+*Note: photo shows the chair in dark anthracite/graphite*
 
-**Pros:** Minimal black textilene sling; stackable; clean and contemporary · **Cons:** ⚠ **Lightest on the list at 2.2 kg** — wind plan is critical; delivery complaints; sold in pairs
+- **Price:** ~£148/chair
+- **Size:** W50 × D57 × H84cm (estimated — confirm with tecnoarredo3)
+- **Material:** **Duplex galvanised + powder-coated steel** — zinc under the colour → dark AND rustproof at the coast
+- **Colour:** Dark anthracite confirmed; multiple finishes available — ask tecnoarredo3 for current colour chart · **Weight:** Unpublished · **Arms:** No · **Stackable:** Yes · **Seat:** Horizontal wire-rod grid (drains perfectly, nothing pools)
+- **Reviews:** tecnoarredo3.co.uk — **4.7/5 Trustpilot (224 reviews). Excellent.** 88% 5-star; legitimate Italian retailer; responsive customer service.
 
-[laredoute.co.uk — Zory](https://www.laredoute.co.uk/ppdp/prod-351331322.aspx)
+**Pros:** Duplex galv = dark AND coastal-safe (zinc survives chips); horizontal wire-rod drains perfectly; affordable at £148; best-reviewed steel-chair retailer on this list · **Cons:** More open/industrial look than the pressed-steel options; weight unpublished
+
+[tecnoarredo3.co.uk — SCAB Summer](https://www.tecnoarredo3.co.uk/summer-chair-scab)
 
 ---
 
@@ -219,12 +214,15 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium = won't 
 
 <img src="chair-images/fox.jpg" width="100%">
 
-- **Price:** £167/chair
-- **Material:** Galvanised steel + thermosetting powder coat (confirm duplex spec with supplier)
-- **Colour:** Anthracite · **Weight:** Unpublished · **Arms:** No · **Stackable:** Yes · **Seat:** Smooth pressed steel pan (wipe-clean)
-- **Reviews:** deluxdeco.co.uk — **5.0/5 Trustpilot (235 reviews). Excellent.** Professional service, high-quality furniture; delivery teams praised. Best-reviewed retailer of any steel chair on this list.
+*Note: photo shows Grey Mud FA (olive/sage) colorway — also available in Black (NE) and Ancient Grey (AG)*
 
-**Pros:** Under budget at £167; contemporary clean lines; galvanised steel; excellent retailer · **Cons:** Weight unpublished; ⚠ confirm duplex (galv-then-powder) in writing before treating as fully coastal-safe
+- **Price:** £167/chair (RRP £222) · **Lead time: 6–10 weeks** (made to order)
+- **Size:** W45 × D53 × H81cm
+- **Material:** **Duplex galvanised steel** (galvanised then qualicoat powder-coated) — confirmed coastal-safe
+- **Colour:** 7 options: **Black NE** · **Grey Mud FA** (olive/sage — shown) · **Ancient Grey AG** · Ivory White · Matt White · Bronzo · Beige · **Weight:** Unpublished · **Arms:** No · **Stackable:** Yes · **Seat:** Smooth pressed steel shell (wipe-clean)
+- **Reviews:** deluxdeco.co.uk — **5.0/5 Trustpilot (235 reviews). Excellent.** Professional service, highly praised delivery teams.
+
+**Pros:** Confirmed duplex galv = properly coastal-safe; smooth pressed-steel seat — clean and wipe-clean; good discount off RRP; excellent retailer · **Cons:** 6–10 week lead time; weight unpublished; optional seat cushion (stored indoors)
 
 [deluxdeco.co.uk — Vermobil Fox](https://www.deluxdeco.co.uk/fox-chair.html)
 
@@ -249,14 +247,15 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium = won't 
 
 <img src="chair-images/sisi.jpg" width="100%">
 
-*Note: photo shows a pale colourway — Anthracite (Antracite Opaco) is confirmed available*
+*Note: photo shows a pale colourway — Anthracite (ZA) and Dove Grey (ZT) both confirmed available*
 
 - **Price:** £181/chair (sold in pairs)
+- **Size:** W50 × D55 × H81cm (CATAS-certified — confirmed spec)
 - **Material:** **Duplex galvanised + powder-coated steel** — zinc under the paint → dark AND rustproof
-- **Colour:** Anthracite confirmed · **Weight:** 8.7 kg (the heaviest chair on this list) · **Arms:** No · **Stackable:** Yes · **Seat:** Pressed/curved steel sheet (wipe-clean)
-- **Reviews:** arredinitaly.com — **positive Trustpilot reviews** (47 reviews — small sample, but Chamber of Commerce registered; SSL-secured; legitimate Italian retailer). Pay by card for protection; confirm UK delivery lead time.
+- **Colour:** **Anthracite (ZA)** and **Dove Grey (ZT)** both available — two genuine options · **Weight:** 8.7 kg (heaviest chair on this list) · **Arms:** No · **Stackable:** Yes · **Seat:** Pressed/curved steel sheet (wipe-clean)
+- **Reviews:** arredinitaly.com — positive Trustpilot (47 reviews — small sample; Chamber of Commerce registered; legitimate Italian retailer).
 
-**Pros:** **Heaviest chair on the list at 8.7 kg** — best wind resistance of any non-teak option; duplex galv = dark AND coastal-safe; Italian CATAS-certified · **Cons:** Small retailer (47 reviews); European supplier — confirm UK delivery before ordering
+**Pros:** **Heaviest chair on list at 8.7 kg** — best wind resistance of any non-teak option; duplex galv = dark AND coastal-safe; **dove grey is a genuine grey option**; Italian CATAS-certified · **Cons:** Small retailer (47 reviews); sold in pairs only; confirm UK delivery lead time
 
 [arredinitaly.com — SCAB Si-Si 2503](https://www.arredinitaly.com/gb/metal-chairs/13893-si-si-2503-chairs-scab-design.html)
 
@@ -266,12 +265,14 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium = won't 
 
 <img src="chair-images/mogan.jpg" width="100%">
 
-- **Price:** £185/chair (RRP £247)
-- **Material:** Galvanised steel + powder coat (confirm duplex with supplier)
-- **Colour:** Anthracite · **Weight:** Unpublished · **Arms:** No · **Stackable:** Yes · **Seat:** Square-back horizontal slatted steel (drains)
-- **Reviews:** deluxdeco.co.uk — **5.0/5 Trustpilot (235 reviews). Excellent.** Same highly-rated retailer as the Fox.
+*Note: the right-hand chair in the photo has an optional seat cushion pad — the chair itself has a bare slatted metal seat*
 
-**Pros:** Clean square-back geometric design; good saving on RRP; galvanised; excellent retailer · **Cons:** Weight unpublished; ⚠ confirm duplex spec in writing
+- **Price:** £185/chair (RRP £247) · **Lead time: 6–10 weeks** (made to order)
+- **Material:** **Duplex galvanised steel** (same spec as Fox — galvanised + qualicoat powder coat)
+- **Colour:** Anthracite + other options (confirm with deluxdeco) · **Weight:** Unpublished · **Arms:** No · **Stackable:** Yes · **Seat:** Square-back horizontal slatted steel (drains)
+- **Reviews:** deluxdeco.co.uk — **5.0/5 Trustpilot (235 reviews). Excellent.**
+
+**Pros:** Clean square-back geometric design; good saving on RRP; confirmed duplex galv = coastal-safe; excellent retailer · **Cons:** 6–10 week lead time; weight unpublished; cushion in photo is optional (stored indoors)
 
 [deluxdeco.co.uk — Vermobil Mogan](https://www.deluxdeco.co.uk/mogan-chair.html)
 
@@ -286,7 +287,7 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium = won't 
 - **Colour:** Black · **Weight:** Unpublished · **Arms:** Yes · **Stackable:** Yes · **Seat:** Horizontal flat-slat back + slatted seat (drains)
 - **Reviews:** kavehome.com — same as above; mixed Trustpilot, delivery concerns.
 
-**Pros:** Clean architectural horizontal slat look; arms; stackable · **Cons:** Top of budget; weight unpublished; delivery complaints
+**Pros:** Clean architectural horizontal slat look; arms; stackable · **Cons:** Top of under-£200 range; weight unpublished; delivery complaints
 
 [kavehome.com — Joncols](https://kavehome.com/gb/en/p/joncols-stackable-outdoor-chair-in-aluminium-with-grey-painted-finish)
 
@@ -299,26 +300,11 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium = won't 
 - **Price:** £200/chair (set of 2 = £399.99; ~£130 spotted at Made/Next — worth checking)
 - **Material:** Powder-coated marine aluminium
 - **Colour:** Matte black · **Weight:** 3.9 kg (published) · **Arms:** No · **Stackable:** Yes · **Seat:** Perforated mesh back + slatted seat (drains)
-- **Reviews:** laredoute.co.uk — same as Zory above; mixed Trustpilot, delivery/returns concerns. Buy in a set of 2 reduces delivery risk relative to multiple orders.
+- **Reviews:** laredoute.co.uk — mixed Trustpilot; delivery/returns concerns. Buy in a set of 2; pay by card.
 
-**Pros:** The most design-shop clean look here; slim tapered legs; published weight; stackable · **Cons:** At the top of budget; 3.9 kg = lightest aluminium (wind plan critical); delivery concerns
+**Pros:** The most design-shop clean look here; slim tapered legs; published weight; stackable · **Cons:** 3.9 kg = lightest aluminium chair on the list (wind plan critical); delivery concerns; sold in pairs
 
 [laredoute.co.uk — Lyona](https://www.laredoute.co.uk/ppdp/prod-350903799.aspx)
-
----
-
-### HAY — X-Line Chair · ~£226 *(stretch)*
-
-<img src="chair-images/xline.jpg" width="100%">
-
-- **Price:** ~£226/chair (stretch)
-- **Material:** Hot-dip galvanised steel frame (silver) + powder-coated perforated steel seat/back panel
-- **Colour:** Silver galvanised frame + **black** panel · **Weight:** ~4–5 kg (unpublished; slim wire) · **Arms:** No · **Stackable:** Yes (×10) · **Seat:** Perforated steel panel (drains)
-- **Reviews:** **Holloways of Ludlow — 4.9/5 Trustpilot (500+ reviews). Excellent.** *(Note: previously linked to royaldesign.co.uk which has 3.1/5 "Average" on Trustpilot with delivery and damage complaints — now linked to Holloways, one of the best-reviewed retailers on this list.)*
-
-**Pros:** Design classic (1977) — genuinely architectural, not café/Tolix; true hot-dip galvanised frame; stacks ×10; iconic · **Cons:** Over budget at ~£226 (stretch); frame is silver (not dark) — black panel adds contrast
-
-[hollowaysofludlow.com — HAY X-Line Chair](https://www.hollowaysofludlow.com/products/hay-x-line-chair)
 
 ---
 
@@ -328,73 +314,16 @@ Metal, not wood. All entries sorted by price, cheapest first. Aluminium = won't 
 
 - **Price:** ~£233/chair (stretch)
 - **Material:** Powder-coated marine aluminium
-- **Colour:** Black (+ 5 other colours) · **Weight:** 4.8 kg (published) · **Arms:** No · **Stackable:** Yes (up to 10) · **Seat:** Curved slatted seat + back (drains)
-- **Reviews:** **Holloways of Ludlow — 4.9/5 Trustpilot (500+ reviews). Excellent.** Holloways is the best-reviewed stockist on this list; reliable delivery and strong after-sales.
+- **Colour:** Black (+ muted white, olive green, beige, cayenne red, ice blue) — **no grey available** · **Weight:** 4.8 kg (published) · **Arms:** No · **Stackable:** Yes (up to 10) · **Seat:** Curved slatted seat + back (drains)
+- **Reviews:** Holloways of Ludlow — **4.9/5 Trustpilot (500+ reviews). Excellent.**
 
-**Pros:** The most refined / architectural aluminium chair here — Danish design; published weight; stacks 10 high · **Cons:** Over budget at ~£233 (stretch)
+**Pros:** Most refined / architectural aluminium chair here; published weight; stacks 10 high; Danish design; 5-year warranty · **Cons:** Over budget at ~£233 (stretch); no grey colourway available
 
 [hollowaysofludlow.com — HOUE Alua](https://www.hollowaysofludlow.com/products/houe-alua-dining-chair)
 
 ---
 
-### Muuto — Linear Steel side chair ⭐ · ~£259 *(stretch)*
-
-<img src="chair-images/muuto-linear.jpg" width="100%">
-
-- **Price:** ~£259/chair (stretch)
-- **Material:** **Duplex galvanised + powder-coated steel** — zinc under the colour → dark AND rustproof
-- **Colour:** Anthracite Black (also dark green, dark grey) · **Weight:** ~7.5 kg · **Arms:** No · **Stackable:** Yes (×5) · **Seat:** Bare slatted steel (drains)
-- **Reviews:** nest.co.uk — **4.0/5 Trustpilot ("Great", ~179 reviews).** Small independent design retailer; good customer service feedback. Some occasional delivery delay complaints but generally well-regarded.
-
-**Pros:** Genuinely dark + genuinely coastal-safe (duplex); 7.5 kg — good wind resistance; minimalist Scandinavian design · **Cons:** Over budget at ~£259; made-to-order ~5 weeks lead time
-
-[nest.co.uk — Muuto Linear Steel](https://www.nest.co.uk/product/muuto-outdoor-linear-steel-side-chair)
-
----
-
-## Steel — reference only (premium / clearly over budget)
-
-*These are flagged for awareness, not as primary recommendations.*
-
-### SCAB Design — Summer · ~£148
-
-<img src="chair-images/summer.jpg" width="100%">
-
-- **Price:** ~£148/chair · **Material:** Duplex galvanised + powder-coated steel (horizontal wire-rod) · **Weight:** Unpublished
-- **Reviews:** tecnoarredo3.co.uk — **4.7/5 Trustpilot (224 reviews). Excellent.** 88% 5-star; legitimate Italian retailer with responsive customer service.
-
-**Pros:** Duplex galv (dark AND coastal-safe); affordable; clean wire-rod look; excellent retailer · **Cons:** Wire-rod form is more industrial than Si-Si/Vermobil — check it suits
-
-[tecnoarredo3.co.uk — SCAB Summer](https://www.tecnoarredo3.co.uk/summer-chair-scab)
-
----
-
-### B-Line — Park · ~£455 *(reference)*
-
-<img src="chair-images/park.jpg" width="100%">
-
-- **Price:** ~£455 · **Material:** Duplex galvanised steel; wire sled base
-
-**Pros:** Duplex galv; iconic sled-base wire design · **Cons:** Well over budget — reference only
-
----
-
-### Cane-line — Straw · ~£600 *(reference)*
-
-<img src="chair-images/straw.jpg" width="100%">
-
-- **Price:** ~£600 · **Material:** Stainless steel legs + cord seat (confirm stainless grade — ask UK stockist for 316 in writing)
-
-**Pros:** Elegant cord + stainless; the aspiration look · **Cons:** Well over budget; stainless grade unconfirmed
-
----
-
-## Premium aluminium — reference only
-- **Cane-line Lean** (£375–490, **6.45 kg**, black weave + aluminium — lovely, heaviest aluminium chair found, but ~£4–6k for 10–12)
-- **Pedrali Intrigo** (~£250, 5.5 kg, anthracite die-cast aluminium)
-- **Fermob Bellevie** (£695, 19.5 kg — the only dark + genuinely heavy + aluminium; priced out at scale)
-
-**Steer:** for value go **Cafe Reality Bastille (£126)** or **Chazey (£114)**. For dark + heavy + coastal-safe steel go **SCAB Si-Si (£181, 8.7 kg)**. For a design icon: **HAY X-Line (~£226, via Holloways)** or **HOUE Alua (~£233, via Holloways)**. For the stretch: **Muuto Linear Steel (£259, 7.5 kg)** — dark + duplex + contemporary.
+**Steer:** **Cafe Reality Bastille (£126)** or **Chazey (£114)** for lowest-cost coastal-safe aluminium. **SCAB Summer (£148)** is the duplex steel standout at the price — dark AND genuinely rustproof. **SCAB Si-Si (£181, 8.7 kg)** is the heaviest and has a dove grey option if you want grey. **Vermobil Fox (£167)** and **Mogan (£185)** are both confirmed duplex galv via the excellent deluxdeco.co.uk (5.0/5) — note the 6–10 week lead time. **HOUE Alua (£233)** via Holloways is the most architectural aluminium option.
 
 *Swyft Garden Dining Chair 01 (£140) — same aluminium-slat look, but olive/taupe only (no dark), sold out, and Swyft's table is fixed ~6–8 seats (no extending). Doesn't fit the brief.*
 
@@ -523,10 +452,11 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 ## Timing & checklist
 - **Buy in the Aug–Sept clearance** (fit-out completes late Sept 2026) — best discounts on aluminium/rope sets; teak specialists barely move seasonally.
 - [ ] Confirm the table's **top is non-porous** (ceramic/HPL/aluminium) and its **largest size seats 10–12**.
+- [ ] **⚠ Bramblecrest Sofia extending dimensions** — confirm exact cm before ordering (not published online).
 - [ ] Confirm sofa cushions are **Olefin/Sunbrella + quick-dry foam**; frames have a slatted base so they look right with cushions off.
 - [ ] **Ballast/anchor** big pieces + the aluminium table against wind (no roof penetration — coordinate with Ronan).
 - [ ] Order **samples** before committing.
-- [ ] For Vermobil Fox/Mogan: **confirm duplex galvanising in writing** with deluxdeco/Vermobil before ordering.
+- [ ] For Vermobil Fox/Mogan: **6–10 week lead time** — order in time for Sept 2026 fit-out.
 - [ ] For SCAB Si-Si: confirm UK delivery lead time with arredinitaly.com.
 - [ ] For Teakunique: order a teak sample before committing (no independent Trustpilot reviews).
 - [ ] For Kave Home chairs (Zaltana/Culip/Joncols): confirm stock availability + delivery lead time upfront.
