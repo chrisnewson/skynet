@@ -57,17 +57,19 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 <a id="looks"></a>
 
-## How it looks — front-runner pairings
+## How it looks — the two routes
 
-*In our palette: dark table top · anthracite standing-seam wall behind · buff/yellow granite floor · teak Poppy chairs. The teak reads as a warm/cool contrast against the dark top — no clash — and ties to the granite.*
+### Route A — Teakunique Orchid teak table + Poppy teak chairs
 
-### Maze charcoal stone-top table + Poppy teak chairs
+<img src="artists-impressions/Poppy%20and%20Teak%20Unique%20Orchid.png" width="100%">
 
-<img src="artists-impressions/maze%20and%20poppy.png" width="100%">
+### Route B — Bramblecrest Sofia stone table + SCAB Si-Si chairs (no cushions)
 
-### Nardi Rio anthracite aluminium table + Poppy teak chairs (cleaner, more minimal)
+<img src="artists-impressions/bramblecrest%20and%20scab.png" width="100%">
 
-<img src="artists-impressions/nardi%20rio%20with%20poppy%20chairs.png" width="100%">
+### Route B — Bramblecrest Sofia stone table + SCAB Si-Si chairs (with cushions)
+
+<img src="artists-impressions/bramblecrest%20and%20scab%20with%20cushions.png" width="100%">
 
 [↑ Contents](#contents)
 
