@@ -24,7 +24,7 @@
 **[3 · Sofas & comfy chairs](#sofas)**
 - [Sherborne £1,499](#sherborne) · [Luxus Amalfi £1,941 ⭐](#luxus-amalfi) · [Maze Eve £1,985 ⭐](#maze-eve) · [4S Piacenza £2,499 ⭐](#piacenza) · [Teakunique Maluku £825/mod ⭐](#maluku) · [Tribu Mood £2,560](#tribu-mood) · [4S Alicante £2,699](#alicante) · [Cane-line Space (ref)](#cane-line-space)
 
-**[Timing & checklist](#checklist)**
+**[Heat science — colour limits by material](#heat-science)** · **[Timing & checklist](#checklist)**
 
 ---
 
@@ -101,6 +101,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - **Size:** 210×100cm → **280×100cm** (extends, ~10 seats) · H76cm
 - **Material:** Powder-coated aluminium frame + slatted aluminium top
 - **Colour:** **Anthracite** · Bianco (white) · Tortora (taupe/warm greige) — 3 options
+- **Heat safety (slatted aluminium):** ✅ Bianco · ✅ Tortora · ⚠ Anthracite (hot on still days — slatted gaps help a little; Brighton breeze usually compensates)
 - **Weight:** ~54 kg (unusually heavy for aluminium)
 - **Reviews:** juliajones.co.uk — not independently checked on Trustpilot; established UK specialist outdoor furniture retailer. Nardi is Italian contract/commercial-grade, award-winning — well-regarded by the trade.
 
@@ -129,6 +130,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - **Size:** **⭐ Preferred: 10-seat 200→260×96cm** (fits ≤220cm compact constraint) · 12-seat 240→300×96cm · H75cm
 - **Material:** Aluminium A-frame; **cemented composite top** (non-porous, wipe-clean — confirmed from Mobellia's site)
 - **Colour:** Anthracite frame · White frame; top in **anthracite, taupe, or wood-effect** — 4 combinations
+- **Heat safety (solid aluminium/composite top):** ✅ White frame + taupe top · ✅ White frame + wood-effect top · ⚠ White frame + anthracite top (top still gets hot despite pale frame) · ❌ Anthracite frame + anthracite top
 - **Reviews:** mobellia.com — not independently verified on Trustpilot; online-only retailer; check returns policy before ordering.
 
 **Pros:**
@@ -162,7 +164,8 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - **Size:** Size 1: 140→200×80cm · **Size 2: 180→250×90cm** (preferred — more width and length for 8–10 seats)
 - **Material:** **Duplex galvanised + qualicoat powder-coated steel** — same coastal-safe construction as the Fox & Si-Si chairs
 - **Top:** Solid flat steel — wipe-clean, seagull-proof ✓
-- **Colour:** **7 options — identical palette to Fox chairs and Twist armchair**: Black NE · Grey Mud FA · Ancient Grey AG · Ivory White BS · Matt White BCU · Bronzo BRO (see swatch below)
+- **Colour:** **7 options — identical palette to Fox chairs and Twist armchair**: Black NE · Grey Mud FA · Ancient Grey AG · Ivory White BS · Matt White BCU · Bronzo BRO · Beige BE (see swatch below)
+- **Heat safety (solid steel top — strictest rule):** ✅ Ivory White BS · ✅ Matt White BCU · ✅ Beige BE · ⚠ Ancient Grey AG (borderline — likely fine with Brighton coastal breeze) · ❌ Black NE · ❌ Bronzo BRO · ❌ Grey Mud FA
 - **Weight:** Not published — steel construction likely heavier than aluminium alts ✓
 - **Reviews:** deluxdeco.co.uk — **5.0/5 Trustpilot (235 reviews).** Same retailer as Fox; excellent service.
 - **Lead time:** 6–10 weeks (made to order)
@@ -180,7 +183,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - 10-year guarantee; excellent retailer
 
 **Cons:**
-- ⚠ Table top material is steel — confirm it doesn't get uncomfortably hot in direct sun
+- Steel top gets hot in direct sun — **choose Ivory, Matt White, Beige or Ancient Grey** (see Heat safety above); darker colours will be uncomfortable to rest arms on
 - Size 2 at 250cm extended seats 8–10; confirm 10 chairs fit comfortably (armchairs need more room per seat)
 - 6–10 week lead time — order before August for September fit-out
 - Weight not published; confirm it's heavy enough to resist wind without ballasting
@@ -202,6 +205,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - **Price:** £1,999 table-only
 - **Size:** 280×100cm → **340×100cm** → **400×100cm** (three-step extension, 8→10→12 seats) · H77.5cm · **⚠ Smallest setting is 280cm** — if you need ≤220cm when compact, the Maxim is too big. The Nardi Rio (210→280) and Mobellia (200→260) both start smaller.
 - **Colour:** Charcoal or Latte (sintered-stone top)
+- **Heat safety (sintered stone — most lenient):** ✅ Both colours — ceramic/stone has low thermal effusivity and stays comfortable to touch even in dark colours
 - **Material:** Aluminium frame + sintered-stone top
 - **Reviews:** mazeliving.co.uk — **~9,600 Trustpilot reviews, mixed.** Headline positive but a real tail of complaints: delivery delays, rattan/coating issues on older ranges. Known delivery-damage risk on stone edges. Confirm stone top is covered in warranty; inspect carefully on arrival.
 
@@ -232,6 +236,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 - **Size:** Extending X-leg table; standard Sofia tables run 165–200×95cm (6–8 seats); 10-seat extending version — ⚠ **exact extended dimensions not published online; confirm with Crownhill or Bramblecrest before ordering**
 - **Material:** Aluminium X-leg frame + dark anthracite ceramic top
 - **Colour:** Anthracite
+- **Heat safety (ceramic top — most lenient):** ✅ Anthracite ceramic is comfortable to touch — ceramic's low thermal effusivity means it doesn't burn even when hot
 - **Reviews:** Bramblecrest brand — **4.5/5 Trustpilot (4,600+ reviews), 5-year structural guarantee.** One of the better-reviewed brands here. Strong customer service.
 
 **Pros:**
@@ -271,7 +276,7 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 - **Price:** £114/chair
 - **Material:** Powder-coated marine aluminium
-- **Colour:** Black / charcoal / grey (confirm availability with Cafe Reality) · **Weight:** ~4–6 kg (unpublished) · **Arms:** No · **Stackable:** Yes · **Seat:** Slatted (drains)
+- **Colour:** Black / charcoal / grey (confirm availability with Cafe Reality) · **Heat safety (slatted aluminium):** ✅ Grey · ⚠ Charcoal · ❌ Black · **Weight:** ~4–6 kg (unpublished) · **Arms:** No · **Stackable:** Yes · **Seat:** Slatted (drains)
 - **Reviews:** cafereality.co.uk — **no independent Trustpilot listing found**; reviews self-hosted. Established UK contract/hospitality supplier serving cafés and restaurants. No red flags.
 
 **Pros:** Cheapest coastal-safe chair here; clean dark slat look; stackable · **Cons:** No independent review verification; light (wind plan applies)
@@ -290,7 +295,7 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 - **Price:** £126/chair
 - **Material:** Powder-coated marine aluminium
-- **Colour:** Charcoal · **Weight:** ~4–6 kg (unpublished) · **Arms:** No · **Stackable:** Yes · **Seat:** Vertical slat (drains)
+- **Colour:** Charcoal (single colour) · **Heat safety (slatted aluminium):** ⚠ Charcoal — warm on still sunny days; slatted gaps and coastal breeze usually keep it acceptable · **Weight:** ~4–6 kg (unpublished) · **Arms:** No · **Stackable:** Yes · **Seat:** Vertical slat (drains)
 - **Reviews:** cafereality.co.uk — same as Chazey above; established UK contract supplier, no independent Trustpilot listing.
 
 **Pros:** Contemporary vertical-slat look — clean and modern; contract-grade; coastal-safe · **Cons:** No independent review base; light (wind plan applies)
@@ -309,7 +314,7 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 - **Price:** £145/chair
 - **Material:** Powder-coated marine aluminium
-- **Colour:** Anthracite (dark) · **Weight:** Unpublished · **Arms:** Yes · **Stackable:** Yes · **Seat:** Textilene mesh sling (drains; no cushion)
+- **Colour:** Anthracite (single colour) · **Heat safety:** ⚠ Frame/armrests: aluminium arms will be hot — avoid resting bare arms on them in full sun. Seat: textilene mesh is much cooler than bare metal at the same temperature (lower effusivity) — comfortable to sit on · **Weight:** Unpublished · **Arms:** Yes · **Stackable:** Yes · **Seat:** Textilene mesh sling (drains; no cushion)
 - **Reviews:** kavehome.com — **Trustpilot: ~41,000 reviews, polarized.** Many 5-star but recurring delivery complaints. Confirm stock and lead time before ordering.
 
 **Pros:** Best value with arms + contemporary look; textilene sling drains; stackable · **Cons:** Weight unpublished; delivery complaints; light (wind plan applies)
@@ -330,7 +335,7 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 - **Price:** ~£148/chair
 - **Material:** **Duplex galvanised + powder-coated steel** — zinc under the colour → dark AND rustproof at the coast
-- **Colour:** Dark anthracite confirmed; multiple finishes available — ask tecnoarredo3 for current colour chart · **Weight:** Unpublished · **Arms:** No · **Stackable:** Yes · **Seat:** Horizontal wire-rod grid (drains perfectly, nothing pools)
+- **Colour:** Dark anthracite confirmed; multiple finishes available — ask tecnoarredo3 for current colour chart · **Heat safety (duplex steel, wire-rod seat):** ❌ Dark anthracite will be hot on bare skin in direct sun — wire-rod reduces contact area but doesn't change surface temperature. Ask tecnoarredo3 for lighter colour options; **a seat cushion (stored indoors) transforms comfort** · **Weight:** Unpublished · **Arms:** No · **Stackable:** Yes · **Seat:** Horizontal wire-rod grid (drains perfectly, nothing pools)
 - **Reviews:** tecnoarredo3.co.uk — **4.7/5 Trustpilot (224 reviews). Excellent.** 88% 5-star; legitimate Italian retailer; responsive customer service.
 
 **Pros:** Duplex galv = dark AND coastal-safe (zinc survives chips); horizontal wire-rod drains perfectly; affordable at £148; best-reviewed steel-chair retailer on this list · **Cons:** More open/industrial look than the pressed-steel options; weight unpublished
@@ -368,7 +373,7 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 - **Price:** Side chair £167 (RRP £222) · Armchair £177 (RRP £236) · **Lead time: 6–10 weeks** (made to order)
 - **Size:** Side chair W45 × D53 × H81cm · Armchair wider — confirm with deluxdeco
 - **Material:** **Duplex galvanised + qualicoat powder-coated steel** — confirmed coastal-safe
-- **Colour:** 7 options — **same palette as Extia table and Twist armchair** (see swatch above) · **Weight:** Unpublished · **Arms:** Armchair version £177 · **Stackable:** Yes · **Seat:** Smooth pressed steel shell (wipe-clean); 8 cushion fabrics separately (UV/water/mould resistant, 5-yr warranty)
+- **Colour:** 7 options — **same palette as Extia table and Twist armchair** (see swatch above) · **Heat safety (solid pressed steel seat — strictest rule):** ✅ Ivory White BS · ✅ Matt White BCU · ✅ Beige BE · ⚠ Ancient Grey AG (borderline — coastal breeze usually fine) · ❌ Black NE · ❌ Grey Mud FA · ❌ Bronzo BRO — solid seat means full skin contact; dark colours will be painful to sit on in shorts in direct sun · **Weight:** Unpublished · **Arms:** Armchair version £177 · **Stackable:** Yes · **Seat:** Smooth pressed steel shell (wipe-clean); 8 cushion fabrics separately (UV/water/mould resistant, 5-yr warranty)
 - **Reviews:** deluxdeco.co.uk — **5.0/5 Trustpilot (235 reviews). Excellent.**
 
 **Pros:** Confirmed duplex galv = properly coastal-safe; smooth pressed-steel seat; armchair option; perfectly matched to Extia table and Twist armchair from same brand; excellent retailer · **Cons:** ⚠ 6–10 week lead time — order July for Sept fit-out; weight unpublished
@@ -394,7 +399,7 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 - **Price:** £209 (from £279 — 25% off) · **Lead time: 9–15 weeks** ⚠ (made to order — order by July for September fit-out)
 - **Size:** W55 × D56 × H88cm (dining height)
 - **Material:** **Duplex galvanised + qualicoat powder-coated steel** — same coastal-safe construction as Fox
-- **Colour:** 7 options — **identical palette to Fox chairs and Extia table** (see swatch above) · **Weight:** Unpublished · **Arms:** Yes ✓ · **Stackable:** Yes · **Seat:** Slatted metal (drains, wipe-clean); cushion options likely available — confirm with deluxdeco
+- **Colour:** 7 options — **identical palette to Fox chairs and Extia table** (see swatch above) · **Heat safety (slatted steel seat, solid arms):** ✅ Ivory White BS · ✅ Matt White BCU · ✅ Beige BE · ⚠ Ancient Grey AG · ❌ Black NE · ❌ Grey Mud FA · ❌ Bronzo BRO — slatted seat is slightly cooler than Fox's solid pan; arms are solid steel and will be hot in dark colours · **Weight:** Unpublished · **Arms:** Yes ✓ · **Stackable:** Yes · **Seat:** Slatted metal (drains, wipe-clean); cushion options likely available — confirm with deluxdeco
 - **Reviews:** deluxdeco.co.uk — 5.0/5 Trustpilot (235 reviews). Excellent.
 
 **Note:** Back panel appears to have a separate insert in the product photo — **confirm with deluxdeco whether the back is all-metal or includes a fabric/textile component** (if fabric, it needs to come indoors like cushions).
@@ -415,7 +420,7 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 - **Price:** £179/chair
 - **Material:** Powder-coated marine aluminium frame + outdoor cord weave seat
-- **Colour:** Black frame + dark grey cord · **Weight:** Unpublished · **Arms:** Yes · **Stackable:** Yes · **Seat:** Woven cord (drains; stays out)
+- **Colour:** Black frame + dark grey cord (single option) · **Heat safety:** ⚠ Frame/armrests: aluminium arms will be hot in direct sun. Cord seat: woven cord has lower thermal effusivity than bare metal — more comfortable to sit on than a bare steel seat at the same temperature, but still warm · **Weight:** Unpublished · **Arms:** Yes · **Stackable:** Yes · **Seat:** Woven cord (drains; stays out)
 - **Reviews:** kavehome.com — same as Zaltana above; mixed Trustpilot, delivery concerns.
 
 **Pros:** The Cane-line Lean look at far less; arms included; stackable · **Cons:** Woven cord seat stays out permanently (not bare metal); weight unpublished; delivery complaints
@@ -443,7 +448,7 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 - **Price:** £181/chair (sold in pairs)
 - **Size:** W50 × D55 × H81cm (CATAS-certified)
 - **Material:** **Duplex galvanised + powder-coated steel** — zinc under the paint → dark AND rustproof
-- **Colour:** **Anthracite (ZA)** and **Dove Grey (ZT)** both available · **Weight:** 8.7 kg (heaviest chair on this list) · **Arms:** No · **Stackable:** Yes · **Seat:** Pressed/curved steel sheet (wipe-clean)
+- **Colour:** **Anthracite (ZA)** and **Dove Grey (ZT)** both available · **Heat safety (solid pressed steel seat — strictest rule):** ⚠ Dove Grey ZT (borderline — better than anthracite but still warm for steel; use a seat cushion in summer) · ❌ Anthracite ZA (dark steel seat will be hot on bare skin in shorts) · **Weight:** 8.7 kg (heaviest chair on this list) · **Arms:** No · **Stackable:** Yes · **Seat:** Pressed/curved steel sheet (wipe-clean)
 - **Reviews:** arredinitaly.com — positive Trustpilot (47 reviews — small sample; Chamber of Commerce registered; legitimate Italian retailer).
 
 **Pros:** **Heaviest chair at 8.7 kg** — best wind resistance of any non-teak option; duplex galv = dark AND coastal-safe; **dove grey is a genuine grey option**; Italian CATAS-certified · **Cons:** Small retailer (47 reviews); sold in pairs only; confirm UK delivery lead time
@@ -464,7 +469,7 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 - **Price:** £185/chair (RRP £247) · **Lead time: 6–10 weeks** (made to order)
 - **Material:** **Duplex galvanised steel** (same spec as Fox — galvanised + qualicoat powder coat)
-- **Colour:** Anthracite + other options (confirm with deluxdeco) · **Weight:** Unpublished · **Arms:** No · **Stackable:** Yes · **Seat:** Square-back horizontal slatted steel (drains)
+- **Colour:** Anthracite + other options — **same 7-colour palette as Fox** (confirm with deluxdeco) · **Heat safety (slatted duplex steel — same rule as Fox):** ✅ Ivory White BS · ✅ Matt White BCU · ✅ Beige BE · ⚠ Ancient Grey AG · ❌ Anthracite and darker — slatted seat provides slight relief over Fox's solid pan · **Weight:** Unpublished · **Arms:** No · **Stackable:** Yes · **Seat:** Square-back horizontal slatted steel (drains)
 - **Reviews:** deluxdeco.co.uk — **5.0/5 Trustpilot (235 reviews). Excellent.**
 
 **Pros:** Clean square-back geometric design; good saving on RRP; confirmed duplex galv = coastal-safe; excellent retailer · **Cons:** ⚠ 6–10 week lead time — order July for Sept fit-out; weight unpublished
@@ -483,7 +488,7 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 - **Price:** £199/chair
 - **Material:** Powder-coated marine aluminium
-- **Colour:** Black · **Weight:** Unpublished · **Arms:** Yes · **Stackable:** Yes · **Seat:** Horizontal flat-slat back + slatted seat (drains)
+- **Colour:** Black (single colour) · **Heat safety (slatted aluminium):** ❌ Black aluminium will be hot on bare arms and legs in direct sun — no lighter colour available; coastal breeze helps · **Weight:** Unpublished · **Arms:** Yes · **Stackable:** Yes · **Seat:** Horizontal flat-slat back + slatted seat (drains)
 - **Reviews:** kavehome.com — same as above; mixed Trustpilot, delivery concerns.
 
 **Pros:** Clean architectural horizontal slat look; arms; stackable · **Cons:** Top of under-£200 range; weight unpublished; delivery complaints
@@ -502,7 +507,7 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 - **Price:** £200/chair (set of 2 = £399.99; ~£130 spotted at Made/Next — worth checking)
 - **Material:** Powder-coated marine aluminium
-- **Colour:** Matte black · **Weight:** 3.9 kg (published) · **Arms:** No · **Stackable:** Yes · **Seat:** Perforated mesh back + slatted seat (drains)
+- **Colour:** Matte black (single colour) · **Heat safety (slatted/perforated aluminium):** ❌ Matte black will be hot in direct sun — perforated mesh and slatted seat reduce contact area, which helps a little, but no lighter colour available · **Weight:** 3.9 kg (published) · **Arms:** No · **Stackable:** Yes · **Seat:** Perforated mesh back + slatted seat (drains)
 - **Reviews:** laredoute.co.uk — mixed Trustpilot; delivery/returns concerns. Buy in a set of 2; pay by card.
 
 **Pros:** The most design-shop clean look here; slim tapered legs; published weight; stackable · **Cons:** 3.9 kg = lightest aluminium chair on the list (wind plan critical); delivery concerns; sold in pairs
@@ -521,7 +526,7 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 - **Price:** ~£233/chair (stretch)
 - **Material:** Powder-coated marine aluminium
-- **Colour:** Black (+ muted white, olive green, beige, cayenne red, ice blue) — **no grey available** · **Weight:** 4.8 kg (published) · **Arms:** No · **Stackable:** Yes (up to 10) · **Seat:** Curved slatted seat + back (drains)
+- **Colour:** Black · Muted white · Olive green · Beige · Cayenne red · Ice blue — **no grey available** · **Heat safety (slatted aluminium):** ✅ Muted white · ✅ Beige · ✅ Ice blue · ⚠ Olive green (medium tone) · ⚠ Cayenne red (medium-dark absorptivity) · ❌ Black · **Weight:** 4.8 kg (published) · **Arms:** No · **Stackable:** Yes (up to 10) · **Seat:** Curved slatted seat + back (drains)
 - **Reviews:** Holloways of Ludlow — **4.9/5 Trustpilot (500+ reviews). Excellent.**
 
 **Pros:** Most refined / architectural aluminium chair here; published weight; stacks 10 high; Danish design; 5-year warranty · **Cons:** Over budget at ~£233 (stretch); no grey colourway available
@@ -886,6 +891,63 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
 ---
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
+<a id="heat-science"></a>
+
+## Why colour and material both matter — the heat science
+
+### The two factors
+
+**1. Colour → surface temperature**
+All surfaces in sunlight reach thermal equilibrium between solar energy absorbed and heat lost to convection and radiation. Dark surfaces absorb 80–98% of solar radiation; white surfaces absorb only 15–30%. Brighton peak summer irradiance is roughly 850 W/m².
+
+Estimated surface temperatures in direct sun (22°C ambient, moderate coastal breeze reducing temperatures by ~15°C vs still air):
+
+| Colour | Solar absorptivity | Est. surface temp |
+|---|---|---|
+| Black | 0.97 | 60–65°C |
+| Dark anthracite / Bronzo | 0.80–0.85 | 53–60°C |
+| Olive / Grey Mud | 0.65 | 46–52°C |
+| Mid-grey (Ancient Grey) | 0.55 | 42–48°C |
+| Ivory White / Beige | 0.30 | 32–38°C |
+| Matt White | 0.20 | 28–33°C |
+
+Note: all paints emit thermal radiation at similar rates in the infrared regardless of visible colour — so colour only affects how much solar energy is *absorbed*, not how quickly it is *lost*.
+
+**2. Material → how hot it *feels* (thermal effusivity)**
+Surface temperature alone doesn't predict pain. What matters is **thermal effusivity** — a material's ability to transfer heat into your skin on contact. It equals √(conductivity × density × heat capacity).
+
+| Material | Thermal effusivity (J/m²·K·s½) | Max comfortable surface temp (prolonged contact) |
+|---|---|---|
+| Aluminium | ~24,000 | ~43°C |
+| Steel (mild/duplex) | ~13,000 | ~45°C |
+| Ceramic / sintered stone | ~1,500–2,500 | ~60–65°C |
+| Teak (oiled) | ~400–500 | ~68–75°C |
+
+Steel feels ~25× "hotter" than teak at the *same surface temperature*, and aluminium is worse still — because they transfer heat into your skin so rapidly. This is why a wooden-handled pan doesn't burn you while the metal rim does, even though both are the same temperature.
+
+### Resulting colour rules by material
+
+| Material | ✅ Safe | ⚠ Borderline | ❌ Avoid |
+|---|---|---|---|
+| **Steel (solid top/seat)** | White, Ivory, Beige | Light grey (with coastal breeze) | Everything darker |
+| **Steel (slatted seat)** | White, Ivory, Beige | Light grey | Anthracite, darker |
+| **Aluminium (solid top)** | White, Ivory, Taupe | — | Anthracite, darker |
+| **Aluminium (slatted)** | White, Ivory, Taupe | Mid-grey, Olive | Anthracite, Black |
+| **Ceramic / sintered stone** | All colours | — | — |
+| **Teak** | All colours | — | — |
+
+### Brighton's saving grace
+
+The coastal breeze at 4 storeys above the seafront can reduce surface temperatures by 15–25°C compared with still-air conditions. On a windy day, borderline colours become comfortable; on a rare still hot day, they become genuinely unpleasant. The ⚠ ratings assume a typical Brighton breeze; the ❌ ratings will be uncomfortable regardless of wind.
+
+### Chairs matter as much as tables
+
+A dining table edge you rest your arm on matters — but a chair you sit on in shorts, with bare thighs on the seat and bare forearms on metal arms, matters even more. Apply the same colour rules to chairs. A seat cushion (stored indoors and brought out for dining) transforms the experience of a dark metal chair and costs very little.
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
