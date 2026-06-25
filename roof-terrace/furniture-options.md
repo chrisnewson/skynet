@@ -18,8 +18,8 @@
 - Teak top: [Maze Jakarta £1,059 ⭐](#maze-jakarta)
 
 **[2 · Dining Chairs](#chairs)**
-- **With arms:** [Zaltana £145 ⭐](#zaltana) · [Fox armchair £177 ⭐](#fox) · [Culip £179](#culip) · [Joncols £199](#joncols) · [Twist armchair £209 ⭐](#twist) · [Daisy armchair ~£209+ ⭐](#daisy)
-- **Without arms:** [Chazey £114](#chazey) · [Bastille £126 ⭐](#bastille) · [Summer £148 ⭐](#summer) · [Fox side chair £167 ⭐](#fox) · [Si-Si £181 ⭐](#si-si) · [Mogan £185](#mogan) · [Lyona £200 ⭐](#lyona) · [Alua £233 ⭐](#alua)
+- **With arms:** [Zaltana £145 ⭐](#zaltana) · [Fox armchair £177 ⭐](#fox) · [Culip £179](#culip) · [Si-Si armchair ~£185 ⭐](#si-si) · [Joncols £199](#joncols) · [Twist armchair £209 ⭐](#twist) · [Daisy armchair ~£209+ ⭐](#daisy) · [Alua with arms ~£260](#alua)
+- **Without arms:** [Chazey £114](#chazey) · [Bastille £126 ⭐](#bastille) · [Summer £148 ⭐](#summer) · [Fox side £167 ⭐](#fox) · [Si-Si side £181 ⭐](#si-si) · [Mogan £185](#mogan) · [Lyona £200 ⭐](#lyona) · [Alua £233 ⭐](#alua)
 - **Teak — Route A:** [Cyan Vero £125 ⭐](#teak-vero) · [Cyan Sora £125](#teak-sora) · [Eterna Oxford £149](#teak-oxford) · [B&S Semeru £169 ⭐](#teak-semeru) · [Treviso £260](#teak-treviso) · [4S Julia £360](#teak-julia) · [Skagerak Plank £619 ⭐](#teak-plank) · [Cane-line Grace £1,005](#teak-grace) · [Tribu Kos £1,220](#teak-kos)
 
 **[3 · Sofas & comfy chairs](#sofas)**
@@ -473,7 +473,9 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 <a id="si-si"></a>
 
-### SCAB Design — Si-Si 2503 ⭐ · £181
+### SCAB Design — Si-Si ⭐ · £181 (2503 side chair) / ~£185 (2502 armchair)
+
+**Side chair 2503 — no arms:**
 
 <img src="chair-images/sisi.jpg" width="100%">
 
@@ -485,13 +487,19 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 *Cushion shown in Dove Grey (ZT) — same cushion available in anthracite. Seat cushion is an optional extra; store indoors when not in use.*
 
-- **Price:** £181/chair (sold in pairs)
-- **Size:** W50 × D55 × H81cm (CATAS-certified)
+**Armchair 2502 — with arms (~£185):**
+
+<img src="chair-images/sisi-armchair.jpg" width="60%">
+
+*Si-Si 2502 armchair in linen/sand — same curved pressed-steel seat and back, slim steel arms added. Same colours as the 2503 including anthracite and dove grey. Sold in pairs; confirm current UK price at arredinitaly.com/gb.*
+
+- **Price:** 2503 side £181/chair · 2502 armchair ~£185/chair (both sold in pairs)
+- **Size:** 2503 side W51 × D55 × H80cm · 2502 armchair W62 × D55 × H80cm · Seat H44cm (CATAS-certified)
 - **Material:** **Duplex galvanised + powder-coated steel** — zinc under the paint → dark AND rustproof
-- **Colour:** **Anthracite (ZA)** and **Dove Grey (ZT)** both available · **Heat safety (solid pressed steel seat — strictest rule):** ⚠ Dove Grey ZT (borderline — better than anthracite but still warm for steel; use a seat cushion in summer) · ❌ Anthracite ZA (dark steel seat will be hot on bare skin in shorts) · **Weight:** 8.7 kg (heaviest chair on this list) · **Arms:** No · **Stackable:** Yes · **Seat:** Pressed/curved steel sheet (wipe-clean)
+- **Colour:** **Anthracite (ZA)** and **Dove Grey (ZT)** both available (full range incl. linen, terracotta, aviation blue, olive green) · **Heat safety (solid pressed steel seat — strictest rule):** ⚠ Dove Grey ZT (borderline — better than anthracite but still warm for steel; use a seat cushion in summer) · ❌ Anthracite ZA (dark steel seat will be hot on bare skin in shorts) · **Weight:** ~8.7 kg/chair (per italivingoutdoor spec; sold in pairs) · **Arms:** 2503: No · 2502: Yes · **Stackable:** Yes (both models) · **Seat:** Pressed/curved steel sheet (wipe-clean)
 - **Reviews:** arredinitaly.com — positive Trustpilot (47 reviews — small sample; Chamber of Commerce registered; legitimate Italian retailer).
 
-**Pros:** **Heaviest chair at 8.7 kg** — best wind resistance of any non-teak option; duplex galv = dark AND coastal-safe; **dove grey is a genuine grey option**; Italian CATAS-certified · **Cons:** Small retailer (47 reviews); sold in pairs only; confirm UK delivery lead time
+**Pros:** **~8.7 kg** — best wind resistance of any non-teak option; duplex galv = dark AND coastal-safe; **dove grey is a genuine grey option**; armchair version ~£4 more; Italian CATAS-certified · **Cons:** Small retailer (47 reviews); sold in pairs only; confirm UK delivery lead time; 2502 armchair UK price unconfirmed (listed at ~£185 est.)
 
 [arredinitaly.com — SCAB Si-Si 2503](https://www.arredinitaly.com/gb/metal-chairs/13893-si-si-2503-chairs-scab-design.html)
 
@@ -560,16 +568,24 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 <a id="alua"></a>
 
-### HOUE — Alua ⭐ · ~£233 *(stretch)*
+### HOUE — Alua ⭐ · ~£233 armless *(stretch)* / ~£260 with arms
+
+**Armless (side chair):**
 
 <img src="chair-images/alua.jpg" width="100%">
 
-- **Price:** ~£233/chair (stretch)
+**Also available with arms (~£260):**
+
+<img src="chair-images/alua-armchair.jpg" width="60%">
+
+*Alua armchair in beige — same slatted aluminium, slim arms added. ~€299/~£260/chair at smow or connox. Same 6 colours, stackable to 10, 5-year warranty.*
+
+- **Price:** Armless ~£233/chair (Holloways) · With arms ~£260/chair (smow/connox — stretch)
 - **Material:** Powder-coated marine aluminium
-- **Colour:** Black · Muted white · Olive green · Beige · Cayenne red · Ice blue — **no grey available** · **Heat safety (slatted aluminium):** ✅ Muted white · ✅ Beige · ✅ Ice blue · ⚠ Olive green (medium tone) · ⚠ Cayenne red (medium-dark absorptivity) · ❌ Black · **Weight:** 4.8 kg (published) · **Arms:** No · **Stackable:** Yes (up to 10) · **Seat:** Curved slatted seat + back (drains)
+- **Colour:** Black · Muted white · Olive green · Beige · Cayenne red · Ice blue — **no grey available** · **Heat safety (slatted aluminium):** ✅ Muted white · ✅ Beige · ✅ Ice blue · ⚠ Olive green (medium tone) · ⚠ Cayenne red (medium-dark absorptivity) · ❌ Black · **Weight:** ~4.8 kg armless / ~5 kg with arms (published) · **Arms:** No (armless) / Yes (armchair version) · **Stackable:** Yes (up to 10) · **Seat:** Curved slatted seat + back (drains)
 - **Reviews:** Holloways of Ludlow — **4.9/5 Trustpilot (500+ reviews). Excellent.**
 
-**Pros:** Most refined / architectural aluminium chair here; published weight; stacks 10 high; Danish design; 5-year warranty · **Cons:** Over budget at ~£233 (stretch); no grey colourway available
+**Pros:** Most refined / architectural aluminium chair here; published weight; stacks 10 high; armchair version available; Danish design; 5-year warranty · **Cons:** Over budget at £233–260 (stretch); no grey colourway available; armchair pushes further into stretch territory
 
 [hollowaysofludlow.com — HOUE Alua](https://www.hollowaysofludlow.com/products/houe-alua-dining-chair)
 
