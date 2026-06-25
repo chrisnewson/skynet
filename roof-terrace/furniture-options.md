@@ -161,13 +161,9 @@ Teak alt: **Maze Jakarta** (warm teak top, dark grey frame, £1,059) + teak chai
 
 ### Vermobil — Extia ⭐ (steel flat top — matches Fox & Twist palette)
 
-<img src="artists-impressions/fox%20armchair.jpg" width="100%">
+<img src="artists-impressions/veermovil%20extia%20beige.png" width="100%">
 
-*Fox armchairs at the Extia table — same Vermobil collection, perfectly matched.*
-
-<img src="artists-impressions/fox%20without%20cushion.jpg" width="100%">
-
-*Fox side chairs at the Extia table in Grey Mud (olive/sage) — same design, 7 shared colour options.*
+*Extia table in Beige BE — solid flat steel top, clean contemporary lines.*
 
 - **Price:** £1,333 (from £1,778 — 25% off) table-only
 - **Size:** Size 1: 140→200×80cm · **Size 2: 180→250×90cm** (preferred — more width and length for 8–10 seats)
