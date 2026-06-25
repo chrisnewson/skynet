@@ -14,10 +14,11 @@
 
 **[1 · Dining Tables](#tables)**
 - Metal tops: [Nardi Rio £1,439](#nardi-rio) · [Mobellia Amalfi £599–799](#mobellia-amalfi) · [Vermobil Extia £1,333 ⭐](#extia)
-- Stone tops: [Maze Maxim £1,999 ⭐](#maze-maxim) · [Bramblecrest Sofia £1,799 ⭐](#bramblecrest-sofia)
+- Stone tops: [Bramblecrest Sofia £1,799 ⭐](#bramblecrest-sofia)
+- Teak top: [Maze Jakarta £1,059 ⭐](#maze-jakarta)
 
 **[2 · Dining Chairs](#chairs)**
-- **With arms:** [Zaltana £145 ⭐](#zaltana) · [Fox armchair £177 ⭐](#fox) · [Culip £179](#culip) · [Joncols £199](#joncols) · [Twist armchair £209 ⭐](#twist)
+- **With arms:** [Zaltana £145 ⭐](#zaltana) · [Fox armchair £177 ⭐](#fox) · [Culip £179](#culip) · [Joncols £199](#joncols) · [Twist armchair £209 ⭐](#twist) · [Daisy armchair ~£209+ ⭐](#daisy)
 - **Without arms:** [Chazey £114](#chazey) · [Bastille £126 ⭐](#bastille) · [Summer £148 ⭐](#summer) · [Fox side chair £167 ⭐](#fox) · [Si-Si £181 ⭐](#si-si) · [Mogan £185](#mogan) · [Lyona £200 ⭐](#lyona) · [Alua £233 ⭐](#alua)
 - **Teak — Route A:** [Cyan Vero £125 ⭐](#teak-vero) · [Cyan Sora £125](#teak-sora) · [Eterna Oxford £149](#teak-oxford) · [B&S Semeru £169 ⭐](#teak-semeru) · [Treviso £260](#teak-treviso) · [4S Julia £360](#teak-julia) · [Skagerak Plank £619 ⭐](#teak-plank) · [Cane-line Grace £1,005](#teak-grace) · [Tribu Kos £1,220](#teak-kos)
 
@@ -46,12 +47,12 @@
 ## Recommended basket (contemporary, dark top, seagull-proof, wind-stable)
 | | Item | Price |
 |---|---|---|
-| **Table** | Maze Maxim — **dark charcoal sintered-stone** top, heavy & wind-stable, table-only | **£1,999** |
-| **Chairs** | 10× Teakunique Poppy teak (~8 kg, passes wind) | **£2,050** |
+| **Table** | Bramblecrest Sofia — **dark anthracite ceramic** top, X-leg, table + 10 chairs | **£1,799** |
+| **Chairs** | Included with Sofia — or upgrade to Si-Si/Twist/Fox in preferred colour | **£0–£2,090** |
 | **Lounge** | Luxus Amalfi Corner teak — or Maluku modular daybed (~£3,000) | **£1,941** |
-| | **Total** | **~£5,990** |
+| | **Total (table + included chairs + lounge)** | **~£3,740** |
 
-Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439) → drops the total to ~£5,430. Both tables are dark, seagull-proof and heavy enough for wind.
+Teak alt: **Maze Jakarta** (warm teak top, dark grey frame, £1,059) + teak chairs (10× Poppy ~£2,050) + lounge → ~£5,050. Stone alt: **Bramblecrest** as above. Metal alt: **Extia + Daisy Rope armchairs** for a warm/light beige/tortora look.
 
 [↑ Contents](#contents)
 
@@ -59,15 +60,7 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 <a id="looks"></a>
 
-## How it looks — the two routes
-
-### Route A — Teakunique Orchid teak table + Poppy teak chairs (fresh / oiled)
-
-<img src="artists-impressions/Poppy%20and%20Teak%20Unique%20Orchid.png" width="100%">
-
-### Route A — same combination left to weather (silver-grey patina, zero maintenance)
-
-<img src="artists-impressions/maze%20and%20poppy%20(aged).png" width="100%">
+## How it looks — the options
 
 ### Route B — Bramblecrest Sofia stone table + SCAB Si-Si chairs (no cushions)
 
@@ -76,6 +69,14 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 ### Route B — Bramblecrest Sofia stone table + SCAB Si-Si chairs (with cushions)
 
 <img src="artists-impressions/bramblecrest%20and%20scab%20with%20cushions.png" width="100%">
+
+### Route A — Teak table + Poppy teak chairs aged to silver-grey (zero maintenance, honest look)
+
+<img src="artists-impressions/maze%20and%20poppy%20(aged).png" width="100%">
+
+### Vermobil — Extia steel table (Beige) + Daisy Rope armchairs
+
+<img src="artists-impressions/vermobil%20extia%20with%20daisey%20chairs.png" width="100%">
 
 [↑ Contents](#contents)
 
@@ -95,12 +96,14 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 ### Nardi — Rio ⭐ (aluminium slat top)
 
-<img src="https://www.juliajones.co.uk/images/products/standard/2120.jpg" width="100%">
+<img src="artists-impressions/nardi%20rio%20tortora.jpg" width="100%">
+
+*Photo: Tortora (warm greige/taupe) — the preferred colour. Also available in Anthracite and Bianco.*
 
 - **Price:** £1,439 table-only
 - **Size:** 210×100cm → **280×100cm** (extends, ~10 seats) · H76cm
 - **Material:** Powder-coated aluminium frame + slatted aluminium top
-- **Colour:** **Anthracite** · Bianco (white) · Tortora (taupe/warm greige) — 3 options
+- **Colour:** **Tortora** (warm greige, preferred) · Bianco (white) · Anthracite — 3 options
 - **Heat safety (slatted aluminium):** ✅ Bianco · ✅ Tortora · ⚠ Anthracite (hot on still days — slatted gaps help a little; Brighton breeze usually compensates)
 - **Weight:** ~54 kg (unusually heavy for aluminium)
 - **Reviews:** juliajones.co.uk — not independently checked on Trustpilot; established UK specialist outdoor furniture retailer. Nardi is Italian contract/commercial-grade, award-winning — well-regarded by the trade.
@@ -124,7 +127,9 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 ### Mobellia — Amalfi (aluminium A-frame)
 
-<img src="artists-impressions/mobellia%20amalfi.webp" width="100%">
+<img src="artists-impressions/mobelia%20amalfi%20taupe.webp" width="100%">
+
+*Photo: white frame + taupe top (recommended combination — ✅ heat safe and warm look).*
 
 - **Price:** 10-seat £599 · 12-seat £799
 - **Size:** **⭐ Preferred: 10-seat 200→260×96cm** (fits ≤220cm compact constraint) · 12-seat 240→300×96cm · H75cm
@@ -196,36 +201,6 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 ## Stone tops — sintered stone / ceramic — ultra stain & scratch-proof
 
-<a id="maze-maxim"></a>
-
-### Maze — Maxim ⭐ (sintered-stone top)
-
-<img src="https://www.mazeliving.co.uk/uploads/product_images/43558-fb-dn-max-12ex-ss-st-1-large.jpg" width="100%">
-
-- **Price:** £1,999 table-only
-- **Size:** 280×100cm → **340×100cm** → **400×100cm** (three-step extension, 8→10→12 seats) · H77.5cm · **⚠ Smallest setting is 280cm** — if you need ≤220cm when compact, the Maxim is too big. The Nardi Rio (210→280) and Mobellia (200→260) both start smaller.
-- **Colour:** Charcoal or Latte (sintered-stone top)
-- **Heat safety (sintered stone — most lenient):** ✅ Both colours — ceramic/stone has low thermal effusivity and stays comfortable to touch even in dark colours
-- **Material:** Aluminium frame + sintered-stone top
-- **Reviews:** mazeliving.co.uk — **~9,600 Trustpilot reviews, mixed.** Headline positive but a real tail of complaints: delivery delays, rattan/coating issues on older ranges. Known delivery-damage risk on stone edges. Confirm stone top is covered in warranty; inspect carefully on arrival.
-
-**Pros:**
-- Sintered stone = toughest, most stain-proof surface going; seagull-proof
-- Heavy stone top = the most wind-stable table on this list
-- Three-step extension: 280, 340, or 400cm — genuinely seats 12
-- Sold **table-only** — pick any chairs you like
-
-**Cons:**
-- Known delivery-damage risk on stone edges — inspect on arrival
-- Narrow warranty (structural + rust only; 48-hr defect window) — confirm stone top is covered in writing
-- 400cm is a very long run — check it fits the dining zone (FA2 = 5.75m)
-
-[mazeliving.co.uk — Maze Maxim](https://www.mazeliving.co.uk/product/maze-maxim-extending-aluminium-dining-table)
-
-[↑ Tables](#tables) · [↑ Contents](#contents)
-
----
-
 <a id="bramblecrest-sofia"></a>
 
 ### Bramblecrest — Sofia ⭐ (dark ceramic X-leg, best value)
@@ -256,13 +231,49 @@ Cheaper table alt: **Nardi Rio anthracite** (dark aluminium slat, 54 kg, £1,439
 
 ---
 
+## Teak top — warm, natural, pairs with both teak and metal chairs
+
+<a id="maze-jakarta"></a>
+
+### Maze — Jakarta ⭐ (teak slat top + dark grey aluminium frame)
+
+<img src="chair-images/jakarta-teak-table.jpg" width="100%">
+
+*Photo shown extended with upholstered chairs — the table top and dark grey frame are the point.*
+
+- **Price:** £1,059 table-only (from [mazeliving.co.uk](https://www.mazeliving.co.uk/product/maze-jakarta-10-seat-extending-dining-table-teak-grey-frame))
+- **Size:** **200×100cm → 260×100cm → 320×100cm** (three-step extension, 6→8→10 seats) · H75cm · ✓ **Starts at 200cm — fits the ≤220cm compact constraint**
+- **Material:** Dark grey powder-coated aluminium frame + **solid teak slat top**
+- **Colour:** Single option — warm teak top + dark grey frame
+- **Heat safety:** ✅ Teak top stays comfortable at any temperature (very low thermal effusivity — like wood). Grey aluminium frame is on the underside/legs — not a contact surface.
+- **Teak top note:** Teak is porous — seagull droppings must be wiped promptly or they can stain. With regular wiping (which you'd do anyway), entirely manageable. Top will silver to a warm grey patina if not oiled; apply teak oil once a season to maintain the warm honey colour.
+- **Weight:** Not published — solid teak + aluminium frame will be substantially heavier than all-aluminium alts ✓
+- **Reviews:** mazeliving.co.uk — **~9,600 Trustpilot reviews, mixed.** Strong on contemporary ranges; known delivery-damage risk on larger items — inspect carefully on arrival.
+
+**Pros:**
+- ⭐ **Bridges Route A and Route B** — warm teak top looks natural with teak chairs OR with dark/beige metal chairs
+- Dark grey frame is contemporary and contrasts beautifully with the warm teak
+- Competitive price vs other stone/ceramic tables
+- Three-step extension; 200cm compact ✓
+
+**Cons:**
+- Teak top requires prompt wiping of bird fouling (seagulls) — less forgiving than ceramic/sintered stone
+- Teak grade not specified in spec sheets — confirm Grade A / FSC before ordering
+- Mixed Maze delivery reviews — inspect on arrival
+
+[mazeliving.co.uk — Maze Jakarta](https://www.mazeliving.co.uk/product/maze-jakarta-10-seat-extending-dining-table-teak-grey-frame)
+
+[↑ Tables](#tables) · [↑ Contents](#contents)
+
+---
+
 <a id="chairs"></a>
 
 # 2 · Dining Chairs
 
 Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel needs to be **duplex galvanised** (zinc under the colour, survives chips) or **316 stainless**; all seats bare metal — wipe-clean, drain, no fixed cushions. **Route A = teak** is a separate group further down → [Teak dining chairs — Route A](#teak-chairs).
 
-**Chairs with arms** (Alex's preference): [Zaltana £145](#zaltana) · [Fox armchair £177](#fox) · [Culip £179](#culip) · [Joncols £199](#joncols) · [Twist armchair £209](#twist). Any of these mix well with the armless versions from the same brand/palette.
+**Chairs with arms** (Alex's preference): [Zaltana £145](#zaltana) · [Fox armchair £177](#fox) · [Culip £179](#culip) · [Joncols £199](#joncols) · [Twist armchair £209](#twist) · [Daisy armchair ~£209+](#daisy). Any of these mix well with the armless versions from the same brand/palette.
 
 ---
 
@@ -407,6 +418,37 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 **Pros:** ⭐ Arms make it more comfortable for long dinners; perfectly matched to Fox side chairs and Extia table — can mix armchairs and side chairs in one palette; stackable; duplex galv = coastal-safe · **Cons:** 9–15 week lead time is the longest on this list — order early; 55cm width means armchairs take more table room (8 fit around a 250cm table, not 10); back panel to confirm
 
 [deluxdeco.co.uk — Twist armchair](https://www.deluxdeco.co.uk/twist-armchair.html)
+
+[↑ Chairs](#chairs) · [↑ Contents](#contents)
+
+---
+
+<a id="daisy"></a>
+
+### Vermobil — Daisy armchair ⭐ · ~£209+ (confirm with arredinitaly or Vermobil UK dealer)
+
+<img src="chair-images/daisy-armchair.jpg" width="100%">
+
+*Photo: Daisy standard version in beige/taupe with cushion. A Daisy Rope variant (woven-rope back and seat) is also available — see Extia+Daisy render above.*
+
+- **Price:** ~£209+ (was from £209 at deluxdeco who no longer stock Vermobil — confirm current price via [arredinitaly.com/gb](https://www.arredinitaly.com/gb/98_vermobil) or Vermobil's new UK dealer)
+- **Material:** **Duplex galvanised + qualicoat powder-coated steel** — same coastal-safe construction as the Fox, Si-Si, and Extia
+- **Colour:** Beige/taupe and other options (confirm range with supplier) · **Heat safety (duplex steel, solid arms):** ✅ Beige/Ivory — the warm light tone + duplex galv construction makes this the best heat-safe armchair on the list; ⚠ mid-tones; ❌ dark anthracite/black
+- **Weight:** Not published · **Arms:** Yes ✓ · **Stackable:** Yes (up to 8) · **Seat:** Standard Daisy: cushioned seat + wire-back panel. Daisy Rope: woven-rope back and seat (shown in Extia render above — more relaxed, slightly less formal)
+- **Available from:** arredinitaly.com/gb (ships to UK — already our Si-Si supplier) or Vermobil's new UK dealer (pending)
+
+**Pros:**
+- ⭐ **Ideal companion for Nardi Rio Tortora, Mobellia taupe, Extia Beige, or Jakarta** — the beige/taupe tone creates a warm monochrome look across the full dining set
+- Arms ✓; stackable ✓; duplex galv coastal-safe ✓
+- The Rope version is distinctively contemporary and very comfortable
+- Same Vermobil family as Fox, Mogan, Twist, Extia — consistent build quality
+
+**Cons:**
+- Price unconfirmed since deluxdeco dropped Vermobil — get a quote before assuming the ~£209 figure
+- Cushions required for comfort (seat cushion stored indoors); no bare-metal seat option in standard Daisy
+- Daisy Rope seat (woven cord) is comfortable but note it's not as wipe-clean as bare metal
+
+[arredinitaly.com/gb — Vermobil range](https://www.arredinitaly.com/gb/98_vermobil)
 
 [↑ Chairs](#chairs) · [↑ Contents](#contents)
 
