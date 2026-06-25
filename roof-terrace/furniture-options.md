@@ -52,7 +52,7 @@
 | **Lounge** | Luxus Amalfi Corner teak — or Maluku modular daybed (~£3,000) | **£1,941** |
 | | **Total (table + included chairs + lounge)** | **~£3,740** |
 
-Teak alt: **Maze Jakarta** (warm teak top, dark grey frame, £1,059) + teak chairs (10× Poppy ~£2,050) + lounge → ~£5,050. Stone alt: **Bramblecrest** as above. Metal alt: **Extia + Daisy Rope armchairs** for a warm/light beige/tortora look.
+Teak alt: **Maze Jakarta** (warm teak top, dark grey frame, £1,059) + teak chairs (10× Poppy ~£2,050) + lounge → ~£5,050. Stone alt: **Bramblecrest** as above. Metal alt: **Extia + Daisy armchairs** for a warm/light beige/tortora look.
 
 [↑ Contents](#contents)
 
@@ -62,10 +62,6 @@ Teak alt: **Maze Jakarta** (warm teak top, dark grey frame, £1,059) + teak chai
 
 ## How it looks — the options
 
-### Route B — Bramblecrest Sofia stone table + SCAB Si-Si chairs (no cushions)
-
-<img src="artists-impressions/bramblecrest%20and%20scab.png" width="100%">
-
 ### Route B — Bramblecrest Sofia stone table + SCAB Si-Si chairs (with cushions)
 
 <img src="artists-impressions/bramblecrest%20and%20scab%20with%20cushions.png" width="100%">
@@ -74,13 +70,17 @@ Teak alt: **Maze Jakarta** (warm teak top, dark grey frame, £1,059) + teak chai
 
 <img src="artists-impressions/maze%20and%20poppy%20(aged).png" width="100%">
 
-### Vermobil — Extia steel table (Beige) + Daisy Rope armchairs
+### Vermobil — Extia steel table (Beige) + Daisy armchairs
 
 <img src="artists-impressions/vermobil%20extia%20with%20daisey%20chairs.png" width="100%">
 
-### Nardi Rio (Tortora) + Daisy Rope armchairs (Beige) — warm tone-on-tone
+### Nardi Rio (Tortora) + Daisy armchairs (Beige) — warm tone-on-tone
 
 <img src="artists-impressions/nardi%20rio%20tortora%20with%20extia%20daisey%20beige.png" width="100%">
+
+### Mobellia Amalfi (Taupe) + Daisy armchairs (White)
+
+<img src="artists-impressions/mobelia%20amalfi%20taupe%20and%20extia%20daisey%20chairs.png" width="100%">
 
 [↑ Contents](#contents)
 
@@ -100,7 +100,7 @@ Teak alt: **Maze Jakarta** (warm teak top, dark grey frame, £1,059) + teak chai
 
 ### Nardi — Rio ⭐ (aluminium slat top)
 
-<img src="artists-impressions/nardi%20rio%20tortora.jpg" width="100%">
+<img src="artists-impressions/nardi%20rio%20tortora.jpg" width="60%">
 
 *Photo: Tortora (warm greige/taupe) — the preferred colour. Also available in Anthracite and Bianco.*
 
@@ -433,24 +433,22 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 <img src="chair-images/daisy-armchair.jpg" width="100%">
 
-*Photo: Daisy standard version in beige/taupe with cushion. A Daisy Rope variant (woven-rope back and seat) is also available — see Extia+Daisy render above.*
+*Photo: Daisy armchair in beige/taupe with cushion.*
 
 - **Price:** ~£209+ (was from £209 at deluxdeco who no longer stock Vermobil — confirm current price via [arredinitaly.com/gb](https://www.arredinitaly.com/gb/98_vermobil) or Vermobil's new UK dealer)
 - **Material:** **Duplex galvanised + qualicoat powder-coated steel** — same coastal-safe construction as the Fox, Si-Si, and Extia
 - **Colour:** Beige/taupe and other options (confirm range with supplier) · **Heat safety (duplex steel, solid arms):** ✅ Beige/Ivory — the warm light tone + duplex galv construction makes this the best heat-safe armchair on the list; ⚠ mid-tones; ❌ dark anthracite/black
-- **Weight:** Not published · **Arms:** Yes ✓ · **Stackable:** Yes (up to 8) · **Seat:** Standard Daisy: cushioned seat + wire-back panel. Daisy Rope: woven-rope back and seat (shown in Extia render above — more relaxed, slightly less formal)
+- **Weight:** Not published · **Arms:** Yes ✓ · **Stackable:** Yes (up to 8) · **Seat:** Cushioned seat + wire/panel back; cushion stored indoors
 - **Available from:** arredinitaly.com/gb (ships to UK — already our Si-Si supplier) or Vermobil's new UK dealer (pending)
 
 **Pros:**
-- ⭐ **Ideal companion for Nardi Rio Tortora, Mobellia taupe, Extia Beige, or Jakarta** — the beige/taupe tone creates a warm monochrome look across the full dining set
+- ⭐ **Ideal companion for Nardi Rio Tortora, Mobellia taupe, Extia Beige, or Jakarta** — beige/white options create a warm, cohesive look across the full dining set
 - Arms ✓; stackable ✓; duplex galv coastal-safe ✓
-- The Rope version is distinctively contemporary and very comfortable
 - Same Vermobil family as Fox, Mogan, Twist, Extia — consistent build quality
 
 **Cons:**
 - Price unconfirmed since deluxdeco dropped Vermobil — get a quote before assuming the ~£209 figure
-- Cushions required for comfort (seat cushion stored indoors); no bare-metal seat option in standard Daisy
-- Daisy Rope seat (woven cord) is comfortable but note it's not as wipe-clean as bare metal
+- Cushions required for comfort (seat cushion stored indoors)
 
 [arredinitaly.com/gb — Vermobil range](https://www.arredinitaly.com/gb/98_vermobil)
 
