@@ -20,7 +20,7 @@
 **[2 · Dining Chairs](#chairs)**
 - **With arms:** [Fox armchair £177 ⭐](#fox) · [Si-Si armchair ~£185 ⭐](#si-si) · [Twist armchair £209 ⭐](#twist) · [Daisy armchair ~£209+ ⭐](#daisy) · [Alua with arms ~£260](#alua)
 - **Without arms:** [Fox side £167 ⭐](#fox) · [Si-Si side £181 ⭐](#si-si) · [Alua £233 ⭐](#alua)
-- **Teak — Route A:** [Cyan Vero £125 ⭐](#teak-vero) · [Eterna Oxford £149](#teak-oxford) · [Luxus Sydney ~£176](#teak-sydney) · [Sustainable Arc £195](#teak-arc) · [Teakunique Poppy £205 ⭐](#teak-poppy) · [Sklum Rokan £250](#teak-rokan)
+- **Teak — Route A:** [Luxus Sydney ~£176](#teak-sydney) · [Sustainable Arc £195](#teak-arc) · [Teakunique Poppy £205 ⭐](#teak-poppy) · [Sklum Rokan £250](#teak-rokan)
 
 **[3 · Sofas & comfy chairs](#sofas)**
 - [Sherborne £1,499](#sherborne) · [Luxus Amalfi £1,941 ⭐](#luxus-amalfi) · [Maze Eve £1,985 ⭐](#maze-eve) · [4S Piacenza £2,499 ⭐](#piacenza) · [Teakunique Maluku £825/mod ⭐](#maluku) · [Tribu Mood £2,560](#tribu-mood) · [4S Alicante £2,699](#alicante) · [Cane-line Space (ref)](#cane-line-space)
@@ -447,47 +447,7 @@ Two routes. **Route B = metal** (this group, below): aluminium won't rust; steel
 
 Solid teak instead of metal. Teak is naturally oily, rot-proof and salt-tough — left out it silvers to grey with **zero maintenance**, and at ~8–12 kg it passes the Brighton wind test where light aluminium doesn't. All bare-teak seats drain and are seagull-proof; any removable pad stores indoors. Sorted cheapest first. **Verify by eye and order a sample first** — teak grade and finish vary a lot between sellers.
 
-A strong cluster of options share the same **rounded barrel-back** aesthetic (Sydney, Arc, Poppy, Rokan) — very clean and contemporary. Sydney and Arc have arms; Poppy is armless with the narrowest footprint.
-
----
-
-<a id="teak-vero"></a>
-
-### Cyan Teak — Vero ⭐ · £125 *(best value)*
-
-<img src="chair-images/teak-vero.jpg" width="100%">
-
-- **Price:** £125/chair
-- **Material:** Grade-A teak (*Tectona grandis*) — mortise-and-tenon joints, stainless-steel fittings
-- **Colour:** Natural teak (silvers if left out) · **Weight:** Unpublished — described "lightweight"; ⚠ confirm ≥7 kg for wind · **Arms:** No · **Stackable:** Yes · **Seat:** Curved/scooped slatted teak (drains)
-- **Reviews:** cyan-teak-furniture.com — **Trustpilot 5.0 (~199 reviews, store-level).** Best-reviewed teak retailer here.
-
-**Pros:** Cleanest contemporary Scandi line on the list at the lowest price; armless + stackable; genuine Grade-A teak; strong independent reviews · **Cons:** Weight unpublished (confirm it's heavy enough); reviews are store- not product-level
-
-[cyan-teak-furniture.com — Vero](https://www.cyan-teak-furniture.com/vero-teak-stacking-side-chair)
-
-[↑ Chairs](#chairs) · [↑ Contents](#contents)
-
----
-
-<a id="teak-oxford"></a>
-
-### Eterna Home — Oxford · £149
-
-<img src="chair-images/teak-oxford.jpg" width="100%">
-
-*Photo shows the **carver** (with arms) and a seat pad — Eterna also list an armless stacking side chair; confirm which you're ordering.*
-
-- **Price:** £149/chair (sold in pairs, £298)
-- **Material:** Grade-A teak (*Tectona grandis*), purpose-built **outdoor**; high natural oils, no treatment needed
-- **Colour:** Natural teak · **Weight:** Unpublished · **Arms:** ⚠ carver shown has arms (an armless stacking version is listed) · **Stackable:** Yes (up to 4) · **Seat:** Curved horizontal-slat back; optional cushion
-- **Reviews:** eternahome.co.uk — **Trustpilot 4.0 (~56 reviews — small sample; some delivery-delay complaints).**
-
-**Pros:** Genuine *outdoor* Grade-A teak; stackable; curved slatted back reads contemporary; cushion option · **Cons:** Photo is the carver — confirm the armless side chair; young/small review base
-
-[eternahome.co.uk — Oxford](https://eternahome.co.uk/products/teak-garden-furniture-stacking-chairs-priced-for-1)
-
-[↑ Chairs](#chairs) · [↑ Contents](#contents)
+All four chairs share the same **rounded barrel-back** aesthetic — very clean and contemporary. Sydney and Arc have arms; Poppy is armless with the narrowest footprint; Rokan is darker oiled.
 
 ---
 
@@ -577,7 +537,7 @@ A strong cluster of options share the same **rounded barrel-back** aesthetic (Sy
 
 ---
 
-**Steer (teak / Route A):** **Cyan Vero (£125)** — cleanest Scandi slatted line, Grade A teak, best price; confirm weight. **Eterna Oxford (£149)** — outdoor Grade A teak, curved slatted back; confirm armless model at order. **Luxus Sydney (~£176)** and **Sustainable Arc (£195)** — the rounded barrel-back armchair family; certified teak, stackable, cushion in. **Teakunique Poppy (£205) ⭐** — the armless benchmark if you want no arms and narrow profile; 10-yr guarantee but brand provenance is less verified than the others. **Sklum Rokan (£250)** — beautiful darker finish; stretch, no cert, stackability unconfirmed.
+**Steer (teak / Route A):** All four share the rounded barrel-back look. **Luxus Sydney (~£176)** and **Sustainable Arc (£195)** — armchair versions, certified teak, stackable, cushion in. **Teakunique Poppy (£205) ⭐** — armless, narrowest footprint, 10-yr guarantee; brand provenance less independently verified. **Sklum Rokan (£250)** — beautiful darker finish; stretch, no certification, stackability unconfirmed.
 
 *Dead ends (checked, rejected):* Tikamoon **Blaise** £369 (wishbone Y-back + indoor varnish) and **Jonàk** £189 (indoor; ~6 kg — borderline for wind); Indian Ocean **Oslo** (teak + aluminium frame, 5.5 kg — fails weight); **Barlow Tyrie Equinox** / **Gloster Sway** (teak frame + sling, not solid teak; £400+); most Wayfair "teak" chairs are **acacia / teak-effect**; Teakunique **Riverbank** (traditional spindle) / **Snapdragon** (folding); **Garden Furniture Centre Bari** (seat height 32cm = bar-height, not dining); **Urban Deco Otero** (no image, back design unverified).
 
