@@ -78,6 +78,10 @@ Teak alt: **Maze Jakarta** (warm teak top, dark grey frame, £1,059) + teak chai
 
 <img src="artists-impressions/vermobil%20extia%20with%20daisey%20chairs.png" width="100%">
 
+### Nardi Rio (Tortora) + Daisy Rope armchairs (Beige) — warm tone-on-tone
+
+<img src="artists-impressions/nardi%20rio%20tortora%20with%20extia%20daisey%20beige.png" width="100%">
+
 [↑ Contents](#contents)
 
 ---
