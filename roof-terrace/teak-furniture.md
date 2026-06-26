@@ -52,6 +52,23 @@
 
 8 as the everyday size, 10 when extended for guests.
 
+<a id="rune"></a>
+
+### Bistro / extension table — Sustainable Furniture Rune Square 100cm · £280
+
+<img src="chair-images/sf-rune-square-100cm.jpg" width="100%">
+
+Same supplier, same SVLK teak. **100cm × 100cm × H75cm** — an exact dimensional match to the Azura (same width, same height). Two uses:
+
+- **Narrow terrace bistro:** 100cm square seats 4 comfortably — right scale for the narrow section alongside the kitchen
+- **Extension to the main table:** push it flush against the end of the Azura and the two surfaces line up perfectly (same height, same width), adding a further 2 seats at the new far end + opening up 1–2 more chairs down each long side — effectively adding 2–4 seats for a big occasion
+
+Legs will be simpler than the Azura's X cross-brace (straightforward four-post teak frame), so it reads as an extension rather than pretending to be a matching set. At £280 it's almost a non-decision.
+
+Has a 5cm parasol hole if ever needed.
+
+[sustainable-furniture.co.uk — Rune Square 100cm](https://sustainable-furniture.co.uk/product/rune-square-garden-table-fixed-100cm/)
+
 ---
 
 <a id="contents"></a>
@@ -59,6 +76,7 @@
 ## Contents
 
 - [Confirmed choices (above)](#confirmed)
+  - [Bistro / extension table — Rune Square 100cm · £280](#rune)
 - [Extending dining table — candidates](#tables)
   - **Cross/interesting legs (the brief):**
   - [Sustainable Furniture — Azura 8–10 (X-leg) · £920](#azura)
