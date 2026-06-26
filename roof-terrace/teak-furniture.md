@@ -315,6 +315,8 @@ After searching 20+ UK suppliers, the honest finding: **extending teak tables wi
 | **Azura 10–12 (X-leg)** | £1,280 | 240cm | 320cm | 10–12 | ⭐ X cross-brace | SVLK |
 | **Milano 270 (stainless apron)** | £1,560 *(sale to 29 Jun)* | 190cm | 270cm | 8–10 | Stainless frame | plantation |
 | **Skagerak Ballare** | £2,889 *(over budget)* | 196cm | 295cm | up to 10 | ⭐ splayed teak + stainless X | FSC 100% |
+| **Cane-line Copenhagen** | £3,000 *(over budget, too small)* | 160cm | 243cm | up to 8 | ⭐ sled/trapezoid alu | SVLK |
+| SF Lark 10–12 | £1,205 | 240cm | 320cm | 10–12 | Structural double trestle | SVLK |
 | Luxus rect | £1,259 | 200cm | 300cm | 12 | Standard trestle | SVLK |
 | Orchid rect | £1,845 | 200cm | 300cm | 12–14 | Standard trestle | plantation |
 | Jakarta (teak+alu) | £1,059 | 200cm | 320cm | 10 max | Straight alu | — |
@@ -333,11 +335,14 @@ After searching 20+ UK suppliers, the honest finding: **extending teak tables wi
 **⚠ Time-sensitive:** Jo Alexander Milano sale (£1,560, was £1,950) ends **29 June** — 3 days from now. It's a good contemporary stainless+teak table if you want something that seats 8–10 at 190→270cm with a clean modern frame.
 
 ### Interesting fixed tables found (for reference)
-The cross-leg aesthetic does exist in the fixed (non-extending) teak table market:
-- **Sustainable Furniture Eros** — chunky X-cross teak legs, 240cm or 300cm fixed, SVLK, ~price TBC (pre-order Sept). The most architecturally bold design.
+The cross-leg aesthetic exists more freely in the fixed (non-extending) market:
+- **Sustainable Furniture Eros** — chunky X-cross teak legs, 240cm or 300cm fixed, SVLK, pre-order Sept. The most architecturally bold design found anywhere in this search.
 - **Alexander Rose Plank** — enormous FSC teak X-frame (104kg), 240cm fixed, £2,599. Pairs with matching benches.
+- **Jati Blackrock 2.6m** — dark graphite aluminium A-frame trestle + teak slat top, fixed 260cm, £1,360. Very contemporary A-frame aesthetic.
 
-Neither extends. Flagged in case the brief loosens or a second fixed table is ever considered.
+None extend. Flagged if the brief ever relaxes, or as a fixed secondary table.
+
+**Also noted but over budget / wrong size:** [Cane-line Copenhagen](https://cane-line.co.uk/products/copenhagen-dining-table) (£3,000, 160→243cm, sled/trapezoid aluminium legs — genuinely beautiful Scandinavian design but too small compact and over budget); [SF Lark 10–12](https://sustainable-furniture.co.uk/product/lark-10-12-seater-extending-dining-table/) (£1,205, 240→320cm, structural double trestle — good value for 12 seats but the legs are more traditional-crafts than cross-leg).
 
 ### Next actions
 - Confirm Sydney chair cushion colour from your variant URL
