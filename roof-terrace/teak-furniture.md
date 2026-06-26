@@ -15,6 +15,7 @@
 - [Confirmed chair — Luxus Sydney](#chair)
 - [Extending dining table — candidates](#tables)
   - [Luxus 200–300cm rect (SVLK) · £1,259](#luxus-table) ⭐
+  - [Sustainable Furniture — Azura (X-leg) · £920](#azura) ⚠ 8–10 max
   - [Teakunique Orchid oval (large) · ~£1,445](#orchid-oval)
   - [Teakunique Orchid rect (large) · £1,845](#orchid-rect)
   - [Maze Jakarta (teak top + alu frame) · £1,059](#jakarta)
@@ -72,6 +73,30 @@ Needs: **contemporary** · **extending to seat 10–12** · **teak top** (matche
 **Cons:** CGI/render product photo suggests it's a newer listing (less independent review data for the table specifically) · trestle base (not four individual legs)
 
 [luxushomeandgarden.com — Rect extending table](https://www.luxushomeandgarden.com/products/teak-rectangle-200-300-cm-extending-table) · [Table + 10 chairs set](https://www.luxushomeandgarden.com/products/teak-180-240cm-oval-extending-table-4cm-top-with-8-sydney-chairs)
+
+[↑ Tables](#tables) · [↑ Top](#top)
+
+---
+
+<a id="azura"></a>
+
+### Sustainable Furniture — Azura · £920 *(X-leg cross-base)*
+
+<img src="chair-images/azura-table.jpg" width="100%">
+
+- **Price:** £920 table-only
+- **Size:** 180cm compact → **240cm extended** · 100cm wide · H75cm
+- **Seats:** **8–10** ⚠ — does not reach 12
+- **Material:** SVLK certified teak (Indonesian managed forestry, A+ sustainability rating) · maritime-grade stainless steel fixings
+- **Leg design:** ⭐ **X-shaped cross-brace at each end** — the most architecturally distinctive base here; very clean, contemporary, matches the Sydney chair's rounded aesthetic
+- **Extension:** Butterfly-leaf (leaves fold from the centre)
+- **Delivery:** Pre-order; **October 2026 delivery** — fine timing with the terrace fit-out completing late September
+
+**Pros:** Most interesting leg design on the list — the X cross-brace is genuinely contemporary · same SVLK certification as the Sydney chairs · same supplier as the Arc chair (we already know the brand) · by far the cheapest table here · October delivery fits the fit-out window
+
+**Cons:** ⚠ **Only seats 8–10** — if you regularly need 12 places, this won't stretch far enough. At 240cm extended you can seat 10 at a reasonable squeeze but not 12 · pre-order only, not in stock now · weight not published
+
+[sustainable-furniture.co.uk — Azura](https://sustainable-furniture.co.uk/product/azura-8-10-seater-extending-dining-table/)
 
 [↑ Tables](#tables) · [↑ Top](#top)
 
@@ -199,17 +224,23 @@ Needs: **contemporary** · **extending to seat 10–12** · **teak top** (matche
 
 ## Steer & next steps
 
-**The two most compelling options:**
+| Table | Price | Extended | Seats | Notes |
+|---|---|---|---|---|
+| **Azura (X-leg)** | £920 | 240cm | 8–10 | Best legs · SVLK · Oct delivery · ⚠ won't seat 12 |
+| **Luxus rect** | £1,259 | 300cm | 12 | Same supplier as chairs — set deal £2,259 for table+10 chairs ⭐ |
+| **Jo Alexander Henley** | £1,145 | 300cm | 12 | Grade A teak, cheap — no image, visit site |
+| **Tikamoon Noah** | ~£1,599+ | 270–320cm | 10–12 | Only true 4-leg option — no image, visit site |
+| **Orchid oval** | ~£1,445 | 300cm | 12 | Oval ends suit barrel-back chairs · 97kg · 10-yr guarantee |
+| **Orchid rect** | £1,845 | 300cm | 12–14 | Same but rectangular, pricier |
+| **Jakarta** | £1,059 | 320cm | 10 max | Aluminium frame less relevant; borderline seats |
 
-**1. Luxus table + chairs as a set (£2,259 for table + 10 chairs)** — one order, same SVLK-certified teak throughout, matching provenance. At £2,259 for the whole dining setup, this leaves a comfortable budget for the lounge. The main unknown is how the table looks in real life (CGI photo only) — but the chairs have strong reviews.
+**Key question:** how many seats do you actually need? If 10 is reliably enough, the **Azura (£920)** is the standout pick — best-looking legs, same SVLK certification as the chairs, cheapest by far, and October delivery fits the fit-out perfectly. If you genuinely need 12, it won't stretch.
 
-**2. Teakunique Orchid oval (£1,445)** — oval ends suit the barrel-back chairs well aesthetically; 97kg means it won't move in a storm; 10-year guarantee. Add 10–12 Sydney chairs at £176 each (sets of 4) = ~£1,445 + £1,760 = **£3,205 total**.
+**If you need 12:** the **Luxus set deal (£2,259 for table + 10 chairs)** is hardest to beat on value — one order, matched SVLK teak throughout. The **Orchid oval (~£1,445 + chairs separately)** is the aesthetics pick — rounded ends complement the barrel-back chairs, 97kg, 10-yr guarantee.
 
-**Worth visiting before deciding:** Jo Alexander Henley (£1,145 for 300cm, Grade A) and Tikamoon Noah (only 4-leg option, FSC) — both blocked image scraping so you'd need to look at them on their websites.
-
-**Reject for now:** Maze Jakarta only seats 10 max; the aluminium-frame aesthetic also makes less sense once everything else is teak.
+**Worth visiting before deciding:** Jo Alexander Henley (£1,145 for 300cm, Grade A teak) and Tikamoon Noah (the only other 4-leg design, FSC certified) — both blocked image scraping, visit their sites to see the look.
 
 **Next actions:**
 - Confirm Sydney chair cushion colour from your variant URL
-- Decide: Luxus set (convenience + value) vs Orchid oval (aesthetics + warranty) vs check Jo Alexander/Noah
-- Order 10 chairs + table (if doing the Luxus set) or 12 chairs in 3×4-packs if going separate route (10 minimum, 12 is more comfortable)
+- Decide on seat count: 10 max (Azura) or 12 (Luxus/Orchid/Henley)
+- Order 10 chairs + table (if doing the Luxus set) or chairs in 3×4-packs separately (10 minimum, 12 more comfortable)
