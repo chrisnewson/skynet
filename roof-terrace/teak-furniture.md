@@ -4,7 +4,51 @@
 
 *Working document for Chris. Ronan's drawings and specs are authoritative for everything structural.*
 
-**Chair decision: confirmed** — Luxus Home & Garden Sydney armchair. Now choosing the extending dining table to match.
+---
+
+<a id="confirmed"></a>
+
+## ✅ Confirmed choices
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Chair — Luxus Sydney armchair**
+<img src="chair-images/sydney-chair.jpg" width="100%">
+~£176/chair · set of 4 = £706
+65cm W · 59cm D · 76cm H · stackable
+[luxushomeandgarden.com](https://www.luxushomeandgarden.com/products/4-x-sydney-chairs-with-cushions)
+
+</td>
+<td width="50%" valign="top">
+
+**Table — Sustainable Furniture Azura 8–10**
+<img src="chair-images/azura-table.jpg" width="100%">
+£920 · SVLK teak · X cross-leg
+180cm compact → 240cm extended · 100cm wide · H75cm
+[sustainable-furniture.co.uk](https://sustainable-furniture.co.uk/product/azura-8-10-seater-extending-dining-table/)
+
+</td>
+</tr>
+</table>
+
+### Dimensions — do they work together?
+
+| Check | Chair | Table | Result |
+|---|---|---|---|
+| **Height compatibility** | Seat height ~45cm (standard) | Table H 75cm | ✓ 30cm knee clearance — standard comfortable dining |
+| **Arm clearance** | Arms ~65–67cm (standard dining armchair) | X-leg design: no perimeter apron; tabletop underside ~72cm | ✓ ~5–7cm clearance on long sides; the X-brace is only at each end so arms slide under freely |
+| **Chair width vs table** | 65cm wide (armchair with arms) | 180cm compact / 240cm extended | ⚠ **See seating note below** |
+| **Depth / pull-out** | 59cm D | 100cm wide → ~70cm each side clear to pull chair back | ✓ Plenty of room to pull chairs back from a 100cm-wide table |
+| **SVLK certification** | SVLK Indonesian teak | SVLK Indonesian teak | ✓ Matched — same grade, same certification |
+
+**⚠ Seating note — armchairs are wider than standard:** The Azura's "8–10 seater" rating assumes ~60cm per person (standard armless chair). The Sydney armchair is 65cm wide, which is wider. Practical seat counts with these chairs:
+
+- **At 180cm compact:** 2 per long side + 1 each end = **6 comfortably** (3 across = 195cm, won't fit at 180cm)
+- **At 240cm extended:** 3 per long side + 1 each end = **8 seats** (3×65cm = 195cm fits the 240cm length, leaving 45cm spread between chairs)
+
+The "8–10" label is realistic only with armless chairs. With the Sydney armchairs, this is effectively a **6–8 seater**. If you regularly need 8 seats and want some breathing room, the **Azura 10–12 (240cm compact → 320cm extended)** gives you 8 at compact and 10 at full extension. See below.
 
 ---
 
@@ -12,15 +56,15 @@
 
 ## Contents
 
-- [Confirmed chair — Luxus Sydney](#chair)
+- [Confirmed choices (above)](#confirmed)
 - [Extending dining table — candidates](#tables)
   - **Cross/interesting legs (the brief):**
-  - [Sustainable Furniture — Azura 8–10 (X-leg) · £920](#azura) ⚠ seats 8–10 only
-  - [Sustainable Furniture — Azura 10–12 (X-leg) · £1,280](#azura-12) ✓ seats 12
+  - [Sustainable Furniture — Azura 8–10 (X-leg) · £920](#azura) *(confirmed — 6–8 seats with these armchairs)*
+  - [Sustainable Furniture — Azura 10–12 (X-leg) · £1,280](#azura-12) *(8–10 seats with these armchairs)*
   - [Skagerak Ballare (splayed legs + stainless X-brace) · £2,889](#ballare) *(over budget — reference)*
   - [Jo Alexander — Milano 270 (stainless apron frame) · £1,560](#milano) ⚠ sale ends 29 Jun
   - **Other square-ended options:**
-  - [Luxus 200–300cm rect (SVLK) · £1,259](#luxus-table) ⭐
+  - [Luxus 200–300cm rect (SVLK) · £1,259](#luxus-table)
   - [Teakunique Orchid rect (large) · £1,845](#orchid-rect)
   - [Maze Jakarta (teak top + alu frame) · £1,059](#jakarta)
   - [Jo Alexander Henley 300cm (no image) · £1,145](#jo-alexander)
