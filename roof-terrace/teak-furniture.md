@@ -10,6 +10,8 @@
 
 ## ✅ Confirmed choices
 
+<img src="artists-impressions/sydney-chair-azura-table.png" width="100%">
+
 <table>
 <tr>
 <td width="50%" valign="top">
