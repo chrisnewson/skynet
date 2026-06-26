@@ -14,13 +14,16 @@
 
 - [Confirmed chair — Luxus Sydney](#chair)
 - [Extending dining table — candidates](#tables)
+  - **Cross/interesting legs (the brief):**
+  - [Sustainable Furniture — Azura 8–10 (X-leg) · £920](#azura) ⚠ seats 8–10 only
+  - [Sustainable Furniture — Azura 10–12 (X-leg) · £1,280](#azura-12) ✓ seats 12
+  - [Skagerak Ballare (splayed legs + stainless X-brace) · £2,889](#ballare) *(over budget — reference)*
+  - [Jo Alexander — Milano 270 (stainless apron frame) · £1,560](#milano) ⚠ sale ends 29 Jun
+  - **Other square-ended options:**
   - [Luxus 200–300cm rect (SVLK) · £1,259](#luxus-table) ⭐
-  - [Sustainable Furniture — Azura (X-leg) · £920](#azura) ⚠ 8–10 max
-  - [Teakunique Orchid oval (large) · ~£1,445](#orchid-oval)
   - [Teakunique Orchid rect (large) · £1,845](#orchid-rect)
   - [Maze Jakarta (teak top + alu frame) · £1,059](#jakarta)
   - [Jo Alexander Henley 300cm (no image) · £1,145](#jo-alexander)
-  - [Tikamoon Noah (4-leg, no image) · ~£1,599+](#noah)
 - [Steer & next steps](#steer)
 
 ---
@@ -97,6 +100,82 @@ Needs: **contemporary** · **extending to seat 10–12** · **teak top** (matche
 **Cons:** ⚠ **Only seats 8–10** — if you regularly need 12 places, this won't stretch far enough. At 240cm extended you can seat 10 at a reasonable squeeze but not 12 · pre-order only, not in stock now · weight not published
 
 [sustainable-furniture.co.uk — Azura](https://sustainable-furniture.co.uk/product/azura-8-10-seater-extending-dining-table/)
+
+[↑ Tables](#tables) · [↑ Top](#top)
+
+---
+
+<a id="azura-12"></a>
+
+### Sustainable Furniture — Azura 10–12 seater · £1,280 *(same X-leg, bigger)*
+
+<img src="chair-images/sf-azura-10-12-cross-leg.jpg" width="100%">
+
+*Extended to 320cm in a garden setting — the X-cross teak legs are clearly visible at both ends.*
+
+- **Price:** £1,280 table-only
+- **Size:** **240cm compact → 320cm extended** · 100cm wide · H75cm
+- **Seats:** 10–12 ✓
+- **Material:** SVLK certified teak · maritime-grade stainless fixings
+- **Leg design:** Identical bold X cross-brace as the 8–10 — same chunky teak diagonals at each end
+- **⚠ Compact size:** starts at 240cm — a substantially large everyday table. Fine if the dining area can take 240cm as its normal footprint; the 8–10 is better if you want to tuck it down smaller.
+- **Delivery:** Pre-order; **October 2026** — timed well with fit-out completing late September
+
+**Pros:** The only extending table found with X-cross teak legs that comfortably seats 12 · same SVLK certification as the Sydney chairs · October delivery fits the fit-out perfectly
+
+**Cons:** 240cm compact is a large daily footprint · pre-order only · weight unpublished
+
+[sustainable-furniture.co.uk — Azura 10–12](https://sustainable-furniture.co.uk/product/azura-10-12-seater-extending-dining-table/)
+
+[↑ Tables](#tables) · [↑ Top](#top)
+
+---
+
+<a id="ballare"></a>
+
+### Skagerak — Ballare · £2,889 *(over budget — design reference)*
+
+<img src="chair-images/skagerak-ballare-extending.jpg" width="100%">
+
+- **Price:** £2,889 (Innes, Olson+Baker) — ~£400 over the £2,500 threshold
+- **Size:** 196cm compact → 246cm (1 leaf) → 295cm (2 leaves) · 90cm wide · H74cm
+- **Seats:** Up to 10 (tight at 90cm width — 8 comfortably)
+- **Material:** **FSC 100% certified solid teak**, untreated · Designer: Jakob Berg (Skagerak / Fritz Hansen)
+- **Leg design:** ⭐ **Four outward-splayed square teak legs with diagonal stainless steel tension rods forming a visible X cross-brace at each end** — a structural-engineering / Scandinavian maritime aesthetic. The most sophisticated leg design in this search.
+- **Weight:** ~45–52kg · Leaves store separately
+- **Guarantee:** Skagerak / Fritz Hansen — premium Danish brand
+
+**Pros:** The most beautiful table in this list by some margin — the stainless X tension rods are a genuinely original detail · FSC 100% · designer pedigree · 196cm compact is a practical everyday size
+
+**Cons:** £389 over the £2,500 budget cap · only seats 10 at full extension (90cm width is narrow for 10); 8 is more comfortable · smaller Scandinavian brand means harder to test / view in person
+
+[innes.co.uk — Skagerak Ballare](https://www.innes.co.uk/products/skagerak-ballare-extendable-outdoor-dining-table)
+
+[↑ Tables](#tables) · [↑ Top](#top)
+
+---
+
+<a id="milano"></a>
+
+### Jo Alexander — Milano 270 · £1,560 *(sale ends 29 Jun — 3 days)*
+
+<img src="chair-images/joalexander-milano-270-3.jpg" width="100%">
+
+*Milano shown with dining chairs — the full-perimeter stainless steel apron frame is clearly visible under the teak slatted top.*
+
+- **Price:** £1,560 on sale (was £1,950) — **⚠ sale ends 29 June 2026, 3 days from now**
+- **Size:** 190cm compact → 230cm → 270cm extended (3 settings) · 90cm wide · H75cm
+- **Seats:** ~8–10 (at 270×90cm)
+- **Material:** Plantation teak slatted top · full **316 marine-grade brushed stainless steel perimeter apron frame** — legs and connecting rail all in stainless
+- **Leg design:** Four square-section stainless steel legs connected by a continuous horizontal stainless apron running all four sides — creates a "floating teak on a steel platform" effect. Contemporary by material contrast rather than geometric complexity. New for 2025.
+- **Teak:** Plantation, ethically sourced (no FSC/SVLK stated explicitly)
+- **Stainless:** 316 marine-grade — excellent for Brighton seafront ✓
+
+**Pros:** The stainless + teak material combination is genuinely contemporary and very coastal-appropriate · 316 marine stainless = best corrosion resistance · 190cm compact is a practical size · within budget at the sale price
+
+**Cons:** 90cm width is narrow for 10 seats · seats 8–10 at 270cm, not 12 · no FSC/SVLK cert stated · not cross/trestle legs — the "interest" is in the material contrast, not the geometry · sale price may not last
+
+[joalexander.co.uk — Milano 270](https://www.joalexander.co.uk/garden-furniture/garden-tables/extending-garden-tables/milano-double-extending-table-270cm)
 
 [↑ Tables](#tables) · [↑ Top](#top)
 
@@ -224,23 +303,44 @@ Needs: **contemporary** · **extending to seat 10–12** · **teak top** (matche
 
 ## Steer & next steps
 
-| Table | Price | Extended | Seats | Notes |
-|---|---|---|---|---|
-| **Azura (X-leg)** | £920 | 240cm | 8–10 | Best legs · SVLK · Oct delivery · ⚠ won't seat 12 |
-| **Luxus rect** | £1,259 | 300cm | 12 | Same supplier as chairs — set deal £2,259 for table+10 chairs ⭐ |
-| **Jo Alexander Henley** | £1,145 | 300cm | 12 | Grade A teak, cheap — no image, visit site |
-| **Tikamoon Noah** | ~£1,599+ | 270–320cm | 10–12 | Only true 4-leg option — no image, visit site |
-| **Orchid oval** | ~£1,445 | 300cm | 12 | Oval ends suit barrel-back chairs · 97kg · 10-yr guarantee |
-| **Orchid rect** | £1,845 | 300cm | 12–14 | Same but rectangular, pricier |
-| **Jakarta** | £1,059 | 320cm | 10 max | Aluminium frame less relevant; borderline seats |
+### Market reality — cross-leg extending teak tables
 
-**Key question:** how many seats do you actually need? If 10 is reliably enough, the **Azura (£920)** is the standout pick — best-looking legs, same SVLK certification as the chairs, cheapest by far, and October delivery fits the fit-out perfectly. If you genuinely need 12, it won't stretch.
+After searching 20+ UK suppliers, the honest finding: **extending teak tables with genuinely interesting legs are extremely rare.** The overwhelming majority use a standard H-frame trestle (two vertical posts at each end + stretcher bar). The ones that break from this are listed first below. Everything else is a conventional trestle.
 
-**If you need 12:** the **Luxus set deal (£2,259 for table + 10 chairs)** is hardest to beat on value — one order, matched SVLK teak throughout. The **Orchid oval (~£1,445 + chairs separately)** is the aesthetics pick — rounded ends complement the barrel-back chairs, 97kg, 10-yr guarantee.
+### Full comparison table
 
-**Worth visiting before deciding:** Jo Alexander Henley (£1,145 for 300cm, Grade A teak) and Tikamoon Noah (the only other 4-leg design, FSC certified) — both blocked image scraping, visit their sites to see the look.
+| Table | Price | Compact | Extended | Seats | Legs | Cert |
+|---|---|---|---|---|---|---|
+| **Azura 8–10 (X-leg)** | £920 | 180cm | 240cm | 8–10 | ⭐ X cross-brace | SVLK |
+| **Azura 10–12 (X-leg)** | £1,280 | 240cm | 320cm | 10–12 | ⭐ X cross-brace | SVLK |
+| **Milano 270 (stainless apron)** | £1,560 *(sale to 29 Jun)* | 190cm | 270cm | 8–10 | Stainless frame | plantation |
+| **Skagerak Ballare** | £2,889 *(over budget)* | 196cm | 295cm | up to 10 | ⭐ splayed teak + stainless X | FSC 100% |
+| Luxus rect | £1,259 | 200cm | 300cm | 12 | Standard trestle | SVLK |
+| Orchid rect | £1,845 | 200cm | 300cm | 12–14 | Standard trestle | plantation |
+| Jakarta (teak+alu) | £1,059 | 200cm | 320cm | 10 max | Straight alu | — |
+| Henley 300 (no image) | £1,145 | 200cm | 300cm | 12 | Unconfirmed | Grade A |
 
-**Next actions:**
+### The decision
+
+**If the X-leg design matters most and 10 seats is enough:** Azura 8–10 (£920). Cheapest, most distinctive legs, SVLK, October delivery. At 180cm compact it's practical for everyday use.
+
+**If you need 12 seats and want X-legs:** Azura 10–12 (£1,280). Same design, bigger — but 240cm compact is a large everyday table. Weigh that against the seat count.
+
+**If the leg design matters and budget can stretch to ~£2,900:** Skagerak Ballare. The stainless X-rod tension brace is the most original detail in this category — genuinely a designer piece. Only seats 10 at full extension though.
+
+**If you want 12 seats and aren't bothered about leg design:** Luxus set deal (£2,259 for table + 10 chairs, matched SVLK, one order) is by far the best value for that requirement.
+
+**⚠ Time-sensitive:** Jo Alexander Milano sale (£1,560, was £1,950) ends **29 June** — 3 days from now. It's a good contemporary stainless+teak table if you want something that seats 8–10 at 190→270cm with a clean modern frame.
+
+### Interesting fixed tables found (for reference)
+The cross-leg aesthetic does exist in the fixed (non-extending) teak table market:
+- **Sustainable Furniture Eros** — chunky X-cross teak legs, 240cm or 300cm fixed, SVLK, ~price TBC (pre-order Sept). The most architecturally bold design.
+- **Alexander Rose Plank** — enormous FSC teak X-frame (104kg), 240cm fixed, £2,599. Pairs with matching benches.
+
+Neither extends. Flagged in case the brief loosens or a second fixed table is ever considered.
+
+### Next actions
 - Confirm Sydney chair cushion colour from your variant URL
-- Decide on seat count: 10 max (Azura) or 12 (Luxus/Orchid/Henley)
-- Order 10 chairs + table (if doing the Luxus set) or chairs in 3×4-packs separately (10 minimum, 12 more comfortable)
+- Decide seat count: 10 (Azura 8–10) or 12 (Azura 10–12 / Luxus set / Orchid rect)
+- Decide leg priority: X-legs first (Azura) vs value (Luxus set) vs aspirational (Ballare)
+- If Milano appeals, visit the site this week — sale ends 29 June
