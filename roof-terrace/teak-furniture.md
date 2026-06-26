@@ -135,7 +135,7 @@ Needs: **contemporary** · **extending to seat 10–12** · **teak top** (matche
 
 - **Price:** £920 table-only
 - **Size:** 180cm compact → **240cm extended** · 100cm wide · H75cm
-- **Seats:** **8–10** ⚠ — does not reach 12
+- **Seats:** Manufacturer calls it **"8–10 seater"** · with our 65cm Sydney armchairs: **6 at compact (180cm) / 8 at extended (240cm)**
 - **Material:** SVLK certified teak (Indonesian managed forestry, A+ sustainability rating) · maritime-grade stainless steel fixings
 - **Leg design:** ⭐ **X-shaped cross-brace at each end** — the most architecturally distinctive base here; very clean, contemporary, matches the Sydney chair's rounded aesthetic
 - **Extension:** Butterfly-leaf (leaves fold from the centre)
@@ -161,7 +161,7 @@ Needs: **contemporary** · **extending to seat 10–12** · **teak top** (matche
 
 - **Price:** £1,280 table-only
 - **Size:** **240cm compact → 320cm extended** · 100cm wide · H75cm
-- **Seats:** 10–12 ✓
+- **Seats:** Manufacturer calls it **"10–12 seater"** · with our 65cm Sydney armchairs: **8 at compact (240cm) / 10 at extended (320cm)** ✓
 - **Material:** SVLK certified teak · maritime-grade stainless fixings
 - **Leg design:** Identical bold X cross-brace as the 8–10 — same chunky teak diagonals at each end
 - **⚠ Compact size:** starts at 240cm — a substantially large everyday table. Fine if the dining area can take 240cm as its normal footprint; the 8–10 is better if you want to tuck it down smaller.
