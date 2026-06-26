@@ -25,11 +25,11 @@
 </td>
 <td width="50%" valign="top">
 
-**Table — Sustainable Furniture Azura 8–10**
-<img src="chair-images/azura-table.jpg" width="100%">
-£920 · SVLK teak · X cross-leg
-180cm compact → 240cm extended · 100cm wide · H75cm
-[sustainable-furniture.co.uk](https://sustainable-furniture.co.uk/product/azura-8-10-seater-extending-dining-table/)
+**Table — Sustainable Furniture Azura 10–12**
+<img src="chair-images/sf-azura-10-12-cross-leg.jpg" width="100%">
+£1,280 · SVLK teak · X cross-leg
+240cm compact → 320cm extended · 100cm wide · H75cm
+[sustainable-furniture.co.uk](https://sustainable-furniture.co.uk/product/azura-10-12-seater-extending-dining-table/)
 
 </td>
 </tr>
@@ -41,16 +41,16 @@
 |---|---|---|---|
 | **Height compatibility** | Seat height ~45cm (standard) | Table H 75cm | ✓ 30cm knee clearance — standard comfortable dining |
 | **Arm clearance** | Arms ~65–67cm (standard dining armchair) | X-leg design: no perimeter apron; tabletop underside ~72cm | ✓ ~5–7cm clearance on long sides; the X-brace is only at each end so arms slide under freely |
-| **Chair width vs table** | 65cm wide (armchair with arms) | 180cm compact / 240cm extended | ⚠ **See seating note below** |
+| **Chair width vs table** | 65cm wide (armchair with arms) | 240cm compact / 320cm extended | ✓ **See seating note below** |
 | **Depth / pull-out** | 59cm D | 100cm wide → ~70cm each side clear to pull chair back | ✓ Plenty of room to pull chairs back from a 100cm-wide table |
 | **SVLK certification** | SVLK Indonesian teak | SVLK Indonesian teak | ✓ Matched — same grade, same certification |
 
-**⚠ Seating note — armchairs are wider than standard:** The Azura's "8–10 seater" rating assumes ~60cm per person (standard armless chair). The Sydney armchair is 65cm wide, which is wider. Practical seat counts with these chairs:
+**Seating with the Sydney armchairs (65cm wide):** Practical counts with these chairs:
 
-- **At 180cm compact:** 2 per long side + 1 each end = **6 comfortably** (3 across = 195cm, won't fit at 180cm)
-- **At 240cm extended:** 3 per long side + 1 each end = **8 seats** (3×65cm = 195cm fits the 240cm length, leaving 45cm spread between chairs)
+- **At 240cm compact:** 3 per long side + 1 each end = **8 seats comfortably** (3×65cm = 195cm, 45cm spread between chairs)
+- **At 320cm extended:** 4 per long side + 1 each end = **10 seats** (4×65cm = 260cm, leaving a relaxed 60cm spread between chairs)
 
-The "8–10" label is realistic only with armless chairs. With the Sydney armchairs, this is effectively a **6–8 seater**. If you regularly need 8 seats and want some breathing room, the **Azura 10–12 (240cm compact → 320cm extended)** gives you 8 at compact and 10 at full extension. See below.
+8 as the everyday size, 10 when extended for guests.
 
 ---
 
@@ -61,8 +61,8 @@ The "8–10" label is realistic only with armless chairs. With the Sydney armcha
 - [Confirmed choices (above)](#confirmed)
 - [Extending dining table — candidates](#tables)
   - **Cross/interesting legs (the brief):**
-  - [Sustainable Furniture — Azura 8–10 (X-leg) · £920](#azura) *(confirmed — 6–8 seats with these armchairs)*
-  - [Sustainable Furniture — Azura 10–12 (X-leg) · £1,280](#azura-12) *(8–10 seats with these armchairs)*
+  - [Sustainable Furniture — Azura 8–10 (X-leg) · £920](#azura)
+  - [Sustainable Furniture — Azura 10–12 (X-leg) · £1,280](#azura-12) *(confirmed — 8 seats everyday, 10 extended)*
   - [Skagerak Ballare (splayed legs + stainless X-brace) · £2,889](#ballare) *(over budget — reference)*
   - [Jo Alexander — Milano 270 (stainless apron frame) · £1,560](#milano) ⚠ sale ends 29 Jun
   - **Other square-ended options:**
