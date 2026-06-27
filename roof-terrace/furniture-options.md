@@ -575,6 +575,23 @@ All four chairs share the same **rounded barrel-back** aesthetic — very clean 
 
 [stoaked.co.uk — outdoor seating bases](https://www.stoaked.co.uk/outdoor-seating-bases/outdoor-u-shaped-33-corner-sofa-bases/)
 
+#### Full-U layout in the FA3 lounge — measured plan
+
+<img src="drawings/stoaked-full-u-fa3-27-6-26.png" width="100%">
+
+Because Stoaked build to order, the U is **made to fit the exact stepped zone** — a continuous aluminium base **0.79 m deep** wrapping all three sides, with **no awkward leftover gaps** (the key contrast with the off-the-peg teak modules).
+
+| Run | Length | Depth | Seats |
+|---|---|---|---|
+| East back run (backs to wall) | 3.30 m | 0.79 m | ~4 |
+| North leg (longer) | 2.70 m | 0.79 m | ~3 |
+| South leg (shorter) | 2.37 m | 0.79 m | ~2 |
+| **Total continuous U** | — | — | **~8 seats** |
+
+**Spare space:** none wasted at the edges (bespoke fills the U); the leftover is the usable **clear centre ≈ 1.72 m wide × ~1.7 m deep** for the coffee table + legroom. Seat height is low at **30 cm** (≈ 41 cm with a cushion).
+
+> **Cost — a full U _does_ fit the budget here.** Bespoke aluminium frame ≈ **£2,200** (stock symmetric U is £2,310; ours is slightly smaller) **+ cushions ≈ £1,200–£1,600** (bespoke ~8-seat set, Sunbrella/Agora + quick-dry foam + zip covers) = **≈ £3,400–£3,800 all-in.** Compare the teak Maluku II full U at **£5,025** frame-only (+£525 ottoman) — the aluminium route delivers the *full* three-sided U, fitted exactly, ~£1,500–1,800 cheaper. **Cheaper still:** a **Quatropi** à-la-carte aluminium U ≈ **£1,500–£2,200 incl. cushions** (charcoal, not bespoke-fitted). *⚠ Frame figure is an estimate — get Stoaked's bespoke CAD quote + the marine coating spec; cushion price firms up once the frame size is set.*
+
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
 ---
