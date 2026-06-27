@@ -563,7 +563,7 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** So
 | [**Quatropi Zara**](#zara) ⭐ | aluminium, à-la-carte | ✅ daybed-L hybrid | **£2,300** (+ table) | ~6 | ✅ daybed-L | ✅ |
 | [**Kettler Elba**](#kettler-elba) | aluminium, set-based | ◐ (coarse) | **~£3,000–3,500** | ~6 | ✗ | ✅ |
 | [**Stoaked** ⭐](#stoaked) | aluminium, **bespoke** | ✅ **fits exactly, no gaps** | **~£3,400–3,800** | ~8 | ✅ | ✅ |
-| [**Harbour Panama**](#harbour-panama) | aluminium, by module | ◐ fits (coarse, deep) | **~£4,092** | ~10 | ◐ | ✗ over budget |
+| [**Harbour Panama**](#harbour-panama) | aluminium, by module | ◐ 9-seat U, **0.58m corner gap** | **~£3,866** (3 sofas + table) | 9 | ◐ | ✅ (gappy) |
 | [**Maluku II**](#maluku) | teak, modular | ✅ (gaps) | **£5,025** (+£525 ottoman) | 7 | ✅ | ✗ over |
 | [**Indian Ocean Cove**](#cove) | teak, à-la-carte | ✅ (8–100cm gaps) | **~£5,205** | ~6 | ◐ | ✗ over |
 | [**4 Seasons Meteoro**](#meteoro) | aluminium, modular | ✅ (coarse) | **~£5,800** *(best upright comfort)* | ~8 | ◐ | ✗ over |
@@ -580,7 +580,7 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** So
 | **Kettler (Elba)** | ~4★ Trustpilot + **2,490 Reviews.io** | est. **1985**, solvent | **3yr frame** (extreme-weather excl.) | **teak trim** greys/moves; delivery/parts hassle | **Low–Med** |
 | **Indian Ocean (Cove)** | thin (3.8★/2 — the brutal reviews are a *different, dissolved* firm) | ⭐ est. **1990**, Harrods | only **2yr**, vague | rope + cushions + metal (teak fine) | **Med** (£5.2k, over budget) |
 | **4 Seasons (Meteoro)** | ~4★ / ~120, mixed; responsive after-sales | stable, small | 5yr frame / 3yr cushion (extreme-weather excl.) | **QC-on-arrival defects**; Olefin cushions | **Med** |
-| **Harbour (Panama)** | ~4.0 / ~2,000 (service/refund tail) | **young (2020)** | structural; **cushions excluded** | cushions not all-weather; ~£4,092 = over budget for a U | **Med** |
+| **Harbour (Panama)** | ~4.0 / ~2,000 (service/refund tail) | **young (2020)** | structural; **cushions excluded** | cushions not all-weather; ~£3,866 U (in budget) but a 0.58m corner gap | **Med** |
 | **Stoaked** | thin (203, one curated site, no Trustpilot) | **micro**, est. 2017 | "lifetime" frame welds only — **weathering excluded** | offers steel — must lock 100% marine alu + A4/316 | **Med–High** |
 | **Teakunique (Maluku II)** | ⚠ **none anywhere** | ⚠ micro, **weak finances** (~£21k net assets, −76%) | 10yr teak (excl. cushions/cracking) — **fragile backer** | teak fine; balance-sheet risk on the guarantee | **Med–High** |
 
@@ -779,11 +779,11 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 
 *Panama teak coffee table (£359) + side table (£225).*
 
-**Pros:** Genuinely à-la-carte; charcoal aluminium; armless/low/clean look; **converts to sun-loungers**; matching teak tables; reputable retailer · **Cons:** ⚠ only **two seat pieces (198cm 3-seat + 74cm corner)** and no mid-size module. Sofas are **armless** so you *can* drop the corner on the short leg and butt a sofa straight on (fixes the 2.37m leg) — **but the 3.30m back still can't be filled cleanly** (sofa+corner = 272 → 0.58m gap; sofa+2 corners = 346 → 0.16m over). So the U is achievable but ends up gappy/chunky. Fine for an **L (~£3.6k)**; the best full U (see map below) ≈ **£4,092** — over budget, not unbuildable. *(Mixing 198cm sofas + just enough 74cm corner units to fill the gaps DOES tile cleanly and fit — but the £585 corners mean even a mixed U lands **~£4,700** (e.g. 4 corners + 2 sofas), over budget. Quatropi Zara gives the same fit for ~£2,380.)* Sets currently out of stock; cushions not all-weather
+**Pros:** Genuinely à-la-carte; charcoal aluminium; armless/low/clean look; **converts to sun-loungers**; matching teak tables; reputable retailer · **Cons:** ⚠ only **two seat pieces (198cm 3-seat + 74cm corner)** and no mid-size module. Sofas are **armless** so you *can* drop the corner on the short leg and butt a sofa straight on (fixes the 2.37m leg) — **but the 3.30m back still can't be filled cleanly** (sofa+corner = 272 → 0.58m gap; sofa+2 corners = 346 → 0.16m over). So the U is achievable but ends up gappy/chunky. **Best full U = 3 armless sofas (9 seats) turning the corners (see map below) ≈ £3,507 + £359 teak coffee table = ~£3,866 — IN budget**, but the 198cm sofas are 16cm too wide to tile the 3.30m back, so **one back corner is left as a ~0.58m gap** (a £585 corner unit to fill it would overshoot the wall ~16cm, so it can't be cleanly added). Sets currently out of stock (buy modules); cushions not all-weather.
 
 [harbourlifestyle.co.uk — Panama](https://www.harbourlifestyle.co.uk/products/panama-luxury-outdoor-corner-group-set-charcoal)
 
-**Best Panama U mapped (for reference — over budget):**
+**Best Panama U mapped (in budget, with one corner gap):**
 
 <img src="drawings/panama-best-u-fa3-27-6-26.png" width="100%">
 
@@ -791,7 +791,7 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 
 > ⚠ *Inaccurate AI impression — for look & feel only, not dimensionally accurate.*
 
-3 armless 198cm sofas butted at the junctions + one 74cm corner filling the NE = **10 seats, ~£4,092** — it fits and looks generous, but it's **over the £4k budget**, deep/chunky, and the 198cm sofas don't divide our runs (~15–35cm overlap/gap at the corners). Quatropi Zara gives the same wrap-around for ~£2,300.
+3 armless 198×74cm sofas turn the SW corner; the back run's 198cm sofa is **16cm too wide** to fit between two corner-turning legs, so the **NE corner is left as a ~0.58m gap** (no seat) and the south leg's open end has ~0.39m spare. **9 seats, 3 sofas £3,507 + Panama teak coffee table £359 = ~£3,866 — in budget**, deep/chunky, lounge-first, cushions not all-weather, converts to sun-loungers. Quatropi Zara gives a cleaner wrap-around (no corner gap) for ~£2,300.
 
 **If Panama stays out of stock** — near-identical in-stock alternatives: **daals "Albany"** (~£730, dark grey, reclines to a lounger) and **Bramblecrest** (premium, marine-grade). A bespoke-fitted U is still cleaner via Stoaked/Quatropi, but Panama-by-module is a viable route.
 
