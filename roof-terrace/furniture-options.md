@@ -592,6 +592,28 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** So
 
 **Verdict:** on the don't-buy-a-problem test, **Quatropi Zara is the standout** — preferred look, fits the U, cheapest, *and* lowest-risk (huge verified review base + proven refunds + 22-yr company). **Kettler Elba is the strong safe alternative on company strength** (est. 1985 + 3-yr frame warranty, big review base) — but its cushions are **polyester, not Sunbrella** (correction), and it mixes in teak side-trays, so it has no real edge over the others on the parts that actually fail at C5. **Stoaked**, despite the perfect bespoke fit, is a **higher-risk bet** (tiny firm, thin evidence, warranty excludes exactly what a seafront inflicts) — only worth it if the marine-alu + coating spec is locked in writing. **Teakunique** carries small-firm risk *plus* a fragile balance sheet behind its 10-yr promise.
 
+### Comfort — seat depth, back height & slouch risk (27 Jun)
+
+*Worry checked: a deep seat + low back = slouching. The real driver is **seat depth** (a normal seat is ~55–60cm), not back height — **every** low-lounge sofa here has a low back (lumbar support only), so **a firm lumbar/scatter cushion per seat is the universal upright fix.** "Back above seat" figures are derived (total height − seat height) — confirm by sitting on one.*
+
+| Option | Seat depth | Seat height | Back above seat | Cushions | Upright "sit & chat" | Lounge |
+|---|---|---|---|---|---|---|
+| **4 Seasons Meteoro** | **59 cm** (shallowest) | 44 cm | ~36 cm | thick Olefin | ✅ **best** (OK without extra) | ✅ |
+| **Quatropi Zara** | **60 cm** *(the 93 is the module footprint, not the seat)* | 48 cm | ~43 cm | ⚠ soft (owners say they "sink") | ◐ good **+ firm lumbar cushion** | ✅✅ |
+| **Stoaked** | bespoke (spec ~60 cm) | ⚠ **30 cm frame (~40 w/cushion — low, hard to rise)** | bespoke (spec 50–60 cm) | bespoke | ✅ if specced firm | ✅ |
+| **Indian Ocean Cove** | ~79 cm (deep) | ~43 cm | taller (Full/Relax choice) | marine fibre + quick-dry foam | ✅ with "Full" cushion | ✅✅ |
+| **Maluku II** | ~60 cm | 45 cm | ⚠ **~25 cm (very low)** — cushioned, not slatted | soft | ✅ upright "perch" | ✗ no shoulder support |
+| **Harbour Panama** | ~62 cm | 43 cm | ~38 cm; back reclines | ⚠ firm polyester | ◐ (recline helps lounging only) | ✅ |
+| **Kettler Elba** | ⚠ **80 cm (deepest)** | **35 cm (lowest)** | ~37 cm | 8cm double-piped foam (best fill) | ✗ slouchy (can't reach the back) | ✅✅ plush |
+
+**Reads:**
+- **The Zara slouch worry is largely a false alarm** — the 93 cm is the *floor footprint*; the seat is **60 cm** (normal-deep). The genuine watch-item is the **soft, sinking cushions** — a **firm lumbar/scatter cushion per seat** fixes both the sink and the low back.
+- **Best upright out of the box: 4 Seasons Meteoro** (59 cm seat). **Worst upright: Kettler Elba** (80 cm seat — plush to lounge in, but you can't sit forward without a big back cushion) and **Panama** (recline is lounge-only).
+- **Maluku II is the opposite problem** — a very low 25 cm back = an upright "perch", poor for leaning back/lounging.
+- **Stoaked** can be the most ergonomic *because* the cushions are bespoke (spec firm seat + a taller 50–60 cm back + lumbar) — but the **30 cm seat is low**, so harder to rise from (a factor for older guests).
+- **No independent comfort reviews** exist for Stoaked, Maluku or Cove — those verdicts rest on dimensions; sit on them if you can.
+- **Universal:** budget a **firm lumbar/scatter cushion per seat** whatever you choose — it converts any of these low-lounge sofas into upright-capable.
+
 ## Aluminium — frame + stored cushions (the route to a full U in budget)
 
 *Universal caveat for all aluminium below: aluminium itself never rusts, but the **powder-coat** can corrode at edges in C5 salt — get the marine/seaside-class coating spec (+ pre-treatment) in writing before ordering, and confirm seat height + exact dims (most don't publish them).*
@@ -664,7 +686,7 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 - **Material:** powder-coated aluminium, bare box; smoke-grey / mono-grey cushions · ⚠ confirm C5 coating spec.
 - **Cushions:** included, machine-washable covers, store indoors.
 - **Fit:** north leg ~0.13 m spare, south leg ~0.73 m spare; **clear centre ≈ 1.44 m**. The daybed L *is* the flat lounging surface, so the missing footstool module doesn't matter.
-- ⚠ **93 cm deep** — the deepest aluminium option: comfy/lounge-y seats but a tighter centre than Stoaked (1.72 m).
+- **Modules are 93 cm deep** (floor footprint) → squeezes the centre to ~1.44 m vs Stoaked's 1.72 m. **The seat itself is 60 cm** (normal — *not* a slouch trap; the 93 is frame-to-back), seat height 48 cm. ⚠ Cushions are **soft and "sink"** → add a **firm lumbar/scatter cushion per seat** for upright support (see Comfort table).
 - *Alternative layout:* a symmetric 6-seat U (2 corners + 4 mids, £2,380) — see `drawings/zara-full-u-fa3-27-6-26.png`.
 
 **Pros:** Clean modern bare-box look (your preference); true à-la-carte; soft cushions sit OK at the corner; the hybrid gives a proper daybed; cheap (~£2,300); strong reviews (Trustpilot ~4.8) · **Cons:** Mid/dark grey only (no true charcoal); deep modules shrink the centre; C5 coating to confirm
