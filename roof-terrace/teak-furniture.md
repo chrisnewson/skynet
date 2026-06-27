@@ -54,20 +54,21 @@
 
 <a id="rune"></a>
 
-### Bistro / extension table — Sustainable Furniture Rune Square 100cm · £280
+### Bistro table — Sustainable Furniture Rune Square 80cm · £240
 
-<img src="chair-images/sf-rune-square-100cm.jpg" width="100%">
+<img src="chair-images/sf-rune-square-80cm.jpg" width="100%">
 
-Same supplier, same SVLK teak. **100cm × 100cm × H75cm** — an exact dimensional match to the Azura (same width, same height). Two uses:
+Same supplier, same SVLK teak as the chairs and main table. **80cm × 80cm × H75cm** — sized for the narrow-terrace slot (the 100cm version was too big for it). Same 75cm height as the Azura, so it still lines up flush if ever pushed against the main table.
 
-- **Narrow terrace bistro:** 100cm square seats 4 comfortably — right scale for the narrow section alongside the kitchen
-- **Extension to the main table:** push it flush against the end of the Azura and the two surfaces line up perfectly (same height, same width), adding a further 2 seats at the new far end + opening up 1–2 more chairs down each long side — effectively adding 2–4 seats for a big occasion
+- **Narrow terrace bistro:** seats 2 everyday, 4 at a squeeze — right scale for the narrow section alongside the kitchen
+- **Spare chairs live here:** we're ordering 12 Sydney chairs (they come in 4s); the 2–4 not needed at the main table sit round this
+- **Optional extension:** can still be pushed flush onto the end of the Azura for a big occasion (same height), though at 80cm it's a touch narrower than the table's 100cm
 
-Legs will be simpler than the Azura's X cross-brace (straightforward four-post teak frame), so it reads as an extension rather than pretending to be a matching set. At £280 it's almost a non-decision.
+Simple four-post teak frame (not the Azura's X cross-brace), so it reads as a deliberate bistro piece rather than a fake matching set. 5cm parasol hole if ever needed.
 
-Has a 5cm parasol hole if ever needed.
+**Alternatives at this size** (same supplier): 80cm Teak Square **Folding** table (~£220 — folds flat for storage) · Nalani Square 90cm (~£260 — slightly bigger, chunkier slatted top). Round teak from this supplier only starts at 120cm, so nothing small enough — and square sits more efficiently in a corner slot anyway.
 
-[sustainable-furniture.co.uk — Rune Square 100cm](https://sustainable-furniture.co.uk/product/rune-square-garden-table-fixed-100cm/)
+[sustainable-furniture.co.uk — Rune Square 80cm](https://sustainable-furniture.co.uk/product/rune-square-garden-table-fixed-80cm/)
 
 ---
 
@@ -76,7 +77,7 @@ Has a 5cm parasol hole if ever needed.
 ## Contents
 
 - [Confirmed choices (above)](#confirmed)
-  - [Bistro / extension table — Rune Square 100cm · £280](#rune)
+  - [Bistro table — Rune Square 80cm · £240](#rune)
 - [Extending dining table — candidates](#tables)
   - **Cross/interesting legs (the brief):**
   - [Sustainable Furniture — Azura 8–10 (X-leg) · £920](#azura)
