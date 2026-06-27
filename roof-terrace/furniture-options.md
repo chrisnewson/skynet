@@ -562,7 +562,7 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** Sc
 |---|---|---|---|---|---|---|
 | [**Stoaked** ⭐](#stoaked) | aluminium, **bespoke** | ✅ **fits exactly, no gaps** | **~£3,400–£3,800** | ~8 | ✅ | ✅ |
 | [**Quatropi** (Cole/Alfie) ⭐](#quatropi) | aluminium, **à-la-carte** | ✅ (~72cm increments) | **~£2,450–£3,305** | ~7–8 | ✅ | ✅ **cheapest** |
-| [**Quatropi Zara**](#zara) | aluminium, à-la-carte | ✅ (corners in corners) | **£2,380 + table** | 6 | ◐ no footstool | ✅ |
+| [**Quatropi Zara**](#zara) ⭐ | aluminium, à-la-carte | ✅ daybed-L hybrid | **£2,300 + table** | ~6 | ✅ daybed-L | ✅ |
 | [**Harbour Panama**](#harbour-panama) | aluminium, by module | ✗ modules too coarse (198+74) | L ~£3.6k · U ~£5k & oversized | — | ◐ | ✗ for our U |
 | [**Kettler Elba**](#alu-other) | aluminium, à-la-carte | ✅ (coarse) | **~£2,767** | ~6 | ✗ | ✅ |
 | [**4 Seasons Meteoro**](#alu-other) | aluminium, à-la-carte | ✅ | ~£3–4.5k *(quote)* | ~6–7 | ◐ | borderline |
@@ -643,26 +643,26 @@ Plan drawn on ~85 cm modules; the **real Quatropi modules are smaller (~72–74 
 
 <a id="zara"></a>
 
-### Quatropi "Zara" — à-la-carte aluminium U ⭐ (the look Chris likes) · ~£2,380 + table
+### Quatropi "Zara" — à-la-carte aluminium U ⭐ (Chris's preferred option) · ~£2,300 + table(s)
 
-<img src="drawings/zara-full-u-fa3-27-6-26.png" width="100%">
+<img src="drawings/zara-hybrid-fa3-27-6-26.png" width="100%">
 
-The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke/mono grey, with **softer cushions that meet acceptably at the corner** — the corner-cushion butt-join that looks awkward on other ranges isn't a problem here.
+The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke/mono grey, with **softer cushions that meet acceptably at the corner**. **Preferred layout (hybrid, above):** push the NE corner + back mid + two north-leg mids together into an **L-daybed (~2.5 m)**, a **2-seater at the west end** of the south leg facing it, and a **central coffee table** (with an optional 2nd table tucked in the SE corner).
 
-| Module | Size | Position | Price |
+| Module | Size | Role | Price |
 |---|---|---|---|
-| C1 / C2 | 2 × corner 93×93 | the two east corners | £900 |
-| M1 | 1 × middle 82×93 | east back run | £370 |
-| M2 | 1 × middle 82×93 | south leg | £370 |
-| M3 / M4 | 2 × middle 82×93 | north leg | £740 |
-| **Total** | 2 corners + 4 middles = **6 seats** | | **£2,380** (+ coffee table) |
+| C2 | 1 × corner 93×93 | NE corner of the daybed | £450 |
+| M1, M3, M4 | 3 × middle 82×93 | rest of the daybed L | £1,110 |
+| M5, M6 | 2 × middle 82×93 | west-end 2-seater | £740 |
+| **Total** | 1 corner + 5 middles = **~6 seats** | | **£2,300** (+ table(s)) |
 
 - **Material:** powder-coated aluminium, bare box; smoke-grey / mono-grey cushions · ⚠ confirm C5 coating spec.
 - **Cushions:** included, machine-washable covers, store indoors.
-- **Fit:** corners in the corners (max centre); back has two small ~0.31 m gaps either side of the middle; south leg ~0.62 m spare at the open end, north leg ~0.13 m. **Clear centre ≈ 1.44 m.**
-- ⚠ **93 cm deep** — the deepest aluminium option: comfy/lounge-y seats but a tighter centre than Stoaked (1.72 m). **No footstool module** (so no easy flat-daybed fill — the deep seats are bed-like with the backs removed).
+- **Fit:** north leg ~0.13 m spare, south leg ~0.73 m spare; **clear centre ≈ 1.44 m**. The daybed L *is* the flat lounging surface, so the missing footstool module doesn't matter.
+- ⚠ **93 cm deep** — the deepest aluminium option: comfy/lounge-y seats but a tighter centre than Stoaked (1.72 m).
+- *Alternative layout:* a symmetric 6-seat U (2 corners + 4 mids, £2,380) — see `drawings/zara-full-u-fa3-27-6-26.png`.
 
-**Pros:** Clean modern bare-box look (your preference); true à-la-carte; soft cushions sit OK at the corner; cheap (~£2,380); strong reviews (Trustpilot ~4.8) · **Cons:** Mid/dark grey only (no true charcoal); deep modules shrink the centre; no footstool module; C5 coating to confirm
+**Pros:** Clean modern bare-box look (your preference); true à-la-carte; soft cushions sit OK at the corner; the hybrid gives a proper daybed; cheap (~£2,300); strong reviews (Trustpilot ~4.8) · **Cons:** Mid/dark grey only (no true charcoal); deep modules shrink the centre; C5 coating to confirm
 
 [quatropi.com — Zara corner](https://quatropi.com/products/zara-modular-corner-section-smoke-grey-93x93cm)
 
@@ -685,6 +685,12 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 **Pros:** Genuinely à-la-carte; charcoal aluminium; armless/low/clean look; reputable retailer · **Cons:** ⚠ only **two seat pieces (198cm 3-seat + 74cm corner)** and no mid-size module. Sofas are **armless** so you *can* drop the corner on the short leg and butt a sofa straight on (fixes the 2.37m leg) — **but the 3.30m back still can't be filled cleanly** (sofa+corner = 272 → 0.58m gap; sofa+2 corners = 346 → 0.16m over). So the U always ends up gappy. Fine for an **L (~£3.6k)**; a real U is gappy/~£5k. *(Mixing 198cm sofas + just enough 74cm corner units to fill the gaps DOES tile cleanly and fit — but the £585 corners mean even a mixed U lands **~£4,700** (e.g. 4 corners + 2 sofas), over budget. Quatropi Zara gives the same fit for ~£2,380.)* Sets currently out of stock; cushions not all-weather
 
 [harbourlifestyle.co.uk — Panama](https://www.harbourlifestyle.co.uk/products/panama-luxury-outdoor-corner-group-set-charcoal)
+
+**Best Panama U mapped (for reference — over budget):**
+
+<img src="drawings/panama-best-u-fa3-27-6-26.png" width="100%">
+
+3 armless 198cm sofas butted at the junctions + one 74cm corner filling the NE = **10 seats, ~£4,092** — it fits and looks generous, but it's **over the £4k budget**, deep/chunky, and the 198cm sofas don't divide our runs (~15–35cm overlap/gap at the corners). Quatropi Zara gives the same wrap-around for ~£2,300.
 
 **If Panama stays out of stock** — near-identical in-stock alternatives: **daals "Albany"** (~£730, dark grey, reclines to a lounger) and **Bramblecrest** (premium, marine-grade). A bespoke-fitted U is still cleaner via Stoaked/Quatropi, but Panama-by-module is a viable route.
 
