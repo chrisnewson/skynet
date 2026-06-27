@@ -564,7 +564,7 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** Sc
 | [**Quatropi**](#quatropi) | aluminium, modular\* | ✅ (small gaps) | **~£2,500–£3,200**\* | ~7 | ◐ | ✅ **cheapest** |
 | [**Harbour Panama**](#harbour-panama) | aluminium, fixed set | ✗ only via oversize Large U | £5,175 (Large U) | ~7 | ◐ loungers | ✗ as a U |
 | [**Maluku II**](#maluku) | teak, modular | ✅ (gaps) | £5,025 + £525 ottoman | 7 | ✅ | ✗ over |
-| [**Albony**](#albony) | teak, modular (100 cm deep) | near-U (leg gaps) | £4,235 — **£3,600 w/ SUMMER15** | ~5 | ✅✅ | ✓ w/ sale |
+| [**Albony**](#albony) | teak, modular (100 cm deep) | 6-seat U needs 3.00 m north leg | £5,030 — **£4,275 w/ SUMMER15** (5-seat: £3,600) | ~6 | ✅✅ | ✗ just over (5-seat ✓) |
 | [**Sherborne**](#sherborne) | teak, fixed L-corner | ✗ not a U system | £1,499 (its 5-seat L) | 5 | ◐ | ✓ (not a U) |
 | [*Ref:* Fermob / Gloster / Bramblecrest Manhattan](#alu-references) | aluminium | ✅ by design | ~£5,400–£6,000+ | varies | ✅ | ✗ over |
 | [*Ref:* Maze Pulse](#alu-references) | aluminium | ◐ | ~£2,169–£3,545 | ~6 | ◐ | ✓ (cushions integral) |
@@ -749,20 +749,21 @@ The FA3 lounge is a U-shaped zone: **3.30 m** back run (east) with two return le
 
 [joalexander.co.uk — Albony modular daybed sections](https://www.joalexander.co.uk/teak-day-bed-modular-sections)
 
-#### Full-U layout in the FA3 lounge — measured plan
+#### Full-U layout in the FA3 lounge — measured plan (north leg stretched to 3.00 m)
 
 <img src="drawings/albony-full-u-fa3-27-6-26.png" width="100%">
 
-Albony's modules are **100 cm deep** (vs 79–80 cm for the others), so a full U eats more floor: only **~5 seats** fit, with **awkward leftover gaps** (0.48 m south leg, 0.81 m north leg, 0.41 m on the back run) and a smaller centre (~1.30 m). The leg-end gaps need **ottomans (£545 each)** to look finished.
+With the **north leg stretched to 3.00 m**, a second mid fits on that leg → **2 corners + 4 mids = 6 seats**, laid out with **all modules touching** and the U centred. Note Albony's mid (**M1**) is **89 × 100 cm — not a square 100 cm**, so the back-run modules total 289 cm; centring therefore leaves **~0.20 m each side, not 0.15 m**. The modules are **100 cm deep**, which squeezes the **clear centre to ~0.89 m** (tight for a coffee table) and still leaves **0.48 m** (south) and **0.22 m** (north) spare at the open leg ends.
 
 | Module | Footprint | Position | Price |
 |---|---|---|---|
 | C1 / C2 | 2 × corner 100×100 | the two east corners | £1,850 |
 | M1 | 1 × mid 89×100 | east back run | £795 |
-| M2 / M3 | 2 × mid 89×100 | one per leg | £1,590 |
-| **Total** | 2 corners + 3 mids = ~5 seats | | **£4,235** |
+| M2 | 1 × mid 89×100 | south leg | £795 |
+| M3 / M4 | 2 × mid 89×100 | north leg (stretched) | £1,590 |
+| **Total** | 2 corners + 4 mids = **6 seats** | | **£5,030** |
 
-**Cost:** £4,235 full, **£3,600 with code SUMMER15** — fits budget with the sale, but it's a ~5-seat near-U with gaps, not a clean full U. (Adding ottomans to fill the legs pushes it back over £4k.)
+**Cost:** £5,030 full, **£4,275 with code SUMMER15 — i.e. just over the £4k budget even with the sale** (and Albony's backs are separate scatter cushions, extra on top). The shorter, unstretched 5-seat version (north leg 2.70 m) is £4,235 / **£3,600** with the code. Either way the deep 100 cm modules give a cramped ~0.89 m centre — the aluminium options stay roomier and cheaper for a fuller U.
 
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
