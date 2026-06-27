@@ -554,6 +554,23 @@ All four chairs share the same **rounded barrel-back** aesthetic — very clean 
 
 > **Material decision (27 Jun 2026).** A fully-backed three-sided U in **solid teak can't be done in budget** (best teak near-U is the Albony at ~£3,850 with a sale code; a real full U is ~£5,500–5,700). Because a lounge frame is mostly **hidden under cushions** (so the dining-seat heat/look concerns barely apply), we opened the material up. Findings: **steel is out** — no marine-grade (316/duplex) modular sofa base exists at this budget (only Barlow Tyrie Layout 316, ~£12k+); cheap "galvanised" sofas are mild steel inside PE rattan (rust + wicker fail at the seafront). **Non-teak hardwood is out** — iroko/eucalyptus are less durable than teak exactly in marine conditions. **The winner is powder-coated _aluminium_:** rust-proof, anthracite to tie into the building's standing-seam cladding, and the only route to a genuine **full U + daybed within ~£4k** (frame + stored cushions). Teak stays as the warm-wood alternative (accepting a near-U).
 
+### Full-U comparison — what a complete three-sided U costs in the FA3 zone
+
+Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** Scaled plans are under each entry below (Stoaked, Quatropi, Maluku II, Albony).
+
+| Option | Material | Full U *here*? | Full-U cost (incl. cushions) | Seats | Daybed | ≤ budget |
+|---|---|---|---|---|---|---|
+| **Stoaked** ⭐ | aluminium, **bespoke** | ✅ **fits exactly, no gaps** | **~£3,400–£3,800** | ~8 | ✅ | ✅ |
+| **Quatropi** | aluminium, modular\* | ✅ (small gaps) | **~£2,500–£3,200**\* | ~7 | ◐ | ✅ **cheapest** |
+| **Harbour Panama** | aluminium, fixed set | ✗ only via oversize Large U | £5,175 (Large U) | ~7 | ◐ loungers | ✗ as a U |
+| **Maluku II** | teak, modular | ✅ (gaps) | £5,025 + £525 ottoman | 7 | ✅ | ✗ over |
+| **Albony** | teak, modular (100 cm deep) | near-U (leg gaps) | £4,235 — **£3,600 w/ SUMMER15** | ~5 | ✅✅ | ✓ w/ sale |
+| **Sherborne** | teak, fixed L-corner | ✗ not a U system | £1,499 (its 5-seat L) | 5 | ◐ | ✓ (not a U) |
+| *Ref:* Fermob / Gloster / Bramblecrest Manhattan | aluminium | ✅ by design | ~£5,400–£6,000+ | varies | ✅ | ✗ over |
+| *Ref:* Maze Pulse | aluminium | ◐ | ~£2,169–£3,545 | ~6 | ◐ | ✓ (cushions integral) |
+
+\* Quatropi don't publish module dims — figures indicative. **Cushion basis:** Stoaked total includes bespoke cushions; Maluku/Albony module prices include their own seat cushions (Albony backs = extra scatter cushions); Harbour/Maze/Quatropi include cushions. **Takeaway: a true full U in budget = aluminium** (Stoaked fits exactly; Quatropi cheapest). Teak gives a partial/near-U only (Maluku over budget, Albony ~5 seats with gaps); the fixed sets (Harbour, Sherborne) can't form our U at all.
+
 ## Aluminium — frame + stored cushions (the route to a full U in budget)
 
 *Universal caveat for all aluminium below: aluminium itself never rusts, but the **powder-coat** can corrode at edges in C5 salt — get the marine/seaside-class coating spec (+ pre-treatment) in writing before ordering, and confirm seat height + exact dims (most don't publish them).*
@@ -611,6 +628,12 @@ Because Stoaked build to order, the U is **made to fit the exact stepped zone** 
 
 [quatropi.com — outdoor modular sofa sections](https://quatropi.com/collections/outdoor-garden-modular-sofa-sections)
 
+#### Full-U layout in the FA3 lounge — indicative plan
+
+<img src="drawings/quatropi-full-u-fa3-27-6-26.png" width="100%">
+
+⚠ **Indicative only** — Quatropi don't publish module sizes, so this is drawn on **estimated 85 cm modules**; confirm real dims + seat height before relying on it. On that basis: **~2 corners + 5 mids = ~7 seats**, one ~0.67 m spare at the south leg end, clear centre ~1.75 m. **Cost ~£2,500–£3,200 incl. cushions (estimate) — the cheapest full U of the lot.**
+
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
 ---
@@ -630,6 +653,8 @@ Because Stoaked build to order, the U is **made to fit the exact stepped zone** 
 **Pros:** Off-the-shelf complete set in budget; reconfigures to loungers; charcoal aluminium; reputable retailer · **Cons:** Standard corner group, not a bespoke U — confirm dims fit the zone; the true U version is over budget
 
 [harbourlifestyle.co.uk — Panama](https://www.harbourlifestyle.co.uk/products/panama-luxury-outdoor-corner-group-set-charcoal)
+
+**Full-U note (no scaled plan):** Panama is sold as **fixed sets, not a module system**, so it can't be built into our bespoke U. The standard set is an **L-shaped corner group**; the only U is the **Large U-Shape at £5,175 — over budget** (and its dimensions aren't published, so a scaled fit-plan isn't possible). In budget it's an L, not a U.
 
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
@@ -663,6 +688,8 @@ Because Stoaked build to order, the U is **made to fit the exact stepped zone** 
 **Pros:** Excellent value for solid teak; UK-made; good customer service · **Cons:** High-back classic style — not the low modern look; not a true daybed
 
 [gardenbenches.com — Sherborne Teak Corner](https://www.gardenbenches.com/wooden-garden-corner-sofa-sets)
+
+**Full-U note (no scaled plan):** Sherborne is a **fixed 5-seat L-corner set** (the chaise just clamps to the left or right), **not a module system** — it can't be built into our three-sided U. Listed for completeness; likely a cut (high-back classic, not a U).
 
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
@@ -721,6 +748,21 @@ The FA3 lounge is a U-shaped zone: **3.30 m** back run (east) with two return le
 **Pros:** A true flat-daybed modular system in solid A-grade teak; established retailer with a real (if mixed) review base; deep, comfortable · **Cons:** At/over budget without the sale; low-back daybed style (backs are scatter cushions, sold separately) — less "sofa," more "lounger"
 
 [joalexander.co.uk — Albony modular daybed sections](https://www.joalexander.co.uk/teak-day-bed-modular-sections)
+
+#### Full-U layout in the FA3 lounge — measured plan
+
+<img src="drawings/albony-full-u-fa3-27-6-26.png" width="100%">
+
+Albony's modules are **100 cm deep** (vs 79–80 cm for the others), so a full U eats more floor: only **~5 seats** fit, with **awkward leftover gaps** (0.48 m south leg, 0.81 m north leg, 0.41 m on the back run) and a smaller centre (~1.30 m). The leg-end gaps need **ottomans (£545 each)** to look finished.
+
+| Module | Footprint | Position | Price |
+|---|---|---|---|
+| C1 / C2 | 2 × corner 100×100 | the two east corners | £1,850 |
+| M1 | 1 × mid 89×100 | east back run | £795 |
+| M2 / M3 | 2 × mid 89×100 | one per leg | £1,590 |
+| **Total** | 2 corners + 3 mids = ~5 seats | | **£4,235** |
+
+**Cost:** £4,235 full, **£3,600 with code SUMMER15** — fits budget with the sale, but it's a ~5-seat near-U with gaps, not a clean full U. (Adding ottomans to fill the legs pushes it back over £4k.)
 
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
