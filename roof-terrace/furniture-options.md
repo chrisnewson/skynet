@@ -587,6 +587,24 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 
 [teakunique.co.uk — Maluku II range](https://teakunique.co.uk/collections/teak-sofas-and-loungers)
 
+#### Full-U layout in the FA3 lounge — measured plan
+
+<img src="drawings/maluku-full-u-fa3-27-6-26.png" width="100%">
+
+The FA3 lounge is a U-shaped zone: **3.30 m** back run (east) with two return legs — **2.37 m** (south) and **2.70 m** (north), unequal because of the step down. A full three-sided U in Maluku II needs **2 corners + 5 mids + 1 ottoman** = **7 seats**, laid out as above.
+
+| Code | Module | Footprint | Position | Price |
+|---|---|---|---|---|
+| C1 / C2 | 2 × corner | 80×80 | the two east corners (base↔arm) | £1,650 |
+| M1 / M2 | 2 × mid | 80×75 | the 3.30 m east base | £1,350 |
+| M3 | 1 × mid | 80×75 | south arm (shorter leg) | £675 |
+| M4 / M5 | 2 × mid | 80×75 | north arm (longer leg) | £1,350 |
+| OT | 1 × ottoman | 80×70 | centre — footrest / extra seat / **push to a sofa = daybed** | £525 |
+
+**Spare space left over:** south arm **0.77 m** clear at the open end · north arm **0.30 m** · east base ~0.10 m tolerance · **open centre ≈ 1.80 m wide × ~1.55 m deep** for the coffee table + legroom. Furniture covers ≈ 4.8 m² of the ≈ 8.4 m² zone, so **~42% of the floor stays open**, plus the whole west side is the unobstructed entry/view side.
+
+> ⚠ **Cost reality — a full U busts the budget.** 2 corners + 5 mids = **£5,025**; with the ottoman **£5,550** — about £2,000–£2,500 over a £3k cap. What ~£3k buys is an **L-plus-chaise** (≈4 modules, e.g. 1 corner + 2 mids + 1 ottoman = **£2,850**), not a full three-sided U. A genuine full U here means lifting the budget (~£5.5k) or choosing a cheaper modular range. *(Wider hunt at a £4k ceiling in progress.)*
+
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
 ---
