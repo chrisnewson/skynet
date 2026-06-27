@@ -23,7 +23,7 @@
 - **Teak — Route A:** [Luxus Sydney ~£176](#teak-sydney) · [Sustainable Arc £195](#teak-arc) · [Teakunique Poppy £205 ⭐](#teak-poppy) · [Sklum Rokan £250](#teak-rokan)
 
 **[3 · Sofas & comfy chairs](#sofas)**
-- [Sherborne £1,499](#sherborne) · [Luxus Amalfi £1,941 ⭐](#luxus-amalfi) · [Maze Eve £1,985 ⭐](#maze-eve) · [4S Piacenza £2,499 ⭐](#piacenza) · [Teakunique Maluku £825/mod ⭐](#maluku) · [Tribu Mood £2,560](#tribu-mood) · [4S Alicante £2,699](#alicante) · [Cane-line Space (ref)](#cane-line-space)
+- [Sherborne £1,499](#sherborne) · [Teakunique Maluku II £825/mod ⭐](#maluku) · [Jo Alexander Albony ~£3,060 ⭐](#albony)
 
 **[Heat science — colour limits by material](#heat-science)** · **[Timing & checklist](#checklist)**
 
@@ -49,7 +49,7 @@
 |---|---|---|
 | **Table** | Bramblecrest Sofia — **dark anthracite ceramic** top, X-leg, table + 10 chairs | **£1,799** |
 | **Chairs** | Included with Sofia — or upgrade to Si-Si/Twist/Fox in preferred colour | **£0–£2,090** |
-| **Lounge** | **Cyan "Eero" / Jati "Belmont" teak set** (sofa + 2 armchairs + ottoman + table, 4.7/5 reviews) — or Maluku modular for a true daybed | **£2,215** |
+| **Lounge** | **Teakunique Maluku II modular teak** (true push-together daybed — Sussex showroom to view) — or Jo Alexander Albony | **~£2,850** |
 | | **Total (table + included chairs + lounge)** | **~£3,740** |
 
 Teak alt: **Maze Jakarta** (warm teak top, dark grey frame, £1,059) + teak chairs (10× Poppy ~£2,050) + lounge → ~£5,050. Stone alt: **Bramblecrest** as above. Metal alt: **Extia + Daisy armchairs** for a warm/light beige/tortora look.
@@ -571,132 +571,21 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 
 ---
 
-<a id="luxus-amalfi"></a>
-
-### Luxus — Amalfi Corner Teak ⭐ · £1,941
-
-<img src="https://www.luxushomeandgarden.com/cdn/shop/files/rn-image_picker_lib_temp_0168c1ed-258e-4ffb-b67b-3351335f3855_1024x.jpg?v=1776068081" width="100%">
-
-- **Price:** £1,941 (was £2,999)
-- **Material:** Solid teak · **Modularity:** ◐ — customisable L-shape
-- **Reviews:** luxushomeandgarden.com — **4.6/5 Trustpilot (675 reviews).** 69% 5-star; company responds to 83% of negative reviews within a week. One report of furniture rotting after one year (company did replace). Generally positive.
-
-**Pros:** Sleek low modern profile; great value at sale price; solid teak = coastal-proof · **Cons:** Not a true daybed (L-shape only)
-
-[luxushomeandgarden.com — Amalfi Corner](https://www.luxushomeandgarden.com/products/amalfi-corner-teak-sofa-and-table-set)
-
-[↑ Sofas](#sofas) · [↑ Contents](#contents)
-
----
-
-<a id="maze-eve"></a>
-
-### Maze — Eve Corner ⭐ · £1,985 (value, dark frame)
-
-<img src="https://outdoorluxeonline.com/cdn/shop/files/IMG-2471_1024x.webp?v=1740963553" width="100%">
-
-- **Price:** £1,985
-- **Material:** Slim charcoal aluminium frame; fabric cushions (store indoors) · **Modularity:** ◐ — arms convert to side tables
-- **Reviews:** mazeliving.co.uk — **~9,600 Trustpilot reviews, mixed.** Same caveat as the Maxim table: delivery delays reported, coating issues on some lines. Confirm the Eve sofa specifically before ordering; inspect on delivery.
-
-**Pros:** Dark charcoal aluminium ties to the palette; modern low profile; arms convert to side tables · **Cons:** Not a flat daybed; mixed reviews
-
-[outdoorluxeonline.com — Maze Eve](https://outdoorluxeonline.com/products/maze-outdoor-fabric-eve-corner-group-charcoa)
-
-[↑ Sofas](#sofas) · [↑ Contents](#contents)
-
----
-
-<a id="eero"></a>
-
-### Cyan "Eero" / Jati "Belmont" — Mid-Century Set with Ottoman ⭐ NEW · £2,215
-
-<img src="https://www.cyan-teak-furniture.com/11724-product_slider/eero-mid-century-deep-seated-teak-garden-set-with-footstool-5-seater.webp" width="100%">
-
-- **Price:** **£2,215** inc VAT (sale, was £2,330) — ~£785 under budget. Cheaper variants: 5-seater no footstool £2,025; 2-seater version £1,790. Confirm Brighton delivery.
-- **Pieces:** 3-seater sofa (200×88, H82) + **2 separate armchairs** (80×88, seat H43) + ottoman (64×60×43) + coffee table (120×60×50). Config 2 — sofas + chairs round a table.
-- **Material:** **Grade-A solid teak (Tectona grandis), FLEGT-licensed Indonesia**; mortise-and-tenon joints. Genuine solid teak (quoted). · **Modularity:** ◐ — ottoman (43cm, matches seat height) butts up to extend a seat into a *partial* chaise; a single ottoman = partial daybed, not a full flat bed.
-- **Cushions:** ✅ **detachable, zipped washable covers**, store indoors — maker explicitly says "store them when not in use." 6 cover colours (Mid Grey, Raven, Ecru, Forest Green, Navy, Taupe).
-- **Reviews:** Cyan Teak — **Trustpilot 4.7/5 (249 reviews)**; 30 yrs trading. *(Cyan "Eero" and Jati "Belmont" are the SAME product from the same parent company, Jati Ltd — buy from whichever quotes the better delivery/colour. Cyan carries the stronger review record.)*
-- **Fit vs your U (3.30m back + 2.70/2.40m legs):** 200cm sofa on the back run + an 80cm armchair on each return leg = comfortable fit, room for the central table.
-
-**Pros:** Best reviews + value here; confirmed Grade-A solid teak; clean modern mid-century look (slatted sides, tapered legs, flat arms); cushions store indoors; £785 under budget · **Cons:** Only a *partial* daybed (one ottoman) — not the true push-together daybed mode; not the same brand as your dining set
-
-[cyan-teak-furniture.com — Eero set](https://www.cyan-teak-furniture.com/eero-mid-century-deep-seated-teak-garden-set-with-footstool-5-seater) · [jati.co.uk — Belmont set](https://www.jati.co.uk/belmont-mid-century-teak-garden-sofa-set-with-ottoman-5-seater)
-
-[↑ Sofas](#sofas) · [↑ Contents](#contents)
-
----
-
-<a id="piacenza"></a>
-
-### 4 Seasons Outdoor — Piacenza ⭐ · £2,499
-
-<img src="https://themodernfurniturecompany.com/cdn/shop/files/IMG_8901_d8d81aae-de57-4923-9eda-0e3dd9efd278.jpg" width="100%">
-
-- **Price:** £2,499
-- **Material:** Dark aluminium frame + rope detailing; light cushions (store indoors) · **Modularity:** ✅ — rounded chaise end
-- **Reviews:** 4 Seasons Outdoor brand — **Trustpilot: 121 reviews, positive with caveats.** One long-term customer reports furniture in top condition after 8 years. Some quality concerns at purchase. themodernfurniturecompany.com as retailer: limited independent data.
-
-**Pros:** Dark aluminium ties to palette; rounded chaise; reputable brand; cushions storable · **Cons:** Limited retailer review data; not a flat daybed
-
-[themodernfurniturecompany.com — 4 Seasons Piacenza](https://themodernfurniturecompany.com/collections/outdoor-sofas)
-
-[↑ Sofas](#sofas) · [↑ Contents](#contents)
-
----
-
 <a id="maluku"></a>
 
-### Teakunique — Maluku II Modular · the true-daybed option (reassessed Jun 2026)
+### Teakunique — Maluku II Modular ⭐ · the true-daybed contender (Sussex showroom — go and see it)
 
 <img src="https://teakunique.co.uk/cdn/shop/files/Maluku2.png?v=1771256907&width=1445" width="100%">
 
 - **Price (per module):** corner 80×80×70 **£825** · mid 80×75×70 **£675** · ottoman 80×70×33 **£525**. **Seat height 45cm.** Building a full U for your space gets expensive fast: a tight L+chaise (2 corners + 1 mid + 1 ottoman) ≈ **£2,850**, but a deep U (2 corners + 2 mids + 1 ottoman) ≈ **£3,500 — over budget.**
 - **Material:** Solid teak (wording is "high-grade timber" — vaguer than Cyan's stated Grade-A); 10-yr guarantee · **Modularity:** ✅✅ — corner/mid/ottoman push together; ottoman matches the 45cm seat height for a flush chaise/daybed. *(No documented locking/connector hardware — modules simply butt together; confirm true flat-daybed alignment with Teakunique.)*
 - **Cushions:** ✅ detachable, **removable Sunproof Olefin covers**, store indoors.
-- **Reviews:** ⚠ **thin / unverified.** No Trustpilot profile; a "5.0/47 Google" badge appears on their own product page but couldn't be independently verified (nothing on Trustpilot, forums, Houzz or aggregators). Real registered UK family firm, but review-invisible.
-- **Look:** mostly modern/low/clean, **but the backrests use closely-spaced vertical slats/spindles** that read slightly more "craftsman/transitional" than the crisp Sydney/Azura aesthetic — worth eyeballing.
+- **Reviews:** thin online (no Trustpilot profile; an unverified "5.0/47 Google" badge on their own page) — **BUT Teakunique has a showroom in Sussex, so you can go and see/sit on the actual teak in person.** That in-the-flesh check beats any online review and neutralises the no-reviews worry. Real registered UK family firm. *(Confirm showroom address/opening before going.)*
+- **Look:** mostly modern/low/clean, **but the backrests use closely-spaced vertical slats/spindles** that read slightly more "craftsman/transitional" than the crisp Sydney/Azura aesthetic — judge it for yourself at the showroom.
 
-**Pros:** Only genuine config-1 push-together daybed in budget; solid teak; conforms to the unequal U-shape; 10-yr guarantee · **Cons:** ⚠ Thin independent reviews; a full U busts £3k; backs slightly more traditional than your dining set; no documented daybed-locking mechanism — confirm before buying
+**Pros:** The genuine config-1 push-together daybed in budget; solid teak; conforms to the unequal U-shape; 10-yr guarantee; **viewable at a Sussex showroom** · **Cons:** A full deep U busts £3k (£525–825/module); backs slightly more traditional than your dining set; no documented daybed-locking mechanism — confirm flat-daybed alignment on the visit
 
 [teakunique.co.uk — Maluku II range](https://teakunique.co.uk/collections/teak-sofas-and-loungers)
-
-[↑ Sofas](#sofas) · [↑ Contents](#contents)
-
----
-
-<a id="tribu-mood"></a>
-
-### Tribu — Mood · £2,560 (premium teak)
-
-<img src="https://www.gomodern.co.uk/var/images/product/1200.863/GM-MOOD-12-1.jpg" width="100%">
-
-- **Price:** £2,560
-- **Material:** A-grade teak frame + woven Tricord · **Modularity:** ◐
-- **Reviews:** gomodern.co.uk — **43 Trustpilot reviews, generally positive.** Small boutique retailer; praised for knowledgeable service. Tribu is Belgian premium brand, well-regarded in the trade.
-
-**Pros:** Premium Belgian design; low minimalist profile; teak + Tricord is elegant and coastal-durable · **Cons:** Premium price; boutique retailer (small review sample)
-
-[gomodern.co.uk — Tribu Mood](https://www.gomodern.co.uk/tribu-mood-garden-sofa.html)
-
-[↑ Sofas](#sofas) · [↑ Contents](#contents)
-
----
-
-<a id="alicante"></a>
-
-### 4 Seasons Outdoor — Alicante · £2,699
-
-<img src="https://themodernfurniturecompany.com/cdn/shop/files/Alicante_lounge_with_Footstool_and_Monroe_coffee_table_Terre_2.jpg" width="100%">
-
-- **Price:** £2,699 (sofa + 2 armchairs + footstools + coffee table)
-- **Material:** Dark aluminium frame + rope; light cushions · **Modularity:** ◐ — footstools nudge together for a lounger
-- **Reviews:** same as Piacenza above (4 Seasons Outdoor brand + The Modern Furniture Company as retailer).
-
-**Pros:** Complete set including armchairs and footstools; great sociable layout; dark frame · **Cons:** Not a flat daybed; same retailer caveats as Piacenza
-
-[themodernfurniturecompany.com — 4 Seasons Alicante](https://themodernfurniturecompany.com/collections/outdoor-sofas)
 
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
@@ -717,26 +606,6 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 **Pros:** A true flat-daybed modular system in solid A-grade teak; established retailer with a real (if mixed) review base; deep, comfortable · **Cons:** At/over budget without the sale; low-back daybed style (backs are scatter cushions, sold separately) — less "sofa," more "lounger"
 
 [joalexander.co.uk — Albony modular daybed sections](https://www.joalexander.co.uk/teak-day-bed-modular-sections)
-
-[↑ Sofas](#sofas) · [↑ Contents](#contents)
-
----
-
-<a id="cane-line-space"></a>
-
-### Cane-line — Space · ~£4,470/module *(reference — the aspiration look)*
-
-<img src="https://www.worm.co.uk/cdn/shop/products/daybed-teak_1000x.jpg" width="100%">
-
-- **Price:** ~£4,470/module (a full set is well over budget)
-- **Material:** Slim dark aluminium base + integrated teak table + light cushions
-- **Reviews:** worm.co.uk — reputable UK design retailer. Cane-line is a well-established Danish premium brand.
-
-**Pros:** Very low modern modular daybed; dark/teak palette match is perfect; the look to aim for · **Cons:** Well over budget — reference only; Piacenza and Maluku achieve a similar look for far less
-
-[worm.co.uk — Cane-line Space](https://www.worm.co.uk/products/space-daybed-module-with-teak-table-left)
-
-*More options (not pictured):* Fast Aikana aluminium daybed (£3,330) · Heal's Eos modular (£1,808) · Skagerak Tradition teak modular (~£1,865/module) · Emu Tami matt-black aluminium (£3,170).
 
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
