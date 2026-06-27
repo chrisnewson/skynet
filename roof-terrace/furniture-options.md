@@ -23,7 +23,7 @@
 - **Teak — Route A:** [Luxus Sydney ~£176](#teak-sydney) · [Sustainable Arc £195](#teak-arc) · [Teakunique Poppy £205 ⭐](#teak-poppy) · [Sklum Rokan £250](#teak-rokan)
 
 **[3 · Sofas & comfy chairs](#sofas)**
-- **Aluminium (route to a full U in budget):** [Stoaked bespoke U-base ⭐](#stoaked) · [Quatropi à-la-carte ⭐](#quatropi) · [Quatropi Zara ⭐](#zara) · [Harbour Panama (by module)](#harbour-panama) · [other à-la-carte ranges](#alu-other) · [over-budget refs](#alu-references)
+- **Aluminium (route to a full U in budget):** [Stoaked bespoke U-base ⭐](#stoaked) · [Quatropi à-la-carte ⭐](#quatropi) · [Quatropi Zara ⭐](#zara) · [Kettler Elba ⭐](#kettler-elba) · [Harbour Panama (by module)](#harbour-panama) · [other à-la-carte ranges](#alu-other) · [over-budget refs](#alu-references)
 - **Teak (~£5k, no real daybed):** [Maluku II ⭐](#maluku) · [Indian Ocean Cove](#cove) · [Sherborne](#sherborne)
 
 **[Heat science — colour limits by material](#heat-science)** · **[Timing & checklist](#checklist)**
@@ -593,7 +593,7 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** Sc
 3. **Confirm coating/warranty wording** — does salt/coastal exposure void cover? Treat the powder-coat as re-coatable.
 4. **Pay by credit card (Section 75)** — especially for the small makers (Stoaked, Teakunique).
 
-**Verdict:** on the don't-buy-a-problem test, **Quatropi Zara is the standout** — preferred look, fits the U, cheapest, *and* lowest-risk (huge verified review base + proven refunds + 22-yr company). **Kettler Elba is the strong safe alternative** (Sunbrella cushions are a real seafront plus — just minimise the teak trim). **Stoaked**, despite the perfect bespoke fit, is a **higher-risk bet** (tiny firm, thin evidence, warranty excludes exactly what a seafront inflicts) — only worth it if the marine-alu + coating spec is locked in writing. **Teakunique** carries small-firm risk *plus* a fragile balance sheet behind its 10-yr promise.
+**Verdict:** on the don't-buy-a-problem test, **Quatropi Zara is the standout** — preferred look, fits the U, cheapest, *and* lowest-risk (huge verified review base + proven refunds + 22-yr company). **Kettler Elba is the strong safe alternative on company strength** (est. 1985 + 3-yr frame warranty, big review base) — but its cushions are **polyester, not Sunbrella** (correction), and it mixes in teak side-trays, so it has no real edge over the others on the parts that actually fail at C5. **Stoaked**, despite the perfect bespoke fit, is a **higher-risk bet** (tiny firm, thin evidence, warranty excludes exactly what a seafront inflicts) — only worth it if the marine-alu + coating spec is locked in writing. **Teakunique** carries small-firm risk *plus* a fragile balance sheet behind its 10-yr promise.
 
 ## Aluminium — frame + stored cushions (the route to a full U in budget)
 
@@ -667,6 +667,10 @@ Plan drawn on ~85 cm modules; the **real Quatropi modules are smaller (~72–74 
 
 ### Quatropi "Zara" — à-la-carte aluminium U ⭐ (Chris's preferred option) · ~£2,300 + table(s)
 
+<img src="https://quatropi.com/cdn/shop/files/quatropi-zara-modular-corner-section-smoke-grey-93x93cm-1218279664.jpg" width="100%">
+
+*Quatropi Zara module — smoke grey, clean bare dark-aluminium box. Layout plan below.*
+
 <img src="drawings/zara-hybrid-fa3-27-6-26.png" width="100%">
 
 The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke/mono grey, with **softer cushions that meet acceptably at the corner**. **Preferred layout (hybrid, above):** push the NE corner + back mid + two north-leg mids together into an **L-daybed (~2.5 m)**, a **2-seater at the west end** of the south leg facing it, and a **central coffee table** (with an optional 2nd table tucked in the SE corner).
@@ -687,6 +691,27 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 **Pros:** Clean modern bare-box look (your preference); true à-la-carte; soft cushions sit OK at the corner; the hybrid gives a proper daybed; cheap (~£2,300); strong reviews (Trustpilot ~4.8) · **Cons:** Mid/dark grey only (no true charcoal); deep modules shrink the centre; C5 coating to confirm
 
 [quatropi.com — Zara corner](https://quatropi.com/products/zara-modular-corner-section-smoke-grey-93x93cm)
+
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
+---
+
+<a id="kettler-elba"></a>
+
+### Kettler "Elba Signature" low-lounge ⭐ (safe alternative) · corner set £2,149
+
+<img src="https://www.kettler.co.uk/cdn/shop/files/003121-0210_003122-0200_003127-0210_elba_low_lounge_LIFESTYLE.jpg" width="100%">
+
+- **Price:** standard low-lounge **corner set £2,149** (incl. teak coffee table); add-ons — **L/R sofa-with-side-tables pair £1,399**, single footstool £149, 110×110 high-low table £799. A U for our space ≈ **£2,150–2,800**. Sold more as sets + add-ons than fine à-la-carte modules (coarser than Quatropi).
+- **Material:** powder-coated aluminium frame + **natural teak side-trays / coffee table**; **grey POLYESTER cushions** (⚠ *not* Sunbrella, despite earlier note); seat ~41cm. Clean modern low look (similar to Panama).
+- **Modularity:** ◐ — corner set + extension sofas/footstools rearrange; **no true flat-daybed module**.
+- **Cushions:** removable, store indoors (polyester — treat as a 3–5yr consumable).
+- **Reviews / company:** Trustpilot ~4★ (~685) + **Reviews.io ~2,490**; **Kettler GB est. 1985**, solvent. **3-yr frame warranty** (manufacturing faults; extreme-weather / poor-storage excluded). Recurring gripe = delivery / missing parts (aftercare resolves, sometimes slowly).
+- ⚠ **Coastal weak point = the teak side-trays** (grey/move; fixings can stain). A teak-free anthracite config is reportedly available via garden4less — confirm.
+
+**Pros:** Established 40-yr brand; 3-yr frame warranty; large review base; clean modern aluminium+teak look · **Cons:** Polyester cushions (no Sunbrella edge); teak trim is the C5 weak point; coarser set-based modularity; no flat-daybed; delivery/parts hassle
+
+[kettler.co.uk — Elba Signature low lounge](https://www.kettler.co.uk/collections/elba)
 
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
@@ -726,7 +751,7 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 
 All sell individual modules; all need the C5 coating-spec check. Roughly by budget:
 
-- **Kettler — Elba** (anthracite, **teak-free** config) — corner £450 (79×79, 41cm seat), L/R 2-seat pair £1,399, ottoman £149 → full U ≈ **£2,767**. ✅ in budget, reputable (Trustpilot 4/5); ⚠ coarse modularity, **no true flat-daybed**; spec teak-free (the teak trim is the coastal weak point). [garden4less / kettler.co.uk]
+- **Kettler — Elba** — now has a [full entry above](#kettler-elba) (corner set £2,149; aluminium + teak trays + polyester cushions; 3-yr warranty; est. 1985).
 - **4 Seasons Outdoor — Meteoro / Empire** (anthracite aluminium + teak) — genuine per-module SKUs, modern, strong style fit; per-module prices by quote (Tincleton 01305 848391) → likely **~£3–4.5k**, borderline. **Worth a quote — could be a top contender.**
 - **In Garden — Contemporary Modular** (charcoal frame + charcoal Sunbrella ✓) — welded powder-coated aluminium, middle 70×90 / corner 90×90; per-module "from" prices by phone (01732 463409); likely **~£2–3.5k**; ⚠ no ottoman / no clean daybed. Small specialist (also does teak).
 - **Sklum Yarilo (~£2,300) / Kave Home Sorells (~£2–3.5k)** — cheapest genuine à-la-carte aluminium, modern — but **neither does true anthracite** (Sklum cream only; Kave grey/green) and geometry is constrained, no flat daybed. Only if colour flexes.
