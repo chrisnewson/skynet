@@ -23,7 +23,8 @@
 - **Teak — Route A:** [Luxus Sydney ~£176](#teak-sydney) · [Sustainable Arc £195](#teak-arc) · [Teakunique Poppy £205 ⭐](#teak-poppy) · [Sklum Rokan £250](#teak-rokan)
 
 **[3 · Sofas & comfy chairs](#sofas)**
-- [Sherborne £1,499](#sherborne) · [Teakunique Maluku II £825/mod ⭐](#maluku) · [Jo Alexander Albony ~£3,060 ⭐](#albony)
+- **Aluminium (route to a full U in budget):** [Stoaked bespoke U-base ⭐](#stoaked) · [Quatropi sections ⭐](#quatropi) · [Harbour Panama £2,969 ⭐](#harbour-panama) · [over-budget refs](#alu-references)
+- **Teak (warm-wood, near-U):** [Maluku II ⭐](#maluku) · [Albony ⭐](#albony) · [Sherborne](#sherborne)
 
 **[Heat science — colour limits by material](#heat-science)** · **[Timing & checklist](#checklist)**
 
@@ -49,7 +50,7 @@
 |---|---|---|
 | **Table** | Bramblecrest Sofia — **dark anthracite ceramic** top, X-leg, table + 10 chairs | **£1,799** |
 | **Chairs** | Included with Sofia — or upgrade to Si-Si/Twist/Fox in preferred colour | **£0–£2,090** |
-| **Lounge** | **Teakunique Maluku II modular teak** (true push-together daybed — Sussex showroom to view) — or Jo Alexander Albony | **~£2,850** |
+| **Lounge** | **Aluminium U (Stoaked bespoke base / Quatropi sections / Harbour Panama)** — full U + daybed + stored cushions in budget; anthracite ties to the building. Teak (Maluku/Albony) = warm-wood near-U alternative | **~£2,900–£4,000** |
 | | **Total (table + included chairs + lounge)** | **~£3,740** |
 
 Teak alt: **Maze Jakarta** (warm teak top, dark grey frame, £1,059) + teak chairs (10× Poppy ~£2,050) + lounge → ~£5,050. Stone alt: **Bramblecrest** as above. Metal alt: **Extia + Daisy armchairs** for a warm/light beige/tortora look.
@@ -549,9 +550,88 @@ All four chairs share the same **rounded barrel-back** aesthetic — very clean 
 
 # 3 · Sofas & Comfy Chairs
 
-Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed · ✅ pieces combine into a daybed · ◐ reconfigures (L/R, splits) but not flat.
+**Daybed key:** ✅✅ push modules into a bed · ✅ pieces combine into a daybed · ◐ reconfigures (L/R, splits) but not flat.
+
+> **Material decision (27 Jun 2026).** A fully-backed three-sided U in **solid teak can't be done in budget** (best teak near-U is the Albony at ~£3,850 with a sale code; a real full U is ~£5,500–5,700). Because a lounge frame is mostly **hidden under cushions** (so the dining-seat heat/look concerns barely apply), we opened the material up. Findings: **steel is out** — no marine-grade (316/duplex) modular sofa base exists at this budget (only Barlow Tyrie Layout 316, ~£12k+); cheap "galvanised" sofas are mild steel inside PE rattan (rust + wicker fail at the seafront). **Non-teak hardwood is out** — iroko/eucalyptus are less durable than teak exactly in marine conditions. **The winner is powder-coated _aluminium_:** rust-proof, anthracite to tie into the building's standing-seam cladding, and the only route to a genuine **full U + daybed within ~£4k** (frame + stored cushions). Teak stays as the warm-wood alternative (accepting a near-U).
+
+## Aluminium — frame + stored cushions (the route to a full U in budget)
+
+*Universal caveat for all aluminium below: aluminium itself never rusts, but the **powder-coat** can corrode at edges in C5 salt — get the marine/seaside-class coating spec (+ pre-treatment) in writing before ordering, and confirm seat height + exact dims (most don't publish them).*
+
+<a id="stoaked"></a>
+
+### Stoaked — bespoke aluminium U sofa base ⭐ NEW · frame ~£2,000–£2,400 + cushions
+
+<img src="https://www.stoaked.co.uk/wp-content/uploads/2025/06/Outdoor-U-shaped-333-sofa-frame.jpg" width="100%">
+
+- **Price:** stock symmetric U **£2,310–£2,363** (matt anthracite grey); **bespoke** to our size likely ~£2,000–£2,400. **Frame only — add cushions ~£900–£1,600** (bespoke). **Total ≈ £2,900–£4,000** — fits £4k, cushions are the swing.
+- **Material:** powder-coated aluminium (won't rust), architectural Interpon coat · ⚠ **no explicit marine/C5 claim; lifetime guarantee excludes weathering — get the coastal coating spec in writing.**
+- **Modularity:** ✅✅ — 3 welded sections push together; split/rearrange/butt into a flat daybed. **Low 30cm seat**, 79cm deep, 68.5cm back.
+- **Bespoke fit:** handmade in Devon, CAD to any size → **builds the exact unequal U (3.30 back / 2.70 + 2.40 legs, stepped)** — the only option that fits our space precisely *and* does a full U in budget. 4–6 wks (+ bespoke), free delivery to BN2.
+- **Cushions:** sourced separately (Cushion Guys / Gardenista / The Foam Shop) — spec Sunbrella or Agora + quick-dry foam + zipped covers to store indoors.
+- **Reviews:** small maker (since 2017); thin online reviews, no Trustpilot — legitimate, but verify by phone/sample.
+
+**Pros:** Exact bespoke fit to the stepped U; anthracite matches the building; true full-U + daybed in budget; rust-proof aluminium · **Cons:** Cushions extra (+ effort to source); coastal coating spec unconfirmed; thin reviews
+
+[stoaked.co.uk — outdoor seating bases](https://www.stoaked.co.uk/outdoor-seating-bases/outdoor-u-shaped-33-corner-sofa-bases/)
+
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
 
 ---
+
+<a id="quatropi"></a>
+
+### Quatropi — build-your-own aluminium modular sections ⭐ NEW · ~£1,200–£2,000
+
+<img src="https://quatropi.com/cdn/shop/files/quatropi-modular-outdoor-garden-sofa-set-aluminium-cream-beige-170cm-1219840566.jpg" width="100%">
+
+- **Price:** corner sections £250–£450, middles £225–£600 → a U for our space ≈ 4–5 modules ≈ **£1,200–£2,000** (cushions included). **Cheapest route, and you buy exactly the leg lengths** the unequal U needs.
+- **Material:** aluminium frame; **charcoal** is the darkest (no true anthracite) · ⚠ confirm marine coat + seat height (unpublished).
+- **Modularity:** ✅ — independent seat blocks push together to a flat platform (verify flatness — arm modules can interrupt).
+- **Cushions:** included, removable → store indoors.
+
+**Pros:** Best value; à-la-carte sizing suits the unequal U perfectly; modern, clean · **Cons:** Charcoal not true anthracite; seat height/marine-coat unpublished — confirm; cushions less premium than a bespoke spec
+
+[quatropi.com — outdoor modular sofa sections](https://quatropi.com/collections/outdoor-garden-modular-sofa-sections)
+
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
+---
+
+<a id="harbour-panama"></a>
+
+### Harbour Lifestyle — Panama corner group ⭐ NEW · £2,969 (complete set)
+
+<img src="https://www.harbourlifestyle.co.uk/cdn/shop/files/PanamaCornerGroupSetCharcoal.png?v=1774956715" width="100%">
+
+- **Price:** standard corner group, **charcoal £2,969** (was £3,299) — complete set incl. cushions + free winter cover. ⚠ the **Large U-Shape version is £5,175 — over budget, don't order that one.**
+- **Material:** "rust-proof aluminium" frame; UV/water-repellent polyester cushions; teak coffee/side tables.
+- **Modularity:** ✅ — rearranges to an L, **sun loungers or a double sofa**.
+- **Cushions:** removable; **free winter cover included** → store indoors.
+- **Reviews:** Harbour Lifestyle — large Trustpilot base, generally positive (confirm Panama specifically; inspect on delivery).
+
+**Pros:** Off-the-shelf complete set in budget; reconfigures to loungers; charcoal aluminium; reputable retailer · **Cons:** Standard corner group, not a bespoke U — confirm dims fit the zone; the true U version is over budget
+
+[harbourlifestyle.co.uk — Panama](https://www.harbourlifestyle.co.uk/products/panama-luxury-outdoor-corner-group-set-charcoal)
+
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
+---
+
+<a id="alu-references"></a>
+
+### Aluminium — over-budget references (the design ideal)
+
+- **Fermob Bellevie** (modular) — flat-aluminium frame + thin removable cushions, the purest "frame + stored cushion" concept, ~23 RAL colours incl. anthracite; but a U is **~£6,000+**. [fermob-london.co.uk](https://www.fermob-london.co.uk/shop-by-category/lounge/sofas/modular-sofas/c158)
+- **Gloster Grid** — powder-coated aluminium, "almost limitless configurations" incl. a true daybed/chaise; flagship quality, **well over £4k** for a U. [gloster.com](https://www.gloster.com/en/products/collections/grid)
+- **Maze Pulse** (aluminium, charcoal, ~£2,169–£3,545) — in budget but cushions are deep/integral (less "store indoors") and one Trustpilot review reports weather/colour failure — watch C5 durability.
+- **Bramblecrest Manhattan** — genuine all-aluminium modular (Carbon/anthracite), but the **U-Shape is £5,399**; only the Square set (£3,749) fits, and it's not a U.
+
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
+---
+
+## Teak (the warm-wood alternative — accepts a near-U, not a full U in budget)
 
 <a id="sherborne"></a>
 
