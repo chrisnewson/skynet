@@ -563,8 +563,8 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** Sc
 | [**Stoaked** ⭐](#stoaked) | aluminium, **bespoke** | ✅ **fits exactly, no gaps** | **~£3,400–£3,800** | ~8 | ✅ | ✅ |
 | [**Quatropi** (Cole/Alfie) ⭐](#quatropi) | aluminium, **à-la-carte** | ✅ (~72cm increments) | **~£2,450–£3,305** | ~7–8 | ✅ | ✅ **cheapest** |
 | [**Quatropi Zara**](#zara) ⭐ | aluminium, à-la-carte | ✅ daybed-L hybrid | **£2,300 + table** | ~6 | ✅ daybed-L | ✅ |
-| [**Harbour Panama**](#harbour-panama) | aluminium, by module | ✗ modules too coarse (198+74) | L ~£3.6k · U ~£5k & oversized | — | ◐ | ✗ for our U |
-| [**Kettler Elba**](#alu-other) | aluminium, à-la-carte | ✅ (coarse) | **~£2,767** | ~6 | ✗ | ✅ |
+| [**Harbour Panama**](#harbour-panama) | aluminium, by module | ✗ modules too coarse (198+74) | **~£4,092** (best U; oversized, won't fit) | ~10 | ◐ | ✗ for our U |
+| [**Kettler Elba**](#kettler-elba) | aluminium, set-based | ◐ (coarse) | **~£2,150–2,800** (U) | ~6 | ✗ | ✅ |
 | [**4 Seasons Meteoro**](#alu-other) | aluminium, à-la-carte | ✅ | ~£3–4.5k *(quote)* | ~6–7 | ◐ | borderline |
 | [**Maluku II**](#maluku) | teak, modular | ✅ (gaps) | £5,025 + £525 ottoman | 7 | ✅ | ✗ over |
 | [**Indian Ocean Cove**](#cove) | teak, à-la-carte | ✅ (8–100cm gaps) | ~£5,205 | ~6 | ◐ | ✗ over |
