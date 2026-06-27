@@ -560,14 +560,14 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** Sc
 
 | Option | Material | Full U *here*? | Full-U cost (incl. cushions) | Seats | Daybed | ≤ budget |
 |---|---|---|---|---|---|---|
-| **Stoaked** ⭐ | aluminium, **bespoke** | ✅ **fits exactly, no gaps** | **~£3,400–£3,800** | ~8 | ✅ | ✅ |
-| **Quatropi** | aluminium, modular\* | ✅ (small gaps) | **~£2,500–£3,200**\* | ~7 | ◐ | ✅ **cheapest** |
-| **Harbour Panama** | aluminium, fixed set | ✗ only via oversize Large U | £5,175 (Large U) | ~7 | ◐ loungers | ✗ as a U |
-| **Maluku II** | teak, modular | ✅ (gaps) | £5,025 + £525 ottoman | 7 | ✅ | ✗ over |
-| **Albony** | teak, modular (100 cm deep) | near-U (leg gaps) | £4,235 — **£3,600 w/ SUMMER15** | ~5 | ✅✅ | ✓ w/ sale |
-| **Sherborne** | teak, fixed L-corner | ✗ not a U system | £1,499 (its 5-seat L) | 5 | ◐ | ✓ (not a U) |
-| *Ref:* Fermob / Gloster / Bramblecrest Manhattan | aluminium | ✅ by design | ~£5,400–£6,000+ | varies | ✅ | ✗ over |
-| *Ref:* Maze Pulse | aluminium | ◐ | ~£2,169–£3,545 | ~6 | ◐ | ✓ (cushions integral) |
+| [**Stoaked** ⭐](#stoaked) | aluminium, **bespoke** | ✅ **fits exactly, no gaps** | **~£3,400–£3,800** | ~8 | ✅ | ✅ |
+| [**Quatropi**](#quatropi) | aluminium, modular\* | ✅ (small gaps) | **~£2,500–£3,200**\* | ~7 | ◐ | ✅ **cheapest** |
+| [**Harbour Panama**](#harbour-panama) | aluminium, fixed set | ✗ only via oversize Large U | £5,175 (Large U) | ~7 | ◐ loungers | ✗ as a U |
+| [**Maluku II**](#maluku) | teak, modular | ✅ (gaps) | £5,025 + £525 ottoman | 7 | ✅ | ✗ over |
+| [**Albony**](#albony) | teak, modular (100 cm deep) | near-U (leg gaps) | £4,235 — **£3,600 w/ SUMMER15** | ~5 | ✅✅ | ✓ w/ sale |
+| [**Sherborne**](#sherborne) | teak, fixed L-corner | ✗ not a U system | £1,499 (its 5-seat L) | 5 | ◐ | ✓ (not a U) |
+| [*Ref:* Fermob / Gloster / Bramblecrest Manhattan](#alu-references) | aluminium | ✅ by design | ~£5,400–£6,000+ | varies | ✅ | ✗ over |
+| [*Ref:* Maze Pulse](#alu-references) | aluminium | ◐ | ~£2,169–£3,545 | ~6 | ◐ | ✓ (cushions integral) |
 
 \* Quatropi don't publish module dims — figures indicative. **Cushion basis:** Stoaked total includes bespoke cushions; Maluku/Albony module prices include their own seat cushions (Albony backs = extra scatter cushions); Harbour/Maze/Quatropi include cushions. **Takeaway: a true full U in budget = aluminium** (Stoaked fits exactly; Quatropi cheapest). Teak gives a partial/near-U only (Maluku over budget, Albony ~5 seats with gaps); the fixed sets (Harbour, Sherborne) can't form our U at all.
 
