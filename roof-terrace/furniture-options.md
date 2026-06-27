@@ -23,7 +23,7 @@
 - **Teak — Route A:** [Luxus Sydney ~£176](#teak-sydney) · [Sustainable Arc £195](#teak-arc) · [Teakunique Poppy £205 ⭐](#teak-poppy) · [Sklum Rokan £250](#teak-rokan)
 
 **[3 · Sofas & comfy chairs](#sofas)**
-- **Aluminium (route to a full U in budget):** [Quatropi Zara ⭐](#zara) · [Kettler Elba ⭐](#kettler-elba) · [Stoaked bespoke U-base ⭐](#stoaked) · [Harbour Panama (by module)](#harbour-panama) · [other à-la-carte ranges](#alu-other)
+- **Aluminium (route to a full U in budget):** [Quatropi Zara ⭐](#zara) · [Kettler Elba ⭐](#kettler-elba) · [Stoaked bespoke U-base ⭐](#stoaked) · [Harbour Panama (by module)](#harbour-panama) · [4 Seasons Meteoro](#meteoro) · [other à-la-carte ranges](#alu-other)
 - **Teak (~£5k, no real daybed):** [Maluku II ⭐](#maluku) · [Indian Ocean Cove](#cove)
 
 **[Heat science — colour limits by material](#heat-science)** · **[Timing & checklist](#checklist)**
@@ -561,12 +561,12 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** So
 | Option | Material | Full U *here*? | Full-U cost (incl. cushions) | Seats | Daybed | ≤ budget |
 |---|---|---|---|---|---|---|
 | [**Quatropi Zara**](#zara) ⭐ | aluminium, à-la-carte | ✅ daybed-L hybrid | **£2,300** (+ table) | ~6 | ✅ daybed-L | ✅ |
-| [**Kettler Elba**](#kettler-elba) | aluminium, set-based | ◐ (coarse) | **~£2,500–2,800** | ~6 | ✗ | ✅ |
-| [**4 Seasons Meteoro**](#alu-other) | aluminium, à-la-carte | ✅ | ~£3,000–4,500 *(quote)* | ~6–7 | ◐ | borderline |
+| [**Kettler Elba**](#kettler-elba) | aluminium, set-based | ◐ (coarse) | **~£3,000–3,500** | ~6 | ✗ | ✅ |
 | [**Stoaked** ⭐](#stoaked) | aluminium, **bespoke** | ✅ **fits exactly, no gaps** | **~£3,400–3,800** | ~8 | ✅ | ✅ |
 | [**Harbour Panama**](#harbour-panama) | aluminium, by module | ◐ fits (coarse, deep) | **~£4,092** | ~10 | ◐ | ✗ over budget |
 | [**Maluku II**](#maluku) | teak, modular | ✅ (gaps) | **£5,025** (+£525 ottoman) | 7 | ✅ | ✗ over |
 | [**Indian Ocean Cove**](#cove) | teak, à-la-carte | ✅ (8–100cm gaps) | **~£5,205** | ~6 | ◐ | ✗ over |
+| [**4 Seasons Meteoro**](#meteoro) | aluminium, modular | ✅ (coarse) | **~£5,800** *(best upright comfort)* | ~8 | ◐ | ✗ over |
 
 **Cushion basis:** Stoaked total includes bespoke cushions; Zara / Kettler / Maluku II / Panama / Cove include cushions. **Still to confirm on any aluminium:** the C5 powder-coat spec; and exact per-module prices for Zara / 4 Seasons. **Takeaway: a true full U in budget = aluminium** — **Quatropi Zara** (cheapest true full-U, daybed-capable) or **Stoaked** (bespoke, exact fit). Teak = ~£5k and no real daybed. *(Jo Alexander Albony discounted — 0.89 m mids don't tile cleanly; 1 m depth chokes the centre.)*
 
@@ -687,6 +687,7 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 - **Cushions:** included, machine-washable covers, store indoors.
 - **Fit:** north leg ~0.13 m spare, south leg ~0.73 m spare; **clear centre ≈ 1.44 m**. The daybed L *is* the flat lounging surface, so the missing footstool module doesn't matter.
 - **Modules are 93 cm deep** (floor footprint) → squeezes the centre to ~1.44 m vs Stoaked's 1.72 m. **The seat itself is 60 cm** (normal — *not* a slouch trap; the 93 is frame-to-back), seat height 48 cm. ⚠ Cushions are **soft and "sink"** → add a **firm lumbar/scatter cushion per seat** for upright support (see Comfort table).
+- **Back-frame (your specific worry) ✅:** **no horizontal metal top-rail across the back** — the back cushion is loose, held by the seat base + slim corner uprights, so you lean on cushion, not metal (the only aluminium above seat height is at the arm ends). The armless module proves it (the back cushion stands alone). Worth a sit-test to be sure, but the "metal bar in the spine" risk is low.
 - *Alternative layout:* a symmetric 6-seat U (2 corners + 4 mids, £2,380) — see `drawings/zara-full-u-fa3-27-6-26.png`.
 
 **Pros:** Clean modern bare-box look (your preference); true à-la-carte; soft cushions sit OK at the corner; the hybrid gives a proper daybed; cheap (~£2,300); strong reviews (Trustpilot ~4.8) · **Cons:** Mid/dark grey only (no true charcoal); deep modules shrink the centre; C5 coating to confirm
@@ -703,7 +704,7 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 
 <img src="https://www.kettler.co.uk/cdn/shop/files/003121-0210_003122-0200_003127-0210_elba_low_lounge_LIFESTYLE.jpg" width="100%">
 
-- **Price:** standard low-lounge **corner set £2,149** (incl. teak coffee table); add-ons — **L/R sofa-with-side-tables pair £1,399**, single footstool £149, 110×110 high-low table £799. A U for our space ≈ **£2,150–2,800**. Sold more as sets + add-ons than fine à-la-carte modules (coarser than Quatropi).
+- **Price:** standard low-lounge **corner set £2,149** (incl. teak coffee table); add-ons — **L/R sofa-with-side-tables pair £1,399**, single footstool £149, 110×110 high-low table £799. A U for our space ≈ **£3,000–3,500** (corner set + a sofa module + a corner — see plan). Sold more as sets + add-ons than fine à-la-carte modules (coarser than Quatropi).
 - **Material:** powder-coated aluminium frame + **natural teak side-trays / coffee table**; **grey POLYESTER cushions** (⚠ *not* Sunbrella, despite earlier note); seat ~41cm. Clean modern low look (similar to Panama).
 - **Modularity:** ◐ — corner set + extension sofas/footstools rearrange; **no true flat-daybed module**.
 - **Cushions:** removable, store indoors (polyester — treat as a 3–5yr consumable).
@@ -713,6 +714,49 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 **Pros:** Established 40-yr brand; 3-yr frame warranty; large review base; clean modern aluminium+teak look · **Cons:** Polyester cushions (no Sunbrella edge); teak trim is the C5 weak point; coarser set-based modularity; no flat-daybed; delivery/parts hassle
 
 [kettler.co.uk — Elba Signature low lounge](https://www.kettler.co.uk/collections/elba)
+
+#### Full-U layout in the FA3 lounge — measured plan
+
+<img src="drawings/kettler-full-u-fa3-27-6-26.png" width="100%">
+
+<img src="https://www.kettler.co.uk/cdn/shop/files/003121-0210_003122-0200_003127-0210_elba_low_lounge_with_coffee_table_STUDIO.jpg" width="100%">
+
+| Piece | Size | Role | Price |
+|---|---|---|---|
+| Corner module | 80×80×71.5 | the two east corners | £450 ea |
+| 3-seat sofa module | 175×88 | back + each leg | ~£700 ea |
+| **Corner set** (corner sofa + teak coffee table) | 252×252 footprint | back + one leg in one buy | **£2,149** |
+
+**Build:** corner set (= back + one leg) + 1 sofa + 1 corner for the third side ≈ **£3,000–3,500** (in budget). Seat **80cm deep / 35cm high** = deep, plush lounge (you're happy with loungey); clear centre ~1.5m. ⚠ 175cm sofas tile coarsely — the south (2.37m) leg overshoots by ~18cm; teak trays are the C5 weak point.
+
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
+---
+
+<a id="meteoro"></a>
+
+### 4 Seasons Outdoor — "Meteoro" ⭐ (most comfortable upright) · U ~£5,800 *(over budget)*
+
+<img src="https://www.gardenfurnitureandinteriors.co.uk/26165-large_default/4-seasons-meteoro-modular-corner-unit.jpg" width="100%">
+
+<img src="drawings/meteoro-full-u-fa3-27-6-26.png" width="100%">
+
+| Module | Size | Price |
+|---|---|---|
+| Corner | 88×88×80 | £949 |
+| Centre (armless) | 73×88×80 | £649 |
+| 2-seater bench (L/R arm) | 162×89×80 | £1,349 |
+| Footstool / native table | — | none in the range |
+
+- **Price:** a filled U = 2 corners + 6 centres = **£5,792** (or with arm-benches ≈ £5,894) — **over budget.** No footstool/table in the range (pair a Capitol 90×90 coffee table, by quote).
+- **Material:** anthracite powder-coated aluminium + **Olefin** cushions (better UV/salt life than polyester); anti-mould foam.
+- **Comfort:** ⭐ **best upright of all the options** — seat depth **59cm** (shallowest), seat 44cm (normal height) → sit-and-chat without slouching; thick cushions.
+- **Modularity:** ◐ — modules rearrange; ⚠ 88/73/162cm widths tile coarsely (legs ~13–20cm off); no flat-daybed.
+- **Reviews / company:** 4 Seasons Outdoor (Dutch) ~4★ small base + Shackletons ~4★/~600; UK distributor solvent. **5-yr frame / 3-yr cushion warranty** (extreme-weather excl.). Recurring gripe = **QC defects on arrival** (cracks / coating); after-sales (via the retailer) is responsive.
+
+**Pros:** **Most comfortable upright** (59cm seat); Olefin = best coastal cushion fabric; anthracite; reputable · **Cons:** **~£5,800 = well over budget**; QC-on-arrival reports; coarse tiling; no flat-daybed; price by quote
+
+[The Modern Furniture Company — Meteoro](https://themodernfurniturecompany.com/products/4-seasons-outdoor-meteoro-large-corner-with-nest)
 
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
@@ -729,8 +773,13 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 - **Modularity:** ✅ — rearranges to an L, **sun loungers or a double sofa**; clips into a flat run.
 - **Cushions:** removable → store indoors. ⚠ Panama's cushions are **NOT all-weather** (fine here — they're stored anyway).
 - **Reviews:** Harbour Lifestyle — large Trustpilot base, generally positive (inspect on delivery).
+- **Matching teak tables (fit our plan ✓):** Panama **coffee table 74×74×22.5cm £359** drops into the central ~1.5m zone; **side table 74×37×22.5cm £225** tucks at a leg end. Both teak-topped, 22.5cm high (low lounge height — they read as proper coffee tables against the 43cm seat).
 
-**Pros:** Genuinely à-la-carte; charcoal aluminium; armless/low/clean look; reputable retailer · **Cons:** ⚠ only **two seat pieces (198cm 3-seat + 74cm corner)** and no mid-size module. Sofas are **armless** so you *can* drop the corner on the short leg and butt a sofa straight on (fixes the 2.37m leg) — **but the 3.30m back still can't be filled cleanly** (sofa+corner = 272 → 0.58m gap; sofa+2 corners = 346 → 0.16m over). So the U is achievable but ends up gappy/chunky. Fine for an **L (~£3.6k)**; the best full U (see map below) ≈ **£4,092** — over budget, not unbuildable. *(Mixing 198cm sofas + just enough 74cm corner units to fill the gaps DOES tile cleanly and fit — but the £585 corners mean even a mixed U lands **~£4,700** (e.g. 4 corners + 2 sofas), over budget. Quatropi Zara gives the same fit for ~£2,380.)* Sets currently out of stock; cushions not all-weather
+<img src="https://www.harbourlifestyle.co.uk/cdn/shop/files/PanamaTeakCoffeeTableCharcoal1.jpg" width="48%"> <img src="https://www.harbourlifestyle.co.uk/cdn/shop/files/PanamaTeakSideTableCharcoal1.jpg" width="48%">
+
+*Panama teak coffee table (£359) + side table (£225).*
+
+**Pros:** Genuinely à-la-carte; charcoal aluminium; armless/low/clean look; **converts to sun-loungers**; matching teak tables; reputable retailer · **Cons:** ⚠ only **two seat pieces (198cm 3-seat + 74cm corner)** and no mid-size module. Sofas are **armless** so you *can* drop the corner on the short leg and butt a sofa straight on (fixes the 2.37m leg) — **but the 3.30m back still can't be filled cleanly** (sofa+corner = 272 → 0.58m gap; sofa+2 corners = 346 → 0.16m over). So the U is achievable but ends up gappy/chunky. Fine for an **L (~£3.6k)**; the best full U (see map below) ≈ **£4,092** — over budget, not unbuildable. *(Mixing 198cm sofas + just enough 74cm corner units to fill the gaps DOES tile cleanly and fit — but the £585 corners mean even a mixed U lands **~£4,700** (e.g. 4 corners + 2 sofas), over budget. Quatropi Zara gives the same fit for ~£2,380.)* Sets currently out of stock; cushions not all-weather
 
 [harbourlifestyle.co.uk — Panama](https://www.harbourlifestyle.co.uk/products/panama-luxury-outdoor-corner-group-set-charcoal)
 
@@ -757,7 +806,7 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 All sell individual modules; all need the C5 coating-spec check. Roughly by budget:
 
 - **Kettler — Elba** — now has a [full entry above](#kettler-elba) (corner set £2,149; aluminium + teak trays + polyester cushions; 3-yr warranty; est. 1985).
-- **4 Seasons Outdoor — Meteoro / Empire** (anthracite aluminium + teak) — genuine per-module SKUs, modern, strong style fit; per-module prices by quote (Tincleton 01305 848391) → likely **~£3–4.5k**, borderline. **Worth a quote — could be a top contender.**
+- **4 Seasons Outdoor — Meteoro** — now has a [full entry above](#meteoro) (best upright comfort, but a U ≈ £5,800 — over budget).
 - **In Garden — Contemporary Modular** (charcoal frame + charcoal Sunbrella ✓) — welded powder-coated aluminium, middle 70×90 / corner 90×90; per-module "from" prices by phone (01732 463409); likely **~£2–3.5k**; ⚠ no ottoman / no clean daybed. Small specialist (also does teak).
 - **Sklum Yarilo (~£2,300) / Kave Home Sorells (~£2–3.5k)** — cheapest genuine à-la-carte aluminium, modern — but **neither does true anthracite** (Sklum cream only; Kave grey/green) and geometry is constrained, no flat daybed. Only if colour flexes.
 - **LIFE Outdoor Living — Timber "Lava"** — dark-charcoal aluminium, near-budget (~£3.4–4.45k); ⚠ sprung arms likely won't lie flat as a daybed.
