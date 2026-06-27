@@ -49,7 +49,7 @@
 |---|---|---|
 | **Table** | Bramblecrest Sofia — **dark anthracite ceramic** top, X-leg, table + 10 chairs | **£1,799** |
 | **Chairs** | Included with Sofia — or upgrade to Si-Si/Twist/Fox in preferred colour | **£0–£2,090** |
-| **Lounge** | Luxus Amalfi Corner teak — or Maluku modular daybed (~£3,000) | **£1,941** |
+| **Lounge** | **Cyan "Eero" / Jati "Belmont" teak set** (sofa + 2 armchairs + ottoman + table, 4.7/5 reviews) — or Maluku modular for a true daybed | **£2,215** |
 | | **Total (table + included chairs + lounge)** | **~£3,740** |
 
 Teak alt: **Maze Jakarta** (warm teak top, dark grey frame, £1,059) + teak chairs (10× Poppy ~£2,050) + lounge → ~£5,050. Stone alt: **Bramblecrest** as above. Metal alt: **Extia + Daisy armchairs** for a warm/light beige/tortora look.
@@ -607,6 +607,27 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 
 ---
 
+<a id="eero"></a>
+
+### Cyan "Eero" / Jati "Belmont" — Mid-Century Set with Ottoman ⭐ NEW · £2,215
+
+<img src="https://www.cyan-teak-furniture.com/11724-product_slider/eero-mid-century-deep-seated-teak-garden-set-with-footstool-5-seater.webp" width="100%">
+
+- **Price:** **£2,215** inc VAT (sale, was £2,330) — ~£785 under budget. Cheaper variants: 5-seater no footstool £2,025; 2-seater version £1,790. Confirm Brighton delivery.
+- **Pieces:** 3-seater sofa (200×88, H82) + **2 separate armchairs** (80×88, seat H43) + ottoman (64×60×43) + coffee table (120×60×50). Config 2 — sofas + chairs round a table.
+- **Material:** **Grade-A solid teak (Tectona grandis), FLEGT-licensed Indonesia**; mortise-and-tenon joints. Genuine solid teak (quoted). · **Modularity:** ◐ — ottoman (43cm, matches seat height) butts up to extend a seat into a *partial* chaise; a single ottoman = partial daybed, not a full flat bed.
+- **Cushions:** ✅ **detachable, zipped washable covers**, store indoors — maker explicitly says "store them when not in use." 6 cover colours (Mid Grey, Raven, Ecru, Forest Green, Navy, Taupe).
+- **Reviews:** Cyan Teak — **Trustpilot 4.7/5 (249 reviews)**; 30 yrs trading. *(Cyan "Eero" and Jati "Belmont" are the SAME product from the same parent company, Jati Ltd — buy from whichever quotes the better delivery/colour. Cyan carries the stronger review record.)*
+- **Fit vs your U (3.30m back + 2.70/2.40m legs):** 200cm sofa on the back run + an 80cm armchair on each return leg = comfortable fit, room for the central table.
+
+**Pros:** Best reviews + value here; confirmed Grade-A solid teak; clean modern mid-century look (slatted sides, tapered legs, flat arms); cushions store indoors; £785 under budget · **Cons:** Only a *partial* daybed (one ottoman) — not the true push-together daybed mode; not the same brand as your dining set
+
+[cyan-teak-furniture.com — Eero set](https://www.cyan-teak-furniture.com/eero-mid-century-deep-seated-teak-garden-set-with-footstool-5-seater) · [jati.co.uk — Belmont set](https://www.jati.co.uk/belmont-mid-century-teak-garden-sofa-set-with-ottoman-5-seater)
+
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
+---
+
 <a id="piacenza"></a>
 
 ### 4 Seasons Outdoor — Piacenza ⭐ · £2,499
@@ -627,17 +648,19 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 
 <a id="maluku"></a>
 
-### Teakunique — Maluku II Modular ⭐ · from £825/module (~£2,500–£3,500 full set)
+### Teakunique — Maluku II Modular · the true-daybed option (reassessed Jun 2026)
 
-<img src="https://teakunique.co.uk/cdn/shop/products/Teak_Maluku_Modular_Corner_Sofa_Section.jpg?v=1772195253&width=1445" width="100%">
+<img src="https://teakunique.co.uk/cdn/shop/files/Maluku2.png?v=1771256907&width=1445" width="100%">
 
-- **Price:** £825/corner module; full corner set ≈ £2,500–£3,500
-- **Material:** Solid teak · **Modularity:** ✅✅ — ottomans push together into a true flat daybed
-- **Reviews:** teakunique.co.uk — ⚠ **no Trustpilot listing found.** Reviews are self-hosted only; no independent verification. Small UK family firm; self-stated 10-year warranty. Order a sample before committing.
+- **Price (per module):** corner 80×80×70 **£825** · mid 80×75×70 **£675** · ottoman 80×70×33 **£525**. **Seat height 45cm.** Building a full U for your space gets expensive fast: a tight L+chaise (2 corners + 1 mid + 1 ottoman) ≈ **£2,850**, but a deep U (2 corners + 2 mids + 1 ottoman) ≈ **£3,500 — over budget.**
+- **Material:** Solid teak (wording is "high-grade timber" — vaguer than Cyan's stated Grade-A); 10-yr guarantee · **Modularity:** ✅✅ — corner/mid/ottoman push together; ottoman matches the 45cm seat height for a flush chaise/daybed. *(No documented locking/connector hardware — modules simply butt together; confirm true flat-daybed alignment with Teakunique.)*
+- **Cushions:** ✅ detachable, **removable Sunproof Olefin covers**, store indoors.
+- **Reviews:** ⚠ **thin / unverified.** No Trustpilot profile; a "5.0/47 Google" badge appears on their own product page but couldn't be independently verified (nothing on Trustpilot, forums, Houzz or aggregators). Real registered UK family firm, but review-invisible.
+- **Look:** mostly modern/low/clean, **but the backrests use closely-spaced vertical slats/spindles** that read slightly more "craftsman/transitional" than the crisp Sydney/Azura aesthetic — worth eyeballing.
 
-**Pros:** Best daybed option on the list; solid teak = coastal-proof; modular — scale to budget · **Cons:** ⚠ No independent review base — verify teak quality with a sample first
+**Pros:** Only genuine config-1 push-together daybed in budget; solid teak; conforms to the unequal U-shape; 10-yr guarantee · **Cons:** ⚠ Thin independent reviews; a full U busts £3k; backs slightly more traditional than your dining set; no documented daybed-locking mechanism — confirm before buying
 
-[teakunique.co.uk — Maluku II](https://teakunique.co.uk/products/maluku-modular-sofa-corner-section)
+[teakunique.co.uk — Maluku II range](https://teakunique.co.uk/collections/teak-sofas-and-loungers)
 
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
@@ -674,6 +697,26 @@ Sorted by price (cheapest first). **Daybed key:** ✅✅ push modules into a bed
 **Pros:** Complete set including armchairs and footstools; great sociable layout; dark frame · **Cons:** Not a flat daybed; same retailer caveats as Piacenza
 
 [themodernfurniturecompany.com — 4 Seasons Alicante](https://themodernfurniturecompany.com/collections/outdoor-sofas)
+
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
+---
+
+<a id="albony"></a>
+
+### Jo Alexander — "Albony" Modular Corner Daybed ⭐ NEW · ~£3,060 (check sale)
+
+<img src="https://www.joalexander.co.uk/media/catalog/product/cache/66d34a394f248d3c4013b9518b68d3eb/f/u/fu3a5136.jpg" width="100%">
+
+- **Price:** corner 100×100×75 **£925** · mid 89×100×75 **£795** · ottoman 89×89 **£545**. A corner + 2 mids + ottoman ≈ **£3,060** before sale (right on/over budget; a Summer Sale + 15%-over-£1,000 code can bring it under — verify live).
+- **Material:** A-grade plantation solid teak (Indonesian Legal Wood certified); kiln-dried · **Modularity:** ✅✅ — explicitly sold as modular corner *daybed* sections; deep 100cm sections sit flat as a daybed, or form an L. The most genuine two-mode daybed found besides Maluku.
+- **Cushions:** ✅ detachable Sunproof covers (40°C wash) — **but base cushion only is included; backrest is via separately-bought scatter cushions**, so it reads more "deep daybed/lounger" than a backed sofa.
+- **Reviews:** ~4★ / 57 (Birdeye); uses Feefo verified reviews. **Mixed** — praise for craftsmanship/service, but at least one notable complaint. Established Cambridge teak retailer.
+- **Fit vs your U:** sections are large (100cm deep) — fills the space with fewer modules, but the low-back daybed look is loungier than a sofa set.
+
+**Pros:** A true flat-daybed modular system in solid A-grade teak; established retailer with a real (if mixed) review base; deep, comfortable · **Cons:** At/over budget without the sale; low-back daybed style (backs are scatter cushions, sold separately) — less "sofa," more "lounger"
+
+[joalexander.co.uk — Albony modular daybed sections](https://www.joalexander.co.uk/teak-day-bed-modular-sections)
 
 [↑ Sofas](#sofas) · [↑ Contents](#contents)
 
