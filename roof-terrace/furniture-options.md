@@ -620,6 +620,10 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** Sc
 
 <img src="drawings/stoaked-full-u-fa3-27-6-26.png" width="100%">
 
+<img src="drawings/stoaked-in-situ-ai.png" width="100%">
+
+> ⚠ *Inaccurate AI impression — for look & feel only, not dimensionally accurate.*
+
 Because Stoaked build to order, the U is **made to fit the exact stepped zone** — a continuous aluminium base **0.79 m deep** wrapping all three sides, with **no awkward leftover gaps** (the key contrast with the off-the-peg teak modules).
 
 | Run | Length | Depth | Seats |
@@ -672,6 +676,10 @@ Plan drawn on ~85 cm modules; the **real Quatropi modules are smaller (~72–74 
 *Quatropi Zara module — smoke grey, clean bare dark-aluminium box. Layout plan below.*
 
 <img src="drawings/zara-hybrid-fa3-27-6-26.png" width="100%">
+
+<img src="drawings/zara-in-situ-ai.png" width="100%">
+
+> ⚠ *Inaccurate AI impression — for look & feel only, not dimensionally accurate.*
 
 The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke/mono grey, with **softer cushions that meet acceptably at the corner**. **Preferred layout (hybrid, above):** push the NE corner + back mid + two north-leg mids together into an **L-daybed (~2.5 m)**, a **2-seater at the west end** of the south leg facing it, and a **central coffee table** (with an optional 2nd table tucked in the SE corner).
 
@@ -736,6 +744,10 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 **Best Panama U mapped (for reference — over budget):**
 
 <img src="drawings/panama-best-u-fa3-27-6-26.png" width="100%">
+
+<img src="drawings/panama-in-situ-ai.png" width="100%">
+
+> ⚠ *Inaccurate AI impression — for look & feel only, not dimensionally accurate.*
 
 3 armless 198cm sofas butted at the junctions + one 74cm corner filling the NE = **10 seats, ~£4,092** — it fits and looks generous, but it's **over the £4k budget**, deep/chunky, and the 198cm sofas don't divide our runs (~15–35cm overlap/gap at the corners). Quatropi Zara gives the same wrap-around for ~£2,300.
 
@@ -819,6 +831,10 @@ All sell individual modules; all need the C5 coating-spec check. Roughly by budg
 #### Full-U layout in the FA3 lounge — measured plan
 
 <img src="drawings/maluku-full-u-fa3-27-6-26.png" width="100%">
+
+<img src="drawings/maluku-in-situ-ai.png" width="100%">
+
+> ⚠ *Inaccurate AI impression — for look & feel only, not dimensionally accurate.*
 
 The FA3 lounge is a U-shaped zone: **3.30 m** back run (east) with two return legs — **2.37 m** (south) and **2.70 m** (north), unequal because of the step down. A full three-sided U in Maluku II needs **2 corners + 5 mids + 1 ottoman** = **7 seats**, laid out as above.
 
