@@ -563,7 +563,7 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** Sc
 | [**Stoaked** ⭐](#stoaked) | aluminium, **bespoke** | ✅ **fits exactly, no gaps** | **~£3,400–£3,800** | ~8 | ✅ | ✅ |
 | [**Quatropi** (Cole/Alfie) ⭐](#quatropi) | aluminium, **à-la-carte** | ✅ (~72cm increments) | **~£2,450–£3,305** | ~7–8 | ✅ | ✅ **cheapest** |
 | [**Quatropi Zara**](#zara) ⭐ | aluminium, à-la-carte | ✅ daybed-L hybrid | **£2,300 + table** | ~6 | ✅ daybed-L | ✅ |
-| [**Harbour Panama**](#harbour-panama) | aluminium, by module | ✗ modules too coarse (198+74) | **~£4,092** (best U; oversized, won't fit) | ~10 | ◐ | ✗ for our U |
+| [**Harbour Panama**](#harbour-panama) | aluminium, by module | ◐ fits (coarse — ~15–35cm gaps, deep) | **~£4,092** | ~10 | ◐ | ✗ over budget |
 | [**Kettler Elba**](#kettler-elba) | aluminium, set-based | ◐ (coarse) | **~£2,150–2,800** (U) | ~6 | ✗ | ✅ |
 | [**4 Seasons Meteoro**](#alu-other) | aluminium, à-la-carte | ✅ | ~£3–4.5k *(quote)* | ~6–7 | ◐ | borderline |
 | [**Maluku II**](#maluku) | teak, modular | ✅ (gaps) | £5,025 + £525 ottoman | 7 | ✅ | ✗ over |
@@ -583,7 +583,7 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** Sc
 | **Kettler (Elba)** | ~4★ Trustpilot + **2,490 Reviews.io** | est. **1985**, solvent | **3yr frame** (extreme-weather excl.) | **teak trim** greys/moves; delivery/parts hassle | **Low–Med** |
 | **Indian Ocean (Cove)** | thin (3.8★/2 — the brutal reviews are a *different, dissolved* firm) | ⭐ est. **1990**, Harrods | only **2yr**, vague | rope + cushions + metal (teak fine) | **Med** (£5.2k, over budget) |
 | **4 Seasons (Meteoro)** | ~4★ / ~120, mixed; responsive after-sales | stable, small | 5yr frame / 3yr cushion (extreme-weather excl.) | **QC-on-arrival defects**; Olefin cushions | **Med** |
-| **Harbour (Panama)** | ~4.0 / ~2,000 (service/refund tail) | **young (2020)** | structural; **cushions excluded** | cushions not all-weather (+ doesn't fit our U) | **Med** |
+| **Harbour (Panama)** | ~4.0 / ~2,000 (service/refund tail) | **young (2020)** | structural; **cushions excluded** | cushions not all-weather; ~£4,092 = over budget for a U | **Med** |
 | **Stoaked** | thin (203, one curated site, no Trustpilot) | **micro**, est. 2017 | "lifetime" frame welds only — **weathering excluded** | offers steel — must lock 100% marine alu + A4/316 | **Med–High** |
 | **Teakunique (Maluku II)** | ⚠ **none anywhere** | ⚠ micro, **weak finances** (~£21k net assets, −76%) | 10yr teak (excl. cushions/cracking) — **fragile backer** | teak fine; balance-sheet risk on the guarantee | **Med–High** |
 
@@ -737,7 +737,7 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 - **Cushions:** removable → store indoors. ⚠ Panama's cushions are **NOT all-weather** (fine here — they're stored anyway).
 - **Reviews:** Harbour Lifestyle — large Trustpilot base, generally positive (inspect on delivery).
 
-**Pros:** Genuinely à-la-carte; charcoal aluminium; armless/low/clean look; reputable retailer · **Cons:** ⚠ only **two seat pieces (198cm 3-seat + 74cm corner)** and no mid-size module. Sofas are **armless** so you *can* drop the corner on the short leg and butt a sofa straight on (fixes the 2.37m leg) — **but the 3.30m back still can't be filled cleanly** (sofa+corner = 272 → 0.58m gap; sofa+2 corners = 346 → 0.16m over). So the U always ends up gappy. Fine for an **L (~£3.6k)**; a real U is gappy/~£5k. *(Mixing 198cm sofas + just enough 74cm corner units to fill the gaps DOES tile cleanly and fit — but the £585 corners mean even a mixed U lands **~£4,700** (e.g. 4 corners + 2 sofas), over budget. Quatropi Zara gives the same fit for ~£2,380.)* Sets currently out of stock; cushions not all-weather
+**Pros:** Genuinely à-la-carte; charcoal aluminium; armless/low/clean look; reputable retailer · **Cons:** ⚠ only **two seat pieces (198cm 3-seat + 74cm corner)** and no mid-size module. Sofas are **armless** so you *can* drop the corner on the short leg and butt a sofa straight on (fixes the 2.37m leg) — **but the 3.30m back still can't be filled cleanly** (sofa+corner = 272 → 0.58m gap; sofa+2 corners = 346 → 0.16m over). So the U is achievable but ends up gappy/chunky. Fine for an **L (~£3.6k)**; the best full U (see map below) ≈ **£4,092** — over budget, not unbuildable. *(Mixing 198cm sofas + just enough 74cm corner units to fill the gaps DOES tile cleanly and fit — but the £585 corners mean even a mixed U lands **~£4,700** (e.g. 4 corners + 2 sofas), over budget. Quatropi Zara gives the same fit for ~£2,380.)* Sets currently out of stock; cushions not all-weather
 
 [harbourlifestyle.co.uk — Panama](https://www.harbourlifestyle.co.uk/products/panama-luxury-outdoor-corner-group-set-charcoal)
 
