@@ -23,7 +23,7 @@
 - **Teak — Route A:** [Luxus Sydney ~£176](#teak-sydney) · [Sustainable Arc £195](#teak-arc) · [Teakunique Poppy £205 ⭐](#teak-poppy) · [Sklum Rokan £250](#teak-rokan)
 
 **[3 · Sofas & comfy chairs](#sofas)**
-- **Aluminium (route to a full U in budget):** [Stoaked bespoke U-base ⭐](#stoaked) · [Quatropi à-la-carte ⭐](#quatropi) · [Harbour Panama (by module)](#harbour-panama) · [other à-la-carte ranges](#alu-other) · [over-budget refs](#alu-references)
+- **Aluminium (route to a full U in budget):** [Stoaked bespoke U-base ⭐](#stoaked) · [Quatropi à-la-carte ⭐](#quatropi) · [Quatropi Zara ⭐](#zara) · [Harbour Panama (by module)](#harbour-panama) · [other à-la-carte ranges](#alu-other) · [over-budget refs](#alu-references)
 - **Teak (~£5k, no real daybed):** [Maluku II ⭐](#maluku) · [Indian Ocean Cove](#cove) · [Sherborne](#sherborne)
 
 **[Heat science — colour limits by material](#heat-science)** · **[Timing & checklist](#checklist)**
@@ -561,8 +561,9 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** Sc
 | Option | Material | Full U *here*? | Full-U cost (incl. cushions) | Seats | Daybed | ≤ budget |
 |---|---|---|---|---|---|---|
 | [**Stoaked** ⭐](#stoaked) | aluminium, **bespoke** | ✅ **fits exactly, no gaps** | **~£3,400–£3,800** | ~8 | ✅ | ✅ |
-| [**Quatropi** ⭐](#quatropi) | aluminium, **à-la-carte** | ✅ (~72cm increments) | **~£2,450–£3,305** | ~7–8 | ✅ | ✅ **cheapest** |
-| [**Harbour Panama**](#harbour-panama) | aluminium, by module | ✅ self-assemble *(sets OOS)* | ~£2.5–3.5k by module | ~7 | ◐ | ✅ |
+| [**Quatropi** (Cole/Alfie) ⭐](#quatropi) | aluminium, **à-la-carte** | ✅ (~72cm increments) | **~£2,450–£3,305** | ~7–8 | ✅ | ✅ **cheapest** |
+| [**Quatropi Zara**](#zara) | aluminium, à-la-carte | ✅ (corners in corners) | **£2,380 + table** | 6 | ◐ no footstool | ✅ |
+| [**Harbour Panama**](#harbour-panama) | aluminium, by module | ✗ modules too coarse (198+74) | L ~£3.6k · U ~£5k & oversized | — | ◐ | ✗ for our U |
 | [**Kettler Elba**](#alu-other) | aluminium, à-la-carte | ✅ (coarse) | **~£2,767** | ~6 | ✗ | ✅ |
 | [**4 Seasons Meteoro**](#alu-other) | aluminium, à-la-carte | ✅ | ~£3–4.5k *(quote)* | ~6–7 | ◐ | borderline |
 | [**Maluku II**](#maluku) | teak, modular | ✅ (gaps) | £5,025 + £525 ottoman | 7 | ✅ | ✗ over |
@@ -640,6 +641,35 @@ Plan drawn on ~85 cm modules; the **real Quatropi modules are smaller (~72–74 
 
 ---
 
+<a id="zara"></a>
+
+### Quatropi "Zara" — à-la-carte aluminium U ⭐ (the look Chris likes) · ~£2,380 + table
+
+<img src="drawings/zara-full-u-fa3-27-6-26.png" width="100%">
+
+The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke/mono grey, with **softer cushions that meet acceptably at the corner** — the corner-cushion butt-join that looks awkward on other ranges isn't a problem here.
+
+| Module | Size | Position | Price |
+|---|---|---|---|
+| C1 / C2 | 2 × corner 93×93 | the two east corners | £900 |
+| M1 | 1 × middle 82×93 | east back run | £370 |
+| M2 | 1 × middle 82×93 | south leg | £370 |
+| M3 / M4 | 2 × middle 82×93 | north leg | £740 |
+| **Total** | 2 corners + 4 middles = **6 seats** | | **£2,380** (+ coffee table) |
+
+- **Material:** powder-coated aluminium, bare box; smoke-grey / mono-grey cushions · ⚠ confirm C5 coating spec.
+- **Cushions:** included, machine-washable covers, store indoors.
+- **Fit:** corners in the corners (max centre); back has two small ~0.31 m gaps either side of the middle; south leg ~0.62 m spare at the open end, north leg ~0.13 m. **Clear centre ≈ 1.44 m.**
+- ⚠ **93 cm deep** — the deepest aluminium option: comfy/lounge-y seats but a tighter centre than Stoaked (1.72 m). **No footstool module** (so no easy flat-daybed fill — the deep seats are bed-like with the backs removed).
+
+**Pros:** Clean modern bare-box look (your preference); true à-la-carte; soft cushions sit OK at the corner; cheap (~£2,380); strong reviews (Trustpilot ~4.8) · **Cons:** Mid/dark grey only (no true charcoal); deep modules shrink the centre; no footstool module; C5 coating to confirm
+
+[quatropi.com — Zara corner](https://quatropi.com/products/zara-modular-corner-section-smoke-grey-93x93cm)
+
+[↑ Sofas](#sofas) · [↑ Contents](#contents)
+
+---
+
 <a id="harbour-panama"></a>
 
 ### Harbour Lifestyle — Panama ⭐ NEW · sold by the module (3-seat £1,169 · corner £585)
@@ -652,7 +682,7 @@ Plan drawn on ~85 cm modules; the **real Quatropi modules are smaller (~72–74 
 - **Cushions:** removable → store indoors. ⚠ Panama's cushions are **NOT all-weather** (fine here — they're stored anyway).
 - **Reviews:** Harbour Lifestyle — large Trustpilot base, generally positive (inspect on delivery).
 
-**Pros:** Genuinely à-la-carte (self-assemble a U to size); charcoal aluminium; reputable retailer · **Cons:** Sets currently out of stock; cushions not all-weather; 74cm modules tile only roughly into the unequal legs
+**Pros:** Genuinely à-la-carte; charcoal aluminium; reputable retailer · **Cons:** ⚠ only **two seat pieces (198cm 3-seat + 74cm corner)** — **too coarse for our tight U** (the 198cm sofas overshoot the 2.37m leg); fine for an **L (~£3.6k)** but a real U is ~£5k & oversized. Sets currently out of stock; cushions not all-weather
 
 [harbourlifestyle.co.uk — Panama](https://www.harbourlifestyle.co.uk/products/panama-luxury-outdoor-corner-group-set-charcoal)
 
