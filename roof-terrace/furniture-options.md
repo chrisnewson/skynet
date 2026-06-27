@@ -573,6 +573,28 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** Sc
 
 **Cushion basis:** Stoaked total includes bespoke cushions; Quatropi / Kettler / Maluku II / Panama / Cove include cushions. **Still to confirm on any aluminium:** the C5 powder-coat spec; and exact per-module prices for Quatropi / 4 Seasons / In Garden. **Takeaway: a true full U in budget = aluminium by the module** — **Quatropi** (cheapest, true charcoal, daybed-capable) or **Stoaked** (bespoke, exact fit). Teak = ~£5k and no real daybed; fixed sets (Sherborne) can't fit our U. *(Jo Alexander Albony discounted — 0.89 m mids don't tile cleanly; 1 m depth chokes the centre.)*
 
+### Quality & reliability — buyer's risk scorecard (27 Jun)
+
+*"Don't buy a problem" check, ranked lowest-risk first. ⚠ **None** of these warrants the powder-coat or cushions against coastal fade/corrosion — on a C5 seafront roof treat the finish + cushions as consumables whatever you pick.*
+
+| Option | Independent reviews | Company | Warranty vs our risks | Coastal weak point | Risk |
+|---|---|---|---|---|---|
+| **Quatropi (Zara)** | ⭐ Trustpilot **4.8 / 5,120**; refunds & replacements documented | est. **2004**, stable | 2yr frame / 1yr cushion (weather/fade excl.) | cushion sag + fabric **mould** (even under covers) | **Low–Med** |
+| **Kettler (Elba)** | ~4★ Trustpilot + **2,490 Reviews.io** | est. **1985**, solvent | **3yr frame** (extreme-weather excl.) | **teak trim** greys/moves; delivery/parts hassle | **Low–Med** |
+| **Indian Ocean (Cove)** | thin (3.8★/2 — the brutal reviews are a *different, dissolved* firm) | ⭐ est. **1990**, Harrods | only **2yr**, vague | rope + cushions + metal (teak fine) | **Med** (£5.2k, over budget) |
+| **4 Seasons (Meteoro)** | ~4★ / ~120, mixed; responsive after-sales | stable, small | 5yr frame / 3yr cushion (extreme-weather excl.) | **QC-on-arrival defects**; Olefin cushions | **Med** |
+| **Harbour (Panama)** | ~4.0 / ~2,000 (service/refund tail) | **young (2020)** | structural; **cushions excluded** | cushions not all-weather (+ doesn't fit our U) | **Med** |
+| **Stoaked** | thin (203, one curated site, no Trustpilot) | **micro**, est. 2017 | "lifetime" frame welds only — **weathering excluded** | offers steel — must lock 100% marine alu + A4/316 | **Med–High** |
+| **Teakunique (Maluku II)** | ⚠ **none anywhere** | ⚠ micro, **weak finances** (~£21k net assets, −76%) | 10yr teak (excl. cushions/cracking) — **fragile backer** | teak fine; balance-sheet risk on the guarantee | **Med–High** |
+
+**Before you buy — applies to ANY option:**
+1. **A4/316 marine-grade stainless fixings, in writing** — at C5 the fixings corrode before the frame.
+2. **Cushions = consumable:** specify Sunbrella/Agora marine fabric + quick-dry foam and **store indoors** (don't trust supplied covers — the mould happens *under* them).
+3. **Confirm coating/warranty wording** — does salt/coastal exposure void cover? Treat the powder-coat as re-coatable.
+4. **Pay by credit card (Section 75)** — especially for the small makers (Stoaked, Teakunique).
+
+**Verdict:** on the don't-buy-a-problem test, **Quatropi Zara is the standout** — preferred look, fits the U, cheapest, *and* lowest-risk (huge verified review base + proven refunds + 22-yr company). **Kettler Elba is the strong safe alternative** (Sunbrella cushions are a real seafront plus — just minimise the teak trim). **Stoaked**, despite the perfect bespoke fit, is a **higher-risk bet** (tiny firm, thin evidence, warranty excludes exactly what a seafront inflicts) — only worth it if the marine-alu + coating spec is locked in writing. **Teakunique** carries small-firm risk *plus* a fragile balance sheet behind its 10-yr promise.
+
 ## Aluminium — frame + stored cushions (the route to a full U in budget)
 
 *Universal caveat for all aluminium below: aluminium itself never rusts, but the **powder-coat** can corrode at edges in C5 salt — get the marine/seaside-class coating spec (+ pre-treatment) in writing before ordering, and confirm seat height + exact dims (most don't publish them).*
