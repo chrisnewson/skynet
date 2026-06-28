@@ -29,6 +29,9 @@
 **[4 · Bistro Table](#bistro)**
 - [Mason beige ceramic £168](#mason-bistro)
 
+**[5 · Coffee Table](#coffee)**
+- [Modus beige sintered stone, gas-lift £308](#modus-coffee)
+
 **[Heat science — colour limits by material](#heat-science)** · **[Timing & checklist](#checklist)**
 
 ---
@@ -937,6 +940,35 @@ A small round table for the **narrow terrace (FA1)** — used with the **4 spare
 - The weak point is the **powder-coated steel base** — at a C5 coastal site the coating eventually chips and the steel rusts (the same reason we ruled steel out for the sofas). **Before buying, confirm whether the base is aluminium or an outdoor-rated version exists**; otherwise treat it as a *bring-indoors / sheltered-spot* table, or budget to touch up/seal the base.
 
 *Verdict: good looks and the right size/height, and the beige suits the palette — but resolve the steel base for seafront use before committing. More candidates to be added below.*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
+<a id="coffee"></a>
+
+# 5 · Coffee Table
+
+A low table for the **lounge / comfy-chairs area**. The clever option here is a **gas-lift "lift-up" table** that rises from coffee-table height to bistro/dining height — one piece, two jobs.
+
+<a id="modus-coffee"></a>
+
+### Modus beige sintered-stone gas-lift coffee/bistro table — Bentley Designs · £308
+
+<img src="chair-images/modus-coffee-beige.jpg" width="60%">
+
+- **£308** · [bentleydesigns.com](https://www.bentleydesigns.com/modus-matt-beige-sintered-stone-gas-lift-adjustable-coffeebistro-table/p5694)
+- **90cm round** (listed W90 × D90; the product photo shows a round top) on a black pedestal base
+- **Gas-lift "lift-up" mechanism** — raises from coffee-table to bistro height, so it doubles as a small dining/bistro table
+- **Top:** 6mm **sintered stone**, matt **beige** travertine design (also **grey** / **white**) — heat- & stain-resistant; the beige suits the granite/Latte palette
+- 2-yr guarantee · 20–25 day lead
+
+⚠ **Suitability caveats (seafront):**
+- Described as an **indoor** table — no outdoor rating.
+- The **6mm sintered-stone top is thin** (vs 12mm on the Mason bistro table) but still durable; the stone itself is fine outdoors.
+- **Base material isn't stated** — almost certainly powder-coated steel, so the **same C5 rust caveat** applies; *and* the **gas-lift strut + moving mechanism is an extra corrosion/seizing risk** outdoors at the seafront. **Confirm the base/mechanism materials and the min–max height range before buying;** realistically this is a *bring-indoors or sheltered* piece unless Bentley confirm outdoor-grade parts.
+
+*Verdict: lovely dual coffee↔bistro idea and the right beige, but the un-specced steel base **and** the outdoor gas-lift mechanism are the things to resolve for a rooftop. More candidates to be added below.*
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
