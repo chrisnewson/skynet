@@ -124,9 +124,13 @@ A relaxed corner between the outdoor kitchen and the dining area: four reclining
 
 ### Lounge chairs — Nardi Folio in "Corda" (sand) × 4 ✅
 
-<img src="chair-images/nardi-folio-cushion-footstool.jpg" width="60%">
+<img src="chair-images/nardi-folio-corda.jpg" width="30%"> <img src="chair-images/nardi-folio-cushion-footstool.jpg" width="44%">
 
-*The Folio with its comfort cushion + matching Poggio footstool (shown on a taupe frame; ours is **Corda / sand**).*
+*Left: the **bare** Folio in **Corda (sand)** — our colour. Right: **with** the comfort cushion + matching Poggio footstool (frame shown in taupe).*
+
+<img src="chair-images/nardi-folio-cushion.jpg" width="30%"> <img src="chair-images/nardi-folio-footstool.jpg" width="30%"> <img src="chair-images/nardi-folio.jpg" width="30%">
+
+*Left: the comfort seat+back cushion. Centre: the Poggio footstool. Right: the frame colour range (Bianco · Antracite · Agave · **Tortora** · plus **Corda** / Tabacco — Corda is ours).*
 
 - **4 × Nardi Folio recliner, Corda (sand)** — £153 ea = **£612** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio-outdoor-armchair/p2098)
 - **4 × Folio comfort cushion (seat+back, "Natural" oatmeal)** — £169 ea = **£676** · [bfhome.co.uk](https://www.bfhome.co.uk/products/folio-comfort-cushion) — the plush deluxe cushion (Chris's pick; Sunbrella seat-pad alternative dropped). Stored indoors. *(Chairs also look great **bare** — see the with/without photos in the options sheet — so cushions could be added later if trimming budget.)*
