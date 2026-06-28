@@ -26,6 +26,9 @@
 - **Aluminium (route to a full U in budget):** [Quatropi Zara ⭐](#zara) · [Kettler Elba ⭐](#kettler-elba) · [Stoaked bespoke U-base ⭐](#stoaked) · [Harbour Panama (by module)](#harbour-panama) · [4 Seasons Meteoro](#meteoro) · [other à-la-carte ranges](#alu-other)
 - **Teak (~£5k, no real daybed):** [Maluku II ⭐](#maluku) · [Indian Ocean Cove](#cove)
 
+**[4 · Bistro Table](#bistro)**
+- [Mason beige ceramic £168](#mason-bistro)
+
 **[Heat science — colour limits by material](#heat-science)** · **[Timing & checklist](#checklist)**
 
 ---
@@ -906,6 +909,34 @@ The FA3 lounge is a U-shaped zone: **3.30 m** back run (east) with two return le
 ---
 
 > **Teak by-the-module — the reality (27 Jun).** There is **no solid-teak, by-the-module, *modern* U under £4k.** The floor is ~£5k: **Maluku II** £5,025 (best tiling — square 80cm modules) or **Indian Ocean Cove** £5,205 (best look). **No UK solid-teak module system does a true push-together flat daybed** (only Tribu Pure, £15k+). One more à-la-carte teak source to phone if wanted: **In Garden** (ingarden.co.uk, 01732 463409). Chic Teak Buckingham is by-module but classic styling + a full U still ~£5–6.5k. **Net: teak = ~£5k and no real daybed; aluminium remains the only full-U-in-budget route.**
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
+<a id="bistro"></a>
+
+# 4 · Bistro Table
+
+A small round table for the **narrow terrace (FA1)** — used with the **4 spare Luxus Sydney dining chairs** (when the Azura dining table is at its compact 240cm size, 4 of the 12 chairs are free). So we only need the *table*; no extra chairs. Wants: ~70–90cm round (seats 4), ~75cm dining height to match the Sydney chairs (~45cm seat), and — critically — it has to cope with **seafront (C5) exposure**.
+
+<a id="mason-bistro"></a>
+
+### Mason beige ceramic bistro table — Home Origins · £168
+
+<img src="chair-images/mason-bistro-beige.jpg" width="60%">
+
+- **£168 each** · [homeorigins.com](https://www.homeorigins.com/mason-beige-ceramic-circular-bistro-table/p1404)
+- **90cm Ø top · 75cm H** — generous for a bistro table; 75cm height matches the Sydney chairs; pedestal base = easy legroom for 4 chairs
+- **Top:** 12mm **sintered stone** (matt beige), heat- & stain-resistant — also in **grey** and **white**. The **beige ties in nicely** with the yellow-granite paving and the Latte furniture tones.
+- **Base:** black "sand" **powder-coated steel** pedestal (tulip style)
+
+⚠ **Suitability caveats (important for the seafront):**
+- Home Origins sells/describes this as an **indoor** table (kitchens / dining rooms), not garden furniture.
+- The **sintered-stone top is genuinely fine outdoors** (frost/UV/stain-proof — same family as our dining-table stone tops).
+- The weak point is the **powder-coated steel base** — at a C5 coastal site the coating eventually chips and the steel rusts (the same reason we ruled steel out for the sofas). **Before buying, confirm whether the base is aluminium or an outdoor-rated version exists**; otherwise treat it as a *bring-indoors / sheltered-spot* table, or budget to touch up/seal the base.
+
+*Verdict: good looks and the right size/height, and the beige suits the palette — but resolve the steel base for seafront use before committing. More candidates to be added below.*
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
