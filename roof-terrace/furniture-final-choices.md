@@ -77,7 +77,9 @@
 
 <img src="drawings/panama-charcoal-product.png" width="100%">
 
-*The Panama range: powder-coated aluminium (anthracite/charcoal) with teak tables; the 3-seaters convert to sun-loungers; cushions stored indoors (not all-weather).*
+<img src="drawings/panama-3seat-sunlounger-charcoal.png" width="100%">
+
+*The Panama range: powder-coated aluminium (anthracite/charcoal) with teak tables; the 3-seaters convert to sun-loungers (shown reclined above); cushions stored indoors (not all-weather).*
 
 **Chosen layout** (built from the Panama modules):
 
