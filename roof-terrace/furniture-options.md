@@ -26,8 +26,8 @@
 - **Aluminium (route to a full U in budget):** [Quatropi Zara ⭐](#zara) · [Kettler Elba ⭐](#kettler-elba) · [Stoaked bespoke U-base ⭐](#stoaked) · [Harbour Panama (by module)](#harbour-panama) · [4 Seasons Meteoro](#meteoro) · [other à-la-carte ranges](#alu-other)
 - **Teak (~£5k, no real daybed):** [Maluku II ⭐](#maluku) · [Indian Ocean Cove](#cove)
 
-**[4 · Bistro Table](#bistro)** *(hard Ø600–650 round, real stone, NO laminate — top+base route)*
-- [warm-travertine top: photos + the round-vs-square fork](#bistro) (sintered square / terrazzo round / bespoke-cut round) · [bistro chairs](#bistro-chairs) (Nardi Costa / Jati teak)
+**[4 · Bistro Table](#bistro)** *(round Ø600–650, dining height)*
+- ⭐ [SIMPLE ANSWER: Field & Hawken "Mortimer" solid teak £199](#bistro) (matches the dining set) · stone-top exploration kept below · [bistro chairs](#bistro-chairs) (Nardi Costa / Jati teak)
 
 **[5 · Coffee / drinks tables](#coffee)** *(⚠ "no winter storage" rule = key)*
 - [Nardi Doga/Step Tortora ⭐ (only true all-year pick)](#nardi-doga) · travertine barrels ([Sadole](#mgo-drum) / [Pescara](#coxandcox-pescara)) all need a winter cover
@@ -924,7 +924,21 @@ The FA3 lounge is a U-shaped zone: **3.30 m** back run (east) with two return le
 
 # 4 · Bistro Table
 
-A small **round** table for the **narrow terrace (FA1)** — used with the **4 spare Luxus Sydney dining chairs** (when the Azura dining table is at its compact 240cm size, 4 of the 12 chairs are free). So we only need the *table*; no extra chairs. Wants: **~700–750mm round (800mm max), ~75cm dining height** to match the Sydney chairs (~45cm seat), and — critically — it has to cope with **seafront (C5) exposure**.
+A small **round** table (**hard Ø600–650**, ~75cm dining height) for the **narrow terrace (FA1)** — used with the bistro chairs below. Must cope with **seafront (C5) exposure**.
+
+> **✅ THE SIMPLE ANSWER (supersedes the stone-top rabbit-hole below).** A ready-made round Ø600–650 table with a **teak base AND a stone top** under £450 **doesn't exist** in the UK — teak bistros come with teak tops; stone tops come on metal/rattan bases. Since **the dining table is teak anyway**, the cleanest, most coherent and most coastal choice is a **solid-teak round bistro that matches the dining set:**
+> - **⭐ Field & Hawken "Mortimer" 60cm folding teak — £199** · Ø600 × H750, FLEGT teak, folds flat, near-zero maintenance, silvers to match the Sydney/Azura teak. *(Jati "Sissinghurst" Ø600/700 £175/£190 = cheaper alt.)*
+> - **If a warm STONE top matters more than matching teak:** Bramblecrest "Monterey" Ø700 ceramic in **Sandstone** (warm, wipe-clean, ~£200–300) — but its base is powder-coated aluminium + synthetic rattan (the coating + weave you've been wary of), so it's the compromise.
+>
+> The warm-travertine note still comes through via the **drum side tables**, so the bistro doesn't need to carry it. Teak bistro = simplest + matches dining.
+
+<img src="chair-images/fieldandhawken-mortimer-teak.jpg" width="42%">
+
+*Field & Hawken "Mortimer" 60cm folding teak bistro, £199 — round, dining height, matches the teak dining set.*
+
+---
+
+*The stone-top exploration below is kept for the record (superseded by the teak answer above).*
 
 > **The base is the whole problem.** Lots of pretty beige sintered-stone bistro tables exist — but nearly all are **indoor** pieces on **powder-coated steel** bases that will rust at the seafront (or powder-coated aluminium, where the *coating* still blisters in salt even though the metal won't rust). After seeing the powder-coat on a local cafe's aluminium furniture badly chipped, the safe route here is a **through-colour resin** base (no coating to fail), **anodised aluminium**, **316 stainless** or **solid stone/concrete**. There is **no** UK round table that combines a *real* beige sintered-stone top **and** a non-coated base **and** the right size **and** the budget — that spec only exists square, or at £700–£2,000+. So it's a trade-off: bulletproof resin *stone-look*, or a real stone top with a coating you have to accept and maintain.
 

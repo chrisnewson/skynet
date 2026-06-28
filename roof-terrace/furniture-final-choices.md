@@ -160,7 +160,7 @@ Both are textured travertine-look drums with **no metal to rust**; small size is
 
 | Item | Qty | Notes |
 |---|---|---|
-| **Bistro table** | 1 | ⚠ **REVISED BRIEF (Chris, re-measured):** **hard target Ø600–650mm**, round, ~75cm dining height, real stone/cement/terrazzo/sintered/MgO top — **NO laminate**. **Buying a TOP + BASE separately and bolting them is fine** → opens the **contract/café-furniture route** (small real-stone round tops Ø60 + a coastal dining-height base, NOT cast iron/steel). Base coastal: cast/anodised alu, 316, stone, or weighted. Searching this now. |
+| **Bistro table** | 1 | Round Ø600–650, ~75cm, on the narrow terrace. **Finding: a ready-made round teak-base + stone-top bistro under £450 doesn't exist** (and the dining table is teak anyway). **⭐ Lead = Field & Hawken "Mortimer" 60cm folding solid teak, £199** (Ø600×H750, matches the Sydney/Azura teak, bombproof coastal). *Alt if a warm stone top is wanted:* Bramblecrest "Monterey" Ø700 ceramic Sandstone (~£200–300) — but powder-coated-alu + rattan base. **Decision: teak (simple, matches dining) vs ceramic-top compromise.** |
 | **Bistro chairs** | 2–4 | ⚠ **NEW:** small coastal chairs to suit the Ø600–650 table — narrow, warm/neutral, able to double as **dining overflow**. Candidates: small teak (matches dining) or Nardi resin in Tortora (matches the Folio lounge chairs). Searching alongside the table. |
 | **Dining chair count** | 8? | ⚠ **Chris considering dropping the main Azura set from 12 → 8 Sydney teak chairs** to save ~£706, then using the **bistro chairs + indoor chairs** as overflow when extending the table to 10–12. **To confirm** — would revise Dining section above. |
 
