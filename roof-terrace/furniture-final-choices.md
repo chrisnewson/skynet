@@ -18,9 +18,14 @@
 | **Lounge (FA3)** | Harbour Panama — corner/footstool unit (used as 1-seater) | 2 | Harbour Lifestyle | £1,170 |
 | **Lounge (FA3)** | Harbour Panama — coffee table | 1 | Harbour Lifestyle | £359 |
 | **Lounge (FA3)** | Harbour Panama — side table | 1 | Harbour Lifestyle | £225 |
-| | | | **Confirmed total** | **≈ £7,490** |
+| **Narrow terrace** | Nardi Folio recliner — **Corda (sand)** | 4 | Julia Jones | £612 |
+| **Narrow terrace** | Nardi Folio comfort cushion (seat+back, "Natural") | 4 | BF Home | £676 |
+| **Narrow terrace** | Nardi Folio "Poggio" footstool | 2 | Julia Jones | £120 |
+| **Narrow terrace** | MgO travertine-look drum side table | 2 | TBC (UK source) | ~£180 |
+| **Narrow terrace** | Bistro table — *real stone/cement, round* | 1 | **STILL TO FINALISE** | TBC |
+| | | | **Confirmed total** | **≈ £9,078** *(+ bistro)* |
 
-*Prices are the latest quoted/listed figures and need re-confirming at order time (Panama sets are currently out of stock — buy by the module).*
+*Prices are the latest quoted/listed figures and need re-confirming at order time (Panama sets are currently out of stock — buy by the module; the MgO drum's UK source/price is being confirmed).*
 
 ---
 
@@ -111,14 +116,42 @@
 
 ---
 
+<a id="narrow"></a>
+
+## 3 · Narrow terrace — casual corner — ✅ CHAIRS + COFFEE CHOSEN
+
+A relaxed corner between the outdoor kitchen and the dining area: four reclining lounge chairs around two small travertine drum tables, plus a bistro table (still being chosen) that uses the 4 spare Sydney dining chairs.
+
+### Lounge chairs — Nardi Folio in "Corda" (sand) × 4 ✅
+
+<img src="chair-images/nardi-folio-cushion-footstool.jpg" width="60%">
+
+*The Folio with its comfort cushion + matching Poggio footstool (shown on a taupe frame; ours is **Corda / sand**).*
+
+- **4 × Nardi Folio recliner, Corda (sand)** — £153 ea = **£612** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio-outdoor-armchair/p2098)
+- **4 × Folio comfort cushion (seat+back, "Natural" oatmeal)** — £169 ea = **£676** · [bfhome.co.uk](https://www.bfhome.co.uk/products/folio-comfort-cushion) *(cushions stored indoors, so the bonded fabric is fine; the £123 Sunbrella seat-pad is the cheaper/more-coastal alternative if we trim budget)*
+- **2 × Folio "Poggio" footstool, Corda** — £60 ea = **£120** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio-outdoor-footstool/p2104)
+- Through-colour fibreglass resin — **no paint to chip, salt/UV-proof, hoses clean after gulls**; reclines 2 positions. Light (8.2 kg) → tuck against the kitchen wall / bring in for a gale.
+
+### Coffee tables — MgO travertine-look drum × 2 ✅
+
+<img src="chair-images/mgo-travertine-drum.jpg" width="40%">
+
+- **2 × MgO travertine-look drum side table** — ~£90 ea ≈ **£180** *(UK source/price + exact size being confirmed)*
+- Textured **MgO composite, light-beige travertine finish**, matt, full cylindrical drum — **no metal to rust**, UV/water-resistant. Ties to the warm-stone palette.
+- ⚠ Small (≈ Ø32–36 × H46) — confirm the size works beside the Folios; confirm MgO grade for the seafront.
+
+**Narrow-terrace confirmed so far: ≈ £1,588** (+ bistro table).
+
+---
+
 <a id="tbc"></a>
 
-## 3 · Still to finalise
+## 4 · Still to finalise
 
 | Item | Qty | Notes |
 |---|---|---|
-| **Comfy chairs** | 4 | Type/supplier TBD — candidates in [furniture-options.md](furniture-options.md). |
-| **Coffee table** | 1 | TBD — separate from the Panama coffee table; could be the one that fills the SE corner of the lounge. |
-| **Bistro table** | 1 | TBD — **uses the 4 spare Sydney dining chairs** around it (no extra chairs needed). The Sustainable Furniture **Rune Square 80cm (£240)** is a candidate (see teak-furniture.md). |
+| **Bistro table** | 1 | Round, ~Ø700–800, ~75cm dining height, **uses the 4 spare Sydney dining chairs**. ⚠ **NEW BRIEF (Chris):** a **real stone / cement / terrazzo / sintered-stone / MgO top — NOT a laminate (HPL) stone-look**; in the same proper-material family as the MgO drums. **Terra (brown resin) ruled out.** Searching now. |
+| **Folio cushion type** | — | Comfort seat+back (£169, plush, "Natural") vs Sunbrella seat-pad (£123, more coastal) — comfort chosen by default; confirm. |
 
 [↑ Top](#top)
