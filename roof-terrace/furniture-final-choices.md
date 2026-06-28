@@ -12,8 +12,8 @@
 
 | Zone | Item | Qty | Supplier | Cost |
 |---|---|---|---|---|
-| **Dining** | Luxus Sydney teak armchair | 12 | Luxus Home & Garden | £2,118 |
-| **Dining** | Azura 10–12 extending table | 1 | Sustainable Furniture | £1,280 |
+| **Dining** | Luxus Sydney teak armchair | 8 | Luxus Home & Garden | £1,412 |
+| **Dining** | Azura 8–10 extending table (180→240cm) | 1 | Sustainable Furniture | £920 |
 | **Lounge (FA3)** | Harbour Panama — 3-seat sofa | 2 | Harbour Lifestyle | £2,338 |
 | **Lounge (FA3)** | Harbour Panama — corner/footstool unit (used as 1-seater) | 2 | Harbour Lifestyle | £1,170 |
 | **Lounge (FA3)** | Harbour Panama — coffee table | 1 | Harbour Lifestyle | £359 |
@@ -21,7 +21,7 @@
 | **Narrow terrace** | Nardi Folio recliner — **Corda (sand)** | 4 | Julia Jones | £612 |
 | **Narrow terrace** | Nardi Folio comfort cushion (seat+back, "Natural") | 4 | BF Home | £676 |
 | **Narrow terrace** | Nardi Folio "Poggio" footstool | 2 | Julia Jones | £120 |
-| | | | **Confirmed total** | **≈ £8,898** |
+| | | | **Confirmed total** | **≈ £7,832** |
 
 *Prices are the latest quoted/listed figures and need re-confirming at order time (Panama sets are currently out of stock — buy by the module).*
 
@@ -39,7 +39,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**Chair — Luxus Sydney armchair × 12**
+**Chair — Luxus Sydney armchair × 8**
 <img src="chair-images/sydney-chair.jpg" width="100%">
 ~£176/chair · **sold in sets of 4 = £706**
 65cm W · 59cm D · 76cm H · stackable · SVLK teak
@@ -48,31 +48,31 @@
 </td>
 <td width="50%" valign="top">
 
-**Table — Sustainable Furniture Azura 10–12 × 1**
-<img src="chair-images/sf-azura-10-12-cross-leg.jpg" width="100%">
-£1,280 · SVLK teak · X cross-leg
-240cm compact → 320cm extended · 100cm wide · H75cm
-[sustainable-furniture.co.uk](https://sustainable-furniture.co.uk/product/azura-10-12-seater-extending-dining-table/)
+**Table — Sustainable Furniture Azura 8–10 × 1**
+<img src="chair-images/azura-table.jpg" width="100%">
+£920 · SVLK teak · X cross-leg
+180cm compact → 240cm extended · 100cm wide · H75cm
+[sustainable-furniture.co.uk](https://sustainable-furniture.co.uk/product/azura-8-10-seater-extending-dining-table/)
 
 </td>
 </tr>
 </table>
 
-**Seating:** 8 everyday on the 240cm compact table (3 per long side + 1 each end); **10–12 when extended to 320cm**. The 12 chairs cover the extended table; when compact, 4 are spare *(a bistro table for them is parked for later — see options sheet).*
+**Seating:** with the 65cm Sydney armchairs, **6 around the 180cm compact table** everyday; **8 when extended to 240cm** for guests. The 8 chairs cover the extended table (2 stand spare at compact size). For larger gatherings, a future bistro table / indoor chairs add overflow.
 
 ### 🛒 Shopping list — dining
 
 **Luxus Home & Garden** — [luxushomeandgarden.com](https://www.luxushomeandgarden.com/products/4-x-sydney-chairs-with-cushions)
 | Item | Qty | Unit | Total |
 |---|---|---|---|
-| Sydney teak armchair (with cushions) — bought as **3 × sets of 4** | 12 | £706/set of 4 | **£2,118** |
+| Sydney teak armchair (with cushions) — bought as **2 × sets of 4** | 8 | £706/set of 4 | **£1,412** |
 
-**Sustainable Furniture** — [sustainable-furniture.co.uk](https://sustainable-furniture.co.uk/product/azura-10-12-seater-extending-dining-table/)
+**Sustainable Furniture** — [sustainable-furniture.co.uk](https://sustainable-furniture.co.uk/product/azura-8-10-seater-extending-dining-table/)
 | Item | Qty | Unit | Total |
 |---|---|---|---|
-| Azura 10–12 extending dining table (240→320cm) | 1 | £1,280 | **£1,280** |
+| Azura 8–10 extending dining table (180→240cm) | 1 | £920 | **£920** |
 
-**Dining subtotal: £3,398**
+**Dining subtotal: £2,332**
 
 ---
 
@@ -152,6 +152,5 @@ These are **deliberately deferred** — we'll add them once everything else is i
 | **Bistro table** (round Ø600–650) | ⭐ **Field & Hawken "Mortimer" 60cm folding solid teak, £199** — matches the teak dining set, bombproof coastal, no project. *(A ready-made teak-base + stone-top round under £450 doesn't exist; the warm-stone alt = Bramblecrest "Monterey" ceramic, but on a powder-coated-alu + rattan base.)* §4 in the options sheet. |
 | **Bistro chairs** (2–4) | Nardi Costa in Tortora (resin, matches the Folios, ~£63) **or** Jati teak (Winchester £110 / Solana £125, matches the dining set, good as overflow). §4 in the options sheet. |
 | **Coffee / drinks side tables** (×2) | True all-year: **Nardi Doga/Step in Tortora** (resin). Travertine-drum look (needs a winter cover): MgO "Sadole" (~£60) or Cox & Cox "Pescara" (£395). §5 in the options sheet. |
-| **Dining chair count** (optional) | Could drop the Sydney set 12 → 8 (save ~£706) and use bistro + indoor chairs as overflow — only relevant once the bistro chairs are chosen. |
 
 [↑ Top](#top)
