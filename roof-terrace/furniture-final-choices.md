@@ -75,11 +75,11 @@
 
 ## 2 · Lounge (FA3) — ✅ CONFIRMED — Harbour Panama
 
-<img src="drawings/panama-charcoal-product.png" width="100%">
+<img src="drawings/panama-latte-corner-product.png" width="100%">
 
 <img src="drawings/panama-3seat-sunlounger-charcoal.png" width="100%">
 
-*The Panama range: powder-coated aluminium (anthracite/charcoal) with teak tables; the 3-seaters convert to sun-loungers (shown reclined above); cushions stored indoors (not all-weather).*
+*The Panama range comes in **Latte (beige, top photo)**, **Charcoal (anthracite, lower photo)** and Washed Grey — all powder-coated aluminium with teak tables; the 3-seaters convert to sun-loungers (shown reclined); cushions stored indoors (not all-weather). We'd leaned **Charcoal** to tie into the building's standing-seam cladding, but **Latte is the warmer option** — colourway to confirm.*
 
 **Chosen layout** (built from the Panama modules):
 
