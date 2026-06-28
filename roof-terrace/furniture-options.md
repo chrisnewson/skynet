@@ -2,7 +2,7 @@
 
 # Roof Terrace — Garden Furniture Options
 
-*Shortlist for the 22 Sussex Square roof terrace (Brighton seafront). Three sections: **Dining tables**, **Dining chairs**, **Sofas & comfy chairs**. Prices captured June 2026 — confirm live before ordering.*
+*Shortlist for the 22 Sussex Square roof terrace (Brighton seafront). Sections: **Dining tables · Dining chairs · Sofas & comfy chairs (FA3)**, then the **narrow-terrace casual pieces — bistro table · coffee table · lounge chairs**. Prices captured June 2026 — confirm live before ordering.*
 
 ---
 
@@ -26,11 +26,14 @@
 - **Aluminium (route to a full U in budget):** [Quatropi Zara ⭐](#zara) · [Kettler Elba ⭐](#kettler-elba) · [Stoaked bespoke U-base ⭐](#stoaked) · [Harbour Panama (by module)](#harbour-panama) · [4 Seasons Meteoro](#meteoro) · [other à-la-carte ranges](#alu-other)
 - **Teak (~£5k, no real daybed):** [Maluku II ⭐](#maluku) · [Indian Ocean Cove](#cove)
 
-**[4 · Bistro Table](#bistro)**
-- [Mason beige ceramic £168](#mason-bistro)
+**[4 · Bistro Table](#bistro)** *(round, ~70–75cm, narrow terrace)*
+- [Nardi Combo Ø70 resin £145 ⭐](#nardi-combo) · [Nardi Spritz/Step Ø60.5 Tortora £90–110](#nardi-step) · ~~[Mason beige ceramic £168](#mason-bistro)~~ ✗ steel base, 90cm
 
-**[5 · Coffee Table](#coffee)**
-- [Modus beige sintered stone, gas-lift £308](#modus-coffee)
+**[5 · Coffee Table](#coffee)** *(round, low, narrow-terrace lounge)*
+- [Nardi Step/Spritz Tortora £77–110 ⭐](#nardi-step) · [Maze Milan ceramic pair £195](#maze-milan) · ~~[Modus gas-lift £308](#modus-coffee)~~ ✗ steel base + gas-lift
+
+**[6 · Narrow-terrace lounge chairs](#narrow-lounge)** *(paint-free through-colour resin)*
+- [Nardi Folio £153 ⭐](#nardi-folio) · [Nardi Net Relax £122 ⭐](#nardi-net-relax) · [Allibert California ~£165](#allibert-california)
 
 **[Heat science — colour limits by material](#heat-science)** · **[Timing & checklist](#checklist)**
 
@@ -921,25 +924,44 @@ The FA3 lounge is a U-shaped zone: **3.30 m** back run (east) with two return le
 
 # 4 · Bistro Table
 
-A small round table for the **narrow terrace (FA1)** — used with the **4 spare Luxus Sydney dining chairs** (when the Azura dining table is at its compact 240cm size, 4 of the 12 chairs are free). So we only need the *table*; no extra chairs. Wants: ~70–90cm round (seats 4), ~75cm dining height to match the Sydney chairs (~45cm seat), and — critically — it has to cope with **seafront (C5) exposure**.
+A small **round** table for the **narrow terrace (FA1)** — used with the **4 spare Luxus Sydney dining chairs** (when the Azura dining table is at its compact 240cm size, 4 of the 12 chairs are free). So we only need the *table*; no extra chairs. Wants: **~700–750mm round (800mm max), ~75cm dining height** to match the Sydney chairs (~45cm seat), and — critically — it has to cope with **seafront (C5) exposure**.
+
+> **The base is the whole problem.** Lots of pretty beige sintered-stone bistro tables exist — but nearly all are **indoor** pieces on **powder-coated steel** bases that will rust at the seafront (or powder-coated aluminium, where the *coating* still blisters in salt even though the metal won't rust). After seeing the powder-coat on a local cafe's aluminium furniture badly chipped, the safe route here is a **through-colour resin** base (no coating to fail), **anodised aluminium**, **316 stainless** or **solid stone/concrete**. There is **no** UK round table that combines a *real* beige sintered-stone top **and** a non-coated base **and** the right size **and** the budget — that spec only exists square, or at £700–£2,000+. So it's a trade-off: bulletproof resin *stone-look*, or a real stone top with a coating you have to accept and maintain.
+
+<a id="nardi-combo"></a>
+
+### Nardi Combo Ø70 — through-colour resin ⭐ (the bulletproof choice)
+
+<img src="chair-images/nardi-combo.jpg" width="60%">
+
+*Shown in "Terra" (warm earth-brown).*
+
+- **From £145** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-combo-table/p3993) (also Timeout Space, Patio Leisure)
+- **Ø70cm × H75cm** ✅ — bang on our bistro size + dining height
+- **One moulded piece** of UV-stabilised fibreglass-reinforced polypropylene resin — top + base in a single through-colour piece. **No metal, no coating anywhere**; Nardi explicitly rate it for **weather and saline environments**. ~8.6kg.
+- **Colours:** **Gesso** (chalk / off-white) and **Terra** (warm earth-brown) are the warm options; also Cactus, Basalto. ⚠ *Not* a travertine pattern and **no true beige** — Gesso reads light-stone, Terra reads timber. (Nardi's truest beige, "Tortora," is on the smaller Spritz/Step below, not the Combo.)
+- **Outdoor-rated:** yes, residential + contract.
+
+*Verdict: the only in-budget round table that hits the size, dining height **and** a genuinely coastal-proof base. The compromise is stone-**look** resin, not real travertine. Light at 8.6kg → weight it or bring in for a gale. ⭐ Lead candidate.*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
+### Nardi Spritz / Step Ø60.5 — truer beige, dual-height *(see [§5 coffee](#nardi-step))*
+
+The **Nardi Spritz/Step** (full entry in the [Coffee Table section](#nardi-step)) is **height-adjustable 40cm ↔ 76.5cm**, so at its tall setting it's a bistro table too — and it comes in **Tortora (warm taupe/beige)**, a truer beige than the Combo. The catch is **Ø60.5cm** (smaller than our 700mm wish — a true 2-seat café size). Same bulletproof all-resin construction. A neat option if matching beige coffee + bistro tables as one family matters more than the extra 10cm of top.
+
+---
 
 <a id="mason-bistro"></a>
 
-### Mason beige ceramic bistro table — Home Origins · £168
+### ~~Mason beige ceramic bistro table — Home Origins · £168~~ ✗ REJECTED
 
-<img src="chair-images/mason-bistro-beige.jpg" width="60%">
+<img src="chair-images/mason-bistro-beige.jpg" width="40%">
 
-- **£168 each** · [homeorigins.com](https://www.homeorigins.com/mason-beige-ceramic-circular-bistro-table/p1404)
-- **90cm Ø top · 75cm H** — generous for a bistro table; 75cm height matches the Sydney chairs; pedestal base = easy legroom for 4 chairs
-- **Top:** 12mm **sintered stone** (matt beige), heat- & stain-resistant — also in **grey** and **white**. The **beige ties in nicely** with the yellow-granite paving and the Latte furniture tones.
-- **Base:** black "sand" **powder-coated steel** pedestal (tulip style)
-
-⚠ **Suitability caveats (important for the seafront):**
-- Home Origins sells/describes this as an **indoor** table (kitchens / dining rooms), not garden furniture.
-- The **sintered-stone top is genuinely fine outdoors** (frost/UV/stain-proof — same family as our dining-table stone tops).
-- The weak point is the **powder-coated steel base** — at a C5 coastal site the coating eventually chips and the steel rusts (the same reason we ruled steel out for the sofas). **Before buying, confirm whether the base is aluminium or an outdoor-rated version exists**; otherwise treat it as a *bring-indoors / sheltered-spot* table, or budget to touch up/seal the base.
-
-*Verdict: good looks and the right size/height, and the beige suits the palette — but resolve the steel base for seafront use before committing. More candidates to be added below.*
+- **£168** · [homeorigins.com](https://www.homeorigins.com/mason-beige-ceramic-circular-bistro-table/p1404) · **Ø90cm × H75cm**, 12mm beige sintered-stone top (top itself is fine).
+- ✗ **Rejected:** **Ø90cm is over our 800mm max**, it's sold as **indoor** furniture, and the **base is powder-coated steel** — it will rust at the seafront. Kept here only to record why it's out.
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
@@ -949,26 +971,116 @@ A small round table for the **narrow terrace (FA1)** — used with the **4 spare
 
 # 5 · Coffee Table
 
-A low table for the **lounge / comfy-chairs area**. The clever option here is a **gas-lift "lift-up" table** that rises from coffee-table height to bistro/dining height — one piece, two jobs.
+One or two **round, low** tables for the **lounge / comfy-chairs corner** on the narrow terrace. Same seafront rule as the bistro table: the **base** is the thing to get right (through-colour resin / anodised aluminium / 316 / solid stone — not powder-coated steel).
+
+<a id="nardi-step"></a>
+
+### Nardi Step / Spritz — through-colour resin, Tortora beige ⭐ (the value coastal winner)
+
+<img src="chair-images/nardi-step-spritz-tortora.jpg" width="60%">
+
+*Shown in "Tortora" (warm taupe/beige).*
+
+- **£77–110 each** — buy two for the pair (~£150–220, well inside budget) · [Step at bfhome.co.uk](https://www.bfhome.co.uk/products/step-garden-table-by-nardi) · [Spritz (Tortora) at abroaderpicture.com](https://abroaderpicture.com/products/spritz-side-table-tortora)
+- **Ø60.5cm**, **height-adjustable 40cm ↔ 76.5cm** ✅ — low coffee table, or raise to bistro/dining height (so it doubles as the bistro table — see [§4](#nardi-combo))
+- **All resin, through-colour, no metal** — UV- + saline-resistant, wipe-clean
+- **Colours:** **Tortora** = warm taupe/beige ✅ (Step also sold as "Turtle Dove" = same taupe); plus Bianco, Antracite
+- **Outdoor-rated:** yes
+
+*Verdict: coastal-proof, low, small, a true warm beige, and cheap — and it colour-matches a Nardi Combo bistro + Nardi Folio chairs for one coherent paint-free family. ⭐ Lead candidate. Light → weight/store in gales.*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
+<a id="maze-milan"></a>
+
+### Maze Milan — pair of round ceramic coffee tables · ~£195/pair *(real stone top, accept the coated base)*
+
+- **~£195 for the PAIR** · [betterbedcompany.co.uk](https://www.betterbedcompany.co.uk/products/maze-pair-round-ceramic-coffee-tables) (also mazeliving.co.uk)
+- **Ø50 × H42cm + Ø64 × H47cm** — a nested pair
+- **Top:** marble-effect **ceramic** — **"Cool Linen"** (pale warm stone) or Charcoal
+- **Base:** **powder-coated aluminium** ("Dawn Grey") — ⚠ the aluminium core won't *rust*, but the **coating isn't stated as marine-grade** and can whiten/blister at C5. The flagged trade-off: a real stone top in exchange for a coating to watch.
+- **Outdoor-rated:** yes.
+
+*Verdict: the best-value way to get a **real ceramic/stone top** as a pair — but it reintroduces the powder-coat you're wary of. Worth it only if a genuine stone top beats absolute base integrity. ⚠ Re-confirm "Cool Linen" stock + exact base wording (page returned errors during research).*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
 
 <a id="modus-coffee"></a>
 
-### Modus beige sintered-stone gas-lift coffee/bistro table — Bentley Designs · £308
+### ~~Modus beige sintered-stone gas-lift table — Bentley Designs · £308~~ ✗ REJECTED
 
-<img src="chair-images/modus-coffee-beige.jpg" width="60%">
+<img src="chair-images/modus-coffee-beige.jpg" width="40%">
 
-- **£308** · [bentleydesigns.com](https://www.bentleydesigns.com/modus-matt-beige-sintered-stone-gas-lift-adjustable-coffeebistro-table/p5694)
-- **90cm round** (listed W90 × D90; the product photo shows a round top) on a black pedestal base
-- **Gas-lift "lift-up" mechanism** — raises from coffee-table to bistro height, so it doubles as a small dining/bistro table
-- **Top:** 6mm **sintered stone**, matt **beige** travertine design (also **grey** / **white**) — heat- & stain-resistant; the beige suits the granite/Latte palette
-- 2-yr guarantee · 20–25 day lead
+- **£308** · [bentleydesigns.com](https://www.bentleydesigns.com/modus-matt-beige-sintered-stone-gas-lift-adjustable-coffeebistro-table/p5694) · **Ø90cm**, gas-lift 49.5–75.5cm, 6mm beige sintered-stone top.
+- ✗ **Rejected:** sold as **indoor**, **powder-coated steel** base (rusts at the coast) **and** a sealed **gas-lift strut** that will corrode/seize in salt air. Nice idea, wrong for a rooftop. Kept to record why it's out.
 
-⚠ **Suitability caveats (seafront):**
-- Described as an **indoor** table — no outdoor rating.
-- The **6mm sintered-stone top is thin** (vs 12mm on the Mason bistro table) but still durable; the stone itself is fine outdoors.
-- **Base material isn't stated** — almost certainly powder-coated steel, so the **same C5 rust caveat** applies; *and* the **gas-lift strut + moving mechanism is an extra corrosion/seizing risk** outdoors at the seafront. **Confirm the base/mechanism materials and the min–max height range before buying;** realistically this is a *bring-indoors or sheltered* piece unless Bentley confirm outdoor-grade parts.
+[↑ Top](#top) · [↑ Contents](#contents)
 
-*Verdict: lovely dual coffee↔bistro idea and the right beige, but the un-specced steel base **and** the outdoor gas-lift mechanism are the things to resolve for a rooftop. More candidates to be added below.*
+---
+
+<a id="narrow-lounge"></a>
+
+# 6 · Narrow-terrace lounge chairs
+
+A relaxed corner of **~4 comfy chairs** on the narrow terrace (separate from the FA3 sofa lounge). The brief that shaped this: **no paint to fail** (after the chipped powder-coat seen on a local cafe's seafront furniture), **no open weave** (bird droppings), **heavy enough not to blow around**, comfy, and **value**. That points to **through-colour resin** — the colour is baked through the material, nothing sprayed on, wipes clean, saline-rated.
+
+> **The honest tension = weight vs beige.** The comfy resin chairs are fairly light (4.7–8.2kg) — our own rule has been "nothing under ~7kg gets left out." Only the **Folio (8.2kg)** and the **Allibert (11kg)** clear that bar; the lighter Nardis are lovely and a truer beige but want bringing in for a gale. *(These three are seeds for further searching, not a final pick — captured here for review with Alex.)*
+
+<a id="nardi-folio"></a>
+
+### Nardi Folio — reclining resin lounge armchair ⭐ (wind-first + beige)
+
+<img src="chair-images/nardi-folio.jpg" width="55%">
+
+*Tortora (beige) **is** available — see the swatch row (Antracite / Agave / Bianco / Tortora). Shown in Tabacco.*
+
+- **£153 each**, sold singly · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio/r304)
+- **W72 × D81cm (92.5cm reclined) × H113cm · seat H45cm** — **reclines** to two positions for genuine lounging
+- **Through-colour** fibreglass-reinforced polypropylene resin, anti-UV — no paint. **8.2kg = the heaviest of the affordable resin chairs**, clears the 7kg leave-out line.
+- **No cushion needed** (contoured shell); optional seat pad ~£123 in warm-flax/neutral. Lattice pattern — open squares let rain/debris fall through.
+- **Colours incl. Tortora (beige)** ✅
+
+*Verdict: best balance of the exact brief — reclines, paint-free, beige available, heaviest sleek option. ⭐*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
+<a id="nardi-net-relax"></a>
+
+### Nardi Net Relax — deepest-recline lounger, Tortora ⭐ (beige-first, but light)
+
+<img src="chair-images/nardi-net-relax.jpg" width="55%">
+
+*Shown in coral; **Tortora (warm taupe/beige) is a stock colour**.*
+
+- **£122.37 each** (was £149), sold singly · [tecnoarredo3.co.uk](https://www.tecnoarredo3.co.uk/net-relax-nardi-chair) (also BF Home, pair £216)
+- **W67 × D71 × H86.5cm · seat H41.5cm** — "halfway between an armchair and a sun-lounger," the most genuinely reclined shape here
+- **Batch-dyed** anti-UV fibreglass polypropylene, matt — through-colour, saline-rated. **Tortora confirmed** ✅
+- **No cushion needed** (perforated mesh shell; optional pad £68). ⚠ The mesh holes can lodge a little bird mess — but a hose washes straight through.
+- ⚠ **~4.9kg — wind risk when empty**; weight it or bring it in for a gale.
+
+*Verdict: cheapest sleek option, deepest lounge, true beige confirmed — the trade-off is the low weight. ⭐ (Sibling: **[Nardi Net Lounge](https://www.juliajones.co.uk/nardi-net-lounge-armchair/p3487)** £136, Tortora/Bianco, 5.4kg, scoop shape — same family if you prefer that shape.)*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
+<a id="allibert-california"></a>
+
+### Allibert by Keter "California" — value resin club chair (heaviest in budget)
+
+- **~£150–190 each** (Keter UK sells a grey pair at £330) · [amazon.co.uk](https://www.amazon.co.uk/Allibert-Keter-California-Outdoor-Armchair/dp/B01N7G97NG) *(product photo to add)*
+- **W~82 × D68 × H72cm · seat H~36cm** — a low, comfy club shape
+- **UV-stabilised polypropylene resin, through-colour** ("colours will not fade"); comes with a **beige/cappuccino cushion**
+- **~11kg — the heaviest sub-£190 resin chair**, genuinely won't blow around
+- ⚠ Surface is a **moulded round-wicker texture** — wipes clean and sheds water, but the grooves collect more bird mess than the smooth Nardi shells, and it looks less refined than the Italian resin.
+
+*Verdict: the heavy + value pick if wind-without-thinking beats looks — but it's a chunkier, textured, less elegant chair. ⚠ Confirm single-chair price (Amazon blocks automated checks) and pin the "Resin/Foil" wording on Keter's page.*
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
