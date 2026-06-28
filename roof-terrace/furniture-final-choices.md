@@ -129,7 +129,7 @@ A relaxed corner between the outdoor kitchen and the dining area: four reclining
 *The Folio with its comfort cushion + matching Poggio footstool (shown on a taupe frame; ours is **Corda / sand**).*
 
 - **4 × Nardi Folio recliner, Corda (sand)** — £153 ea = **£612** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio-outdoor-armchair/p2098)
-- **4 × Folio comfort cushion (seat+back, "Natural" oatmeal)** — £169 ea = **£676** · [bfhome.co.uk](https://www.bfhome.co.uk/products/folio-comfort-cushion) *(cushions stored indoors, so the bonded fabric is fine; the £123 Sunbrella seat-pad is the cheaper/more-coastal alternative if we trim budget)*
+- **4 × Folio cushion** — £676 if comfort seat+back ("Natural", £169 ea) · [bfhome.co.uk](https://www.bfhome.co.uk/products/folio-comfort-cushion) — **OR £492 if the Sunbrella seat pad (Lino flax, £123 ea)**, which is *also* a full seat+back pad, near-identical look in tougher coastal fabric for £46 less each (see options sheet for the comparison photos). Cushions stored indoors.
 - **2 × Folio "Poggio" footstool, Corda** — £60 ea = **£120** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio-outdoor-footstool/p2104)
 - Through-colour fibreglass resin — **no paint to chip, salt/UV-proof, hoses clean after gulls**; reclines 2 positions. Light (8.2 kg) → tuck against the kitchen wall / bring in for a gale.
 
@@ -152,6 +152,6 @@ A relaxed corner between the outdoor kitchen and the dining area: four reclining
 | Item | Qty | Notes |
 |---|---|---|
 | **Bistro table** | 1 | Round, ~Ø700–800, ~75cm dining height, **uses the 4 spare Sydney dining chairs**. ⚠ **NEW BRIEF (Chris):** a **real stone / cement / terrazzo / sintered-stone / MgO top — NOT a laminate (HPL) stone-look**; in the same proper-material family as the MgO drums. **Terra (brown resin) ruled out.** Searching now. |
-| **Folio cushion type** | — | Comfort seat+back (£169, plush, "Natural") vs Sunbrella seat-pad (£123, more coastal) — comfort chosen by default; confirm. |
+| **Folio cushion type** | — | Both are full seat+back pads: comfort (£169, bonded, "Natural") vs **Sunbrella seat pad (£123, Lino flax — tougher fabric, near-identical look, ~£184 cheaper across 4)**. Comfort is the current default (Chris likes it); Sunbrella may be the smarter pick — confirm. |
 
 [↑ Top](#top)

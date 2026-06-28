@@ -1113,13 +1113,15 @@ A relaxed corner of **~4 comfy chairs** on the narrow terrace (separate from the
 - **Through-colour fibreglass-resin**, matt, perforated — **no paint to chip, salt- and UV-proof, hoses clean** after gulls. The corrosion-proof, near-zero-maintenance choice.
 - **6 frame colours:** Bianco · Antracite · **Tortora (taupe)** · **Corda (sand — new 2026)** · Agave (green) · Tabacco (brown). The two warm neutrals (Tortora / Corda) bridge the timber + teak beautifully.
 
-**Cushions — two options:**
+**Cushions — two options (both full seat+back pads):**
 | Cushion | Price | Fabric | Best neutral |
 |---|---|---|---|
-| Seat pad | £123 | **genuine Sunbrella** (best UV/coastal) | **Lino** (flax/oatmeal) |
-| Seat + back "comfort" cushion *(shown above)* | £169 | bonded fabric (not Sunbrella) | **"Natural"** (oatmeal) |
+| **Sunbrella seat pad** | **£123** | **genuine Sunbrella** (best UV/coastal) | **Lino** (flax/oatmeal) |
+| Seat + back "comfort" cushion *(shown in top photo)* | £169 | bonded fabric (not Sunbrella) | **"Natural"** (oatmeal) |
 
-*You can't currently get seat+back **and** Sunbrella on one cushion — the plush seat+back is bonded fabric; the Sunbrella one is the seat pad only. Cushions stored indoors regardless.*
+<img src="chair-images/nardi-folio-seatpad.jpg" width="32%"> <img src="chair-images/nardi-folio-seatpad-lino.jpg" width="28%">
+
+*The **£123 Sunbrella seat pad** in **Lino (flax)** — fitted (left) and the pad itself (right). It's also a full plush seat+back pad, so it looks much like the £169 comfort cushion (top photo) — but in the **better coastal fabric (Sunbrella) and £46 cheaper**. So although cushions live indoors (making the comfort cushion's bonded fabric fine), the Sunbrella seat pad may be the smarter buy — near-identical look, tougher fabric, lower price. The comfort cushion may be marginally plusher/larger. Worth comparing in the flesh.*
 
 **Matching footstool — Folio "Poggio":** **£60** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio-outdoor-footstool/p2104) · L41.5 × W49 × H44cm · same colours incl. Corda/Tortora.
 
