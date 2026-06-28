@@ -1124,21 +1124,19 @@ A relaxed corner of **~4 comfy chairs** on the narrow terrace (separate from the
 - **Through-colour fibreglass-resin**, matt, perforated — **no paint to chip, salt- and UV-proof, hoses clean** after gulls. The corrosion-proof, near-zero-maintenance choice.
 - **6 frame colours:** Bianco · Antracite · **Tortora (taupe)** · **Corda (sand — new 2026)** · Agave (green) · Tabacco (brown). The two warm neutrals (Tortora / Corda) bridge the timber + teak beautifully.
 
-**Cushions — two options (both full seat+back pads):**
-| Cushion | Price | Fabric | Best neutral |
-|---|---|---|---|
-| **Sunbrella seat pad** | **£123** | **genuine Sunbrella** (best UV/coastal) | **Lino** (flax/oatmeal) |
-| Seat + back "comfort" cushion *(shown in top photo)* | £169 | bonded fabric (not Sunbrella) | **"Natural"** (oatmeal) |
+**Cushion — the plush "comfort" seat+back cushion** ✅ (Chris's pick): **£169** · [bfhome.co.uk](https://www.bfhome.co.uk/products/folio-comfort-cushion) — full quilted seat+back pad in **"Natural"** (oatmeal). Stored indoors, so the bonded fabric is fine. *(The £123 Sunbrella seat-pad alternative has been **dropped** — Chris prefers the deluxe comfort cushion.)*
 
-<img src="chair-images/nardi-folio-seatpad.jpg" width="32%"> <img src="chair-images/nardi-folio-seatpad-lino.jpg" width="28%">
+**The Folio with and without the cushion:**
 
-*The **£123 Sunbrella seat pad** in **Lino (flax)** — fitted (left) and the pad itself (right). It's also a full plush seat+back pad, so it looks much like the £169 comfort cushion (top photo) — but in the **better coastal fabric (Sunbrella) and £46 cheaper**. So although cushions live indoors (making the comfort cushion's bonded fabric fine), the Sunbrella seat pad may be the smarter buy — near-identical look, tougher fabric, lower price. The comfort cushion may be marginally plusher/larger. Worth comparing in the flesh.*
+<img src="chair-images/nardi-folio-corda.jpg" width="30%"> <img src="chair-images/nardi-folio-cushion-footstool.jpg" width="44%">
+
+*Left: the **bare** Folio in Corda (sand) — clean and minimal. Right: **with** the comfort cushion + matching Poggio footstool. Both looks work; the cushion adds the cosy lounge feel.*
 
 **Matching footstool — Folio "Poggio":** **£60** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio-outdoor-footstool/p2104) · L41.5 × W49 × H44cm · same colours incl. Corda/Tortora.
 
-<img src="chair-images/nardi-folio-corda.jpg" width="32%"> <img src="chair-images/nardi-folio-footstool.jpg" width="32%">
+<img src="chair-images/nardi-folio-footstool.jpg" width="30%">
 
-*Left: Folio in **Corda** (sand). Right: the Poggio footstool.*
+*The Poggio footstool (matches the chair colours, incl. Corda).*
 
 > **Set deal:** 2 chairs + 2 seat pads + 2 footstools from **£672** ([Julia Jones](https://www.juliajones.co.uk/nardi-folio-armchair-set-2-x-chairs-2-x-seat-pads-2-x-footrest/p3851)). For 4 chairs + 4 pads + 4 footstools ≈ **£1,344** (or ≈ £852 chairs-only).
 

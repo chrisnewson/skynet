@@ -129,7 +129,7 @@ A relaxed corner between the outdoor kitchen and the dining area: four reclining
 *The Folio with its comfort cushion + matching Poggio footstool (shown on a taupe frame; ours is **Corda / sand**).*
 
 - **4 × Nardi Folio recliner, Corda (sand)** — £153 ea = **£612** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio-outdoor-armchair/p2098)
-- **4 × Folio cushion** — £676 if comfort seat+back ("Natural", £169 ea) · [bfhome.co.uk](https://www.bfhome.co.uk/products/folio-comfort-cushion) — **OR £492 if the Sunbrella seat pad (Lino flax, £123 ea)**, which is *also* a full seat+back pad, near-identical look in tougher coastal fabric for £46 less each (see options sheet for the comparison photos). Cushions stored indoors.
+- **4 × Folio comfort cushion (seat+back, "Natural" oatmeal)** — £169 ea = **£676** · [bfhome.co.uk](https://www.bfhome.co.uk/products/folio-comfort-cushion) — the plush deluxe cushion (Chris's pick; Sunbrella seat-pad alternative dropped). Stored indoors. *(Chairs also look great **bare** — see the with/without photos in the options sheet — so cushions could be added later if trimming budget.)*
 - **2 × Folio "Poggio" footstool, Corda** — £60 ea = **£120** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio-outdoor-footstool/p2104)
 - Through-colour fibreglass resin — **no paint to chip, salt/UV-proof, hoses clean after gulls**; reclines 2 positions. Light (8.2 kg) → tuck against the kitchen wall / bring in for a gale.
 
@@ -159,6 +159,5 @@ Both are textured travertine-look drums with **no metal to rust**; small size is
 | **Bistro table** | 1 | ⚠ **REVISED BRIEF (Chris, re-measured):** **hard target Ø600–650mm**, round, ~75cm dining height, real stone/cement/terrazzo/sintered/MgO top — **NO laminate**. **Buying a TOP + BASE separately and bolting them is fine** → opens the **contract/café-furniture route** (small real-stone round tops Ø60 + a coastal dining-height base, NOT cast iron/steel). Base coastal: cast/anodised alu, 316, stone, or weighted. Searching this now. |
 | **Bistro chairs** | 2–4 | ⚠ **NEW:** small coastal chairs to suit the Ø600–650 table — narrow, warm/neutral, able to double as **dining overflow**. Candidates: small teak (matches dining) or Nardi resin in Tortora (matches the Folio lounge chairs). Searching alongside the table. |
 | **Dining chair count** | 8? | ⚠ **Chris considering dropping the main Azura set from 12 → 8 Sydney teak chairs** to save ~£706, then using the **bistro chairs + indoor chairs** as overflow when extending the table to 10–12. **To confirm** — would revise Dining section above. |
-| **Folio cushion type** | — | Both are full seat+back pads: comfort (£169, bonded, "Natural") vs **Sunbrella seat pad (£123, Lino flax — tougher fabric, near-identical look, ~£184 cheaper across 4)**. Comfort is the current default (Chris likes it); Sunbrella may be the smarter pick — confirm. |
 
 [↑ Top](#top)
