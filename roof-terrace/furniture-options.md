@@ -793,11 +793,17 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 
 3 armless 198×74cm sofas turn the SW corner; a **teak side table fills the bottom-right (NE) corner gap**, and the **north leg is shuffled left** so the only leftover is a **tidy ~0.21m strip against the north flowerbed** (fine — small gap behind). A second side table sits at the south leg's open end. **9 seats. 3 sofas £3,507 + coffee table £359 = £3,866** (in budget); **+ 2 side tables £450 → ~£4,316** (marginally over). Deep/chunky, lounge-first, cushions not all-weather, converts to sun-loungers. Quatropi Zara gives a cleaner wrap-around for ~£2,300.
 
-**Alternative Panama layout (two 1-seaters east + 2 coffee tables + 1 side table) — buildable:**
+**Alternative B — two 1-seaters east + 2 coffee tables + 2 side tables (buildable):**
 
 <img src="drawings/panama-alt-u-fa3-28-6-26.png" width="100%">
 
-A tidier arrangement that **is buildable in Panama**: since Panama has no 2-seater, the east/back run uses **two 74×74 corner/footstool units as 1-seaters**; a **side table sits at the SW junction** (between the east seats and the south leg), and the **bottom-right corner is a second coffee table** — so 2 coffee tables + 1 side table, 8 seats. The back tiles cleanly (74 + 34 + 74 + 74 + 74 = 330). ⚠ **Cost catch:** the corner/footstool units are **£585 each**, so this version ≈ 2 sofas £2,338 + 2 units £1,170 + 2 coffee tables £718 + side table £225 = **~£4,451 (over budget)** — the £585 single-seat units are poor value per seat. Also **confirm a single corner/footstool unit has a proper backrest** when used as a forward-facing seat (it's designed as a corner/footstool). The 3-sofa version above (£3,866) is cheaper; this one buys the neater table arrangement at a premium.
+Buildable in Panama: the east/back run uses **two 74×74 corner/footstool units as 1-seaters**; **side tables at the SW junction and the south-leg open end**; **coffee tables in the centre and the NE (bottom-right) corner**. 8 seats; back tiles cleanly (74 + 34 + 74 + 74 + 74 = 330). ⚠ **Cost:** the corner/footstool units are **£585 each**, so ≈ 2 sofas £2,338 + 2 units £1,170 + 2 coffee £718 + 2 side £450 = **~£4,676 (over budget)** — poor value per seat. Also **confirm a single corner/footstool unit has a proper backrest** (it's designed as a corner/footstool).
+
+**Alternative C — three 3-seaters (east back run is a 3-seater) + 1 coffee + 2 side tables:**
+
+<img src="drawings/panama-alt-c-fa3-28-6-26.png" width="100%">
+
+The neatest of the three: **three 3-seaters** — south leg, an **east/back 3-seater** (replacing the two 1-seaters + NE corner: 74 + 34 + 198 = 306, **it fits** with a small ~0.24m gap at the NE corner to the flowerbed), and the **north 3-seater pushed up to the open/west end of the north leg**. **Side tables at the SW junction + south-leg top; one central coffee table. 9 seats.** Cost: 3 sofas £3,507 + coffee table £359 + 2 side tables £450 = **~£4,316** (over budget by ~£300; drop a side table to come in nearer £4k). The cleanest seating of the Panama options, and avoids the pricey £585 single units.
 
 **If Panama stays out of stock** — near-identical in-stock alternatives: **daals "Albany"** (~£730, dark grey, reclines to a lounger) and **Bramblecrest** (premium, marine-grade). A bespoke-fitted U is still cleaner via Stoaked/Quatropi, but Panama-by-module is a viable route.
 
