@@ -148,7 +148,7 @@ Both are textured travertine-look drums with **no metal to rust**; small size is
 | **A — MgO "Sadole" × 2** *(value)* | **£59.99 ea ≈ £120** · [Amazon UK](https://www.amazon.co.uk/Accent-Fiberglass-Resistant-Natural-Sadole/dp/B0CLTZV6ND) (also ManoMano £89.99) | Ø32 × H46 | MgO + fibreglass, "Natural" (concrete tone, not strongly veined) | Outdoor-rated, confirmed genuine MgO |
 | **B — Cox & Cox "Pescara"** *(upmarket)* | £395 ea · [Cox & Cox](https://www.coxandcox.co.uk/pescara-side-table/) | Ø40 × H52 | Handmade polystone (cement composite) | More refined/designer; outdoor but bring in over winter/wet |
 
-*Both ✅ acceptable. Sadole = the value pair; Pescara = the designer single/pair. Left as alternatives per Chris.*
+⚠ **BUT both fail Chris's "no winter storage" rule** — Sadole's listing says *"use a cover or store inside off-season"*, and the Pescara says bring in over winter/wet. So the **fork** (see options sheet §5): **relax the look** → **Nardi Doga/Step in Tortora** (resin, the *only* genuinely leave-out-all-year + coastal option, but a clean table not a travertine barrel); or **relax the rule** → keep a travertine barrel (Sadole/Pescara) and cover it in winter. **Decision open.**
 
 **Narrow-terrace confirmed so far: ≈ £1,588** (+ bistro table).
 
