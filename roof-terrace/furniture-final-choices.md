@@ -21,11 +21,11 @@
 | **Narrow terrace** | Nardi Folio recliner — **Corda (sand)** | 4 | Julia Jones | £612 |
 | **Narrow terrace** | Nardi Folio comfort cushion (seat+back, "Natural") | 4 | BF Home | £676 |
 | **Narrow terrace** | Nardi Folio "Poggio" footstool | 2 | Julia Jones | £120 |
-| **Narrow terrace** | Drinks-table drum — MgO "Sadole" ×2 *(or Cox & Cox Pescara)* | 2 | Amazon UK / Cox & Cox | ~£120 *(or £790)* |
-| **Narrow terrace** | Bistro table — *round Ø600–650, real stone* | 1 | **STILL TO FINALISE** (top+base route) | TBC |
-| | | | **Confirmed total** | **≈ £9,078** *(+ bistro)* |
+| | | | **Confirmed total** | **≈ £8,898** |
 
-*Prices are the latest quoted/listed figures and need re-confirming at order time (Panama sets are currently out of stock — buy by the module; the MgO drum's UK source/price is being confirmed).*
+*Prices are the latest quoted/listed figures and need re-confirming at order time (Panama sets are currently out of stock — buy by the module).*
+
+> ⏸ **Parked for later (deliberately not in this total):** the **bistro set** (table + chairs) and the **coffee / drinks side tables**. We're getting everything else in place first and will add these later. Their best routes are fully recorded in **[furniture-options.md](furniture-options.md)** — §4 (bistro: lead = Field & Hawken "Mortimer" teak) and §5 (side tables: lead = Nardi Doga for true all-year, or a travertine drum with a winter cover).
 
 ---
 
@@ -58,7 +58,7 @@
 </tr>
 </table>
 
-**Seating:** 8 everyday on the 240cm compact table (3 per long side + 1 each end); **10–12 when extended to 320cm**. The 12 chairs cover the extended table; when compact, the **4 spare chairs go around the bistro table** (see "Still to finalise").
+**Seating:** 8 everyday on the 240cm compact table (3 per long side + 1 each end); **10–12 when extended to 320cm**. The 12 chairs cover the extended table; when compact, 4 are spare *(a bistro table for them is parked for later — see options sheet).*
 
 ### 🛒 Shopping list — dining
 
@@ -118,9 +118,9 @@
 
 <a id="narrow"></a>
 
-## 3 · Narrow terrace — casual corner — ✅ CHAIRS + COFFEE CHOSEN
+## 3 · Narrow terrace — lounge chairs — ✅ CONFIRMED
 
-A relaxed corner between the outdoor kitchen and the dining area: four reclining lounge chairs around two small travertine drum tables, plus a bistro table (still being chosen) that uses the 4 spare Sydney dining chairs.
+A relaxed corner between the outdoor kitchen and the dining area. **Lounge chairs are confirmed below;** the **bistro set and side tables are parked for later** (best routes in [furniture-options.md](furniture-options.md)).
 
 ### Lounge chairs — Nardi Folio in "Corda" (sand) × 4 ✅
 
@@ -137,31 +137,21 @@ A relaxed corner between the outdoor kitchen and the dining area: four reclining
 - **2 × Folio "Poggio" footstool, Corda** — £60 ea = **£120** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio-outdoor-footstool/p2104)
 - Through-colour fibreglass resin — **no paint to chip, salt/UV-proof, hoses clean after gulls**; reclines 2 positions. Light (8.2 kg) → tuck against the kitchen wall / bring in for a gale.
 
-### Coffee / drinks tables — two small-drum alternatives ✅ *(small is fine — Chris)*
-
-Both are textured travertine-look drums with **no metal to rust**; small size is deliberate (drinks tables beside the Folios). Pick one route:
-
-<img src="chair-images/mgo-travertine-drum.jpg" width="32%"> <img src="chair-images/coxandcox-pescara.jpg" width="28%">
-
-| Option | Price | Size | Material | Notes |
-|---|---|---|---|---|
-| **A — MgO "Sadole" × 2** *(value)* | **£59.99 ea ≈ £120** · [Amazon UK](https://www.amazon.co.uk/Accent-Fiberglass-Resistant-Natural-Sadole/dp/B0CLTZV6ND) (also ManoMano £89.99) | Ø32 × H46 | MgO + fibreglass, "Natural" (concrete tone, not strongly veined) | Outdoor-rated, confirmed genuine MgO |
-| **B — Cox & Cox "Pescara"** *(upmarket)* | £395 ea · [Cox & Cox](https://www.coxandcox.co.uk/pescara-side-table/) | Ø40 × H52 | Handmade polystone (cement composite) | More refined/designer; outdoor but bring in over winter/wet |
-
-⚠ **BUT both fail Chris's "no winter storage" rule** — Sadole's listing says *"use a cover or store inside off-season"*, and the Pescara says bring in over winter/wet. So the **fork** (see options sheet §5): **relax the look** → **Nardi Doga/Step in Tortora** (resin, the *only* genuinely leave-out-all-year + coastal option, but a clean table not a travertine barrel); or **relax the rule** → keep a travertine barrel (Sadole/Pescara) and cover it in winter. **Decision open.**
-
-**Narrow-terrace confirmed so far: ≈ £1,588** (+ bistro table).
+**Narrow-terrace (lounge chairs) subtotal: £1,408.**
 
 ---
 
 <a id="tbc"></a>
 
-## 4 · Still to finalise
+## 4 · Parked for later
 
-| Item | Qty | Notes |
-|---|---|---|
-| **Bistro table** | 1 | Round Ø600–650, ~75cm, on the narrow terrace. **Finding: a ready-made round teak-base + stone-top bistro under £450 doesn't exist** (and the dining table is teak anyway). **⭐ Lead = Field & Hawken "Mortimer" 60cm folding solid teak, £199** (Ø600×H750, matches the Sydney/Azura teak, bombproof coastal). *Alt if a warm stone top is wanted:* Bramblecrest "Monterey" Ø700 ceramic Sandstone (~£200–300) — but powder-coated-alu + rattan base. **Decision: teak (simple, matches dining) vs ceramic-top compromise.** |
-| **Bistro chairs** | 2–4 | ⚠ **NEW:** small coastal chairs to suit the Ø600–650 table — narrow, warm/neutral, able to double as **dining overflow**. Candidates: small teak (matches dining) or Nardi resin in Tortora (matches the Folio lounge chairs). Searching alongside the table. |
-| **Dining chair count** | 8? | ⚠ **Chris considering dropping the main Azura set from 12 → 8 Sydney teak chairs** to save ~£706, then using the **bistro chairs + indoor chairs** as overflow when extending the table to 10–12. **To confirm** — would revise Dining section above. |
+These are **deliberately deferred** — we'll add them once everything else is in place. The full research + best routes live in **[furniture-options.md](furniture-options.md)**.
+
+| Item | Leading route (to revisit) |
+|---|---|
+| **Bistro table** (round Ø600–650) | ⭐ **Field & Hawken "Mortimer" 60cm folding solid teak, £199** — matches the teak dining set, bombproof coastal, no project. *(A ready-made teak-base + stone-top round under £450 doesn't exist; the warm-stone alt = Bramblecrest "Monterey" ceramic, but on a powder-coated-alu + rattan base.)* §4 in the options sheet. |
+| **Bistro chairs** (2–4) | Nardi Costa in Tortora (resin, matches the Folios, ~£63) **or** Jati teak (Winchester £110 / Solana £125, matches the dining set, good as overflow). §4 in the options sheet. |
+| **Coffee / drinks side tables** (×2) | True all-year: **Nardi Doga/Step in Tortora** (resin). Travertine-drum look (needs a winter cover): MgO "Sadole" (~£60) or Cox & Cox "Pescara" (£395). §5 in the options sheet. |
+| **Dining chair count** (optional) | Could drop the Sydney set 12 → 8 (save ~£706) and use bistro + indoor chairs as overflow — only relevant once the bistro chairs are chosen. |
 
 [↑ Top](#top)
