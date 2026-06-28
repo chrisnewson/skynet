@@ -26,11 +26,11 @@
 - **Aluminium (route to a full U in budget):** [Quatropi Zara ⭐](#zara) · [Kettler Elba ⭐](#kettler-elba) · [Stoaked bespoke U-base ⭐](#stoaked) · [Harbour Panama (by module)](#harbour-panama) · [4 Seasons Meteoro](#meteoro) · [other à-la-carte ranges](#alu-other)
 - **Teak (~£5k, no real daybed):** [Maluku II ⭐](#maluku) · [Indian Ocean Cove](#cove)
 
-**[4 · Bistro Table](#bistro)** *(round, ~Ø70–80 — ⚠ real stone/cement only, NO laminate)*
-- ⚠ [real-stone round bistro barely exists at this size](#bistro) — leads: Peppermill Ø80 terrazzo / Beliani OLBIA Ø90 / commission · [Nardi Combo resin £145](#nardi-combo) (no-metal alt) · ~~Piano Laminato~~ ✗ laminate · ~~Mason~~ ✗
+**[4 · Bistro Table](#bistro)** *(hard Ø600–650 round, real stone, NO laminate — top+base route)*
+- [warm-travertine top: photos + the round-vs-square fork](#bistro) (sintered square / terrazzo round / bespoke-cut round) · [bistro chairs](#bistro-chairs) (Nardi Costa / Jati teak)
 
-**[5 · Coffee Table](#coffee)** *(round, low, narrow-terrace lounge)*
-- [SKLUM Zanira Ø40 terrazzo £225 (best look)](#sklum-zanira) · [Nardi Step pair £152 ⭐ (value+durable)](#nardi-step) · [MgO travertine drum](#mgo-drum) · [Cox & Cox Pescara £395](#coxandcox-pescara) · [Maze Milan ceramic pair £195](#maze-milan) · ~~Modus £308~~ ✗
+**[5 · Coffee / drinks tables](#coffee)** *(⚠ "no winter storage" rule = key)*
+- [Nardi Doga/Step Tortora ⭐ (only true all-year pick)](#nardi-doga) · travertine barrels ([Sadole](#mgo-drum) / [Pescara](#coxandcox-pescara)) all need a winter cover
 
 **[6 · Narrow-terrace lounge chairs](#narrow-lounge)**
 - [Nardi Folio £153 ⭐⭐ favourite (recline + cushion + footstool)](#nardi-folio) · [heavier/tougher options](#kettler-surf) (Kettler / Royal Botania Alura / Jati teak ⚠) · [Folio resin alternatives](#nardi-net-relax)
@@ -940,6 +940,12 @@ A small **round** table for the **narrow terrace (FA1)** — used with the **4 s
 >
 > *Net: lead = a warm-travertine **sintered-stone or terrazzo** round top + a stone-rated **cast-aluminium** base, bolted (~£250–400). The laminate option below is kept only for the record.*
 
+**What the warm-travertine top looks like:**
+
+<img src="chair-images/cult-delina-travertine.jpg" width="40%"> <img src="chair-images/terrazzo-ceppo.jpg" width="32%">
+
+*Left: warm travertine **sintered stone** (Cult Delina) — exactly the look we want, a proper non-porous slab — **but sold square only** in travertine (the round version of that range is white/black). Right: round real **terrazzo** (Dynamic "Ceppo") — genuinely round, but a **cooler grey base**, less warm. So the round + warm-travertine combo needs a **bespoke cut**: a fabricator (e.g. Paramount Stone) cuts a Ø600–650 round from a warm travertine sintered slab — round + warm + proper + coastal, but a custom quote.*
+
 <a id="nardi-piano"></a>
 
 ### ~~Nardi Piano Laminato Ø70 top + Calice base~~ ✗ RULED OUT (laminate top)
@@ -999,11 +1005,52 @@ The **Nardi Spritz/Step** (full entry in the [Coffee Table section](#nardi-step)
 
 ---
 
+<a id="bistro-chairs"></a>
+
+## Bistro chairs (2–4, can double as dining overflow)
+
+<img src="chair-images/nardi-costa-armless.jpg" width="30%"> <img src="chair-images/jati-winchester.jpg" width="22%"> <img src="chair-images/jati-solana.jpg" width="22%">
+
+*Left → right: **Nardi Costa** (armless resin, shown green — comes in **Tortora** to match the Folios), **Jati Winchester** teak, **Jati Solana** teak.*
+
+| Chair | Price | Material | Why |
+|---|---|---|---|
+| **Nardi Costa (Tortora)** | ~£63 ea (set of 2 £126) | through-colour resin | Matches your Folio lounge chairs; most salt-proof; cheapest; stacks; armless (fits the small table) |
+| **Jati Winchester** | £110 ea | grade-A teak | Matches the teak dining set — best if they join the dining table as overflow; stacks; has a seat cushion |
+| **Jati Solana** | £125 ea | grade-A teak (stainless fittings) | Japandi style, the most explicitly coast-proof teak; stacks |
+
+*Resin (Costa) ties to the lounge corner; teak (Winchester/Solana) ties to the dining set for overflow use.*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
 <a id="coffee"></a>
 
 # 5 · Coffee Table
 
-One or two **round, low** tables for the **lounge / comfy-chairs corner** on the narrow terrace. Same seafront rule as the bistro table: the **base** is the thing to get right (through-colour resin / anodised aluminium / 316 / solid stone — not powder-coated steel).
+One or two **round, low** tables for the **lounge / comfy-chairs corner** on the narrow terrace.
+
+> **⚠ DECISIVE FINDING (Chris's "no winter storage" rule).** Chris doesn't want side tables he has to bring in over winter. A dedicated search found that **every warm-travertine "barrel drum" (Cox & Cox Pescara, SKLUM Zanira/Velia, Beliani Sadole/Faliro) is cement/MgO/polystone and its OWN listing says to cover or store it** — none clears the no-storage bar at a salt-blasted seafront. The materials that genuinely stay out all year + tolerate salt (Nardi resin, porcelain/sintered) **don't come as warm travertine barrels.** So it's a fork:
+> - **Relax the LOOK → the table stays out forever:** **Nardi resin (Doga or Step) in Tortora** — the maker explicitly states *"left outside year-round… coastal cities with salty sea air… won't rust, won't need sealing."* Clean modern resin, warm taupe — **not** a travertine barrel, but genuinely fit-and-forget. ⭐ Recommended given your rule.
+> - **Relax the RULE → keep the travertine barrel:** the **MgO Sadole / Cox & Cox Pescara** look right but need covering in winter/frost (treat as semi-protected pieces).
+> - *Middle option:* a small **sintered-stone travertine round on a low pedestal** (same material as the bistro top) — travertine look **and** all-year, just not a barrel shape.
+
+<a id="nardi-doga"></a>
+
+### Nardi Doga / Step side table — Tortora ⭐ (the genuinely all-year, no-storage pick)
+
+<img src="chair-images/nardi-doga-table.jpg" width="40%">
+
+- **Doga round Ø50 × H39.5, ~£70–110** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-doga-table/p2437) · (or **Step Ø60.5, adjustable H40/76.5**, ~£90–130)
+- **Through-colour fibreglass resin, Tortora (warm taupe)** — no paint, no rust, **no sealing, no winter storage**; maker explicitly rates it for **salty coastal air**, all year
+- Clean modern round table (a gentle taper, **not** a travertine barrel) — the trade-off for true fit-and-forget durability
+
+*Verdict: ⭐ the only option that fully honours "leave it out all year" at this seafront. If the travertine-barrel look matters more than that, see the Pescara/Sadole below — but accept the winter cover.*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
 
 <a id="nardi-step"></a>
 
@@ -1052,7 +1099,7 @@ One or two **round, low** tables for the **lounge / comfy-chairs corner** on the
 - **Outdoor-rated** (advise a cover / store in winter)
 - ⚠ **Ø32 is small** — reads as a **drinks/side table** rather than a big coffee table; two of them suit the lounge corner but confirm the scale works beside the Folios. A wider "Algua" Ø35 sibling exists (grey, hourglass — not travertine).
 
-*Verdict: ✅ the value drum (×2) — small size is fine per Chris (it's a drinks table). The upmarket alternative is the Cox & Cox Pescara below. Confirm price/size on the live ManoMano page at checkout (the site blocks scripted checks; specs cross-verified across 3 searches).*
+*Verdict: ⚠ **fails the "no winter storage" rule** — its own listing says *"use a protective cover or store the furniture inside"* off-season. Right look + cheap, but it's a cover-it/semi-protected piece, not fit-and-forget. Keep only if you'll relax the no-storage rule; otherwise go Nardi Doga above.*
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
