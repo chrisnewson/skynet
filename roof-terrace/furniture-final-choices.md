@@ -21,8 +21,8 @@
 | **Narrow terrace** | Nardi Folio recliner — **Corda (sand)** | 4 | Julia Jones | £612 |
 | **Narrow terrace** | Nardi Folio comfort cushion (seat+back, "Natural") | 4 | BF Home | £676 |
 | **Narrow terrace** | Nardi Folio "Poggio" footstool | 2 | Julia Jones | £120 |
-| **Narrow terrace** | MgO travertine-look drum side table | 2 | TBC (UK source) | ~£180 |
-| **Narrow terrace** | Bistro table — *real stone/cement, round* | 1 | **STILL TO FINALISE** | TBC |
+| **Narrow terrace** | Drinks-table drum — MgO "Sadole" ×2 *(or Cox & Cox Pescara)* | 2 | ManoMano / Cox & Cox | ~£180 *(or £790)* |
+| **Narrow terrace** | Bistro table — *round Ø600–650, real stone* | 1 | **STILL TO FINALISE** (top+base route) | TBC |
 | | | | **Confirmed total** | **≈ £9,078** *(+ bistro)* |
 
 *Prices are the latest quoted/listed figures and need re-confirming at order time (Panama sets are currently out of stock — buy by the module; the MgO drum's UK source/price is being confirmed).*
@@ -133,13 +133,18 @@ A relaxed corner between the outdoor kitchen and the dining area: four reclining
 - **2 × Folio "Poggio" footstool, Corda** — £60 ea = **£120** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio-outdoor-footstool/p2104)
 - Through-colour fibreglass resin — **no paint to chip, salt/UV-proof, hoses clean after gulls**; reclines 2 positions. Light (8.2 kg) → tuck against the kitchen wall / bring in for a gale.
 
-### Coffee tables — MgO travertine-look drum × 2 ✅
+### Coffee / drinks tables — two small-drum alternatives ✅ *(small is fine — Chris)*
 
-<img src="chair-images/mgo-travertine-drum.jpg" width="40%">
+Both are textured travertine-look drums with **no metal to rust**; small size is deliberate (drinks tables beside the Folios). Pick one route:
 
-- **2 × MgO travertine "Sadole" drum** — £89.99 ea ≈ **£180** · [manomano.co.uk](https://www.manomano.co.uk/p/accent-side-table-mgo-fiberglass-round-top-drum-shape-uv-stain-rust-water-wind-resistant-natural-sadole-77906897)
-- **Ø32 × H46cm** · textured **MgO + fibreglass, "Natural" light-beige travertine**, matt, full cylindrical drum — **no metal to rust**, UV/water-resistant, outdoor-rated. Ties to the warm-stone palette.
-- ⚠ **Ø32 is small — reads as a drinks/side table**, not a big coffee table. Two suit the corner, but confirm the scale beside the Folios; verify price/size on the live ManoMano page at checkout.
+<img src="chair-images/mgo-travertine-drum.jpg" width="32%"> <img src="chair-images/coxandcox-pescara.jpg" width="28%">
+
+| Option | Price | Size | Material | Notes |
+|---|---|---|---|---|
+| **A — MgO "Sadole" × 2** *(value)* | £89.99 ea ≈ **£180** · [ManoMano](https://www.manomano.co.uk/p/accent-side-table-mgo-fiberglass-round-top-drum-shape-uv-stain-rust-water-wind-resistant-natural-sadole-77906897) | Ø32 × H46 | MgO + fibreglass, "Natural" travertine | Outdoor-rated; verify on live page at checkout |
+| **B — Cox & Cox "Pescara"** *(upmarket)* | £395 ea · [Cox & Cox](https://www.coxandcox.co.uk/pescara-side-table/) | Ø40 × H52 | Handmade polystone (cement composite) | More refined/designer; outdoor but bring in over winter/wet |
+
+*Both ✅ acceptable. Sadole = the value pair; Pescara = the designer single/pair. Left as alternatives per Chris.*
 
 **Narrow-terrace confirmed so far: ≈ £1,588** (+ bistro table).
 
@@ -151,7 +156,9 @@ A relaxed corner between the outdoor kitchen and the dining area: four reclining
 
 | Item | Qty | Notes |
 |---|---|---|
-| **Bistro table** | 1 | Round, ~Ø700–800, ~75cm, **uses the 4 spare Sydney chairs**. Real stone/cement/terrazzo/sintered/MgO top — **NO laminate**; Terra resin ruled out. ⚠ **Search finding: this barely exists in the UK at our size/budget.** Decision needed between: **(a) email Peppermill** re their discontinued Ø80 terrazzo (exact spec); **(b) Beliani OLBIA** fibre-cement beige if we flex to Ø90; **(c) commission** a Ø75 stone top on a pedestal (>£400); or **(d) a square** sintered-stone top (Moss & Homes Malaga 800, ~£305). |
+| **Bistro table** | 1 | ⚠ **REVISED BRIEF (Chris, re-measured):** **hard target Ø600–650mm**, round, ~75cm dining height, real stone/cement/terrazzo/sintered/MgO top — **NO laminate**. **Buying a TOP + BASE separately and bolting them is fine** → opens the **contract/café-furniture route** (small real-stone round tops Ø60 + a coastal dining-height base, NOT cast iron/steel). Base coastal: cast/anodised alu, 316, stone, or weighted. Searching this now. |
+| **Bistro chairs** | 2–4 | ⚠ **NEW:** small coastal chairs to suit the Ø600–650 table — narrow, warm/neutral, able to double as **dining overflow**. Candidates: small teak (matches dining) or Nardi resin in Tortora (matches the Folio lounge chairs). Searching alongside the table. |
+| **Dining chair count** | 8? | ⚠ **Chris considering dropping the main Azura set from 12 → 8 Sydney teak chairs** to save ~£706, then using the **bistro chairs + indoor chairs** as overflow when extending the table to 10–12. **To confirm** — would revise Dining section above. |
 | **Folio cushion type** | — | Both are full seat+back pads: comfort (£169, bonded, "Natural") vs **Sunbrella seat pad (£123, Lino flax — tougher fabric, near-identical look, ~£184 cheaper across 4)**. Comfort is the current default (Chris likes it); Sunbrella may be the smarter pick — confirm. |
 
 [↑ Top](#top)

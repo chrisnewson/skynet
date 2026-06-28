@@ -1041,7 +1041,7 @@ One or two **round, low** tables for the **lounge / comfy-chairs corner** on the
 
 <a id="mgo-drum"></a>
 
-### MgO travertine-look drum "Sadole" ✅ — chosen coffee tables (×2)
+### MgO travertine-look drum "Sadole" ✅ — drinks-table option (×2, value)
 
 <img src="chair-images/mgo-travertine-drum.jpg" width="40%">
 
@@ -1050,7 +1050,7 @@ One or two **round, low** tables for the **lounge / comfy-chairs corner** on the
 - **Outdoor-rated** (advise a cover / store in winter)
 - ⚠ **Ø32 is small** — reads as a **drinks/side table** rather than a big coffee table; two of them suit the lounge corner but confirm the scale works beside the Folios. A wider "Algua" Ø35 sibling exists (grey, hourglass — not travertine).
 
-*Verdict: ✅ Chris's pick (×2). Confirm price/size on the live ManoMano page at checkout (the site blocks scripted checks; specs cross-verified across 3 searches).*
+*Verdict: ✅ the value drum (×2) — small size is fine per Chris (it's a drinks table). The upmarket alternative is the Cox & Cox Pescara below. Confirm price/size on the live ManoMano page at checkout (the site blocks scripted checks; specs cross-verified across 3 searches).*
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
@@ -1058,7 +1058,7 @@ One or two **round, low** tables for the **lounge / comfy-chairs corner** on the
 
 <a id="coxandcox-pescara"></a>
 
-### Cox & Cox "Pescara" side table — £395 *(logged for later — designer polystone drum)*
+### Cox & Cox "Pescara" side table — £395 *(the upmarket drum alternative to the Sadole)*
 
 <img src="chair-images/coxandcox-pescara.jpg" width="40%">
 
