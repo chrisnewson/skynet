@@ -563,7 +563,7 @@ Costed for our U: **3.30 m back run + 2.70 m (north) & 2.37 m (south) legs.** So
 | [**Quatropi Zara**](#zara) ⭐ | aluminium, à-la-carte | ✅ daybed-L hybrid | **£2,300** (+ table) | ~6 | ✅ daybed-L | ✅ |
 | [**Kettler Elba**](#kettler-elba) | aluminium, set-based | ◐ (coarse) | **~£3,000–3,500** | ~6 | ✗ | ✅ |
 | [**Stoaked** ⭐](#stoaked) | aluminium, **bespoke** | ✅ **fits exactly, no gaps** | **~£3,400–3,800** | ~8 | ✅ | ✅ |
-| [**Harbour Panama**](#harbour-panama) | aluminium, by module | ◐ 9-seat U, **0.58m corner gap** | **~£3,866** (3 sofas + table) | 9 | ◐ | ✅ (gappy) |
+| [**Harbour Panama**](#harbour-panama) | aluminium, by module | ◐ 9-seat U; corner gap filled with a side table | **~£3,866** (+ side tables ~£4,316) | 9 | ◐ | ✅ / marginal w/ tables |
 | [**Maluku II**](#maluku) | teak, modular | ✅ (gaps) | **£5,025** (+£525 ottoman) | 7 | ✅ | ✗ over |
 | [**Indian Ocean Cove**](#cove) | teak, à-la-carte | ✅ (8–100cm gaps) | **~£5,205** | ~6 | ◐ | ✗ over |
 | [**4 Seasons Meteoro**](#meteoro) | aluminium, modular | ✅ (coarse) | **~£5,800** *(best upright comfort)* | ~8 | ◐ | ✗ over |
@@ -779,11 +779,11 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 
 *Panama teak coffee table (£359) + side table (£225).*
 
-**Pros:** Genuinely à-la-carte; charcoal aluminium; armless/low/clean look; **converts to sun-loungers**; matching teak tables; reputable retailer · **Cons:** ⚠ only **two seat pieces (198cm 3-seat + 74cm corner)** and no mid-size module. Sofas are **armless** so you *can* drop the corner on the short leg and butt a sofa straight on (fixes the 2.37m leg) — **but the 3.30m back still can't be filled cleanly** (sofa+corner = 272 → 0.58m gap; sofa+2 corners = 346 → 0.16m over). So the U is achievable but ends up gappy/chunky. **Best full U = 3 armless sofas (9 seats) turning the corners (see map below) ≈ £3,507 + £359 teak coffee table = ~£3,866 — IN budget**, but the 198cm sofas are 16cm too wide to tile the 3.30m back, so **one back corner is left as a ~0.58m gap** (a £585 corner unit to fill it would overshoot the wall ~16cm, so it can't be cleanly added). Sets currently out of stock (buy modules); cushions not all-weather.
+**Pros:** Genuinely à-la-carte; charcoal aluminium; armless/low/clean look; **converts to sun-loungers**; matching teak tables; reputable retailer · **Cons:** ⚠ only **two seat pieces (198cm 3-seat + 74cm corner)** and no mid-size module. Sofas are **armless** so you *can* drop the corner on the short leg and butt a sofa straight on (fixes the 2.37m leg) — **but the 3.30m back still can't be filled cleanly** (sofa+corner = 272 → 0.58m gap; sofa+2 corners = 346 → 0.16m over). So the U is achievable but the 198cm sofas are 16cm too wide to tile the 3.30m back. **Best full U = 3 armless sofas (9 seats) turning the SW corner, with a teak SIDE TABLE filling the bottom-right (NE) corner gap, and the north leg shuffled slightly left so the only leftover is a tidy ~0.21m strip against the north flowerbed (fine)** — see map below. Cost: 3 sofas £3,507 + teak coffee table £359 = **£3,866 (IN budget)**; **+ side tables £225 each** (corner + south open end) → ~£4,316 (marginally over). Sets currently out of stock (buy modules); cushions not all-weather.
 
 [harbourlifestyle.co.uk — Panama](https://www.harbourlifestyle.co.uk/products/panama-luxury-outdoor-corner-group-set-charcoal)
 
-**Best Panama U mapped (in budget, with one corner gap):**
+**Best Panama U mapped (corner gap filled with a side table; north leg shuffled left):**
 
 <img src="drawings/panama-best-u-fa3-27-6-26.png" width="100%">
 
@@ -791,7 +791,7 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 
 > ⚠ *Inaccurate AI impression — for look & feel only, not dimensionally accurate.*
 
-3 armless 198×74cm sofas turn the SW corner; the back run's 198cm sofa is **16cm too wide** to fit between two corner-turning legs, so the **NE corner is left as a ~0.58m gap** (no seat) and the south leg's open end has ~0.39m spare. **9 seats, 3 sofas £3,507 + Panama teak coffee table £359 = ~£3,866 — in budget**, deep/chunky, lounge-first, cushions not all-weather, converts to sun-loungers. Quatropi Zara gives a cleaner wrap-around (no corner gap) for ~£2,300.
+3 armless 198×74cm sofas turn the SW corner; a **teak side table fills the bottom-right (NE) corner gap**, and the **north leg is shuffled left** so the only leftover is a **tidy ~0.21m strip against the north flowerbed** (fine — small gap behind). A second side table sits at the south leg's open end. **9 seats. 3 sofas £3,507 + coffee table £359 = £3,866** (in budget); **+ 2 side tables £450 → ~£4,316** (marginally over). Deep/chunky, lounge-first, cushions not all-weather, converts to sun-loungers. Quatropi Zara gives a cleaner wrap-around for ~£2,300.
 
 **If Panama stays out of stock** — near-identical in-stock alternatives: **daals "Albany"** (~£730, dark grey, reclines to a lounger) and **Bramblecrest** (premium, marine-grade). A bespoke-fitted U is still cleaner via Stoaked/Quatropi, but Panama-by-module is a viable route.
 
