@@ -803,7 +803,7 @@ Buildable in Panama: the east/back run uses **two 74×74 corner/footstool units 
 
 <img src="drawings/panama-alt-c-fa3-28-6-26.png" width="100%">
 
-The neatest of the three: **three 3-seaters** — south leg, an **east/back 3-seater** (replacing the two 1-seaters + NE corner: 74 + 34 + 198 = 306, **it fits** with a small ~0.24m gap at the NE corner to the flowerbed), and the **north 3-seater pushed up to the open/west end of the north leg**. **Side tables at the SW junction + south-leg top; one central coffee table. 9 seats.** Cost: 3 sofas £3,507 + coffee table £359 + 2 side tables £450 = **~£4,316** (over budget by ~£300; drop a side table to come in nearer £4k). The cleanest seating of the Panama options, and avoids the pricey £585 single units.
+The neatest of the three: **three 3-seaters** — south leg, an **east/back 3-seater** (replacing the two 1-seaters + NE corner: 74 + 34 + 198 = 306, **it fits**), and the **north 3-seater slid inward (towards the south)** so the only leftover — a ~0.24m strip — sits **outside the U, against the north flowerbed** (fine). The **coffee table is centred in the U opening**; side tables at the SW junction + south-leg top. **9 seats.** Cost: 3 sofas £3,507 + coffee table £359 + 2 side tables £450 = **~£4,316** (~£300 over; drop a side table to come in nearer £4k). The cleanest seating of the Panama options, and avoids the pricey £585 single units.
 
 **If Panama stays out of stock** — near-identical in-stock alternatives: **daals "Albany"** (~£730, dark grey, reclines to a lounger) and **Bramblecrest** (premium, marine-grade). A bespoke-fitted U is still cleaner via Stoaked/Quatropi, but Panama-by-module is a viable route.
 
