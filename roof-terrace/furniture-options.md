@@ -787,6 +787,10 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 
 <img src="drawings/panama-best-u-fa3-27-6-26.png" width="100%">
 
+*To-scale 3D view (looking into the U) — to judge how the little corner side table reads:*
+
+<img src="drawings/panama-A-isometric-fa3-28-6-26.png" width="100%">
+
 <img src="drawings/panama-in-situ-ai.png" width="100%">
 
 > ⚠ *Inaccurate AI impression — for look & feel only, not dimensionally accurate.*
