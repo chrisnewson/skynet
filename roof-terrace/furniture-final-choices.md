@@ -21,7 +21,7 @@
 | **Narrow terrace** | Nardi Folio recliner — **Corda (sand)** | 4 | Julia Jones | £612 |
 | **Narrow terrace** | Nardi Folio comfort cushion (seat+back, "Natural") | 4 | BF Home | £676 |
 | **Narrow terrace** | Nardi Folio "Poggio" footstool | 2 | Julia Jones | £120 |
-| **Narrow terrace** | Drinks-table drum — MgO "Sadole" ×2 *(or Cox & Cox Pescara)* | 2 | ManoMano / Cox & Cox | ~£180 *(or £790)* |
+| **Narrow terrace** | Drinks-table drum — MgO "Sadole" ×2 *(or Cox & Cox Pescara)* | 2 | Amazon UK / Cox & Cox | ~£120 *(or £790)* |
 | **Narrow terrace** | Bistro table — *round Ø600–650, real stone* | 1 | **STILL TO FINALISE** (top+base route) | TBC |
 | | | | **Confirmed total** | **≈ £9,078** *(+ bistro)* |
 
@@ -141,7 +141,7 @@ Both are textured travertine-look drums with **no metal to rust**; small size is
 
 | Option | Price | Size | Material | Notes |
 |---|---|---|---|---|
-| **A — MgO "Sadole" × 2** *(value)* | £89.99 ea ≈ **£180** · [ManoMano](https://www.manomano.co.uk/p/accent-side-table-mgo-fiberglass-round-top-drum-shape-uv-stain-rust-water-wind-resistant-natural-sadole-77906897) | Ø32 × H46 | MgO + fibreglass, "Natural" travertine | Outdoor-rated; verify on live page at checkout |
+| **A — MgO "Sadole" × 2** *(value)* | **£59.99 ea ≈ £120** · [Amazon UK](https://www.amazon.co.uk/Accent-Fiberglass-Resistant-Natural-Sadole/dp/B0CLTZV6ND) (also ManoMano £89.99) | Ø32 × H46 | MgO + fibreglass, "Natural" (concrete tone, not strongly veined) | Outdoor-rated, confirmed genuine MgO |
 | **B — Cox & Cox "Pescara"** *(upmarket)* | £395 ea · [Cox & Cox](https://www.coxandcox.co.uk/pescara-side-table/) | Ø40 × H52 | Handmade polystone (cement composite) | More refined/designer; outdoor but bring in over winter/wet |
 
 *Both ✅ acceptable. Sadole = the value pair; Pescara = the designer single/pair. Left as alternatives per Chris.*

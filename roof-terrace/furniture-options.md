@@ -928,15 +928,17 @@ A small **round** table for the **narrow terrace (FA1)** — used with the **4 s
 
 > **The base is the whole problem.** Lots of pretty beige sintered-stone bistro tables exist — but nearly all are **indoor** pieces on **powder-coated steel** bases that will rust at the seafront (or powder-coated aluminium, where the *coating* still blisters in salt even though the metal won't rust). After seeing the powder-coat on a local cafe's aluminium furniture badly chipped, the safe route here is a **through-colour resin** base (no coating to fail), **anodised aluminium**, **316 stainless** or **solid stone/concrete**. There is **no** UK round table that combines a *real* beige sintered-stone top **and** a non-coated base **and** the right size **and** the budget — that spec only exists square, or at £700–£2,000+. So it's a trade-off: bulletproof resin *stone-look*, or a real stone top with a coating you have to accept and maintain.
 
-> **⚠ UPDATED BRIEF (Chris, 28 Jun): real stone/cement only — NO laminate.** A laminate (HPL) stone-*look* top is ruled out; the bistro must be **real sintered stone / ceramic / terrazzo / concrete / MgO / natural stone**, in the same honest-material family as the MgO drum coffee tables. The brown-resin Combo "Terra" is also ruled out (disliked).
+> **⚠ CURRENT BRIEF (Chris, re-measured): hard Ø600–650 round, ~75cm dining height, real stone — NO laminate.** A complete off-the-shelf product at this exact spec **doesn't exist** (real stone needs a heavy base; cheap heavy bases rust; corrosion-proof café bases are too light for stone). So the route is **TOP + BASE bought separately and bolted** (Chris is happy with this), which opens the **contract/café-furniture market**.
 >
-> **Honest market finding (2nd search):** a **round, real-mineral-top, dining-height (~75cm), Ø70–80, ≤£400, coastal** bistro table **barely exists in the UK.** Real-stone round tops cluster at **Ø90–130** (dining sets); the small Ø70–80 mineral pieces are almost all **coffee height**. The closest leads:
-> - **Peppermill "Light Terrazzo" Ø80 × H75** — *exactly* the spec (round, real warm terrazzo top, outdoor) but **currently DISCONTINUED** → worth emailing Peppermill for stock/remake. [link](https://www.peppermillinteriors.com/products/terrazzo-outdoor-restaurant-dining-table)
-> - **Beliani "OLBIA" fibre-cement + acacia legs, beige** — honest mineral top, warm tone, timber legs (no powder-coat), weatherproof, cheap — **but smallest round is Ø90** (over our 80 cap). [Beliani](https://www.beliani.co.uk/outdoor-furniture/concrete-furniture/)
-> - **Commission one** — e.g. Paramount Stone: a Ø75 travertine/sintered top on a stone or anodised pedestal (expect >£400).
-> - **Or accept a square** real-sintered-stone top (Moss & Homes "Malaga" 800×800 on aluminium, ~£305) if round proves impossible.
+> **The route (3rd search):**
+> - **TOP — warm travertine look in a PROPER material.** *Granite was considered and dropped* (reads cool/grey, introduces a 5th finish). Instead, the warm-travertine look in a non-laminate material via either **sintered stone / porcelain in a travertine finish** (a fired mineral slab — NOT laminate; non-porous, salt-proof, won't etch — the best coastal choice, looks like a big flat version of the MgO drums) **or real warm TERRAZZO** (DeFrae / Dynamic Contract, Ø600 to order). *Round Ø600–650 examples + photos being sourced.* Reference top: [JB Commercial real-stone round](https://www.jb-commercial-furniture.co.uk/product/solid-marble-table-tops-round-or-square-top-only/) Ø600 £153 / Ø650 £163 (all-weather; spec a warm stone, not the stock Carrara).
+> - **BASE — cast ALUMINIUM dining base** (won't rust), e.g. Mayfair "Continental" cast-alu — **⚠ must phone (01733 310115) to confirm it's rated to carry a ~25kg stone top** (light café alu bases are often *not* stone-rated). Put a ply/MDF sub-disc between stone and plate so bolts don't crack the slab.
 >
-> *Net: there's no perfect off-the-shelf round real-stone bistro at our size/budget. Decision needed — chase Peppermill, flex to Ø90 (Beliani), commission, or go square. The laminate option below is kept only for the record.*
+> **The specific product Chris flagged — Café Reality "Estuary"** (from £214.35): **real marble** top, ~Ø600, dining height ~768mm, and Café Reality sell tops/bases separately ✓ — **BUT its stock base is cast-iron powder-coated (rusts at C5 → reject)**, and **marble etches/stains in salt** (sintered stone or terrazzo is the wiser top). Buy top-only + a better base if you love it.
+>
+> **Simplest complete fallback:** [Europa "Ondara" Ø600 stone bistro, £155](https://www.stovesareus.co.uk/europa-leisure-ondara-60cm-stone-bistro-table.html) — riven natural-stone top, ready-made — but on **powder-coated steel** (treat the base as a replaceable consumable).
+>
+> *Net: lead = a warm-travertine **sintered-stone or terrazzo** round top + a stone-rated **cast-aluminium** base, bolted (~£250–400). The laminate option below is kept only for the record.*
 
 <a id="nardi-piano"></a>
 
@@ -1045,8 +1047,8 @@ One or two **round, low** tables for the **lounge / comfy-chairs corner** on the
 
 <img src="chair-images/mgo-travertine-drum.jpg" width="40%">
 
-- **£89.99 each** (was £129) → **2 for ~£180** · [manomano.co.uk — "Sadole" Natural](https://www.manomano.co.uk/p/accent-side-table-mgo-fiberglass-round-top-drum-shape-uv-stain-rust-water-wind-resistant-natural-sadole-77906897)
-- **Ø32 × H46cm** · **MgO + fibreglass** composite, **"Natural" light-beige travertine** texture, matt — a full **cylindrical drum**, no metal, UV/rust/water-resistant; 7kg, 100kg top load
+- **£59.99 each on [Amazon UK](https://www.amazon.co.uk/Accent-Fiberglass-Resistant-Natural-Sadole/dp/B0CLTZV6ND)** (cheapest confirmed) → **2 for ~£120**; also [ManoMano £89.99](https://www.manomano.co.uk/p/accent-side-table-mgo-fiberglass-round-top-drum-shape-uv-stain-rust-water-wind-resistant-natural-sadole-77906897) / B&Q (OOS). Beliani's "Sadole" — confirmed genuine MgO, in stock.
+- **Ø32 × H46cm** · **MgO + fibreglass** composite, **"Natural"** — note it's a **natural concrete tone, not strongly travertine-veined**; matt cylindrical drum, no metal, UV/rust/water-resistant; 100kg top load. *(Beliani "Faliro" Ø37 terrazzo-effect MgO, £159.99, is the option if you want a true speckle.)*
 - **Outdoor-rated** (advise a cover / store in winter)
 - ⚠ **Ø32 is small** — reads as a **drinks/side table** rather than a big coffee table; two of them suit the lounge corner but confirm the scale works beside the Folios. A wider "Algua" Ø35 sibling exists (grey, hourglass — not travertine).
 
