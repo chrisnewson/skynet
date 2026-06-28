@@ -550,6 +550,16 @@ All four chairs share the same **rounded barrel-back** aesthetic — very clean 
 
 # 3 · Sofas & Comfy Chairs
 
+## ✅ FINAL LAYOUT CHOSEN (28 Jun) — Harbour Panama
+
+<img src="drawings/panama-final-fa3-28-6-26.png" width="100%">
+
+**Harbour Panama, this layout:** an **east (back) 3-seater** + a **north 3-seater** (slid inward, so the ~0.24 m slack sits outside the U against the north flowerbed) + **two 1-seaters on the south side** (west end), a **side table** at the SW junction and a **central coffee table**. The south 3-seater was dropped, leaving a **~0.74 × 0.74 m square gap at the SE corner** (south of the side table) — **to be decided later: plants, or a second coffee table.** **8 seats.** Indicative cost: 2 sofas £2,338 + 2 1-seaters £1,170 + side table £225 + coffee table £359 = **~£4,092** (+£359 if a 2nd coffee table fills the SE corner). *Still to confirm with Harbour: a single corner/footstool unit works as a forward-facing 1-seater with a proper backrest; C5 coating; cushions stored indoors (Panama cushions aren't all-weather).*
+
+*The options below (comparison table, quality/comfort, and the other layouts) are kept for reference / the Alex review.*
+
+---
+
 **Daybed key:** ✅✅ push modules into a bed · ✅ pieces combine into a daybed · ◐ reconfigures (L/R, splits) but not flat.
 
 > **Material decision (27 Jun 2026).** A fully-backed three-sided U in **solid teak can't be done in budget** (the teak modular full U — Maluku II — is ~£5,000–£5,700; Jo Alexander Albony was discounted — its 0.89 m mids don't tile cleanly and its 1 m-deep modules choke the centre to ~0.89 m). Because a lounge frame is mostly **hidden under cushions** (so the dining-seat heat/look concerns barely apply), we opened the material up. Findings: **steel is out** — no marine-grade (316/duplex) modular sofa base exists at this budget (only Barlow Tyrie Layout 316, ~£12k+); cheap "galvanised" sofas are mild steel inside PE rattan (rust + wicker fail at the seafront). **Non-teak hardwood is out** — iroko/eucalyptus are less durable than teak exactly in marine conditions. **The winner is powder-coated _aluminium_:** rust-proof, anthracite to tie into the building's standing-seam cladding, and the only route to a genuine **full U + daybed within ~£4k** (frame + stored cushions). Teak stays as the warm-wood alternative (accepting a near-U).
@@ -786,10 +796,6 @@ The cleanest **bare dark-aluminium box** of the Quatropi ranges (no rope), smoke
 **Best Panama U mapped (corner gap filled with a side table; north leg shuffled left):**
 
 <img src="drawings/panama-best-u-fa3-27-6-26.png" width="100%">
-
-*To-scale 3D view (looking into the U) — to judge how the little corner side table reads:*
-
-<img src="drawings/panama-A-isometric-fa3-28-6-26.png" width="100%">
 
 <img src="drawings/panama-in-situ-ai.png" width="100%">
 
