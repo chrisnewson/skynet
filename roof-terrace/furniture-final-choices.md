@@ -137,9 +137,9 @@ A relaxed corner between the outdoor kitchen and the dining area: four reclining
 
 <img src="chair-images/mgo-travertine-drum.jpg" width="40%">
 
-- **2 × MgO travertine-look drum side table** — ~£90 ea ≈ **£180** *(UK source/price + exact size being confirmed)*
-- Textured **MgO composite, light-beige travertine finish**, matt, full cylindrical drum — **no metal to rust**, UV/water-resistant. Ties to the warm-stone palette.
-- ⚠ Small (≈ Ø32–36 × H46) — confirm the size works beside the Folios; confirm MgO grade for the seafront.
+- **2 × MgO travertine "Sadole" drum** — £89.99 ea ≈ **£180** · [manomano.co.uk](https://www.manomano.co.uk/p/accent-side-table-mgo-fiberglass-round-top-drum-shape-uv-stain-rust-water-wind-resistant-natural-sadole-77906897)
+- **Ø32 × H46cm** · textured **MgO + fibreglass, "Natural" light-beige travertine**, matt, full cylindrical drum — **no metal to rust**, UV/water-resistant, outdoor-rated. Ties to the warm-stone palette.
+- ⚠ **Ø32 is small — reads as a drinks/side table**, not a big coffee table. Two suit the corner, but confirm the scale beside the Folios; verify price/size on the live ManoMano page at checkout.
 
 **Narrow-terrace confirmed so far: ≈ £1,588** (+ bistro table).
 
@@ -151,7 +151,7 @@ A relaxed corner between the outdoor kitchen and the dining area: four reclining
 
 | Item | Qty | Notes |
 |---|---|---|
-| **Bistro table** | 1 | Round, ~Ø700–800, ~75cm dining height, **uses the 4 spare Sydney dining chairs**. ⚠ **NEW BRIEF (Chris):** a **real stone / cement / terrazzo / sintered-stone / MgO top — NOT a laminate (HPL) stone-look**; in the same proper-material family as the MgO drums. **Terra (brown resin) ruled out.** Searching now. |
+| **Bistro table** | 1 | Round, ~Ø700–800, ~75cm, **uses the 4 spare Sydney chairs**. Real stone/cement/terrazzo/sintered/MgO top — **NO laminate**; Terra resin ruled out. ⚠ **Search finding: this barely exists in the UK at our size/budget.** Decision needed between: **(a) email Peppermill** re their discontinued Ø80 terrazzo (exact spec); **(b) Beliani OLBIA** fibre-cement beige if we flex to Ø90; **(c) commission** a Ø75 stone top on a pedestal (>£400); or **(d) a square** sintered-stone top (Moss & Homes Malaga 800, ~£305). |
 | **Folio cushion type** | — | Both are full seat+back pads: comfort (£169, bonded, "Natural") vs **Sunbrella seat pad (£123, Lino flax — tougher fabric, near-identical look, ~£184 cheaper across 4)**. Comfort is the current default (Chris likes it); Sunbrella may be the smarter pick — confirm. |
 
 [↑ Top](#top)

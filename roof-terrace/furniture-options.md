@@ -26,8 +26,8 @@
 - **Aluminium (route to a full U in budget):** [Quatropi Zara ⭐](#zara) · [Kettler Elba ⭐](#kettler-elba) · [Stoaked bespoke U-base ⭐](#stoaked) · [Harbour Panama (by module)](#harbour-panama) · [4 Seasons Meteoro](#meteoro) · [other à-la-carte ranges](#alu-other)
 - **Teak (~£5k, no real daybed):** [Maluku II ⭐](#maluku) · [Indian Ocean Cove](#cove)
 
-**[4 · Bistro Table](#bistro)** *(round, ~Ø70–80, narrow terrace)*
-- [Nardi Piano Laminato Ø70 + Calice base £251 ⭐ (stone-look + dark marine-alu base)](#nardi-piano) · [Nardi Combo Ø70 resin £145](#nardi-combo) · [Spritz/Step Ø60.5 Tortora £80](#nardi-step) · ~~Mason £168~~ ✗
+**[4 · Bistro Table](#bistro)** *(round, ~Ø70–80 — ⚠ real stone/cement only, NO laminate)*
+- ⚠ [real-stone round bistro barely exists at this size](#bistro) — leads: Peppermill Ø80 terrazzo / Beliani OLBIA Ø90 / commission · [Nardi Combo resin £145](#nardi-combo) (no-metal alt) · ~~Piano Laminato~~ ✗ laminate · ~~Mason~~ ✗
 
 **[5 · Coffee Table](#coffee)** *(round, low, narrow-terrace lounge)*
 - [SKLUM Zanira Ø40 terrazzo £225 (best look)](#sklum-zanira) · [Nardi Step pair £152 ⭐ (value+durable)](#nardi-step) · [MgO travertine drum](#mgo-drum) · [Cox & Cox Pescara £395](#coxandcox-pescara) · [Maze Milan ceramic pair £195](#maze-milan) · ~~Modus £308~~ ✗
@@ -928,9 +928,19 @@ A small **round** table for the **narrow terrace (FA1)** — used with the **4 s
 
 > **The base is the whole problem.** Lots of pretty beige sintered-stone bistro tables exist — but nearly all are **indoor** pieces on **powder-coated steel** bases that will rust at the seafront (or powder-coated aluminium, where the *coating* still blisters in salt even though the metal won't rust). After seeing the powder-coat on a local cafe's aluminium furniture badly chipped, the safe route here is a **through-colour resin** base (no coating to fail), **anodised aluminium**, **316 stainless** or **solid stone/concrete**. There is **no** UK round table that combines a *real* beige sintered-stone top **and** a non-coated base **and** the right size **and** the budget — that spec only exists square, or at £700–£2,000+. So it's a trade-off: bulletproof resin *stone-look*, or a real stone top with a coating you have to accept and maintain.
 
+> **⚠ UPDATED BRIEF (Chris, 28 Jun): real stone/cement only — NO laminate.** A laminate (HPL) stone-*look* top is ruled out; the bistro must be **real sintered stone / ceramic / terrazzo / concrete / MgO / natural stone**, in the same honest-material family as the MgO drum coffee tables. The brown-resin Combo "Terra" is also ruled out (disliked).
+>
+> **Honest market finding (2nd search):** a **round, real-mineral-top, dining-height (~75cm), Ø70–80, ≤£400, coastal** bistro table **barely exists in the UK.** Real-stone round tops cluster at **Ø90–130** (dining sets); the small Ø70–80 mineral pieces are almost all **coffee height**. The closest leads:
+> - **Peppermill "Light Terrazzo" Ø80 × H75** — *exactly* the spec (round, real warm terrazzo top, outdoor) but **currently DISCONTINUED** → worth emailing Peppermill for stock/remake. [link](https://www.peppermillinteriors.com/products/terrazzo-outdoor-restaurant-dining-table)
+> - **Beliani "OLBIA" fibre-cement + acacia legs, beige** — honest mineral top, warm tone, timber legs (no powder-coat), weatherproof, cheap — **but smallest round is Ø90** (over our 80 cap). [Beliani](https://www.beliani.co.uk/outdoor-furniture/concrete-furniture/)
+> - **Commission one** — e.g. Paramount Stone: a Ø75 travertine/sintered top on a stone or anodised pedestal (expect >£400).
+> - **Or accept a square** real-sintered-stone top (Moss & Homes "Malaga" 800×800 on aluminium, ~£305) if round proves impossible.
+>
+> *Net: there's no perfect off-the-shelf round real-stone bistro at our size/budget. Decision needed — chase Peppermill, flex to Ø90 (Beliani), commission, or go square. The laminate option below is kept only for the record.*
+
 <a id="nardi-piano"></a>
 
-### Nardi Piano Laminato Ø70 top + Calice base ⭐⭐ — the "stone hero on a recessive dark base" answer
+### ~~Nardi Piano Laminato Ø70 top + Calice base~~ ✗ RULED OUT (laminate top)
 
 <img src="chair-images/nardi-calice-base.jpg" width="34%"> <img src="chair-images/nardi-piano-laminato-top.jpg" width="34%">
 
@@ -942,7 +952,7 @@ A small **round** table for the **narrow terrace (FA1)** — used with the **4 s
 - **Base: slim 4-spoke coated marine aluminium**, anthracite — "naturally resistant to rust and corrosion," exactly the dark recessive pedestal the design brief wants
 - **Outdoor-rated:** yes (Nardi contract line). Specify **A4/316 stainless fixings**.
 
-*Verdict: ⭐⭐ the one product that hits the whole triangle — warm stone **look**, slim dark **marine** base (no steel, far better than the cafe's failed coating), right size, **in budget**, genuinely C5-durable. The honest compromise: it's stone-effect HPL, not real travertine. The lead bistro pick.*
+*Verdict: ✗ **ruled out** — the top is **HPL laminate** (stone-effect print), and Chris wants a real-stone/cement top. It was otherwise the best coastal fit (slim dark marine-alu base, right size, in budget), so kept here for the record in case the laminate ban ever softens.*
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
@@ -1031,15 +1041,16 @@ One or two **round, low** tables for the **lounge / comfy-chairs corner** on the
 
 <a id="mgo-drum"></a>
 
-### MgO travertine-look drum — the ideal *shape*, but small
+### MgO travertine-look drum "Sadole" ✅ — chosen coffee tables (×2)
 
 <img src="chair-images/mgo-travertine-drum.jpg" width="40%">
 
-- **~£60–110** (e.g. ManoMano; price unconfirmed) · textured **MgO composite, "travertine finish," light beige**, matt
-- **Ø~32–36 × H~46cm** — a full **cylindrical drum**, the clean pedestal the designer pictured; UV/rust/water-resistant, no metal
-- ⚠ **Smaller (Ø32–36) and a touch tall** for a coffee table beside low chairs; MgO is hygroscopic so cheaper grades can surface-degrade under constant salt — confirm grade.
+- **£89.99 each** (was £129) → **2 for ~£180** · [manomano.co.uk — "Sadole" Natural](https://www.manomano.co.uk/p/accent-side-table-mgo-fiberglass-round-top-drum-shape-uv-stain-rust-water-wind-resistant-natural-sadole-77906897)
+- **Ø32 × H46cm** · **MgO + fibreglass** composite, **"Natural" light-beige travertine** texture, matt — a full **cylindrical drum**, no metal, UV/rust/water-resistant; 7kg, 100kg top load
+- **Outdoor-rated** (advise a cover / store in winter)
+- ⚠ **Ø32 is small** — reads as a **drinks/side table** rather than a big coffee table; two of them suit the lounge corner but confirm the scale works beside the Folios. A wider "Algua" Ø35 sibling exists (grey, hourglass — not travertine).
 
-*Verdict: best drum silhouette + no metal + cheap, but undersized and the MgO grade needs checking. A good budget look if the size suits.*
+*Verdict: ✅ Chris's pick (×2). Confirm price/size on the live ManoMano page at checkout (the site blocks scripted checks; specs cross-verified across 3 searches).*
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
