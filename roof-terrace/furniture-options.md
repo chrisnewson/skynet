@@ -30,7 +30,7 @@
 - [Nardi Piano Laminato Ø70 + Calice base £251 ⭐ (stone-look + dark marine-alu base)](#nardi-piano) · [Nardi Combo Ø70 resin £145](#nardi-combo) · [Spritz/Step Ø60.5 Tortora £80](#nardi-step) · ~~Mason £168~~ ✗
 
 **[5 · Coffee Table](#coffee)** *(round, low, narrow-terrace lounge)*
-- [SKLUM Zanira Ø40 terrazzo £225 (best look)](#sklum-zanira) · [Nardi Step pair £152 ⭐ (value+durable)](#nardi-step) · [Maze Milan ceramic pair £195](#maze-milan) · [MgO travertine drum](#mgo-drum) · ~~Modus £308~~ ✗
+- [SKLUM Zanira Ø40 terrazzo £225 (best look)](#sklum-zanira) · [Nardi Step pair £152 ⭐ (value+durable)](#nardi-step) · [MgO travertine drum](#mgo-drum) · [Cox & Cox Pescara £395](#coxandcox-pescara) · [Maze Milan ceramic pair £195](#maze-milan) · ~~Modus £308~~ ✗
 
 **[6 · Narrow-terrace lounge chairs](#narrow-lounge)**
 - [Nardi Folio £153 ⭐⭐ favourite (recline + cushion + footstool)](#nardi-folio) · [heavier/tougher options](#kettler-surf) (Kettler / Royal Botania Alura / Jati teak ⚠) · [Folio resin alternatives](#nardi-net-relax)
@@ -1040,6 +1040,24 @@ One or two **round, low** tables for the **lounge / comfy-chairs corner** on the
 - ⚠ **Smaller (Ø32–36) and a touch tall** for a coffee table beside low chairs; MgO is hygroscopic so cheaper grades can surface-degrade under constant salt — confirm grade.
 
 *Verdict: best drum silhouette + no metal + cheap, but undersized and the MgO grade needs checking. A good budget look if the size suits.*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
+<a id="coxandcox-pescara"></a>
+
+### Cox & Cox "Pescara" side table — £395 *(logged for later — designer polystone drum)*
+
+<img src="chair-images/coxandcox-pescara.jpg" width="40%">
+
+- **£395 each** · [coxandcox.co.uk](https://www.coxandcox.co.uk/pescara-side-table/)
+- **Ø40 × H52cm** — a barrel-shaped drum; **tallish for a coffee table** (more a side/drinks table beside a chair)
+- **Handmade polystone** (concrete composite) throughout, neutral warm-stone tone, densely textured finish — **no metal to rust**, same honest-material family as the MgO drum
+- **Outdoor-rated**, but Cox & Cox say "bring indoors during winter and during periods of wet weather" — same seal-protected caveat as the cement/terrazzo pieces
+- Wipe clean
+
+*Verdict: the most refined, "interior-designer" version of the textured-stone drum look. Logged at Chris's request as a later option — pricier than the MgO drum and taller (Ø40×H52), so better as a side/drinks table than a low coffee table.*
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
