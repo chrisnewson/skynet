@@ -26,14 +26,14 @@
 - **Aluminium (route to a full U in budget):** [Quatropi Zara ⭐](#zara) · [Kettler Elba ⭐](#kettler-elba) · [Stoaked bespoke U-base ⭐](#stoaked) · [Harbour Panama (by module)](#harbour-panama) · [4 Seasons Meteoro](#meteoro) · [other à-la-carte ranges](#alu-other)
 - **Teak (~£5k, no real daybed):** [Maluku II ⭐](#maluku) · [Indian Ocean Cove](#cove)
 
-**[4 · Bistro Table](#bistro)** *(round, ~70–75cm, narrow terrace)*
-- [Nardi Combo Ø70 resin £145 ⭐](#nardi-combo) · [Nardi Spritz/Step Ø60.5 Tortora £90–110](#nardi-step) · ~~[Mason beige ceramic £168](#mason-bistro)~~ ✗ steel base, 90cm
+**[4 · Bistro Table](#bistro)** *(round, ~Ø70–80, narrow terrace)*
+- [Nardi Piano Laminato Ø70 + Calice base £251 ⭐ (stone-look + dark marine-alu base)](#nardi-piano) · [Nardi Combo Ø70 resin £145](#nardi-combo) · [Spritz/Step Ø60.5 Tortora £80](#nardi-step) · ~~Mason £168~~ ✗
 
 **[5 · Coffee Table](#coffee)** *(round, low, narrow-terrace lounge)*
-- [Nardi Step/Spritz Tortora £77–110 ⭐](#nardi-step) · [Maze Milan ceramic pair £195](#maze-milan) · ~~[Modus gas-lift £308](#modus-coffee)~~ ✗ steel base + gas-lift
+- [SKLUM Zanira Ø40 terrazzo £225 (best look)](#sklum-zanira) · [Nardi Step pair £152 ⭐ (value+durable)](#nardi-step) · [Maze Milan ceramic pair £195](#maze-milan) · [MgO travertine drum](#mgo-drum) · ~~Modus £308~~ ✗
 
-**[6 · Narrow-terrace lounge chairs](#narrow-lounge)** *(paint-free through-colour resin)*
-- [Nardi Folio £153 ⭐](#nardi-folio) · [Nardi Net Relax £122 ⭐](#nardi-net-relax) · [Allibert California ~£165](#allibert-california)
+**[6 · Narrow-terrace lounge chairs](#narrow-lounge)**
+- [Nardi Folio £153 ⭐⭐ favourite (recline + cushion + footstool)](#nardi-folio) · [heavier/tougher options](#kettler-surf) (Kettler / Royal Botania Alura / Jati teak ⚠) · [Folio resin alternatives](#nardi-net-relax)
 
 **[Heat science — colour limits by material](#heat-science)** · **[Timing & checklist](#checklist)**
 
@@ -928,9 +928,29 @@ A small **round** table for the **narrow terrace (FA1)** — used with the **4 s
 
 > **The base is the whole problem.** Lots of pretty beige sintered-stone bistro tables exist — but nearly all are **indoor** pieces on **powder-coated steel** bases that will rust at the seafront (or powder-coated aluminium, where the *coating* still blisters in salt even though the metal won't rust). After seeing the powder-coat on a local cafe's aluminium furniture badly chipped, the safe route here is a **through-colour resin** base (no coating to fail), **anodised aluminium**, **316 stainless** or **solid stone/concrete**. There is **no** UK round table that combines a *real* beige sintered-stone top **and** a non-coated base **and** the right size **and** the budget — that spec only exists square, or at £700–£2,000+. So it's a trade-off: bulletproof resin *stone-look*, or a real stone top with a coating you have to accept and maintain.
 
+<a id="nardi-piano"></a>
+
+### Nardi Piano Laminato Ø70 top + Calice base ⭐⭐ — the "stone hero on a recessive dark base" answer
+
+<img src="chair-images/nardi-calice-base.jpg" width="34%"> <img src="chair-images/nardi-piano-laminato-top.jpg" width="34%">
+
+*Left: the slim anthracite **Calice** marine-aluminium pedestal. Right: the HPL top (shown in "Cemento" grey — also comes in **"Tortora"** warm taupe, the one for our palette).*
+
+- **~£251 all-in** (top ~£102 + base ~£149) · [top](https://www.juliajones.co.uk/nardi-piano-laminato-round-table-top/p3876) + [Calice base](https://www.juliajones.co.uk/nardi-calice-outdoor-table-base/p3868), Julia Jones
+- **Ø70cm top × 10mm · finished H ~73cm** (Ø80 top also offered to hit the max) — right bistro size + dining height for the Sydney chairs
+- **Top: HPL high-pressure laminate**, matt **"Tortora" (warm taupe/stone)** or "Cemento" — a *printed* stone-look, the standard premium outdoor top (impervious to salt/UV)
+- **Base: slim 4-spoke coated marine aluminium**, anthracite — "naturally resistant to rust and corrosion," exactly the dark recessive pedestal the design brief wants
+- **Outdoor-rated:** yes (Nardi contract line). Specify **A4/316 stainless fixings**.
+
+*Verdict: ⭐⭐ the one product that hits the whole triangle — warm stone **look**, slim dark **marine** base (no steel, far better than the cafe's failed coating), right size, **in budget**, genuinely C5-durable. The honest compromise: it's stone-effect HPL, not real travertine. The lead bistro pick.*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
 <a id="nardi-combo"></a>
 
-### Nardi Combo Ø70 — through-colour resin ⭐ (the bulletproof choice)
+### Nardi Combo Ø70 — through-colour resin (the all-resin alternative)
 
 <img src="chair-images/nardi-combo.jpg" width="60%">
 
@@ -942,7 +962,7 @@ A small **round** table for the **narrow terrace (FA1)** — used with the **4 s
 - **Colours:** **Gesso** (chalk / off-white) and **Terra** (warm earth-brown) are the warm options; also Cactus, Basalto. ⚠ *Not* a travertine pattern and **no true beige** — Gesso reads light-stone, Terra reads timber. (Nardi's truest beige, "Tortora," is on the smaller Spritz/Step below, not the Combo.)
 - **Outdoor-rated:** yes, residential + contract.
 
-*Verdict: the only in-budget round table that hits the size, dining height **and** a genuinely coastal-proof base. The compromise is stone-**look** resin, not real travertine. Light at 8.6kg → weight it or bring in for a gale. ⭐ Lead candidate.*
+*Verdict: the all-resin / zero-maintenance fallback if you'd rather have **no metal at all** — nothing to rust or coat, ever. Trade-offs vs the Piano Laminato above: a plainer matt resin finish (Gesso/Terra, no true beige) and no separate stone "hero" top. Light at 8.6kg → weight it or bring in for a gale.*
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
@@ -993,6 +1013,38 @@ One or two **round, low** tables for the **lounge / comfy-chairs corner** on the
 
 ---
 
+<a id="sklum-zanira"></a>
+
+### SKLUM "Zanira" Ø40 beige terrazzo — best *look*, one statement table
+
+<img src="chair-images/sklum-zanira-terrazzo.jpg" width="45%">
+
+- **£224.95 each** · [sklum.com](https://www.sklum.com/uk/buy-outdoor-coffee-table/208479-zanira-round-cement-garden-side-table-o40-cm.html)
+- **Ø40cm**, rounded edge, **"Beige Terrazzo"**, satin-matt — exactly the warm travertine look the designer described; solid **cement monobloc** (no metal to rust)
+- **Outdoor-rated** (PU-sealed) — ⚠ but SKLUM themselves "recommend storing indoors over winter," and at a severe seafront the seal is the wearing point → expect to re-seal. Pricey for Ø40, so realistic as **one** statement table, not a pair.
+
+*Verdict: the prettiest, most "interior-designer" small table here, and no metal — but porous cement under a seal means upkeep at C5, and £225 each rules out a cheap pair.*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
+<a id="mgo-drum"></a>
+
+### MgO travertine-look drum — the ideal *shape*, but small
+
+<img src="chair-images/mgo-travertine-drum.jpg" width="40%">
+
+- **~£60–110** (e.g. ManoMano; price unconfirmed) · textured **MgO composite, "travertine finish," light beige**, matt
+- **Ø~32–36 × H~46cm** — a full **cylindrical drum**, the clean pedestal the designer pictured; UV/rust/water-resistant, no metal
+- ⚠ **Smaller (Ø32–36) and a touch tall** for a coffee table beside low chairs; MgO is hygroscopic so cheaper grades can surface-degrade under constant salt — confirm grade.
+
+*Verdict: best drum silhouette + no metal + cheap, but undersized and the MgO grade needs checking. A good budget look if the size suits.*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
 <a id="maze-milan"></a>
 
 ### Maze Milan — pair of round ceramic coffee tables · ~£195/pair *(real stone top, accept the coated base)*
@@ -1026,61 +1078,93 @@ One or two **round, low** tables for the **lounge / comfy-chairs corner** on the
 
 # 6 · Narrow-terrace lounge chairs
 
-A relaxed corner of **~4 comfy chairs** on the narrow terrace (separate from the FA3 sofa lounge). The brief that shaped this: **no paint to fail** (after the chipped powder-coat seen on a local cafe's seafront furniture), **no open weave** (bird droppings), **heavy enough not to blow around**, comfy, and **value**. That points to **through-colour resin** — the colour is baked through the material, nothing sprayed on, wipes clean, saline-rated.
+A relaxed corner of **~4 comfy chairs** on the narrow terrace (separate from the FA3 sofa lounge), sitting **between the weathered-timber kitchen and the teak dining** — so they should bridge timber ↔ teak ↔ anthracite metal, clean easily after gulls, and survive C5 salt + heavy sun.
 
-> **The honest tension = weight vs beige.** The comfy resin chairs are fairly light (4.7–8.2kg) — our own rule has been "nothing under ~7kg gets left out." Only the **Folio (8.2kg)** and the **Allibert (11kg)** clear that bar; the lighter Nardis are lovely and a truer beige but want bringing in for a gale. *(These three are seeds for further searching, not a final pick — captured here for review with Alex.)*
+> **What the wind maths actually showed** (full table in chat): every elegant chair — light resin *or* heavy teak/metal — only stays put to roughly **28–37 mph** before it slides or tips, and drops ~5 mph on wet stone. Only a 25 kg Adirondack gets near gale-proof, and that look is wrong here. **Conclusion: no elegant unsecured chair on this roof is "leave out in a storm"; all want nesting / tucking against the kitchen wall / bringing in for a named blow.** So *wind doesn't decide the chair* — and, crucially, the pricey teak-arm chairs below (Alura 9.5 kg, Gloster Bay 9 kg) are **no heavier than the Folio (8.2 kg)**, so spending more doesn't even buy wind. The decision is **look, comfort, cleanability and salt/sun life.**
 
 <a id="nardi-folio"></a>
 
-### Nardi Folio — reclining resin lounge armchair ⭐ (wind-first + beige)
+### Nardi Folio ⭐⭐ — Chris's favourite (reclining resin recliner)
 
-<img src="chair-images/nardi-folio.jpg" width="55%">
+<img src="chair-images/nardi-folio-cushion-footstool.jpg" width="60%">
 
-*Tortora (beige) **is** available — see the swatch row (Antracite / Agave / Bianco / Tortora). Shown in Tabacco.*
+*The Folio with the seat+back comfort cushion **and** the matching Poggio footstool, on a Tortora (taupe) frame.*
 
-- **£153 each**, sold singly · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio/r304)
-- **W72 × D81cm (92.5cm reclined) × H113cm · seat H45cm** — **reclines** to two positions for genuine lounging
-- **Through-colour** fibreglass-reinforced polypropylene resin, anti-UV — no paint. **8.2kg = the heaviest of the affordable resin chairs**, clears the 7kg leave-out line.
-- **No cushion needed** (contoured shell); optional seat pad ~£123 in warm-flax/neutral. Lattice pattern — open squares let rain/debris fall through.
-- **Colours incl. Tortora (beige)** ✅
+- **£153 each** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio-outdoor-armchair/p2098) · [bfhome.co.uk](https://www.bfhome.co.uk/products/folio-armchair-by-nardi) · Red Dot 2021 winner
+- **Reclines — 2 positions** (buttons under the arms). **W72 · D81→92.5cm reclined · H113→106.5cm · seat H45cm · 8.2kg**
+- **Through-colour fibreglass-resin**, matt, perforated — **no paint to chip, salt- and UV-proof, hoses clean** after gulls. The corrosion-proof, near-zero-maintenance choice.
+- **6 frame colours:** Bianco · Antracite · **Tortora (taupe)** · **Corda (sand — new 2026)** · Agave (green) · Tabacco (brown). The two warm neutrals (Tortora / Corda) bridge the timber + teak beautifully.
 
-*Verdict: best balance of the exact brief — reclines, paint-free, beige available, heaviest sleek option. ⭐*
+**Cushions — two options:**
+| Cushion | Price | Fabric | Best neutral |
+|---|---|---|---|
+| Seat pad | £123 | **genuine Sunbrella** (best UV/coastal) | **Lino** (flax/oatmeal) |
+| Seat + back "comfort" cushion *(shown above)* | £169 | bonded fabric (not Sunbrella) | **"Natural"** (oatmeal) |
 
-[↑ Top](#top) · [↑ Contents](#contents)
+*You can't currently get seat+back **and** Sunbrella on one cushion — the plush seat+back is bonded fabric; the Sunbrella one is the seat pad only. Cushions stored indoors regardless.*
 
----
+**Matching footstool — Folio "Poggio":** **£60** · [juliajones.co.uk](https://www.juliajones.co.uk/nardi-folio-outdoor-footstool/p2104) · L41.5 × W49 × H44cm · same colours incl. Corda/Tortora.
 
-<a id="nardi-net-relax"></a>
+<img src="chair-images/nardi-folio-corda.jpg" width="32%"> <img src="chair-images/nardi-folio-footstool.jpg" width="32%">
 
-### Nardi Net Relax — deepest-recline lounger, Tortora ⭐ (beige-first, but light)
+*Left: Folio in **Corda** (sand). Right: the Poggio footstool.*
 
-<img src="chair-images/nardi-net-relax.jpg" width="55%">
+> **Set deal:** 2 chairs + 2 seat pads + 2 footstools from **£672** ([Julia Jones](https://www.juliajones.co.uk/nardi-folio-armchair-set-2-x-chairs-2-x-seat-pads-2-x-footrest/p3851)). For 4 chairs + 4 pads + 4 footstools ≈ **£1,344** (or ≈ £852 chairs-only).
 
-*Shown in coral; **Tortora (warm taupe/beige) is a stock colour**.*
-
-- **£122.37 each** (was £149), sold singly · [tecnoarredo3.co.uk](https://www.tecnoarredo3.co.uk/net-relax-nardi-chair) (also BF Home, pair £216)
-- **W67 × D71 × H86.5cm · seat H41.5cm** — "halfway between an armchair and a sun-lounger," the most genuinely reclined shape here
-- **Batch-dyed** anti-UV fibreglass polypropylene, matt — through-colour, saline-rated. **Tortora confirmed** ✅
-- **No cushion needed** (perforated mesh shell; optional pad £68). ⚠ The mesh holes can lodge a little bird mess — but a hose washes straight through.
-- ⚠ **~4.9kg — wind risk when empty**; weight it or bring it in for a gale.
-
-*Verdict: cheapest sleek option, deepest lounge, true beige confirmed — the trade-off is the low weight. ⭐ (Sibling: **[Nardi Net Lounge](https://www.juliajones.co.uk/nardi-net-lounge-armchair/p3487)** £136, Tortora/Bianco, 5.4kg, scoop shape — same family if you prefer that shape.)*
+*Verdict: ⭐⭐ the front-runner. Reclines, cushioned, has its own footstool, warm-neutral colours, and — being resin — it's the one route that **completely sidesteps the coating-failure you saw at the cafe**. Only caveat: light (bring in for gales), same as everything elegant.*
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
 ---
 
-<a id="allibert-california"></a>
+## Want heavier / tougher than the Folio? — the honest answer
 
-### Allibert by Keter "California" — value resin club chair (heaviest in budget)
+There are genuinely marine-grade chairs, but in this budget **none beats the Folio for a modern look**, and (per the wind note above) the dear ones aren't even heavier. Recorded here so the trade-off is on the table:
 
-- **~£150–190 each** (Keter UK sells a grey pair at £330) · [amazon.co.uk](https://www.amazon.co.uk/Allibert-Keter-California-Outdoor-Armchair/dp/B01N7G97NG) *(product photo to add)*
-- **W~82 × D68 × H72cm · seat H~36cm** — a low, comfy club shape
-- **UV-stabilised polypropylene resin, through-colour** ("colours will not fade"); comes with a **beige/cappuccino cushion**
-- **~11kg — the heaviest sub-£190 resin chair**, genuinely won't blow around
-- ⚠ Surface is a **moulded round-wicker texture** — wipes clean and sheds water, but the grooves collect more bird mess than the smooth Nardi shells, and it looks less refined than the Italian resin.
+<a id="kettler-surf"></a>
+### Kettler Surf Active — the budget "teak-arm + sling" recipe
 
-*Verdict: the heavy + value pick if wind-without-thinking beats looks — but it's a chunkier, textured, less elegant chair. ⚠ Confirm single-chair price (Amazon blocks automated checks) and pin the "Resin/Foil" wording on Keter's page.*
+<img src="chair-images/kettler-surf-active.jpg" width="45%">
+
+- **Chair £145** (multi-position) / **lounge pair £399** · [kettler.co.uk](https://www.kettler.co.uk/garden-furniture/kettler/surf-active/surf-active-multi-position-dining-chair) · footstool ~£149
+- FSC **teak arms** + **Textilene sling** (hoses clean, no cushion needed) + multi-position recline — the right recipe, cheaply.
+- ⚠ **Iron-grey only — no warm neutral**, and Kettler quote **no marine-grade coating** (powder-coat is the only barrier → upkeep). The grey would read cooler than our palette.
+
+<a id="royal-botania-alura"></a>
+### Royal Botania Alura — the premium recipe done properly
+
+<img src="chair-images/royal-botania-alura.png" width="45%">
+
+- **£815 each + footrest ~£520** · [themodernfurniturecompany.com](https://themodernfurniturecompany.com/products/royal-botania-alura-low-chair)
+- **Teak arms** (echo dining) + marine alloy frame in **Dark Sand / Anthracite** + smooth **Batyline** sling + 2-pos recline + **Bouclé Sand** (oatmeal) cushion. 9.5kg.
+- The best *look* fit — but **~£1,335/chair = ~£5,300 for four**, far beyond budget, and ⚠ confirm anodised vs powder-coat + coastal warranty. *(Gloster Bay teak+Ferrari-sling recliner + ottoman ≈ £2,940/set is the even-tougher premium reference.)*
+
+<a id="jati-tewkesbury"></a>
+### ~~Jati Tewkesbury teak recliner + footstool · £235 set~~ ⚠ look already ruled out
+
+<img src="chair-images/jati-tewkesbury-recliner.jpg" width="40%">
+
+- **£235** chair+footstool set · grade-A teak, 5-position recline, footstool **included**, cushion £60 (Ecru/Taupe) · [jati.co.uk](https://www.jati.co.uk/tewkesbury-teak-outdoor-recliner-chair-with-footstool)
+- On paper the **best-value heavy option** — solid teak (salt + sun bombproof, matches the dining), reclines, footstool thrown in, cheaper than a cushioned Folio.
+- ⚠ **BUT your notes already record you rejected the Jati Tewkesbury recliner as "a bit old-fashioned"** (folding, classic slatted look — see photo). Kept only as the honest data point: the *only* in-budget heavy teak recliner is a style you've passed on. *(EMU Holly alu recliner + footstool ≈ £850/pair, powder-coat in taupe with a salt-resistance claim, is the metal equivalent.)*
+
+[↑ Top](#top) · [↑ Contents](#contents)
+
+---
+
+## Folio alternatives (same resin family, if you want a different shape/price)
+
+All Nardi, through-colour resin, ship together from Julia Jones. Only the **Folio has a matching footstool**.
+
+| Chair | £ | Warm colour | Recline | Weight | Cushion |
+|---|---|---|---|---|---|
+| **Net Lounge** | £136 | Tortora | fixed recline (armchair↔lounger) | 5.4kg | seat pad £60 (no warm neutral) + headrest £35 |
+| **Doga Relax** | £113 | Cappuccino / Tabacco | low lounge (no recline) | 6kg | Doga pad £79, **Lino** = nearest flax |
+| **Net Relax** | £108 | Tortora | fixed lounge profile | 4.9kg | Net pad £60 (greys/white only) |
+
+<img src="chair-images/nardi-net-lounge.jpg" width="30%"> <img src="chair-images/nardi-net-relax.jpg" width="30%">
+
+*Left: Net Lounge. Right: Net Relax (shown coral; Tortora available). All lighter than the Folio, none with a matching footstool — so the **Folio remains the pick** for the recline-plus-footstool setup you liked.*
 
 [↑ Top](#top) · [↑ Contents](#contents)
 
