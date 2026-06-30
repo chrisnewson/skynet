@@ -131,7 +131,7 @@ The **flat-roof replacement is going ahead as a separate job**. **Scaffolding go
 
 > **⚠ The guiding principle — bury it now, or you can't do it later.** Once the roof is closed, the tiling is down, and the scaffold has gone, you cannot cheaply go back for roof penetrations, buried service runs, the pedestal clusters under future heavy loads, or the lifting of heavy materials onto the roof. **So Phase 1 must include every hidden provision Phase 2 will need.** The "Phase-1 provisions that unlock Phase 2" list below is the critical part of this whole section.
 
-> **Planning-boundary caveat (please confirm).** We've *assumed* the Phase-1 items above fall outside planning / Listed Building Consent — but on a **Grade I** listed building that line isn't obvious, and we're not the experts. **Ronan / the conservation officer to confirm which items genuinely need consent** — in particular the **dining-area glass**, the **parapet bird deterrent** (fixing into the listed coping), and the **railings** top-up. If any of these need LBC, they move to Phase 2.
+> **Planning-boundary caveat (please confirm).** We've *assumed* the Phase-1 items above fall outside planning / Listed Building Consent — but on a **Grade I** listed building that line isn't obvious, and we're not the experts. **Ronan / the conservation officer to confirm which items genuinely need consent.** *(Note: Ronan's Phase-1 specification confirms Phase 1 does not require Listed Building Consent. The bird-deterrent and railing-wire fixings are into the precast **concrete** coping / railings, taken as ordinary terrace works.)*
 
 ## Phase classification — every Part
 
@@ -140,20 +140,20 @@ The **flat-roof replacement is going ahead as a separate job**. **Scaffolding go
 | Part | Phase | Phasing note |
 |---|---|---|
 | **A — Roof Build-up & Structure** | **1** | The roof job itself + the tiling substrate. Carries the critical penetration and levels provisions. |
-| **B — Tiling** | **1** | **Tile the whole terrace in Phase 1, including the hot-tub area** (tub craned on top later, on a dense pedestal cluster + load-spreading base). Only the **sauna/wet-room building footprint** is left un-tiled (the building bears on the roof build-up). **Set out all Phase-2 pedestal clusters now** (hot tub, parasols, building). |
+| **B — Tiling** | **1** | Tile the terrace in Phase 1, **leaving the sauna/wet-room building footprint AND the hot-tub footprint un-tiled** (both bear on the roof build-up — the hot tub is built straight off the Protectoboard in Phase 2). **Set out the parasol-base recesses + building/hot-tub load-spread positions now.** |
 | **C — Planters** | **1** | **All planters in Phase 1** *(16 June)*, built from salvaged deck boards. M7 (beside the hot-tub footprint) built ahead of the Phase-2 crane lift — accepted small risk; coordinate the crane path. |
 | **D — Planting** | **1** | Follows the planters; **final planting plan still to be agreed**. |
 | **E — Outdoor Tap** | **1** | — |
 | **F — Outdoor Kitchen** | **1** | Narrow section. Lay the sink-waste run to the foul stack under FA2 in Phase 1. |
 | **G — Storage** | **1** | Stores 1, 2 and 4 (Store 2 = Litter Robot in the kitchen run; Store 3 removed). |
 | **H — Railings** | **1** | Terrace works. Confirm the retained railings + wire top-up need no LBC. |
-| **I — Parapet Bird Deterrent** | **1** | Confirm the LBC position for fixing into the listed coping. |
+| **I — Parapet Bird Deterrent** | **1** | Post-and-wire on the precast concrete coping; chimney cowl swapped. |
 | **J — Smart Control** | **Split** | Terrace/lighting Shellys with Phase 1; the sauna-heater contactor with Phase 2. |
 | **K — Electrical / Lighting** | **Split** | First-fix cabling, terrace lighting and terrace sockets in Phase 1; the building door downlights and the sauna/wet-room/hot-tub final connections in Phase 2. |
 | **L — Fall Protection (Glass)** | **2** | **All glass is Phase 2** *(updated 16 June)*: a **west dining screen** (top 1400mm above FFL) plus **two hot-tub runs** (2000mm above FFL; north-wall run 2800mm long). The south/east dining glass stays deleted (M2 planters guard there). All fixes into parapet masonry — **no roof lock-in** — so it waits with the tub. Run in sections to save cost; SE sets the bottom height per run. |
 | **M — Sauna** | **2** | Building — needs consent. *Phase-1 provision:* floor-drain penetration through the roof + heater/light/socket cabling first-fix. |
 | **N — Wet Room** | **2** | Building — needs consent. *Phase-1 provision:* WC soil + linear-drain + basin + electric-shower + external-shower penetrations, and electrical first-fix. |
-| **O — Hot Tub** | **2** | Arrives by **crane** in Phase 2 — in the **single post-consent lift** with the Phase-2 materials (see below). *Phase-1 provision:* 32A radial first-fix, drain penetration, and a **dense pedestal cluster + continuous load-spreading base under the (Phase-1-tiled) tub area**; the tub is placed on top later. |
+| **O — Hot Tub** | **2** | Arrives by **crane** in Phase 2 — in the **single post-consent lift** with the Phase-2 materials (see below). The tub's footprint is **left un-tiled** in Phase 1; the **dense pedestal cluster / continuous load-spreading base is built straight off the Protectoboard in Phase 2**, the tub placed on top. *Phase-1 provision:* 32A radial first-fix + drain penetration only. |
 | **P — Parasols** | **2** | "Umbrellas" — with the building. *Phase-1 provision:* the **recessed base pockets + load-spread** for the two bases (set into / below the tiling on the raised FA2 section, bearing on the Protectoboard) set out **before** the pedestal grid is fixed. |
 | **Q — Study Door / Window** | **2** | Fenestration change → LBC. *Phase-1 provision:* set the narrow-section tile FFL so the future lowered, level threshold will work. |
 
@@ -163,8 +163,8 @@ These are Phase-2 items, but they **must be physically built / set out during Ph
 
 1. **All roof penetrations — including the Phase-2 ones — set out and capped before the roofer closes up.** The sauna floor drain, the wet-room linear drain + basin + electric-shower + external-shower, the **WC 110mm soil**, and the **hot-tub drain** all pierce the roof. The roofing contractor can insert and cap them for us to connect later — *but only if they have the exact positions in advance* (Part A). **This is the single highest-risk item: a missed penetration can't be added without opening the new roof.**
 2. **Service first-fix under the tiles — capped and labelled.** Hot-tub **32A radial** (Part O), sauna **40A heater feed** (Part M), wet-room **electric-shower 45A + light + fan** (Part N), terrace sockets (Part K), and the **cold-water tees** for the tap, kitchen, external shower and wet room (Parts E, F, N). Routed in the pedestal void before the tile finish goes down.
-3. **Pedestal clusters / load-spread positions set out under every future heavy load — before the pedestal grid is fixed.** The hot tub, the two parasol bases, and the building footprint (Part B). Adding pedestals under a finished tile field means lifting tiles. **The two parasol bases are to be recessed into / below the tiling** (into the pedestal void on the raised FA2 tiling, bearing on the Protectoboard — Part P), so their **recess pockets + load-spreading plates must be formed before the tile field is laid.**
-4. **Leave only the sauna/wet-room building footprint un-tiled** — the building is built on the roof build-up in Phase 2, so you tile up to it then. **The hot-tub area IS tiled in Phase 1** (the tub is craned onto it later). Protect the exposed insulation in the un-tiled building footprint with **ballast / weather protection through the consent wait** (Part A).
+3. **Parasol-base recesses formed before the tile field is laid.** The **two parasol bases are recessed into / below the tiling** (into the pedestal void on the raised FA2 tiling, bearing on the Protectoboard — Part P), so their **recess pockets + load-spreading plates must be formed before the tile field is laid** — these are the only heavy-load provisions that lock in *under* the tiles. *(The hot-tub and building load-spread bases are built later, on the exposed Protectoboard of their un-tiled footprints — see #4 — so they are not a Phase-1 under-tile lock-in.)*
+4. **Leave the sauna/wet-room building footprint AND the hot-tub footprint un-tiled** — both are built on the roof build-up in Phase 2 (the building bears on it; the **hot tub's dense pedestal cluster / continuous load-spreading base is built straight off the Protectoboard**), so you tile up to them then. Protect the exposed insulation in **both** un-tiled footprints with **ballast / weather protection through the consent wait** (Part A).
 5. **Set the narrow-section tile FFL to suit the Phase-2 lowered study threshold** (Part Q), so the level access works once the new door/window goes in.
 
 > **⚠ Phase-1 site logistics — keep water on the roof for the whole build.** All planting goes in during Phase 1 (Part D) and must be **watered right through the ~12-week summer build to handover**, so **a working tap (the existing one, or a temporary standpipe teed off the building cold supply) must remain available on the roof at all times during Phase 1**. The tap is being relocated (Part E) — **sequence the changeover so the supply is never capped off with plants in the ground**, and agree who is responsible for watering during the build.
@@ -175,7 +175,7 @@ These are Phase-2 items, but they **must be physically built / set out during Ph
 
 **Why this way:** the consent-dependent items are the expensive, design-specific ones — the **sauna kit, cladding, the glass (cut to the final layout), the hot tub, parasols, and the door/window**. Buying and lifting them only **after** consent removes the risk of paying for things planning might still change on a Grade I listed scheme. A crane is needed for the hot tub anyway, so adding the materials to that one mobilisation is largely marginal — one survey, one set of permits, one oversail consent. The terrace is **fully usable after Phase 1 regardless** (tiled, planted, kitchen, tap, lighting); only the sauna / tub / glass are pending.
 
-**The whole terrace — including the hot-tub area — is tiled in Phase 1.** Only the **sauna/wet-room building footprint** is left un-tiled (the building bears on the build-up; tile up to it once built). The hot tub is **placed on its Phase-1-tiled footprint** (over the dense pedestal cluster + load-spreading base) in the post-consent lift. **Spare tiles are held in the client's garage** to make good if anything has to be lifted and relaid after a planning-driven change.
+**Two footprints are left un-tiled in Phase 1 — the sauna/wet-room building and the hot tub.** Both bear on the roof build-up: the building is built on it in Phase 2, and the **hot tub's dense pedestal cluster / continuous load-spreading base is built straight off the exposed Protectoboard** then, with the tub craned on top. You tile up to both footprints. **Spare tiles are held in the client's garage** to make good if anything has to be lifted and relaid after a planning-driven change.
 
 **The lift (see Part O):** a **mobile-crane contract lift** — *not* a lorry-loader (the terrace is ~3 storeys up and ~10–15 m in from the rear street, past a lorry-loader's envelope). The crane lifts the tub **empty** (dry weight a few hundred kg), so **reach and access — not weight — are the constraint.** The **builder coordinates** it: crane survey, the Brighton & Hove **road-closure / parking-suspension permit**, **oversail consent** from affected neighbours (the jib swings over adjoining property), and **ground-bearing checks** (Regency pavements often have vaults beneath). The hot-tub dealer supplies the tub kerbside with its designated lifting points; a specialist crane firm executes the lift.
 
@@ -208,7 +208,7 @@ These are Phase-2 items, but they **must be physically built / set out during Ph
 
 # PART A — ROOF BUILD-UP & STRUCTURE (ASPHALT, INSULATION, JOISTS)
 
-> **🗓 Phase 1** — the roof job itself + the tiling substrate. This Part carries the **critical Phase-1 provisions** (roof penetrations, levels, ballast of the un-tiled building footprint). See [Programme & Phasing](#programme--phasing--two-phase-delivery), and the "Programme / phasing" subsection below.
+> **🗓 Phase 1** — the roof job itself + the tiling substrate. This Part carries the **critical Phase-1 provisions** (roof penetrations, levels, ballast of the un-tiled building **and hot-tub** footprints). See [Programme & Phasing](#programme--phasing--two-phase-delivery), and the "Programme / phasing" subsection below.
 
 This section is foundational to most others — please read alongside PART O (hot tub), PART B (tiling), and PART C (planters), since loads from those land here.
 
@@ -239,7 +239,7 @@ The two roof sections now get different systems:
 
 | Layer (top to bottom) | Notes |
 |---|---|
-| Tiles | 30mm granite on pedestals (Part B) — this is our finish on top of the IKO inverted system |
+| Tiles | 40mm Lastra granite-aggregate flags on pedestals (Part B) — this is our finish on top of the IKO inverted system |
 | Pedestals | **Eterno Ivica** (chosen 7 Jun), **rubber acoustic pads top *and* bottom** in this section (most sound isolation — see Part B). Pedestals/paving supports sit on the **Protectoboard** below |
 | **IKO Protectoboard 3.2mm** | Laid **over the WCL** — point-load protection and the pedestal substrate. Protectoboard runs over **both** sections; on the inverted main it sits over the WCL (WCL laid onto the XPS first) |
 | **IKO Enertherm WCL (Water Control Layer)** | Laid **over the insulation, under the Protectoboard** — reduces rainwater cooling of the insulation; IKO's standard inverted finish layer |
@@ -253,7 +253,7 @@ The two roof sections now get different systems:
 
 | Layer (top to bottom) | Notes |
 |---|---|
-| Tiles | 30mm granite on pedestals (Part B) |
+| Tiles | 40mm Lastra granite-aggregate flags on pedestals (Part B) |
 | Pedestals | **Rubber acoustic pads on bottom only** in this section (less sound isolation needed — see Part B) |
 | **IKO Protectoboard 3.2mm** | Over the Permaphalt, under the paving supports — point-load protection |
 | **IKO Permaphalt 20mm** (2 × 10mm coats) | Waterproofing **on top** of the insulation, over IKO Black Sheathing Felt separating layer |
@@ -266,7 +266,7 @@ The two roof sections now get different systems:
 
 > **Protectoboard + WCL order (per Ronan's GA300).** The **Protectoboard runs over both sections** as the pedestal substrate. On the **warm narrow section** it sits directly over the Permaphalt; on the **inverted main section** the **WCL is laid onto the XPS first, then the Protectoboard over the WCL** (i.e. the WCL sits *under* the Protectoboard). **Pedestals sit on the Protectoboard throughout.** *(Adding the Protectoboard over the inverted WCL is an extra layer on top of IKO's standard inverted finish — keep it written into the spec issued to Sussex Asphalte / confirmed with IKO so the guarantee stands — see guarantee note below.)*
 >
-> **⚠ Query (Ronan / IKO): is the WCL needed on the warm narrow section?** The WCL is an *inverted-roof* layer — it manages rainwater over the insulation. On the **warm narrow section** the Permaphalt is already the top waterproofing *above* the insulation, with only the Protectoboard and pavers over it, so the WCL looks unnecessary there. Ronan's Phase-1 spec item 2.05.01 reads as applying the WCL to the warm section (FA1) as well as the inverted main — **confirm whether the WCL is actually required on FA1, or only on the inverted main.** *(Our build-up tables above assume no WCL on the warm narrow — Protectoboard directly over the Permaphalt.)*
+> **⚠ Query (Ronan / IKO): which way round are the WCL and Protectoboard on the inverted main?** Ronan's Phase-1 spec item 2.06.01 reads *"Supply & lay Enertherm WCL and IKO Protectoboard over the XPS insulation … "* but then adds the note *"WCL layer to be laid over protectoboard"* — i.e. **WCL *on top of* the Protectoboard**. That is the **opposite** of the order we've assumed (and of the GA300 note above): we have the **WCL laid onto the XPS first, with the Protectoboard over it** (WCL *under* the Protectoboard, pedestals on the Protectoboard). The two readings can't both be right — **Ronan to confirm with IKO which way round the WCL and Protectoboard go on the inverted section.** *(On the warm narrow section 2.06.01 puts only the Protectoboard over the Permaphalt — no WCL — which matches our build-up.)*
 
 ## Finished roof height — needs quantifying
 
@@ -294,11 +294,11 @@ How our tile finish bears on the **inverted main section** still needs IKO's con
 
 1. **Raised pedestals under the dining (FA2, ~400mm = ~100mm low base + the 300mm raise).** Standard inverted paving sits on **low** supports. Pedestals of ~400mm concentrate load on a small base on the **XPS** (firm at ~300 kPa but can creep under sustained load) and raise lateral-stability and wind concerns. Confirm with IKO whether tall pedestals are acceptable **bearing on the Protectoboard / WCL / XPS**, whether **additional local load distribution** (a thicker bearing pad or a wider base plate under each tall pedestal) is needed, or whether the raised zone needs a **different support solution** (e.g. a separate raised sub-structure). *(Also one for the SE — Allan Wiseman — on lateral stability and the raised-platform load path.)*
 
-2. **⚠ Wind-uplift ballast — now met by the move to 30mm granite.** IKO require a **minimum loading coat of 80 kg/m²** over the XPS to resist wind uplift (their stated figure for sheltered / sub-10-storey buildings; our **exposed seafront** site may need more). We have **moved from 20mm porcelain (~46 kg/m²) to 30mm natural granite (~81 kg/m²)** (Part B), so the field **now meets the 80 figure on its own**. Confirm the **actual slab weight** with the supplier, and confirm with IKO that ~81 kg/m² is sufficient for our exposed seafront exposure (pedestals + planters / hot tub / building add further dead load on top); no supplementary ballast or edge restraint should be needed. This applies across the whole inverted main section.
+2. **⚠ Wind-uplift ballast — met by the 40mm AG Lastra.** IKO require a **minimum loading coat of 80 kg/m²** over the XPS to resist wind uplift (their stated figure for sheltered / sub-10-storey buildings; our **exposed seafront** site may need more). The **40mm AG Lastra is ~96 kg/m²** and **AG certify the 80 for pedestal rooftop use** (Part B), so the field **meets the 80 figure on its own** with margin (vs ~46 for the old 20mm porcelain). Confirm with IKO that ~96 kg/m² is sufficient for our exposed seafront exposure (pedestals + planters + building add further dead load on top); no supplementary ballast or edge restraint should be needed. This applies across the whole inverted main section.
 
-3. **Consistent 30mm-on-pedestals throughout.** With 30mm granite on the pedestal grid used across the whole terrace (including low FA3), there is **one finished level and one appearance** — no mixing with thick direct-laid slabs to reconcile. Confirm 30mm-on-pedestals is acceptable to IKO everywhere on the inverted field.
+3. **Consistent 40mm-on-pedestals throughout.** With the same 40mm Lastra on the pedestal grid used across the whole terrace (including low FA3), there is **one finished level and one appearance** — no mixing with thick direct-laid slabs to reconcile. Confirm 40mm-on-pedestals is acceptable to IKO everywhere on the inverted field.
 
-> **Action:** **Ronan to contact IKO (James Eden) to confirm the inverted-section tiling-support build-up** — pedestals bearing on the Enertherm, the 80 kg/m² wind-uplift requirement (now met by our ~81 kg/m² 30mm granite — confirm the actual slab weight), and the raised-FA2 (~300mm) solution — **copying Alexander Gathern (Coastal Surveyors)**, and looping in the SE (Allan Wiseman) on the tall-pedestal stability / any raised sub-structure. See [Project Team & Contacts](#project-team--contacts).
+> **Action:** **Ronan to contact IKO (James Eden) to confirm the inverted-section tiling-support build-up** — pedestals bearing on the Enertherm, the 80 kg/m² wind-uplift requirement (met by our ~96 kg/m² 40mm Lastra), and the raised-FA2 (~300mm) solution — **copying Alexander Gathern (Coastal Surveyors)**, and looping in the SE (Allan Wiseman) on the tall-pedestal stability / any raised sub-structure. See [Project Team & Contacts](#project-team--contacts).
 
 ## Levels across the terrace — three zones, two levels
 
@@ -364,7 +364,7 @@ The roofing contractors can **insert and cap drainage penetrations** for us to c
 
 > **Note for Ronan Bond:** please provide the build-up details (inverted main section, warm narrow section, the junction between the two, asphalt-to-building junction including the door-threshold detail) **as a matter of urgency** so they can be discussed with our surveyor, **IKO**, **Sussex Asphalte**, **Seaview** and **Coastal Surveyors**. **Seaview need a specification of works as soon as possible to get it costed** — scheduling is difficult at this time of year and getting the spec to them quickly is key.
 
-> **Action — Ronan to IKO (copy Coastal):** confirm the **tiling-support build-up on the inverted main section** — can the Eterno Ivica pedestals bear on the IKO Enertherm WCL/XPS (low **and** the ~400mm pedestals under the raised FA2 dining); how the **≥80 kg/m² wind-uplift** requirement is met — now satisfied by our 30mm granite at ~81 kg/m² (confirm the actual slab weight); and the raised-FA2 support solution. See *"Tiling support on the inverted roof"* above. Copy **Alexander Gathern (Coastal Surveyors)** and loop in the **SE (Allan Wiseman)** on tall-pedestal stability.
+> **Action — Ronan to IKO (copy Coastal):** confirm the **tiling-support build-up on the inverted main section** — can the Eterno Ivica pedestals bear on the IKO Enertherm WCL/XPS (low **and** the ~400mm pedestals under the raised FA2 dining); how the **≥80 kg/m² wind-uplift** requirement is met — satisfied by our 40mm Lastra at ~96 kg/m² (AG-certified); and the raised-FA2 support solution. See *"Tiling support on the inverted roof"* above. Copy **Alexander Gathern (Coastal Surveyors)** and loop in the **SE (Allan Wiseman)** on tall-pedestal stability.
 
 **Building Control:** Sussex Asphalte are taking the plan to Building Control to check it.
 
@@ -413,21 +413,22 @@ The engineer notes the ~50% remaining joist capacity is **a comfortable margin t
 
 # PART B — TERRACE TILING SYSTEM
 
-> **🗓 Phase 1** — with one Phase-2 carve-out. **Tile the whole terrace in Phase 1, including the hot-tub area** (the tub is craned on top later, on a dense pedestal cluster + load-spreading base); leave **only the sauna/wet-room building footprint** un-tiled (the building bears on the build-up — tile up to it once built). **Set out all the Phase-2 pedestal clusters now** (hot tub, parasol bases, building footprint) before the pedestal grid is fixed. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 1** — with two Phase-2 carve-outs. **Tile the terrace in Phase 1, leaving the sauna/wet-room building footprint AND the hot-tub footprint un-tiled** — both bear on the roof build-up (the building is built on it; the **hot tub is built straight off the Protectoboard** in Phase 2). Tile up to both once built. **Set out the two parasol-base recesses now** (the only heavy-load provision under the tile field), before the pedestal grid is fixed. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-**Estimated tiled area: ~107m²** (of the ~120m² gross terrace footprint, once the building, kitchen and storage footprints are subtracted — the hot-tub area **is** tiled in Phase 1, with the tub craned on top later).
+**Estimated tiled area: ~104m²** (of the ~120m² gross terrace footprint, once the building, hot tub, kitchen and storage footprints are subtracted).
 
 > **Agreed at the 4 June meeting:** **tile the whole roof area and build the planters on top of the finished tile field** (rather than building the planters off the Protectoboard). So **planters are not subtracted** from the tiled area. (See Part C.)
 
 | Subtraction | Approx m² |
 |---|---|
 | Sauna/wet room building external footprint (~2.90 × 2.49m) | ~7.2 |
+| Hot-tub footprint (~1.7 × 2.1m) — **un-tiled; tub built off the Protectoboard in Phase 2** | ~3.2 |
 | Outdoor kitchen run incl. the Litter Robot store (~4.2m run, 0.7m deep / 1.0m at the litter end) | ~3.3 |
 | Storage units — Store 1 (~0.8) + Store 4 (~1.9) *(Store 2 counted in the kitchen run; Store 3 removed)* | ~2.7 |
-| **Total subtracted** | **~13.2** |
-| **Net tiled area (gross 120m² − subtractions)** | **~107m²** |
+| **Total subtracted** | **~16.4** |
+| **Net tiled area (gross 120m² − subtractions)** | **~104m²** |
 
-*(The hot-tub footprint is **not** subtracted — the hot-tub area is tiled in Phase 1 and the tub sits on top.)*
+*(Both the building footprint and the hot-tub footprint are now subtracted — both are left un-tiled in Phase 1 and built on the roof build-up in Phase 2.)*
 
 **The lift bulkhead is tiled over** (concealing the structure), with the tiling adding **as little extra area as possible beyond the existing bulkhead footprint** — i.e. tile the bulkhead itself, don't spread a tiled apron around it. The **N4 planter (Part C) then matches that tiled bulkhead footprint exactly** and sits on top. So the bulkhead area is part of the tiled field and is **not** subtracted.
 
@@ -437,35 +438,39 @@ Planters are **not** subtracted — they are built on top of the finished tiles 
 
 ## Surface material
 
-**30mm yellow / buff natural granite paving** *(decided 18 June 2026 — supersedes the 16 June "30mm porcelain" choice, now withdrawn: the only warm-tone 30mm porcelain on the UK market, "Living Sand", was discontinued).* Solid full-body granite, large format, R11 / wet-PTV ≥ 36, frost- and coastal-rated. Warm **sandstone-style tone — buff / honey / amber** — to complement the anthracite cladding and Sussex Square's cream Regency stucco context, and to hide gull marks more forgivingly than grey.
+**40mm reconstituted granite-aggregate flagstones — AG "Lastra Sahara", 600 × 400 × 40mm** *(decided late June 2026, as specified in Ronan's Phase-1 specification — supersedes the 18 June "30mm yellow natural granite" choice).* A diamond-ground (smooth, terrazzo-like) reconstituted granite-aggregate flag in a warm **Sahara buff / sandstone tone** — to complement the anthracite cladding and Sussex Square's cream Regency stucco context, and to hide gull marks more forgivingly than grey. **Laid on Eterno Ivica pedestals, open joints** (see Pedestal section below).
 
-**Specified product (lead quote — primary supplier):** **Paving Superstore "Pro Range Granite Yellow", 600 × 600 × 30mm** — quoted **£7,666.66 ex VAT / £9,200 inc** for **8 pallets = 119.04 m²**, including dedicated (Moffett) delivery (≈ **£64.40/m² ex VAT**, within budget). *(Paving Superstore has now been asked to quote matching **bull-nosed steps** so the two quotes compare like-for-like — see below.)*
+> **⚠ Tiles are RECTANGULAR (600 × 400) — long side runs east-west.** This is a change from the earlier 600 × 600 square format. The long (600mm) dimension is to run **east–west** across the terrace. **Ronan to update the tile-layout drawing (GA 300):** the current drawing shows the tiles as squares, not 600 × 400 rectangles, and the laying direction needs to be set so the long side runs east-west.
 
-**Fallback supplier — CED Stone Group "Yellow Granite" (quote QTE2006941, 19 Jun 2026):** 30mm yellow granite **600 × 600** paving @ **£62.16/m² ex VAT** (120.24 m² = £7,474.12) + **8 × bull-nosed granite steps 400 × 1200mm @ £85.86** (£686.88) + **£560 haulage** = **£8,721.00 ex VAT / £10,465.20 inc**. **In stock — ~1 week lead time from order.** This is **marginally more expensive** than Paving Superstore once compared like-for-like, so it is held as the **fallback**. *(CED's paving is 600 × 600 — same format as Paving Superstore; the quote line is written as "600×300", to be corrected to 600 × 600 on the order.)*
+**Specified product / supplier — AG Paving & Building Products** (Aneed Mohammed, Senior Specification Consultant; Tom Mears on price/availability — see [tile-research/ag-terrapave-notes.md](tile-research/ag-terrapave-notes.md) for the full call notes):
+- **AG Lastra Sahara, 600 × 400 × 40mm** reconstituted granite-aggregate paving — **~£29.14/m² ex VAT** (~£3,500 ex VAT / ~£4,200 inc for ~120 m²; **steps + protective treatment + delivery to be added in the full quote**).
+- **Plain bull-nosed Lastra Sahara step units** in the same material / colour / finish for the two dining flights (no contrast nosing strip — the steps are low and generous; grip is handled by teak at the hot tub).
+- **Paving in stock; step units ~4–6 weeks** — workable inside the scaffold window (which now runs through to ~late September).
 
-**Samples from both suppliers are on the way.** Final supplier confirmed on: sample (iron-spot + wet-slip test) · like-for-like price once Paving Superstore has quoted the steps · stock + lead time inside the scaffold window.
+**Fallback — CED Stone "Yellow Granite" (natural, quote QTE2006941):** 30mm yellow natural granite 600 × 600 @ £62.16/m² + 8 bull-nosed steps + haulage ≈ **£8,721 ex VAT** (in stock, ~1-week lead). Held as the **fallback if the stain-protection answer on the Lastra is unacceptable** (natural granite barely needs sealing; the reconstituted product does — see below).
 
-**Why natural granite at 30mm — it solves the wind-uplift problem outright:**
-1. **Wind uplift.** IKO require **≥80 kg/m²** of dead load over the inverted XPS insulation to resist uplift on the main section (Part A). **30mm solid granite is ≈ 81 kg/m²** (granite ≈ 2,700 kg/m³) — so the tile field **meets IKO's requirement on its own**, with no reliance on edge restraint or borrowing mass from the planters / hot tub / building. *(30mm porcelain reached only ~70 and needed that top-up; 20mm only ~46.)* This is the single biggest reason for the switch.
-2. **Availability.** With "Living Sand" discontinued, **there is no warm-tone 30mm porcelain left on the UK market** — natural granite is now the only route to a warm sandstone tone at the thickness the uplift case needs.
-3. **Durability & point loads.** Solid granite is extremely hard-wearing, frost-proof at ~0.4% water absorption, and very tolerant of the hot-tub / parasol point loads.
+**Samples requested and on the way** (Lastra Sahara, plus CED for comparison). **Happy to include the samples in the decision before final commit.**
 
-**Coastal caveats to verify before the order is placed** *(the trade-off for choosing stone over porcelain):*
-- **Iron-spotting / rust.** Yellow granite is iron-rich, and iron inclusions can rust-streak in salt-laden seafront air. **Confirm with the supplier and wet-test the sample** (wet it and leave it) before committing.
-- **Protective finish — specified, not optional.** Granite is low-porosity but not zero, so the slabs are to be treated with **the manufacturer's / supplier's recommended protective sealer**, applied **per their instructions** (impregnating/penetrating sealer, correct number of coats, applied before the terrace is brought into use, with attention to the kitchen / BBQ / hot-tub zones) and **rated for coastal / salt exposure**, then **re-sealed at the manufacturer's stated interval**. Ask the supplier (Paving Superstore / CED) to **name the exact product and method** for this granite. *(Porcelain would never need this — it's the maintenance cost of going stone, so it must be priced in and applied.)*
-- **Wet slip.** Confirm a **wet PTV ≥ 36** for the bush-hammered / sawn finish (most flamed/bush-hammered granite is grippy, but get the figure on record).
-- **Slab weight.** Get the **actual kg per 600 × 600 slab** (≈ 29 kg expected) for the SE's dead-load check — the ~81 kg/m² above is calculated from density, not a datasheet, and granite is heavier than the porcelain it replaces.
+**Why the AG Lastra at 40mm works — it clears the wind-uplift requirement:**
+1. **Wind uplift.** IKO require **≥80 kg/m²** of dead load over the inverted XPS insulation to resist uplift on the main section (Part A). **The 40mm Lastra is ~96 kg/m²** (23 kg per 600 × 400 slab, per AG's data sheet) — **AG explicitly certify the 80 kg/m² wind-uplift for pedestal rooftop use**, so the tile field **meets the requirement on its own**, with margin, and with no reliance on edge restraint or borrowed mass.
+2. **Finish.** The diamond-**ground** finish gives the smooth look we want (rather than a rough bush-hammered granite), in a warm Sahara tone — and being a pigment-free aggregate product the colour won't fade.
+3. **Availability.** The Lastra Sahara is **in stock** in the 40mm — deliverable inside the scaffold window — where the warm natural-granite and the premium AG TerraPave routes were either dearer or made-to-order (TerraPave is MTO with a 600 m² minimum, ruled out).
+
+**Coastal caveats to verify before the order is placed** *(the trade-off for a reconstituted product vs natural stone):*
+- **⚠ Stain protection — the open question that decides Lastra vs the granite fallback.** A reconstituted / terrazzo aggregate is **more stain-prone than natural granite** (BBQ grease, wine, hot-tub chemicals, leaf tannins), so it needs a **fluoropolymer stain protectant**. AG initially said that protectant suits *textured* products and is **"not as compatible" with Lastra's ground finish**, then re-offered the Lastra without resolving it. **Confirm with AG that a suitable sealer/impregnator IS available for the Lastra Sahara ground finish** (it goes under an outdoor kitchen and beside a hot tub) — if not, fall back to the CED natural granite. Use AG's **Granite jointing sand** to avoid staining when brushing joints.
+- **Wet slip.** AG confirm **wet PTV ~40** for the ground finish — passes our ≥36 spec, but it sits near the bottom of the band (vs ~77 for natural granite), so **mind slip around the hot tub** (teak duckboard / mat there).
+- **Slab / step weight.** Paving is **23 kg/slab ≈ 96 kg/m²** (for the SE's dead-load check); the **step-unit weight is still to be confirmed** to Allan (SE).
+- **Efflorescence & colour variation.** Concrete-based products can effloresce (weathers off; AG won't replace for it) and warm tones show more pack-to-pack variation — **blend from 3+ packs** when laying. No-returns policy; allow +5% for cutting/waste.
 
 **Hard rules:**
-- **30mm thickness** (for the ~81 kg/m² uplift mass + stiffness)
-- R11 / wet-PTV ≥ 36 minimum
-- Frost- / coastal-rated, large format (600 × 600 minimum)
-- **Granite** — a dense, acid-resistant, frost-proof stone. *(No limestone, sandstone or marble — those etch from bird uric acid and are too porous; granite is the durable exception that does not etch.)*
-- **Treated with the manufacturer's recommended protective sealer** (coastal-rated), applied per their method before use and re-sealed at their stated interval — to be included in the builder's price
+- **40mm thickness, 600 × 400 rectangular format**, long side east-west
+- Wet-PTV ≥ 36 (confirmed ~40)
+- Frost- / coastal-rated, reconstituted granite-aggregate, diamond-ground finish, warm Sahara tone
+- **Treated with AG's recommended stain protectant** (subject to the ground-finish confirmation above), applied before use — to be included in the builder's price
 
-> **⚠ Confirm before ordering.** The two checks that decide it: (1) the **sample passes the iron-spot + wet-slip test** against the stucco/cladding, and (2) **all 8 pallets are in stock with a lead time inside the scaffold window** (materials up by ~late Sept). Compare the Paving Superstore quote (primary) against the CED quote (fallback, QTE2006941 — same stone, marginally dearer, but in stock with a ~1-week lead) on a like-for-like basis once Paving Superstore has priced the steps, and once both samples are in.
+> **⚠ Confirm before ordering.** The checks that decide it: (1) **AG confirm a suitable stain protectant works on the Lastra Sahara ground finish** (else fall back to CED natural granite); (2) the **sample passes** against the stucco / cladding; (3) **paving in stock + step units inside the scaffold window**; (4) **step-unit weight to the SE**.
 
-Samples required before order confirmed (Paving Superstore + CED/Corfe both requested). The quoted **119.04 m² (8 pallets)** already carries a ~10–15% overage over the ~107 m² net; surplus retained in the client's garage at Sussex Square for future repairs (not on the roof terrace). **Order the whole quantity in one batch** — natural stone varies between batches and cannot be colour-matched on a later top-up.
+**Order ~120 m² in one batch** — net ~104 m² + ~5% cut/waste + ~7–8 m² (≈20–30 slabs) matched **future spares** for the garage (AG batch-colour varies + no-returns, so it can't be matched on a later top-up), plus 1–2 spare bull-nosed step units. Surplus retained in the client's garage at Sussex Square (not on the roof terrace).
 
 ## Pedestal system
 
@@ -481,14 +486,14 @@ Adjustable pedestal system with self-levelling head and integrated rubber acoust
 
 > **⚠ Load-bearing — planters, hot tub and parasol bases: detail to the pedestal manufacturer's recommendations.** These concentrated loads sit on the pedestal-and-tile field and **must not point-load a tile mid-span**:
 > - **Planters** (Part C) — heavy **sustained** loads, ~250–350 kg/m² saturated, in long runs on top of the tiles. **The pedestal grid must be designed around every planter** — extra pedestals on the planter bearer lines — and the **sustained weight checked for long-term creep** of the inverted XPS insulation. **Issue every planter footprint to Eterno Ivica + the SE.**
-> - **Hot tub** (Part O) — ~1,120–1,280 kg over ~3.2 m² ≈ **~350–400 kg/m²**
+> - **Hot tub** (Part O) — ~1,120–1,280 kg over ~3.2 m² ≈ **~350–400 kg/m²**. **Its footprint is left un-tiled** — the **dense pedestal cluster / continuous load-spreading base is built directly on the Protectoboard** in Phase 2 (not on the tile field), so this load bears Protectoboard → WCL → XPS → deck without going through tiles. Issue the footprint to Eterno Ivica + IKO + SE for the base design.
 > - **Parasol bases** (Part P) — heavy (~140–280kg); **strong preference to recess them into / below the tiling (into the pedestal void, bearing on the Protectoboard)** rather than sit proud on the tiles (no roof penetration either way). Recessed, the base bears **directly on the Protectoboard** within the void, so it needs a **load-spreading plate under the base** so it doesn't dent the board / insulation — designed with Eterno Ivica + IKO + SE. Both base positions are on the ~300mm raised FA2 tiling.
 >
 > Their support is to be designed **per Eterno Ivica's published load tables and IKO's point-load guidance** — extra/closer-spaced pedestals on the load lines, the correct pedestal rating, and load spread so the path is base/bearer → tile-over-pedestals → pedestals → **(inverted main: Protectoboard → WCL → 190mm XPS insulation → Permaphalt → deck; warm narrow: Protectoboard → Permaphalt → 160mm PIR → deck)**.
 >
-> **The inverted insulation is now confirmed as 190mm IKO Enertherm XPS** (per IKO spec SF0079612), a **load-bearing grade at ~300 kPa** (≈30 t/m²) — much stiffer than a soft PIR, so the earlier "compressible insulation" worry is reduced: a hot tub at ~360–400 kg/m² (~4 kPa) is well within its rating. The real checks are therefore (a) **point loading of the 30mm granite slab** (don't stand a heavy base on a bare slab — spread over pedestals; solid 30mm granite is very stiff, which helps) and (b) **long-term creep under sustained loads**. Confirm both with Eterno Ivica + the SE; don't stand a heavy base on bare tiles.
+> **The inverted insulation is now confirmed as 190mm IKO Enertherm XPS** (per IKO spec SF0079612), a **load-bearing grade at ~300 kPa** (≈30 t/m²) — much stiffer than a soft PIR, so the earlier "compressible insulation" worry is reduced: a hot tub at ~360–400 kg/m² (~4 kPa) is well within its rating. The real checks are therefore (a) **point loading of the 40mm Lastra slab** (don't stand a heavy base on a bare slab — spread over pedestals) and (b) **long-term creep under sustained loads**. Confirm both with Eterno Ivica + the SE; don't stand a heavy base on bare tiles.
 >
-> **Issue the planter footprints (Part C), the hot-tub footprint (Part O) and the parasol base positions (Part P) to Eterno Ivica, IKO and the SE before the pedestal grid is set out.** Ways to handle heavy bases: a **load-spreading plate** over several pedestals; a **continuous base** for the hot tub; or **ballasting/anchoring a parasol within a planter** (using the planter's mass and footprint — which could also let a parasol be properly anchored despite the no-fix inverted roof). Confirm the chosen approach with the suppliers and SE.
+> **Issue the planter footprints (Part C), the hot-tub footprint (Part O) and the parasol base positions (Part P) to Eterno Ivica, IKO and the SE before the pedestal grid is set out.** Ways to handle heavy bases: a **load-spreading plate** over several pedestals; a **continuous base built directly on the Protectoboard** for the hot tub (its footprint is left un-tiled — built in Phase 2); or **ballasting/anchoring a parasol within a planter** (using the planter's mass and footprint — which could also let a parasol be properly anchored despite the no-fix inverted roof). Confirm the chosen approach with the suppliers and SE.
 
 ## Acoustic isolation — zoned by sensitivity of space below
 
@@ -512,7 +517,7 @@ Open joints throughout, as dictated by the pedestal head's spacer tabs (typicall
 
 The finished tile level needs to coordinate with:
 - **Sauna and wet room door thresholds** — pedestal + tile build-up is typically 60–150mm above the asphalt depending on falls
-- **Hot tub base** — the tub sits on the **Phase-1-tiled area over a dense pedestal cluster + continuous load-spreading base** (the shell needs full, level support — not spaced pavers); craned on in Phase 2 (see PART O)
+- **Hot tub base** — the tub's footprint is **left un-tiled**; in Phase 2 a **dense pedestal cluster + continuous load-spreading base is built straight off the Protectoboard** (the shell needs full, level support — not spaced pavers), tub craned on top (see PART O)
 - **Parasol bases** — heavy bases **recessed into / below the tiling** (set into the pedestal void on the raised FA2 tiling, bearing on the Protectoboard via a load-spreading plate; mast collared flush at the tile plane) — see PART P
 - **Linear drain in wet room** — continuity of tanking and falls
 - **Lift bulkhead** — tiling must clear the bulkhead and not bridge or trap services
@@ -521,18 +526,18 @@ The finished tile level needs to coordinate with:
 ## What builders have scope on
 
 - Choice of Buzon vs Eterno Ivica (or equivalent quality tier), provided rubber pad and self-levelling spec is met
-- Specific granite supplier (e.g. Paving Superstore vs CED/Corfe), provided colour, tone, format, slip and 30mm thickness rules are met
+- Equivalent-spec paving from another supplier, provided colour, tone, 600 × 400 rectangular format, slip and 40mm thickness rules are met (and it clears the IKO 80 kg/m² uplift)
 - Pedestal height selection based on actual survey levels
-- Open joint width within the normal range for pedestal-laid 30mm pavers
+- Open joint width within the normal range for pedestal-laid 40mm flags
 
 ## What is fixed
 
-- 30mm natural granite only (not porcelain, not limestone/sandstone/marble, not composite decking)
-- R11 / wet-PTV ≥ 36 minimum
+- 40mm reconstituted granite-aggregate flags, 600 × 400 (AG Lastra Sahara or equivalent equal-spec), long side east-west — clearing the IKO ≥80 kg/m² uplift
+- wet-PTV ≥ 36 minimum
 - Padded self-levelling pedestals
 - No adhesive bed — pedestal / floating system only
 - Open joints between tiles
-- **Manufacturer's recommended coastal-rated protective sealer applied** (in the builder's scope)
+- **AG's recommended coastal-rated stain protectant applied** (in the builder's scope; subject to the ground-finish confirmation)
 - Overage tiles retained in the client's garage at Sussex Square (not on the roof terrace)
 
 ## ⚠ Open: can the pedestals bear on the inverted (IKO Enertherm) insulation?
@@ -540,16 +545,16 @@ The finished tile level needs to coordinate with:
 **This is unresolved and needs IKO's confirmation — the answer shapes the whole tile finish on the main section.** It is set out in full in Part A under *"[Tiling support on the inverted roof — key question for IKO](#-tiling-support-on-the-inverted-roof--key-question-for-iko-ronan-to-lead-copying-coastal)"*. In short, three things to pin down with IKO before pricing/ordering:
 
 1. **Raised pedestals (~400mm) under the raised dining (FA2)** bearing on the WCL/XPS — acceptable as-is, or do they need a load-distribution layer / a separate raised sub-structure? (Also an SE question for stability.)
-2. **Wind-uplift ballast — now fully met by the 30mm granite choice.** IKO want **≥80 kg/m²** over the XPS; **30mm solid granite is ≈ 81 kg/m²**, so the tile field **meets the requirement on its own** (vs ~70 for 30mm porcelain, which needed a top-up, and ~46 for the old 20mm). Confirm the actual slab weight with the supplier to put this beyond doubt, but no supplementary ballast or edge restraint should be needed for uplift.
-3. **Consistent finish throughout** — with 30mm granite on pedestals used across the whole terrace (no mixing with thick direct-laid slabs), there is **one finished level and one appearance** to coordinate. Confirm 30mm-on-pedestals is acceptable everywhere including low FA3.
+2. **Wind-uplift ballast — met by the 40mm Lastra choice.** IKO want **≥80 kg/m²** over the XPS; **the 40mm AG Lastra is ~96 kg/m²** and **AG certify the 80 for pedestal rooftop use**, so the tile field **meets the requirement on its own** with margin (vs ~70 for 30mm porcelain, which needed a top-up, and ~46 for the old 20mm). No supplementary ballast or edge restraint should be needed for uplift.
+3. **Consistent finish throughout** — with the same 40mm Lastra on pedestals across the whole terrace (no mixing with thick direct-laid slabs), there is **one finished level and one appearance** to coordinate. Confirm 40mm-on-pedestals is acceptable everywhere including low FA3.
 
 **Action:** Ronan to take this to IKO (James Eden), copying Coastal (Alex Gathern) and the SE — see the Part A note.
 
-> **Tile size.** The specified Paving Superstore Pro Range Yellow is **600 × 600 × 30mm** (the quoted format). The same yellow granite is also available larger (e.g. **900 × 600** from CED/Corfe / Paving Superstore) — worth weighing if a larger format reads better (fewer joints, more contemporary). Trade-offs with the tiler + Eterno Ivica: larger pieces need **more/closer pedestals**, are **heavier to lift up the scaffold** (granite is dense — a 900 × 600 × 30mm slab is ~44 kg), and the format **sets the pedestal grid**. Decide alongside the final supplier choice.
+> **Tile size & laying direction.** The specified AG Lastra Sahara is **600 × 400 × 40mm** — a **rectangular** flag (≈23 kg each). The **long (600mm) side runs east–west.** **Ronan's tile-layout drawing (GA 300) currently shows squares and needs updating** to the 600 × 400 rectangle with the long side east-west, so the pedestal grid and joint lines are set out correctly. *(AG's call notes mention a 600 × 300 vs 600 × 400 ambiguity — confirm the actual slab size with AG before ordering; the spec figure is 600 × 400.)*
 
 ## What we'd value your steer on
 
-- **Structural sign-off** for ~107m² of 30mm granite + pedestals + furniture / occupancy load — note granite (~81 kg/m²) is a heavier dead load than the porcelain it replaces (~70), so worth re-confirming with the SE against the joist margin, plus the **actual slab weight** from the supplier. Usually fine but worth on record before contractors price it
+- **Structural sign-off** for ~104m² of 40mm Lastra (~96 kg/m²) + pedestals + furniture / occupancy load — worth re-confirming with the SE against the joist margin, plus the **step-unit weight** from AG. Usually fine but worth on record before contractors price it
 - **Pedestals on the inverted insulation** — see the ⚠ open question immediately above (bearing on the IKO Enertherm WCL/XPS, the 80 kg/m² wind-uplift requirement, and the raised-FA2 support). The single biggest tiling unknown
 - **Total build-up height** at the highest and lowest points of the falls — needed to confirm sauna / wet room door threshold heights and the hot tub / parasol base recess depths
 - **Edge detail** at the parapet / planter / glass balustrade interfaces — how the tile field terminates cleanly without a visible pedestal edge
@@ -1400,7 +1405,9 @@ Cushion / fabric storage needs **passive airflow** to prevent damp:
 
 > **🗓 Phase 1** (terrace works). Confirm with Ronan/conservation officer that the retained railings + wire top-up need no LBC. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-The narrow section of the roof terrace currently has three sets of railings. Per the **4 June meeting**, we'll **keep the railings exactly where they are — same position, same height** — no re-siting, no cladding, no replacement. The only addition is **tensioned stainless wires on top**, which does two jobs in one: makes up the small extra guarding height and bird-proofs them. *(The narrow section now stays on the lowest pedestals — Part A — so the floor barely rises and the railings don't need moving.)*
+The narrow section of the roof terrace currently has three sets of railings. Per the **4 June meeting**, we'll **keep the railings exactly where they are — same position, same height** — no re-siting, no cladding, no replacement. The only addition is **tensioned stainless wires on top**, which does two jobs in one: it provides the **fall-protection guarding top-up** (making the retained railings up to the required guarding height once the new floor level is set) **and** bird-proofs them. **No timber upstand is used — the wire does both jobs.** *(The narrow section now stays on the lowest pedestals — Part A — so the floor barely rises and the railings don't need moving.)*
+
+> **⚠ Check with Building Control that the wire top-up satisfies the guarding requirement (Approved Document K).** Tensioned wires are being relied on here as the fall-protection guarding above the retained railings — **Ronan / Building Control to confirm the wire arrangement (number of wires, spacing, tension and post heights) is acceptable as guarding** for the finished narrow-terrace level, not just as a bird deterrent. This is a **Phase 1** item.
 
 ## Changes
 
@@ -1417,6 +1424,7 @@ The narrow section of the roof terrace currently has three sets of railings. Per
 
 ## What we'd value your steer on
 
+- **Building Control sign-off** that the wire top-up is acceptable as **guarding** (fall protection) for the narrow terrace, not just as a bird deterrent — see the note above
 - **Top-up detail** — fixing the wire posts into the existing railing top profile
 - **Removal of the centre / short railings** — confirm no structural role
 - **Bird wire mount detail** at the railing tops (compatible with existing railing top profile)
@@ -1427,7 +1435,7 @@ The narrow section of the roof terrace currently has three sets of railings. Per
 
 # PART I — PARAPET BIRD DETERRENT (POST AND WIRE)
 
-> **🗓 Phase 1** (terrace works). Confirm the LBC position for fixing into the listed coping. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
+> **🗓 Phase 1** (terrace works). The wire system fixes into the precast **concrete** coping (resin anchors in the mortar joints) — taken as ordinary terrace works. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
 The main parapet walls currently have bird spikes. They work but look bad. We want to replace them with a low-visibility post-and-wire system on the 450mm-wide precast concrete coping.
 
@@ -1496,6 +1504,12 @@ Gulls and pigeons need a clear, flat landing strip. On a wide (450mm) coping, a 
 ## 10. Acceptable systems / brands
 
 Not brand-specific. Any proprietary bird post-and-wire system meeting this spec (A4/316 components; 1.0–1.2mm SS cable; swivel bases; springs; marine-grade anchors) is acceptable. Examples include mainstream UK bird-control suppliers' post-and-wire kits — contractor to propose and submit datasheets for approval.
+
+> **Supplier note (please confirm).** Ronan's Phase-1 specification names **safeguardpestcontrol.co.uk** for the post-and-wire kit, but we **couldn't find these products on that website** (even on the corrected spelling). **Ronan to confirm the correct supplier / product**, or the contractor to propose an equivalent A4/316 system that meets this spec.
+
+## 11. Chimney cowl *(added per Ronan's Phase-1 spec, item 2.05.03)*
+
+While the bird-deterrent trade is on the roof, **remove the existing chimney cowl and fit a new client-supplied cowl** in its place. *(Chris to source / supply the replacement cowl.)*
 
 [↑ Back to Contents](#contents)
 
@@ -1753,7 +1767,7 @@ We've chosen frameless toughened laminated glass throughout — keeps the view, 
 
 ## Floor
 
-- Tanked (continuous with adjacent wet room), screeded to fall, **R11 porcelain tile bonded onto the tanking** (porcelain suits the tanked wet floor; the open terrace finish is 30mm granite — Part B) — under the duckboards
+- Tanked (continuous with adjacent wet room), screeded to fall, **R11 porcelain tile bonded onto the tanking** (porcelain suits the tanked wet floor; the open terrace finish is 40mm Lastra granite-aggregate — Part B) — under the duckboards
 - Removable softwood duckboards laid on top of the tile (flat-pack kit, e.g. Finnmark, ~£80–150)
 - Stainless steel high-temperature drain connected to the terrace drainage
 
@@ -2105,7 +2119,7 @@ Grouped on the terrace wall beside the wet room door, IP55+ weatherproof:
 
 # PART O — HOT TUB
 
-> **🗓 Phase 2** (needs planning/LBC). It arrives **by crane in Phase 2** — in the **single post-consent crane lift** that also brings up the Phase-2 building materials, glass and parasols (see [Programme & Phasing](#programme--phasing--two-phase-delivery)). *Phase-1 provisions to build in now:* the 32A radial first-fix, the drain roof penetration, and a **dense pedestal cluster + continuous load-spreading base under the (Phase-1-tiled) tub footprint**; the tub is placed on top later.
+> **🗓 Phase 2** (needs planning/LBC). It arrives **by crane in Phase 2** — in the **single post-consent crane lift** that also brings up the Phase-2 building materials, glass and parasols (see [Programme & Phasing](#programme--phasing--two-phase-delivery)). The **tub's footprint is left un-tiled in Phase 1**; in Phase 2 the **dense pedestal cluster / continuous load-spreading base is built straight off the exposed Protectoboard** and the tub placed on top. *Phase-1 provisions to build in now:* the 32A radial first-fix and the drain roof penetration only.
 
 We're planning to site a hot tub on the terrace alongside the sauna/wet room building. Including this here because the **structural loading on the terrace deck is the critical question for you**, and the model choice drives weight, footprint, and electrical supply. Final model TBC; shortlist below in our preferred order.
 
@@ -2176,13 +2190,13 @@ The hot tub comes up in the **single post-consent crane lift** that also brings 
 - **A mobile-crane contract lift, not a lorry-loader (HIAB).** The terrace is ~3 storeys up and ~10–15 m in from the rear street, with a ~2.5 m roadside wall — past a lorry-loader's reach, so a **mid-sized mobile crane** is needed (sized by the lift firm's survey). The crane lifts the tub **empty** (dry/shipping weight is a few hundred kg — confirm with the dealer), so **reach and access, not weight, are the binding constraint.**
 - **Contract lift** (the crane firm owns the survey, lift plan, appointed person and insurance) — the right basis for a one-off lift over a listed building.
 - **The builder coordinates** the lift and the consents: the Brighton & Hove **road-closure / parking-suspension permit**, **oversail consent** from affected neighbours (the jib swings over adjoining property), and **ground-bearing checks** (Regency pavements often have vaults beneath). The hot-tub dealer delivers the tub kerbside with its **designated lifting points**.
-- **Placement:** the tub lands on its **Phase-1-tiled footprint** (over the dense pedestal cluster + load-spreading base) and is protected while the building work finishes, or scheduled last in the lift sequence. The shell needs **full, level support** — confirm the base detail with Ronan / SE / the tub supplier (not spaced pavers alone).
+- **Placement:** the tub lands on its **un-tiled footprint**, on the **dense pedestal cluster / continuous load-spreading base built off the Protectoboard** in Phase 2, and is protected while the building work finishes, or scheduled last in the lift sequence. The shell needs **full, level support** — confirm the base detail with Ronan / SE / the tub supplier (not spaced pavers alone).
 
 ## What we need from you on this
 
 - **Filled-load sign-off** sits with our SE (see Part A) — Rev A (8 June) confirms two bounding tubs pass with no strengthening; we're awaiting his confirmation of the weight basis and a single maximum filled weight + maximum load per m² to buy within
 - **Crane lift** — builder to commission a **contract-lift survey** of the rear street now (crane size, set-up position, permits, oversail, ground bearing), so the post-consent lift isn't a late surprise. See "Craning it up" above.
-- **Hot-tub base detail** — the continuous, fully-supported level base under the Phase-1-tiled tub footprint (dense pedestals + load-spreading deck), to suit the tub manufacturer's base requirement
+- **Hot-tub base detail** — the continuous, fully-supported level base built off the Protectoboard on the un-tiled tub footprint (dense pedestals + load-spreading deck), to suit the tub manufacturer's base requirement
 - Best drain route on the terrace — which existing outlet to discharge into, and any tundish / trap detail you'd want
 
 [↑ Back to Contents](#contents)
@@ -2281,7 +2295,7 @@ Access from the flat onto the terrace is via the existing **door/window from the
 - **➡ This builder then supplies and lays the IKO Protectoboard over BOTH sections** (work section 2.0) as the protection/separation layer and pedestal substrate — see Tiling below. *(On the inverted main the Enertherm WCL is laid onto the XPS first, then the Protectoboard over it — per Ronan's GA300; keep this in the IKO spec so the 20-year guarantee stands.)*
 - **🚨 Highest-risk coordination item:** the builder must issue **exact positions of ALL roof penetrations — Phase 1 *and* Phase 2 — and the finished levels (FFLs by zone + the future study threshold) to the roofer BEFORE the roof is closed.** The roofer installs and caps the penetrations; a missed one cannot be added without opening the new roof.
 - **Coordinate the strip-out so the good hardwood deck boards are set aside on site** (work section 0) for reuse in the planters, kitchen and storage — not skipped with the roof waste. **The structural roof joists are retained** (per the SE's calcs) and must not be removed.
-- The **un-tiled building footprint** is left exposed for the consent wait and needs **interim ballast / weather protection** — coordinate with the roofer. (The hot-tub area is tiled in Phase 1.)
+- The **un-tiled building footprint AND the un-tiled hot-tub footprint** are left exposed for the consent wait and need **interim ballast / weather protection** — coordinate with the roofer. (The hot tub is built straight off the Protectoboard in Phase 2.)
 
 ## Work sections
 
@@ -2290,7 +2304,7 @@ Access from the flat onto the terrace is via the existing **door/window from the
 | Ref | Item | Scope & key specification | Notes / Ronan to confirm |
 |---|---|---|---|
 | 0.1 | Client supplies salvaged boards **+ decking bolts** | **Chris sorts and supplies the sound salvaged hardwood deck boards + the existing decking bolts** (held on site) as **free-issue materials** to the builder, for use as the cladding/carcass of the **planters, outdoor kitchen and storage** (sections 3, 6, 7). The boards keep their existing bolt holes, and the bolts are **reused through those holes as the fixing** (random staggered joints — intended salvage look). **No salvage-sorting labour in the builder's price** | The planters/kitchen/stores are **built from this client-supplied salvaged timber + bolts** — quantity available depends on how many boards are sound |
-| 0.2 | Dispose of redundant timber & rubbish | Remove and dispose of the **poor-quality deck boards**, the **redundant timber deck sub-frame / bearers**, and the **old furniture and rubbish currently on the roof** | |
+| 0.2 | Dispose of redundant timber & rubbish | **Builder** to remove and dispose of the **poor-quality deck boards**, the **redundant timber deck sub-frame / bearers**, and the **old furniture and rubbish currently on the roof** | **Chris's only strip-out role is sorting the sound boards from the poor and setting the good ones aside (0.1)** — clearing/disposing of everything else (bad boards, sub-frame, old furniture, rubbish) is the **builder's** scope, not the client's |
 | 0.3 | SE-corner plastic waterproofing + old tap | Remove the **existing plastic waterproofing at the SE corner of the large terrace**, together with the **existing outdoor tap, its plastic backing panel and the existing plastic water-supply run** (Part E). The new IKO build-up + new tap replace them | **⚠ Do not leave the roof without water** — keep the existing tap (or a temporary standpipe) live until the new tap is connected, so the new planting can be watered throughout Phase 1 (see ref 5 / Part E) |
 
 **1. Drainage & service first-fix** *(set out before the roof is closed)*
@@ -2306,9 +2320,9 @@ Access from the flat onto the terrace is via the existing **door/window from the
 | Ref | Item | Scope & key specification | Approx qty | Notes / Ronan to confirm |
 |---|---|---|---|---|
 | 2.0 | Protectoboard substrate | Supply & lay **IKO Protectoboard (3.2mm)** over **both** sections, on top of what the roof contract leaves — over the **Enertherm WCL** on the inverted main (the **WCL laid onto the XPS first**, then the Protectoboard over it) and over the **Permaphalt asphalt** on the warm narrow. This is the protection/separation layer the pedestals sit on. No acoustic underlay mat over it | ~120 m² (gross) | On the inverted main, lay the **Enertherm WCL onto the XPS first, then the Protectoboard over it** (per Ronan's GA300); keep this in the IKO spec so the guarantee stands. **Ronan to confirm the hot-tub load can bear on the build-up** (concentrated point load → pedestals → Protectoboard → WCL → XPS → deck — may need local load-spreading) |
-| 2.1 | 30mm yellow granite on pedestals | **30mm yellow/buff natural granite** (R11 / wet-PTV ≥36, frost/coastal-rated, ≥600×600) on **Eterno Ivica (or equivalent equal-spec)** self-levelling padded pedestals; open joints; acoustic zoning — pads **top+bottom** (main) / **single** (narrow) / **basic** (over lift bulkhead); **treated with the manufacturer's recommended coastal-rated protective sealer** (applied before use, re-sealed per their interval) | ~107 m² net (**order ~119–120 m² / 8 pallets** incl. overage) | **Primary quote: Paving Superstore "Pro Range Granite Yellow" 600×600×30mm — £7,666.66 ex VAT incl. dedicated delivery** (£64.40/m²; steps being added for like-for-like). **Fallback: CED Stone (QTE2006941) 600×600×30mm @ £62.16/m² + 8 bull-nosed steps @ £85.86 + £560 haulage = £8,721 ex VAT, in stock ~1wk lead** — marginally dearer. **Samples from both on the way.** ~81 kg/m² **meets the IKO 80 kg/m² uplift on its own**. Confirm sample (**iron-spot + wet-slip**), **actual slab weight** (SE), stock + lead time. Builder may substitute an **equivalent-spec pedestal** (Buzon etc.) if cheaper |
-| 2.2 | Levels & steps | 3 zones / 2 levels: FA1 narrow low; **FA2 dining +300mm on ~400mm pedestals, 5.75×5.1m**; FA3 low ~100mm. **Two flights of 3 steps** (400mm tread / 100mm rise): FA1→FA2 up; FA2→FA3 down on FA2's north side, 1500mm wide. Step nosings formed with **bull-nosed granite step units** (8 no. 400×1200mm in the CED quote — confirm Paving Superstore can match) | — | Step going/rise/nosings + handrail/guarding to **Approved Doc K** — Ronan / BC |
-| 2.3 | Phase-2 provisions | Leave **only the sauna/wet-room building footprint** un-tiled (building bears on the build-up); **tile the hot-tub area in Phase 1** over a **dense pedestal cluster + continuous load-spreading base** (tub craned on top in Phase 2). Set out & install **all Phase-2 pedestal clusters / load-spread now** (hot tub, 2 parasol bases, building); **form the recessed parasol-base pockets** before tiling | — | Adding pedestals — or a base recess — under a finished tile field = lifting tiles |
+| 2.1 | 40mm Lastra granite-aggregate on pedestals | **40mm AG "Lastra Sahara" reconstituted granite-aggregate flags, 600×400, long side east-west** (wet-PTV ~40, frost/coastal-rated, diamond-ground) on **Eterno Ivica (or equivalent equal-spec)** self-levelling padded pedestals; open joints; acoustic zoning — pads **top+bottom** (main) / **single** (narrow) / **basic** (over lift bulkhead); **treated with AG's recommended stain protectant** before use | ~104 m² net (**order ~120 m²** incl. waste + spares) | **AG Lastra Sahara 600×400×40mm ≈ £29.14/m² ex VAT** (~£3,500 ex VAT / ~£4,200 inc for ~120 m²; steps + treatment + delivery added in full quote). Paving in stock; **bull-nosed Lastra Sahara steps ~4–6 wks**. **~96 kg/m² — AG certify the IKO 80 uplift.** ⚠ **Confirm AG's stain protectant suits the Lastra GROUND finish** (else fall back to CED natural granite); confirm sample + step-unit weight (SE). Builder may substitute an **equivalent-spec pedestal** (Buzon etc.) if cheaper |
+| 2.2 | Levels & steps | 3 zones / 2 levels: FA1 narrow low; **FA2 dining +300mm on ~400mm pedestals, 5.75×5.1m**; FA3 low ~100mm. **Two flights of 3 steps** (400mm tread / 100mm rise): FA1→FA2 up; FA2→FA3 down on FA2's north side, 1500mm wide. Step nosings formed with **plain bull-nosed Lastra Sahara step units** (same material/colour/finish; ~4–6 wk lead) | — | Step going/rise/nosings + handrail/guarding to **Approved Doc K** — Ronan / BC |
+| 2.3 | Phase-2 provisions | Leave **the sauna/wet-room building footprint AND the hot-tub footprint** un-tiled (both bear on the build-up; the **hot tub's pedestal cluster + load-spreading base is built straight off the Protectoboard in Phase 2**). **Form the two recessed parasol-base pockets** in the raised FA2 tiling before tiling — the only heavy-load provision under the tile field. Set out the building + hot-tub load-spread positions | — | A base recess under a finished tile field = lifting tiles. Hot-tub/building bases are built later on exposed Protectoboard |
 | 2.4 | Overage | Order +10–15% tiles; surplus to client's garage at Sussex Square | — | |
 
 **3. Planters — all built in Phase 1, from the salvaged deck boards (section 0.1)**
@@ -2327,7 +2341,7 @@ Access from the flat onto the terrace is via the existing **door/window from the
 | **M7** | West of hot tub | 2.0m × 600mm | +150mm above the tub rim |
 
 - **Soil / drainage / mulch:** drainage layer, topsoil / lightweight mix, mulch to all planters; **4 olive trees** (2 in N1, 1 in M1, 1 in M2) may need a locally deeper root detail (600mm general depth).
-- **M7 sits beside the hot-tub area** (tiled in Phase 1). Building it now, ahead of the Phase-2 crane lift of the tub, is an **accepted small risk** — coordinate the crane access path with Ronan so M7 isn't in the lift line.
+- **M7 sits beside the hot-tub footprint** (left un-tiled, tile-ready — the tub is built off the Protectoboard in Phase 2). Building M7 now, ahead of the Phase-2 crane lift of the tub, is an **accepted small risk** — coordinate the crane access path with Ronan so M7 isn't in the lift line.
 
 **4. Planting** — supply & plant all planters (incl. the 4 olive trees) + the movable pots. **⚠ The final planting plan is still to be agreed** — treat the plant schedule as a **provisional allowance** until confirmed.
 
@@ -2366,7 +2380,7 @@ Access from the flat onto the terrace is via the existing **door/window from the
 
 ## Provisional (PC) sums — Phase 1
 
-Granite supplier & final colour (2.1 — **Paving Superstore (primary) vs CED (fallback, quote QTE2006941)**, pending samples from both + Paving Superstore's like-for-like step price) · final planting schedule (4) · kitchen appliances if models change (6.1) · final lighting fittings selection (10.2).
+Paving supplier & final colour (2.1 — **AG Lastra Sahara (primary) vs CED natural granite (fallback, quote QTE2006941)**, pending samples + AG's confirmation that a stain protectant suits the Lastra ground finish) · final planting schedule (4) · kitchen appliances if models change (6.1) · final lighting fittings selection (10.2).
 
 ## Exclusions — Phase 1 (priced elsewhere)
 
@@ -2419,7 +2433,7 @@ Roof waterproofing / insulation / deck and the scaffold (**separate roof contrac
 | 3.2 | Fittings | Wall-hung WC + concealed cistern; wall-hung basin + cold tap; **10.5kW electric shower**; external shower. **Boxing above the WC fitted with a door-fronted towel-storage cupboard** (uses the cistern stud-out depth) | Connect to Phase-1 capped services |
 | 3.3 | Walls / door | Cement-board + porcelain to ceiling, epoxy grout; **762mm cedar door**, outward-opening | |
 
-**4. Hot tub (Part O)** — supply & install the chosen model **within the SE's weight / kg-m² limit**; brought up in the **single post-consent crane lift** with the other Phase-2 materials; **placed on its Phase-1-tiled footprint over the dense pedestal cluster + continuous load-spreading base**; connect the Phase-1 32A radial + drain. **PC sum** until the model is chosen. **Builder to coordinate the contract lift, permits and oversail consents** (commission the survey now).
+**4. Hot tub (Part O)** — supply & install the chosen model **within the SE's weight / kg-m² limit**; brought up in the **single post-consent crane lift** with the other Phase-2 materials; **its footprint is left un-tiled — the dense pedestal cluster + continuous load-spreading base is built straight off the Protectoboard, the tub placed on top**; connect the Phase-1 32A radial + drain. **PC sum** until the model is chosen. **Builder to coordinate the contract lift, permits and oversail consents** (commission the survey now).
 
 **5. Glass fall protection (Part L) — all three runs.** Frameless toughened **laminated** glass, **side-mounted (point-fixed to the inner face of the parapet)**, run in **sections** to save cost; the **SE sets the bottom height per run**:
 - **West dining screen** — top **1400mm above FFL**, west edge of FA2.
