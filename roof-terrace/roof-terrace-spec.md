@@ -440,7 +440,7 @@ Planters are **not** subtracted — they are built on top of the finished tiles 
 
 **40mm reconstituted granite-aggregate flagstones — AG "Lastra Sahara", 600 × 400 × 40mm** *(decided late June 2026, as specified in Ronan's Phase-1 specification — supersedes the 18 June "30mm yellow natural granite" choice).* A diamond-ground (smooth, terrazzo-like) reconstituted granite-aggregate flag in a warm **Sahara buff / sandstone tone** — to complement the anthracite cladding and Sussex Square's cream Regency stucco context, and to hide gull marks more forgivingly than grey. **Laid on Eterno Ivica pedestals, open joints** (see Pedestal section below).
 
-> **⚠ Tiles are RECTANGULAR (600 × 400) — long side must run east-west.** The long (600mm) dimension is to run **east–west** across the terrace. **Status (spec Revision A, 30 Jun):** GA 100 was amended to 600 × 400 (Rev C) and GA 300 now draws the tiles as rectangles ✅ — **but on GA 300 the long side is drawn running north–south, i.e. rotated 90° from what we want.** **Ronan to reissue GA 300 with the long side running east-west** (and give GA 300 a revision letter — it's still shown as Rev "‑").
+> **Tiles are RECTANGULAR (600 × 400), long side east-west — confirmed correct on the drawings (spec Revision A, 30 Jun).** GA 100 amended to 600 × 400 (Rev C) and GA 300 draws the tiles as 600 × 400 rectangles with the long side running **east-west** ✅. Resolved.
 
 **Specified product / supplier — AG Paving & Building Products** (Aneed Mohammed, Senior Specification Consultant; Tom Mears on price/availability — see [tile-research/ag-terrapave-notes.md](tile-research/ag-terrapave-notes.md) for the full call notes):
 - **AG Lastra Sahara, 600 × 400 × 40mm** reconstituted granite-aggregate paving — **~£29.14/m² ex VAT** (~£3,500 ex VAT / ~£4,200 inc for ~120 m²; **steps + protective treatment + delivery to be added in the full quote**).
@@ -1405,14 +1405,14 @@ Cushion / fabric storage needs **passive airflow** to prevent damp:
 
 > **🗓 Phase 1** (terrace works). Confirm with Ronan/conservation officer that the retained railings + wire top-up need no LBC. See [Programme & Phasing](#programme--phasing--two-phase-delivery).
 
-The narrow section of the roof terrace currently has three sets of railings. Per the **4 June meeting**, we'll **keep the railings exactly where they are — same position, same height** — no re-siting, no cladding, no replacement. The only addition is **tensioned stainless wires on top**, which does two jobs in one: it provides the **fall-protection guarding top-up** (making the retained railings up to the required guarding height once the new floor level is set) **and** bird-proofs them. **No timber upstand is used — the wire does both jobs.** *(The narrow section now stays on the lowest pedestals — Part A — so the floor barely rises and the railings don't need moving.)*
+The narrow section of the roof terrace currently has three sets of railings. Per the **4 June meeting**, we'll **keep the railings exactly where they are — same position, same height** — no re-siting, no cladding, no replacement. The only addition is **tensioned stainless wires on top**, primarily as the **bird deterrent** (matching the parapet system in Part I). *(The narrow section stays on the lowest pedestals — Part A — so the floor barely rises and the railings don't need moving.)*
 
-> **⚠ Check with Building Control that the wire top-up satisfies the guarding requirement (Approved Document K).** Tensioned wires are being relied on here as the fall-protection guarding above the retained railings — **Ronan / Building Control to confirm the wire arrangement (number of wires, spacing, tension and post heights) is acceptable as guarding** for the finished narrow-terrace level, not just as a bird deterrent. This is a **Phase 1** item.
+> **Fall-protection guarding top-up — excluded from Phase 1.** We're **not** relying on the bird wire as fall-protection guarding. The expectation is that, with the narrow floor barely rising, the **retained railings are close enough to the 1100mm guarding height that it won't need to be addressed.** **If Building Control / the finished level shows guarding is required, the contingency is to build the railings up** — dealt with then, not designed in now. So no timber upstand and no guarding role is assumed for the wire.
 
 ## Changes
 
 - **Keep the existing railings in place, at their current height.**
-- **Add height + bird-proofing on top** — **tensioned stainless wires** fixed to the railing tops. One element makes up the extra guarding height **and** acts as the gull/pigeon deterrent.
+- **Add bird-proofing on top** — **tensioned stainless wires** fixed to the railing tops as the gull/pigeon deterrent (any small extra height is incidental — not relied on as guarding; see the note above).
 - **Remove:** the centre railing, and the short railing joining the centre railing to the west railing (redundant under the current layout).
 - **Keep:** the east and west railings, both in place.
 
@@ -1424,8 +1424,7 @@ The narrow section of the roof terrace currently has three sets of railings. Per
 
 ## What we'd value your steer on
 
-- **Building Control sign-off** that the wire top-up is acceptable as **guarding** (fall protection) for the narrow terrace, not just as a bird deterrent — see the note above
-- **Top-up detail** — fixing the wire posts into the existing railing top profile
+- **Guarding height** — confirm the retained railings sit close enough to 1100mm at the finished narrow level that no guarding top-up is needed; if not, we'll build the railings up (see the note above)
 - **Removal of the centre / short railings** — confirm no structural role
 - **Bird wire mount detail** at the railing tops (compatible with existing railing top profile)
 
