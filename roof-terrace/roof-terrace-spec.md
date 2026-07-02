@@ -266,7 +266,7 @@ The two roof sections now get different systems:
 
 > **Protectoboard + WCL order (per Ronan's GA300).** The **Protectoboard runs over both sections** as the pedestal substrate. On the **warm narrow section** it sits directly over the Permaphalt; on the **inverted main section** the **WCL is laid onto the XPS first, then the Protectoboard over the WCL** (i.e. the WCL sits *under* the Protectoboard). **Pedestals sit on the Protectoboard throughout.** *(Adding the Protectoboard over the inverted WCL is an extra layer on top of IKO's standard inverted finish — keep it written into the spec issued to Sussex Asphalte / confirmed with IKO so the guarantee stands — see guarantee note below.)*
 >
-> **⚠ Query (Ronan / IKO): which way round are the WCL and Protectoboard on the inverted main?** Ronan's Phase-1 spec item 2.06.01 reads *"Supply & lay Enertherm WCL and IKO Protectoboard over the XPS insulation … "* but then adds the note *"WCL layer to be laid over protectoboard"* — i.e. **WCL *on top of* the Protectoboard**. That is the **opposite** of the order we've assumed (and of the GA300 note above): we have the **WCL laid onto the XPS first, with the Protectoboard over it** (WCL *under* the Protectoboard, pedestals on the Protectoboard). The two readings can't both be right — **Ronan to confirm with IKO which way round the WCL and Protectoboard go on the inverted section.** *(On the warm narrow section 2.06.01 puts only the Protectoboard over the Permaphalt — no WCL — which matches our build-up.)*
+> **✅ WCL / Protectoboard order — resolved (spec Revision A, 30 Jun).** The earlier ambiguity is fixed: Rev A item 2.06.01 now reads *"WCL layer to be laid over the insulation and then the protectoboard"* — i.e. the **WCL onto the XPS first, with the Protectoboard over it** (WCL *under* the Protectoboard, pedestals on the Protectoboard). This **matches our build-up**. *(On the warm narrow section 2.06.01 puts only the Protectoboard over the Permaphalt — no WCL — which also matches.)*
 
 ## Finished roof height — needs quantifying
 
@@ -440,7 +440,7 @@ Planters are **not** subtracted — they are built on top of the finished tiles 
 
 **40mm reconstituted granite-aggregate flagstones — AG "Lastra Sahara", 600 × 400 × 40mm** *(decided late June 2026, as specified in Ronan's Phase-1 specification — supersedes the 18 June "30mm yellow natural granite" choice).* A diamond-ground (smooth, terrazzo-like) reconstituted granite-aggregate flag in a warm **Sahara buff / sandstone tone** — to complement the anthracite cladding and Sussex Square's cream Regency stucco context, and to hide gull marks more forgivingly than grey. **Laid on Eterno Ivica pedestals, open joints** (see Pedestal section below).
 
-> **⚠ Tiles are RECTANGULAR (600 × 400) — long side runs east-west.** This is a change from the earlier 600 × 600 square format. The long (600mm) dimension is to run **east–west** across the terrace. **Ronan to update the tile-layout drawing (GA 300):** the current drawing shows the tiles as squares, not 600 × 400 rectangles, and the laying direction needs to be set so the long side runs east-west.
+> **⚠ Tiles are RECTANGULAR (600 × 400) — long side must run east-west.** The long (600mm) dimension is to run **east–west** across the terrace. **Status (spec Revision A, 30 Jun):** GA 100 was amended to 600 × 400 (Rev C) and GA 300 now draws the tiles as rectangles ✅ — **but on GA 300 the long side is drawn running north–south, i.e. rotated 90° from what we want.** **Ronan to reissue GA 300 with the long side running east-west** (and give GA 300 a revision letter — it's still shown as Rev "‑").
 
 **Specified product / supplier — AG Paving & Building Products** (Aneed Mohammed, Senior Specification Consultant; Tom Mears on price/availability — see [tile-research/ag-terrapave-notes.md](tile-research/ag-terrapave-notes.md) for the full call notes):
 - **AG Lastra Sahara, 600 × 400 × 40mm** reconstituted granite-aggregate paving — **~£29.14/m² ex VAT** (~£3,500 ex VAT / ~£4,200 inc for ~120 m²; **steps + protective treatment + delivery to be added in the full quote**).
@@ -1505,7 +1505,7 @@ Gulls and pigeons need a clear, flat landing strip. On a wide (450mm) coping, a 
 
 Not brand-specific. Any proprietary bird post-and-wire system meeting this spec (A4/316 components; 1.0–1.2mm SS cable; swivel bases; springs; marine-grade anchors) is acceptable. Examples include mainstream UK bird-control suppliers' post-and-wire kits — contractor to propose and submit datasheets for approval.
 
-> **Supplier note (please confirm).** Ronan's Phase-1 specification names **safeguardpestcontrol.co.uk** for the post-and-wire kit, but we **couldn't find these products on that website** (even on the corrected spelling). **Ronan to confirm the correct supplier / product**, or the contractor to propose an equivalent A4/316 system that meets this spec.
+> **Supplier — updated (spec Revision A, 30 Jun).** Rev A now names **Huck Net** (huck-net.co.uk) post-and-wire systems for the kit, replacing the earlier dud "safeguardpestcontrol" link. The contractor may still propose an equivalent A4/316 system that meets this spec.
 
 ## 11. Chimney cowl *(added per Ronan's Phase-1 spec, item 2.05.03)*
 
