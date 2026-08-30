@@ -2,7 +2,7 @@
 
 **Flat 6, 22 Sussex Square, Brighton BN2 5AA** · Issued for nursery review — 30 August 2026 (rev B, after design review)
 
-> 📄 **[Download as PDF](https://raw.githubusercontent.com/chrisnewson/skynet/main/roof-terrace/planting-plan.pdf)** · 🔍 **[Interactive HTML version](https://raw.githack.com/chrisnewson/skynet/main/roof-terrace/planting-plan.html)** — hover any photo to see it full size; links open in new tabs
+> 📄 **[Download as PDF](https://raw.githubusercontent.com/chrisnewson/skynet/main/roof-terrace/planting-plan.pdf)** · 🔍 **[Interactive HTML version](https://chrisnewson.github.io/skynet/roof-terrace/planting-plan.html)** — hover any photo to see it full size; links open in new tabs
 
 > **What we're asking for.** This is the planting plan for a new roof terrace on a Grade I listed
 > building on the Brighton seafront. We would like you to **review it, tell us where we've got it wrong,
