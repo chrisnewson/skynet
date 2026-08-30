@@ -245,6 +245,8 @@ crocus at your feet. By June it is lavender, catmint and blue oat grass moving i
 all on leafless stems that don't mind the gale. Autumn is stonecrop going dusky pink then rust, and the
 seed heads stay standing until you cut them in February.
 
+![N1(E) — artist's impression](planting-plan-renders/n1e.png)
+
 > **Why it is planted this way.** The principal screen against being overlooked from the east, and — because the east side has **open railings, not a parapet** — the *only* wind defence the narrow terrace has from that direction. Wind passes straight through the railings at low level, so this planting is the windbreak. Every shrub is a naturally self-limiting dome of no more than ~1.2m spread: nothing that needs clipping, and nothing that will cantilever far past the railing line. After the design review the ribbon here was consolidated into drifts of a few species rather than one-of-everything — it reads as designed planting, and it knits faster.
 
 > **Mulch and feeding:** 10mm gravel collar, ~300mm ring. Slow-release granular feed each April; **no compost** — see §12.
@@ -300,6 +302,8 @@ rather than a run. One multi-stem **olive** does that job, with a myrtle beside 
 and blue fescue at its feet. The solid parapet behind gives it more shelter than anywhere else on this
 terrace, which is why the olive goes here rather than out on the exposed run.
 
+![N1(N) — artist's impression](planting-plan-renders/n1n.png)
+
 > **Why it is planted this way.** The deepest planter on the narrow terrace, so it takes a full specimen — and the solid 1,300mm parapet here gives 800mm of containment above the planter rim, more than anywhere else on the narrow terrace. Marks the head of the L where the steps rise to the main terrace. The olive here is deliberately the smaller 30–35L size — the review confirmed a 45–60L rootball doesn't fit a 500mm box, and in this exposure a smaller tree anchors faster and rocks less.
 
 > **Mulch and feeding:** 10mm gravel collar, ~300mm ring. Slow-release granular feed each April; **no compost** — see §12.
@@ -338,6 +342,8 @@ A punctuation mark in the middle of the east run: one bronze **Phormium** throwi
 sword-leaves out of a soft cushion of lavender and blue fescue. It exists to stop seven metres of planting
 reading as a hedge. In autumn the stonecrop and a few *Nerine* keep it going after the lavender is over.
 
+![N2 — artist's impression](planting-plan-renders/n2.png)
+
 > **Why it is planted this way.** A punctuation point in the east run — one piece of architecture with lavender around its feet.
 
 > **Mulch and feeding:** 10mm gravel collar, ~300mm ring. Slow-release granular feed each April; **no compost** — see §12.
@@ -373,6 +379,8 @@ would actually pick — upright rosemary, four kinds of thyme, purple sage, orna
 butterflies mob in August. Evergreen and usable in every month, which is the point: you want to be able to
 cut something for dinner in January.
 
+![N3 — artist's impression](planting-plan-renders/n3.png)
+
 > **Why it is planted this way.** **The cook's square** — everything in it is culinary, and it is one step from the outdoor kitchen worktop.
 
 > **Mulch and feeding:** 10mm gravel collar, ~300mm ring. Slow-release granular feed each April; **no compost** — see §12.
@@ -407,6 +415,8 @@ lavender, savory, tarragon, sage — with the sun-lovers on the north and east w
 south edge, in the permanent lee of the flat wall, given over to a different palette entirely:
 **Sarcococca** and a hellebore, with snowdrops and cyclamen threaded underneath. In January that shaded
 band is the best-smelling square metre on the terrace. In July the whole thing hums.
+
+![N4 — artist's impression](planting-plan-renders/n4.png)
 
 > **Why it is planted this way.** You brush past this every time you go out of the study door, so it is built for scent and for picking. **Part-shaded** — the flat rises ~3m immediately to its south — so it is zoned: sun-loving Mediterranean herbs on the north and east sides, and the shade-tolerant plants along the south edge in the lee of the wall.
 
@@ -466,6 +476,8 @@ them from February. In front, at table height: lavender, catmint, dark-stemmed *
 and silver lamb's ears. Alliums and white 'Thalia' daffodils come through it in spring; *Hylotelephium*
 holds the autumn.
 
+![M1(W) — artist's impression](planting-plan-renders/m1w.png)
+
 > **Why it is planted this way.** The south-westerly gale flank and the neighbour side — the hardest-working windbreak on the main terrace, and what you look at from the dining table. It sits **behind** you when you look north-east, so height here does not compete with the Downs view. The Phase-2 dining parasol's mast lands mid-run, just east of this planter. So the two tall backbone plants — the 'Silver Sheen' and the myrtle — go at the SOUTH end of the run, and nothing taller than the front ribbon is planted within about 1.5m either side of the mast station, keeping the canopy's opening sweep and its furled drop zone clear. The *Euphorbia* and the 'Tom Thumb' dome take the north end.
 
 > **Mulch and feeding:** 10mm gravel collar, ~300mm ring. Slow-release granular feed each April; **no compost** — see §12.
@@ -514,6 +526,8 @@ lounge and directly in the north-east view corridor, so it is one clipped **'Gol
 skirt of catmint — enough to soften the step edge, not enough to interrupt anything. Crocus and dwarf
 daffodils in spring, and then it gets out of the way.
 
+![M1(N) — artist's impression](planting-plan-renders/m1n.png)
+
 > **Why it is planted this way.** Deliberately kept low — this sits beside the three steps down to the lounge, and it is directly in the north-east view corridor from the dining table. **Nothing here above ~1m total.**
 
 > **Mulch and feeding:** 10mm gravel collar, ~300mm ring. Slow-release granular feed each April; **no compost** — see §12.
@@ -552,6 +566,8 @@ You look straight over it to the Downs. The olive's job is discreet: its canopy,
 above the planter rim, breaks up the diagonal sightline from the neighbours' upper windows down into
 the tub for the times the parasols are furled. An olive filters rather than blocks — you can see
 through it, particularly low down, which is exactly the brief.
+
+![M2(E) north half — artist's impression](planting-plan-renders/m2e-north.png)
 
 > **Why it is planted this way.** The review killed the crown-lifted strawberry trees here — the size
 > that screens in year one doesn't exist to buy at sane money, and *Arbutus* sheds fruit and leathery
@@ -667,6 +683,8 @@ June, silver-blue *Teucrium*, and *Coronilla* flowering pale lemon through the m
 front, Russian sage, a perennial wallflower and blue oat grass carry it from midsummer into autumn, and
 two *Iris unguicularis* flower at the sunny foot of it in November when nothing else is.
 
+![M2(S) — artist's impression](planting-plan-renders/m2s.png)
+
 > **Why it is planted this way.** The heritage focal point, seen head-on from the dining table and the lounge, and outside every protected view corridor — so this is where the scheme is allowed real height. The 1m depth also gives the setback that removes the need for fall-protection glass along this edge. This is the one place the character budget is spent: one genuinely gnarled olive, seen head-on from the dining table, rather than four half-gnarled ones nobody looks at closely. The other four olives are ordinary multi-stems — olives gnarl in place; that is what they do.
 
 > **Mulch and feeding:** 10mm gravel collar, ~300mm ring. Slow-release granular feed each April; **no compost** — see §12.
@@ -727,6 +745,8 @@ dropping to prostrate rosemary, sea thrift, cheddar pinks and trailing *Euphorbi
 end where the sightline is tightest. Two *Hylotelephium* give it an autumn, and *Nerine* comes up pink
 out of it in October.
 
+![M4 — artist's impression](planting-plan-renders/m4.png)
+
 > **Why it is planted this way.** **Height cap: 1m above the planter rim — 1.7m above finished floor level — and lower at the east end.** M4 sits in the view of the Downs from the sauna, so it is graded: domes and grasses to the full 1m at the west end, dropping to mats at the east end where the sightline is tightest. At 1.7m it still does useful work as a north / north-east windbreak for the lounge. Nothing in it is ever pruned beyond the grass comb-out.
 
 > **Mulch and feeding:** 10mm gravel collar, ~300mm ring. Slow-release granular feed each April; **no compost** — see §12.
@@ -770,6 +790,8 @@ Between the tub and the sauna wall, so everything in it gets brushed, steamed an
 inside the water. A small **olive** and a **myrtle** for the Mediterranean picture, two bright-green *Hebe*
 domes, rosemary arching over the edge, and a silver *Convolvulus*. Every one of them is glossy or tight
 and holds its leaves — chosen specifically so nothing sheds into the water.
+
+![M7 — artist's impression](planting-plan-renders/m7.png)
 
 > **Why it is planted this way.** Wind defence on the building side of the tub, and everything you brush past getting in and out is aromatic. **Chosen for low leaf and petal drop** — glossy evergreens that hold their leaves, nothing that sheds spent flowers into the water. **The olive here (and the one in M2(E)) stands upwind of the tub and will shed some small leaf** — the accepted price of standing privacy cover; see §14. See §16 on the hot tub.
 
@@ -817,6 +839,8 @@ structure, then **Sarcococca** and **Daphne odora** — the two best winter scen
 exactly where you pass them in the dark in January, with sixty snowdrops and thirty cyclamen underneath.
 This is the shadiest, most sheltered corner on the terrace, which is the only reason any of it works.
 
+![Pot Group A — artist's impression](planting-plan-renders/pot-group-a.png)
+
 > **5 pots.** The part-shaded corner by the study door, where the winter-scent plants live. Two large, three medium.
 
 > **Mulch and feeding:** no gravel needed — pots are top-dressed with home-made compost each spring. A thin gravel dressing is optional, purely for looks.
@@ -845,6 +869,8 @@ Six working pots along the kitchen run: three mints in separate pots because the
 eat any bed they were put in, parsley, coriander, and chives and sorrel together. Crocus and dwarf
 daffodils come up through them before the herbs get going, and autumn cyclamen follow when they die back.
 
+![Pot Group B — artist's impression](planting-plan-renders/pot-group-b.png)
+
 > **6 pots**, at the shadier southern end of the kitchen run, which suits every plant in the group. These are the herbs that must not go into a shared bed. Basil is deleted on review advice: salt wind shreds it even in the lee. It lives on the kitchen windowsill instead, and its pot slot goes to coriander.
 
 > **Mulch and feeding:** no gravel needed — pots are top-dressed with home-made compost each spring. A thin gravel dressing is optional, purely for looks. The cyclamen pots come OFF the drip June–August — summer-dormant corms rot under summer water.
@@ -871,6 +897,8 @@ the tops of the aromatics — a fringe of foliage at the rim of the view, never 
 above the sightline to the Downs and gives a little dappled cover from above. Set the pots out and
 check all of it from inside the tub before settling them — that is what movable pots are for.
 
+![Pot Group C — artist's impression, view from inside the hot tub](planting-plan-renders/pot-group-c.png)
+
 > **5 pots, deliberately low** so the east view to the Downs from the tub stays open, and deliberately **low-shedding** so nothing drops into the water. All evergreen and all aromatic or tactile when brushed. Movable, so they lift clear for the Phase-2 crane lift.
 
 > **Mulch and feeding:** no gravel needed — pots are top-dressed with home-made compost each spring. A thin gravel dressing is optional, purely for looks.
@@ -896,6 +924,8 @@ Four pots framing the lounge, low enough not to catch the north-east view: two p
 'Tom Thumb' domes, a silver *Convolvulus* and an 'Amethyst Lips' salvia that flowers from May to
 November. Being movable is the point — set them out and look from the dining table before you commit.
 
+![Pot Group D — artist's impression](planting-plan-renders/pot-group-d.png)
+
 > **4 pots** framing the lounge. Kept low-to-medium because this group sits between the dining deck and the lounge, near the north-east view corridor. The Phase-2 sofa parasol's mast lands just south of the sofas, among this group — set the pots out only after the mast is in, and keep the two 'Tom Thumb' larges clear of the canopy's furled drop zone. **Set them out and check the sightline from the dining table before settling them** — that is what movable pots are for.
 
 > **Mulch and feeding:** no gravel needed — pots are top-dressed with home-made compost each spring. A thin gravel dressing is optional, purely for looks.
@@ -919,6 +949,8 @@ Two low pans for the cat, beside the litter store where she already goes. Real c
 own pan because she will flatten it, and a tray of cat grass so the ornamental grasses survive. A cat
 can't reach into a full-height pot; pans sit at her level, and she will lie in them, which is the point.
 Crocus and cyclamen for us, threaded in the pans and around them.
+
+![Pot Group E — artist's impression](planting-plan-renders/pot-group-e.png)
 
 > **2 pots**, tucked beside the litter store where she already goes, each a low terracotta pan no more than ~15cm high. Nothing here is for us. The thyme she lies on is the N4 mat, an easy jump up — this group no longer needs its own thyme pot.
 
