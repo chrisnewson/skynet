@@ -29,7 +29,7 @@
 
 ---
 
-## 2. The idea
+## 1. The idea
 
 Three storeys above the seafront, on the roof of a Regency terrace, with the Channel on one side and the
 Downs on the other. Whatever goes up here has to survive salt wind from every direction — and it has to
