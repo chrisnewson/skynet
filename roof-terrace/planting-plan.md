@@ -47,6 +47,7 @@ of it is planted**, in timber planters built on top of the finished granite pavi
 | **Access** | **No vehicle access and no lift.** Everything arrives by rope haul up the scaffold or on a crane lift — see §13 |
 | **Soil** | Peat-free lightweight roof-garden mix — loam, perlite/vermiculite and compost over a drainage layer. Deliberately lean and sharply drained |
 | **Planter depth** | Mostly **600mm**; the SE L-shape (M2) is **1,000mm**; the lift-over-run bed (N4) is **400mm** |
+| **Edges** | Two floor levels and two edge types — **open steel railings** on the narrow terrace, **solid parapet** on the main terrace. Both drive the planting heights; see §2 |
 | **Water** | **Automatic drip irrigation on two zones**, installed as part of the works |
 | **Winter** | Mild and coastal — rarely below −3°C. **Wind desiccation and salt, not frost, are what kill here** |
 | **Heritage** | The terrace sits within the Kemp Town Enclosures. The palette deliberately echoes the Mediterranean / silver-grey / coastal sub-shrub character of Sussex Square's communal gardens, and the scheme forms part of a Listed Building Application with a biodiversity requirement |
@@ -79,10 +80,54 @@ Groups A and B carry a different palette — winter scent (*Sarcococca*, *Daphne
 cyclamen and hellebore, alongside the culinary herbs that prefer not to bake. It is the area you walk
 through every time you step out of the study door, so it is planned for scent and for picking.
 
+### Levels, parapets and railings — the numbers that set every height
+
+The terrace is not one level and not one edge condition, and both facts drive the heights in §5.
+
+| Where | Edge | Height above that area's FFL |
+|---|---|---|
+| **Narrow terrace — east and west** | **Open steel railings, no parapet.** Wind passes straight through | **1,100mm** |
+| **Narrow terrace — north end** | Solid parapet | **1,300mm** |
+| **Main terrace — south of the sauna's south wall** (dining deck, raised 300mm) | Solid parapet | **1,000mm** |
+| **Main terrace — north of the sauna's south wall** (lounge and hot tub, low level) | Solid parapet | **1,300mm** |
+
+*The parapet is a single continuous height in absolute terms — the 1,000 / 1,300mm difference is the
+300mm step up to the dining deck.*
+
+**Three consequences run through the whole scheme.**
+
+**1. Containment.** Parapet top minus planter height is how much of a shrub is held inboard before it
+starts leaning out over the drop:
+
+| Planter | Planter height | Edge | Held inboard |
+|---|---|---|---|
+| N1(E) | 500mm | open railings, 1,100mm | **500mm only** — above its own back panel, growth pushes *through* the bars |
+| N1(N) | 500mm | parapet 1,300mm | 800mm |
+| M2(E) / M2(S) — raised zone | 700mm | parapet 1,000mm | **300mm** |
+| M4 / M7 — low zone | 700 / 600mm | parapet 1,300mm | 600–700mm |
+
+**2. A spread rule, not just a height rule.** Because so little is contained, mature *width* matters as
+much as height: **no shrub wider than the planter depth plus about 300mm each side** — roughly 1.2m in
+the 600mm runs, 1.6m in the 1,000mm-deep M2. This is why *Escallonia* 'Apple Blossom' (1.5–2m wide) now
+appears **only in M2**, and why the 600mm runs carry *Myrtus* and the dwarf *Pittosporum* domes instead.
+
+**3. The narrow terrace has no low-level shelter at all.** Wind whistles straight through the railings
+below 1,100mm. On the main terrace a solid parapet gives you a metre of still air before the planting
+even begins; on the narrow terrace it does not. So N1(E)'s planting is not *supplementing* a windbreak —
+from ground level up, it **is** the windbreak. Growth pushing through the railing bars between 500mm and
+1,100mm is expected and welcome: it softens the railings and reads as green from outside.
+
+> **⚠️ Worth checking separately — not a planting matter.** The narrow-terrace railings measure
+> **1,100mm above the current FFL**, which is exactly the Approved Document K guarding height. The new
+> warm-roof build-up will raise that FFL slightly, and even 30mm takes the railings below 1,100mm.
+> Worth re-measuring once the build-up is set and confirming with Ronan and Building Control, since the
+> specification currently assumes no guarding top-up is needed.
+
 ### The constraint that shaped the shrub palette
 
-**Every planter's back face sits against a parapet.** You cannot reach round it, and anything clipped
-there would drop into the street or onto a neighbour below. Growth escaping over the parapet would also
+**No planter's back face can be reached.** On the main terrace it is against a solid parapet; on the
+narrow terrace it is against open railings with a drop beyond. Anything clipped there would fall into the
+street or onto a neighbour below. Growth escaping over the parapet would also
 foul the bird-deterrent wires and show in the Bristol Gardens view the planning officers flagged.
 
 So the shrub palette is built around **plants that hold their own shape**, not plants that are clipped
@@ -135,12 +180,14 @@ that is a deliberate client decision.
 
 **Two consequences worth being explicit about:**
 
-1. **M4 is no longer a windbreak.** At 1m it cannot shelter the lounge from the north-east. That shelter
-   now depends entirely on the **Phase-2 hot-tub glass** (2,000mm, north run) and on Store 4 in the
-   north-east corner. Until consent lands, the lounge will be exposed from that direction.
-2. **⚠️ We need the parapet height measured.** "Shrubs no taller than the parapet" in the north half of
-   M2(E) is currently designed as *no more than ~400mm above the 700mm planter rim*. Once the finished
-   tile level is set, the actual figure should be confirmed and the planting adjusted.
+1. **M4 still works as a windbreak.** Its cap is 1m **above the planter rim** — 1.7m above finished floor
+   level — so the west end carries real evergreen domes and gives the lounge meaningful shelter from the
+   north-east, while the east end drops to mats where the sauna's sightline is tightest.
+2. **M2(E) north — the exact shrub cap depends on which side of the sauna line it falls.** The rule is
+   *top out level with the parapet coping*: that is ~300mm above the planter rim in the raised zone
+   (1,000mm parapet) or ~600mm in the low zone (1,300mm parapet). The understorey is specified at
+   **≤500mm above the rim**, which suits the low zone and needs the back row dropping slightly if it
+   turns out to be the raised one. **Please confirm.**
 
 ---
 
@@ -164,11 +211,11 @@ at the north end. Planters labelled N1–N4 and M1 / M2 / M4 / M7.
 Quantities are what we'd like to order. They may be adjusted by ±10% on site against the actual run
 lengths — please price the totals in §11.
 
-### N1(E) — Narrow terrace — **east** parapet
+### N1(E) — Narrow terrace — **east** side
 
-*7.2m long × 600mm deep · 500mm high*
+*7.2m long × 600mm deep · 500mm high · **open steel railings, 1,100mm above FFL — no parapet***
 
-> The principal screen against being overlooked from the east, and the east wind defence for the narrow terrace. Every shrub here is a naturally self-limiting dome — nothing that needs clipping to stay in shape, because the back face against the parapet cannot be reached.
+> The principal screen against being overlooked from the east, and — because the east side has **open railings, not a parapet** — the *only* wind defence the narrow terrace has from that direction. Wind passes straight through the railings at low level, so this planting is the windbreak. Every shrub is a naturally self-limiting dome of no more than ~1.2m spread: nothing that needs clipping, and nothing that will cantilever far past the railing line.
 
 **Back row — windbreak, 0.8–1.0m centres**
 
@@ -176,9 +223,8 @@ lengths — please price the totals in §11.
 |---|---|---|
 | **1** | *Pittosporum tenuifolium* 'Silver Sheen' — Kohuhu |  20–30L · 1.75–2.0m · **crown-lifted** |
 | **2** | *Myrtus communis* subsp. *tarentina* — Compact myrtle |  5L |
-| **1** | *Pittosporum tenuifolium* 'Tom Thumb' — Purple dwarf kohuhu |  5L |
+| **2** | *Pittosporum tenuifolium* 'Tom Thumb' — Purple dwarf kohuhu |  5L |
 | **1** | *Pittosporum tenuifolium* 'Golf Ball' — Dwarf kohuhu |  5L |
-| **1** | *Escallonia* 'Apple Blossom' — Escallonia |  7.5L |
 | **1** | *Euphorbia characias* subsp. *wulfenii* — Mediterranean spurge |  3–5L |
 | **1** | *Brachyglottis* 'Sunshine' — Dunedin daisy bush |  3L |
 
@@ -221,9 +267,9 @@ lengths — please price the totals in §11.
 
 ### N1(N) — Narrow terrace — **north** leg of the L
 
-*1.8m long × 800mm deep · 500mm high*
+*1.8m long × 800mm deep · 500mm high · solid parapet 1,300mm above FFL*
 
-> The deepest planter on the narrow terrace, so it takes a full specimen. Marks the head of the L where the steps rise to the main terrace.
+> The deepest planter on the narrow terrace, so it takes a full specimen — and the solid 1,300mm parapet here gives 800mm of containment above the planter rim, more than anywhere else on the narrow terrace. Marks the head of the L where the steps rise to the main terrace.
 
 **Back row**
 
@@ -367,8 +413,8 @@ lengths — please price the totals in §11.
 | Qty | Plant | Supply size |
 |---|---|---|
 | **1** | *Pittosporum tenuifolium* 'Silver Sheen' — Kohuhu |  20–30L · 1.75–2.0m · **crown-lifted** |
-| **1** | *Escallonia* 'Apple Blossom' — Escallonia |  7.5L |
 | **1** | *Myrtus communis* subsp. *tarentina* — Compact myrtle |  5L |
+| **1** | *Pittosporum tenuifolium* 'Tom Thumb' — Purple dwarf kohuhu |  5L |
 | **1** | *Euphorbia characias* subsp. *wulfenii* — Mediterranean spurge |  3–5L |
 | **1** | *Brachyglottis* 'Sunshine' — Dunedin daisy bush |  3L |
 
@@ -433,7 +479,7 @@ lengths — please price the totals in §11.
 
 ### M2(E) — north half — Main terrace, east parapet — **north half (≈2.5m)**
 
-*1,000mm deep · 700mm high planter*
+*1,000mm deep · 700mm high planter · parapet 1,000–1,300mm above FFL — confirm which side of the sauna line this falls*
 
 > **The one place in the scheme that screens at high level and stays open at low level.** A pair of crown-lifted strawberry trees blocks the diagonal sightline from the neighbours' upper windows down into the hot tub, while everything beneath them is kept at or below parapet height so the view east and north-east to the Downs is untouched.
 
@@ -443,13 +489,14 @@ lengths — please price the totals in §11.
 |---|---|---|
 | **2** | *Arbutus unedo* — multi-stem, **crown-lifted** — Strawberry tree |  25–35L · 1.5–1.75m |
 
-**Low layer — nothing above parapet level**
+**Low layer — nothing above parapet top (≤500mm above the rim)**
 
 | Qty | Plant | Supply size |
 |---|---|---|
 | **2** | *Hebe* (*Veronica*) 'Rakaiensis' — Shrubby veronica |  2L |
 | **1** | *Santolina chamaecyparissus* — Cotton lavender |  2L |
 | **1** | *Convolvulus cneorum* — Silverbush |  2L |
+| **1** | *Lavandula angustifolia* 'Hidcote' — English lavender |  2L |
 | **2** | *Armeria maritima* — Sea thrift |  9cm–1L |
 | **1** | *Festuca glauca* 'Elijah Blue' — Blue fescue |  1L |
 | **1** | *Dianthus gratianopolitanus* — Cheddar pink |  1L |
@@ -466,7 +513,7 @@ lengths — please price the totals in §11.
 | **15** | *Narcissus* 'Tête-à-tête' — Dwarf daffodil | Feb–Mar, 15cm |
 | **10** | *Tulipa* 'Little Beauty' — Species tulip | Apr, 15cm, magenta with a blue eye |
 
-*M2(E) — north half total: **12 plants** + **70 bulbs***
+*M2(E) — north half total: **13 plants** + **70 bulbs***
 
 ### M2(E) — south half — Main terrace, east parapet — **south half (≈2.6m)**
 
@@ -478,15 +525,15 @@ lengths — please price the totals in §11.
 
 | Qty | Plant | Supply size |
 |---|---|---|
-| **1** | *Escallonia* 'Apple Blossom' — Escallonia |  7.5L |
+| **2** | *Escallonia* 'Apple Blossom' — Escallonia |  7.5L |
 | **1** | *Atriplex halimus* — Tree purslane |  3L |
-| **1** | *Euphorbia characias* subsp. *wulfenii* — Mediterranean spurge |  3–5L |
 
 **Mid row**
 
 | Qty | Plant | Supply size |
 |---|---|---|
 | **1** | *Myrtus communis* subsp. *tarentina* — Compact myrtle |  5L |
+| **1** | *Euphorbia characias* subsp. *wulfenii* — Mediterranean spurge |  3–5L |
 | **1** | *Cistus* × *purpureus* 'Alan Fradd' — Rock rose |  3L |
 | **1** | *Teucrium fruticans* 'Azureum' — Tree germander |  3L |
 | **1** | *Coronilla valentina* subsp. *glauca* 'Citrina' — Yellow coronilla |  3L |
@@ -521,7 +568,7 @@ lengths — please price the totals in §11.
 | **20** | *Crocus tommasinianus* — Early crocus | **Feb**, lilac |
 | **8** | *Nerine bowdenii* — Guernsey lily | **October**, pink |
 
-*M2(E) — south half total: **20 plants** + **183 bulbs***
+*M2(E) — south half total: **21 plants** + **183 bulbs***
 
 ### M2(S) — Main terrace — **south** return of the SE L
 
@@ -580,27 +627,26 @@ lengths — please price the totals in §11.
 
 ### M4 — Main terrace — **north** of the lounge seating
 
-*2.70m long × 600mm deep · 700mm high planter*
+*2.70m long × 600mm deep · 700mm high planter · parapet here is 1,300mm above FFL*
 
-> ⚠️ **Height-capped: 1m maximum above finished floor level, and lower still at the east end.** M4 sits squarely in the view of the Downs from the sauna, so it is planted as a low evergreen fringe only — nothing here grows more than ~300mm above the planter rim at the west end, tapering to ~150mm at the east. Everything is a self-contained mat or cushion; none of it is ever pruned.
+> **Height cap: 1m above the planter rim — 1.7m above finished floor level — and lower at the east end.** M4 sits in the view of the Downs from the sauna, so it is graded: domes to the full 1m at the west end, dropping to mats at the east end where the sightline is tightest. At 1.7m it still does useful work as a north / north-east windbreak for the lounge. Nothing in it is ever pruned.
 
-**West end — up to ~300mm above the rim**
+**West end — domes to ~1m above the rim**
+
+| Qty | Plant | Supply size |
+|---|---|---|
+| **1** | *Pittosporum tenuifolium* 'Tom Thumb' — Purple dwarf kohuhu |  5L |
+| **2** | *Hebe* (*Veronica*) 'Rakaiensis' — Shrubby veronica |  2L |
+| **1** | *Santolina chamaecyparissus* — Cotton lavender |  2L |
+
+**East end — tapering to mats, ~150–300mm**
 
 | Qty | Plant | Supply size |
 |---|---|---|
 | **2** | *Salvia rosmarinus* 'Prostratus' — Trailing rosemary |  2L |
 | **2** | *Armeria maritima* — Sea thrift |  9cm–1L |
-| **2** | *Festuca glauca* 'Elijah Blue' — Blue fescue |  1L |
-| **2** | *Iberis sempervirens* — Perennial candytuft |  1L |
-
-**East end — lower still, ~150mm**
-
-| Qty | Plant | Supply size |
-|---|---|---|
 | **2** | *Dianthus gratianopolitanus* — Cheddar pink |  1L |
-| **2** | *Thymus vulgaris* · *T.* 'Silver Posie' · *T. serpyllum* — Thyme — 3 forms |  9cm |
 | **2** | *Euphorbia myrsinites* — Myrtle spurge |  1L |
-| **1** | *Erigeron karvinskianus* — Mexican fleabane |  1L |
 
 **Bulbs — planted Oct–Nov, threaded between the plants**
 
@@ -612,7 +658,7 @@ lengths — please price the totals in §11.
 | **20** | *Narcissus* 'Tête-à-tête' — Dwarf daffodil | Feb–Mar, 15cm |
 | **15** | *Tulipa* 'Little Beauty' — Species tulip | Apr, 15cm, magenta with a blue eye |
 
-*M4 total: **15 plants** + **105 bulbs***
+*M4 total: **12 plants** + **105 bulbs***
 
 ### M7 — Main terrace — **west** of the hot tub, between tub and building
 
@@ -782,16 +828,16 @@ Images link through to the RHS entry for each plant.
 | | Plant | Total | Supply size | Season & interest | Goes in |
 |---|---|---|---|---|---|
 | <img src="plant-images/myrtus.png" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Myrtus%20communis%20subsp.%20tarentina) | ***Myrtus communis* subsp. *tarentina***<br>Compact myrtle | **5** | 5L | A naturally dense 1.2–1.5m dome that **needs no clipping at all**. Small glossy aromatic leaves, white scented flowers Jul–Sep, black berries for the birds. One of the best self-managing coastal evergreens there is | N1(E), N1(N), M1(W), M2(E) — south half |
-| <img src="plant-images/escallonia.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Escallonia%20%27Apple%20Blossom%27) | ***Escallonia* 'Apple Blossom'**<br>Escallonia | **3** | 7.5L | Shell-pink Jun–Sep. Grown here as an **informal 1.5–2m shrub, not a clipped hedge** — the most compact Escallonia, and it needs only an occasional reduction from the front | N1(E), M1(W), M2(E) — south half |
+| <img src="plant-images/escallonia.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Escallonia%20%27Apple%20Blossom%27) | ***Escallonia* 'Apple Blossom'**<br>Escallonia | **2** | 7.5L | Shell-pink Jun–Sep. Grown here as an **informal 1.5–2m shrub, not a clipped hedge** — the most compact Escallonia, and it needs only an occasional reduction from the front | M2(E) — south half |
 | <img src="plant-images/atriplex.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Atriplex%20halimus) | ***Atriplex halimus***<br>Tree purslane | **2** | 3L | The **brightest silver** of any hardy shrub; grows on shingle beaches. ⚠️ The one fast, lax plant in the scheme — **cut hard back every spring from the front**. Used only in the 1,000mm-deep M2 where there is room for it | M2(E) — south half, M2(S) |
 
 ### Layer 3 — Mediterranean mid-layer
 
 | | Plant | Total | Supply size | Season & interest | Goes in |
 |---|---|---|---|---|---|
+| <img src="plant-images/tomthumb.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Pittosporum%20tenuifolium%20%27Tom%20Thumb%27) | ***Pittosporum tenuifolium* 'Tom Thumb'**<br>Purple dwarf kohuhu | **6** | 5L | Naturally rounded 1m dome of **deep purple-bronze** foliage, no pruning ever. The foliage-colour contrast the scheme was missing, and it stays on the cool palette | N1(E), M1(W), M4, Group D |
 | <img src="plant-images/euphorbia.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Euphorbia%20characias%20subsp.%20wulfenii) | ***Euphorbia characias* subsp. *wulfenii***<br>Mediterranean spurge | **4** | 3–5L | **Feb–May** chartreuse bracts; evergreen architecture year-round. *Sap is an irritant — gloves* | N1(E), M1(W), M2(E) — south half, M2(S) |
 | <img src="plant-images/brachy.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Brachyglottis%20%27Sunshine%27) | ***Brachyglottis* 'Sunshine'**<br>Dunedin daisy bush | **3** | 3L | Silver felted evergreen; yellow daisies Jun–Jul (shear the buds off if unwanted) | N1(E), M1(W), M2(S) |
-| <img src="plant-images/tomthumb.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Pittosporum%20tenuifolium%20%27Tom%20Thumb%27) | ***Pittosporum tenuifolium* 'Tom Thumb'**<br>Purple dwarf kohuhu | **3** | 5L | Naturally rounded 1m dome of **deep purple-bronze** foliage, no pruning ever. The foliage-colour contrast the scheme was missing, and it stays on the cool palette | N1(E), Group D |
 | <img src="plant-images/pitto_silver.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Pittosporum%20tenuifolium%20%27Golf%20Ball%27) | ***Pittosporum tenuifolium* 'Golf Ball'**<br>Dwarf kohuhu | **2** | 5L | Naturally spherical evergreen, clipped to 60–80cm. The **repeating rhythm** that holds the scheme together in winter | N1(E), M1(N) |
 | <img src="plant-images/cistus.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Cistus%20%C3%97%20purpureus%20%27Alan%20Fradd%27) | ***Cistus* × *purpureus* 'Alan Fradd'**<br>Rock rose | **2** | 3L | **White with a maroon blotch**, Jun–Jul. Spectacular; short-lived (~10 yrs) | M2(E) — south half, M2(S) |
 | <img src="plant-images/teucrium.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Teucrium%20fruticans%20%27Azureum%27) | ***Teucrium fruticans* 'Azureum'**<br>Tree germander | **2** | 3L | **Silver-blue** evergreen foliage; deep blue flowers May–Sep | M2(E) — south half, M2(S) |
@@ -803,20 +849,19 @@ Images link through to the RHS entry for each plant.
 
 | | Plant | Total | Supply size | Season & interest | Goes in |
 |---|---|---|---|---|---|
-| <img src="plant-images/lavandula.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Lavandula%20angustifolia%20%27Hidcote%27) | ***Lavandula angustifolia* 'Hidcote'**<br>English lavender | **13** | 2L | Deep purple, Jun–Aug | N1(E), N2, N4, M1(W), M2(E) — south half, M7, Group C |
+| <img src="plant-images/lavandula.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Lavandula%20angustifolia%20%27Hidcote%27) | ***Lavandula angustifolia* 'Hidcote'**<br>English lavender | **14** | 2L | Deep purple, Jun–Aug | N1(E), N2, N4, M1(W), M2(E) — north half, M2(E) — south half, M7, Group C |
 | <img src="plant-images/stachys.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Stachys%20byzantina%20%27Big%20Ears%27) | ***Stachys byzantina* 'Big Ears'**<br>Lamb's ears | **11** | 1L | Silver felted mats year-round. Wool carder bees strip the leaf hairs to line their nests | N1(E), N1(N), M1(W), M1(N), M2(E) — south half, M2(S), M7 |
-| <img src="plant-images/erigeron.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Erigeron%20karvinskianus) | ***Erigeron karvinskianus***<br>Mexican fleabane | **10** | 1L | **Apr–Nov** — nine months of tiny white-to-pink daisies. Self-seeds into paving joints | N1(E), N1(N), M1(W), M1(N), M2(E) — south half, M2(S), M4, M7, Group D |
-| <img src="plant-images/festuca.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Festuca%20glauca%20%27Elijah%20Blue%27) | ***Festuca glauca* 'Elijah Blue'**<br>Blue fescue | **8** | 1L | Blue-grey evergreen tussock — texture at the front all year | N1(E), N1(N), N2, M2(E) — north half, M4 |
-| <img src="plant-images/hebe.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Hebe%20%28Veronica%29%20%27Rakaiensis%27) | ***Hebe* (*Veronica*) 'Rakaiensis'**<br>Shrubby veronica | **6** | 2L | Tight **bright-green** evergreen domes; white spikes Jun–Jul | N1(E), M1(W), M2(E) — north half, Group D |
+| <img src="plant-images/erigeron.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Erigeron%20karvinskianus) | ***Erigeron karvinskianus***<br>Mexican fleabane | **9** | 1L | **Apr–Nov** — nine months of tiny white-to-pink daisies. Self-seeds into paving joints | N1(E), N1(N), M1(W), M1(N), M2(E) — south half, M2(S), M7, Group D |
+| <img src="plant-images/hebe.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Hebe%20%28Veronica%29%20%27Rakaiensis%27) | ***Hebe* (*Veronica*) 'Rakaiensis'**<br>Shrubby veronica | **8** | 2L | Tight **bright-green** evergreen domes; white spikes Jun–Jul | N1(E), M1(W), M2(E) — north half, M4, Group D |
 | <img src="plant-images/armeria.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Armeria%20maritima) | ***Armeria maritima***<br>Sea thrift | **6** | 9cm–1L | **UK coastal native.** Pink pompoms Apr–Jun over evergreen cushions | N1(E), N1(N), M2(E) — north half, M4 |
+| <img src="plant-images/festuca.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Festuca%20glauca%20%27Elijah%20Blue%27) | ***Festuca glauca* 'Elijah Blue'**<br>Blue fescue | **6** | 1L | Blue-grey evergreen tussock — texture at the front all year | N1(E), N1(N), N2, M2(E) — north half |
 | <img src="plant-images/salvia_micro.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Salvia%20microphylla%20%27Amethyst%20Lips%27) | ***Salvia microphylla* 'Amethyst Lips'**<br>Shrubby sage | **5** | 2L | **May–Nov** purple-and-white; blackcurrant-scented leaves when brushed | N1(E), N4, M2(E) — south half, Group D |
 | <img src="plant-images/convolvulus.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Convolvulus%20cneorum) | ***Convolvulus cneorum***<br>Silverbush | **5** | 2L | The most metallic **silver** evergreen here; white trumpets May–Sep | M1(W), M2(E) — north half, M7, Group A, Group D |
+| <img src="plant-images/santolina.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Santolina%20chamaecyparissus) | ***Santolina chamaecyparissus***<br>Cotton lavender | **5** | 2L | Tight silver dome. Shear the buds in June if the yellow buttons jar | N4, M2(E) — north half, M4, Group C |
 | <img src="plant-images/dianthus.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Dianthus%20gratianopolitanus) | ***Dianthus gratianopolitanus***<br>Cheddar pink | **5** | 1L | **UK native.** Evergreen grey mats; **strongly clove-scented** May–Jul | N1(E), M2(E) — north half, M4, Group C |
 | <img src="plant-images/iris_ung.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Iris%20unguicularis) | ***Iris unguicularis***<br>Algerian iris | **5** | 1–2L | **Nov–March** lilac-blue, scented. Demands exactly this: poor, sharply drained soil with a hot dry summer bake | M2(E) — south half, M2(S) |
 | <img src="plant-images/nepeta.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Nepeta%20%C3%97%20faassenii%20%27Walker%27s%20Low%27) | ***Nepeta* × *faassenii* 'Walker's Low'**<br>Catmint | **4** | 1–2L | Blue haze Jun–Sep if sheared after the first flush | N1(E), M1(W), M1(N) |
-| <img src="plant-images/santolina.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Santolina%20chamaecyparissus) | ***Santolina chamaecyparissus***<br>Cotton lavender | **4** | 2L | Tight silver dome. Shear the buds in June if the yellow buttons jar | N4, M2(E) — north half, Group C |
 | <img src="plant-images/euph_myrs.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Euphorbia%20myrsinites) | ***Euphorbia myrsinites***<br>Myrtle spurge | **3** | 1L | Trailing blue-grey succulent whorls, only 15cm high, with chartreuse bracts Mar–May. Drapes over a rim and never needs cutting. *Sap is an irritant* | M2(E) — north half, M4 |
-| <img src="plant-images/iberis.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Iberis%20sempervirens) | ***Iberis sempervirens***<br>Perennial candytuft | **3** | 1L | Evergreen 25cm mat smothered in white Apr–Jun. Entirely self-contained | M2(E) — north half, M4 |
 | <img src="plant-images/rosemary.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Salvia%20rosmarinus%20%27Severn%20Sea%27) | ***Salvia rosmarinus* 'Severn Sea'**<br>Semi-prostrate rosemary | **3** | 2L | **Feb–May** vivid blue — flowers when almost nothing else does. Arches over the rim | N1(E), M7 |
 | <img src="plant-images/salvia_nem.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Salvia%20nemorosa%20%27Caradonna%27) | ***Salvia nemorosa* 'Caradonna'**<br>Balkan clary | **3** | 1–2L | Violet spikes on **black stems**, May–Jul — the sharpest contrast against silver foliage | N1(E), M1(W), M2(S) |
 | <img src="plant-images/lavandula.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Lavandula%20angustifolia%20%27Munstead%27) | ***Lavandula angustifolia* 'Munstead'**<br>English lavender | **2** | 2L | Softer lavender-blue, slightly earlier than 'Hidcote' | M1(W), Group A |
@@ -824,6 +869,7 @@ Images link through to the RHS entry for each plant.
 | <img src="plant-images/hylo.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Hylotelephium%20%27Matrona%27) | ***Hylotelephium* 'Matrona'**<br>Stonecrop / iceplant | **2** | 2L | **Aug–Oct** dusky pink on purple stems, then **seed heads standing all winter** | M1(W), M2(E) — south half |
 | <img src="plant-images/verbena.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Verbena%20bonariensis%20%27Lollipop%27) | ***Verbena bonariensis* 'Lollipop'**<br>Purpletop vervain | **2** | 1–2L | **Jul–Oct**. The **60cm form** — the 1.5m species snaps in a roof gale | N1(E), M2(S) |
 | <img src="plant-images/crithmum.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Crithmum%20maritimum) | ***Crithmum maritimum***<br>Rock samphire | **2** | 1L | **UK shingle-shore native**, found on the Sussex coast. Succulent blue-green; edible | N1(E), M2(S) |
+| <img src="plant-images/iberis.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Iberis%20sempervirens) | ***Iberis sempervirens***<br>Perennial candytuft | **1** | 1L | Evergreen 25cm mat smothered in white Apr–Jun. Entirely self-contained | M2(E) — north half |
 | <img src="plant-images/aster.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Aster%20%C3%97%20frikartii%20%27M%C3%B6nch%27) | ***Aster* × *frikartii* 'Mönch'**<br>Michaelmas daisy | **1** | 2L | **Aug–Oct** lavender-blue — critical late nectar for butterflies before hibernation | M2(E) — south half |
 | <img src="plant-images/yangii.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Salvia%20yangii%20%27Little%20Spire%27) | ***Salvia yangii* 'Little Spire'**<br>Russian sage | **1** | 2L | **Aug–Oct** blue haze on silver stems. The compact form — the species flops in wind | M2(S) |
 | <img src="plant-images/limonium.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Limonium%20platyphyllum) | ***Limonium platyphyllum***<br>Sea lavender | **1** | 1–2L | Lilac haze Jul–Sep that dries on the plant and holds into winter | M2(E) — south half |
@@ -833,7 +879,7 @@ Images link through to the RHS entry for each plant.
 
 | | Plant | Total | Supply size | Season & interest | Goes in |
 |---|---|---|---|---|---|
-| <img src="plant-images/thymus.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Thymus%20vulgaris) | ***Thymus vulgaris* · *T.* 'Silver Posie' · *T. serpyllum***<br>Thyme — 3 forms | **14** | 9cm | Evergreen culinary mats; bees swarm the flowers | N3, N4, M4, Group C |
+| <img src="plant-images/thymus.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Thymus%20vulgaris) | ***Thymus vulgaris* · *T.* 'Silver Posie' · *T. serpyllum***<br>Thyme — 3 forms | **12** | 9cm | Evergreen culinary mats; bees swarm the flowers | N3, N4, Group C |
 | <img src="plant-images/rosemary.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Salvia%20rosmarinus%20%27Prostratus%27) | ***Salvia rosmarinus* 'Prostratus'**<br>Trailing rosemary | **8** | 2L | Evergreen, culinary; trails over the planter edges | N4, M4, Group C |
 | <img src="plant-images/rosemary.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Salvia%20rosmarinus%20%27Miss%20Jessopp%27s%20Upright%27) | ***Salvia rosmarinus* 'Miss Jessopp's Upright'**<br>Upright rosemary | **4** | 2L | Evergreen, culinary; blue flowers Feb–May | N3, N4 |
 | <img src="plant-images/origanum.jpg" width="140"><br>[RHS →](https://www.rhs.org.uk/plants/search-results?query=Origanum%20%27Herrenhausen%27) | ***Origanum* 'Herrenhausen'**<br>Ornamental marjoram | **4** | 1L | Purple bracts Jul–Sep — one of the highest-rated butterfly plants there is | N3, N4 |
@@ -943,7 +989,7 @@ weight-neutral.)*
 
 ## 11. Schedule of quantities
 
-**205 plants and 1,700 bulbs / corms.** Supply sizes are what we think is right — please tell us if
+**204 plants and 1,700 bulbs / corms.** Supply sizes are what we think is right — please tell us if
 you'd supply differently.
 
 | Plant | Total | Supply size |
@@ -955,12 +1001,12 @@ you'd supply differently.
 | *Olea europaea* — Olive | **1** | 15–25L · 1.2–1.5m |
 | ***Layer 2 — Evergreen backbone (the permeable windbreak)*** | | |
 | *Myrtus communis* subsp. *tarentina* — Compact myrtle | **5** | 5L |
-| *Escallonia* 'Apple Blossom' — Escallonia | **3** | 7.5L |
+| *Escallonia* 'Apple Blossom' — Escallonia | **2** | 7.5L |
 | *Atriplex halimus* — Tree purslane | **2** | 3L |
 | ***Layer 3 — Mediterranean mid-layer*** | | |
+| *Pittosporum tenuifolium* 'Tom Thumb' — Purple dwarf kohuhu | **6** | 5L |
 | *Euphorbia characias* subsp. *wulfenii* — Mediterranean spurge | **4** | 3–5L |
 | *Brachyglottis* 'Sunshine' — Dunedin daisy bush | **3** | 3L |
-| *Pittosporum tenuifolium* 'Tom Thumb' — Purple dwarf kohuhu | **3** | 5L |
 | *Pittosporum tenuifolium* 'Golf Ball' — Dwarf kohuhu | **2** | 5L |
 | *Cistus* × *purpureus* 'Alan Fradd' — Rock rose | **2** | 3L |
 | *Teucrium fruticans* 'Azureum' — Tree germander | **2** | 3L |
@@ -968,20 +1014,19 @@ you'd supply differently.
 | *Phlomis fruticosa* — Jerusalem sage | **1** | 3L |
 | *Abelia* × *grandiflora* — Glossy abelia | **1** | 5L |
 | ***Layer 4 — Front ribbon: silver mats, aromatics and long-flowering perennials*** | | |
-| *Lavandula angustifolia* 'Hidcote' — English lavender | **13** | 2L |
+| *Lavandula angustifolia* 'Hidcote' — English lavender | **14** | 2L |
 | *Stachys byzantina* 'Big Ears' — Lamb's ears | **11** | 1L |
-| *Erigeron karvinskianus* — Mexican fleabane | **10** | 1L |
-| *Festuca glauca* 'Elijah Blue' — Blue fescue | **8** | 1L |
-| *Hebe* (*Veronica*) 'Rakaiensis' — Shrubby veronica | **6** | 2L |
+| *Erigeron karvinskianus* — Mexican fleabane | **9** | 1L |
+| *Hebe* (*Veronica*) 'Rakaiensis' — Shrubby veronica | **8** | 2L |
 | *Armeria maritima* — Sea thrift | **6** | 9cm–1L |
+| *Festuca glauca* 'Elijah Blue' — Blue fescue | **6** | 1L |
 | *Salvia microphylla* 'Amethyst Lips' — Shrubby sage | **5** | 2L |
 | *Convolvulus cneorum* — Silverbush | **5** | 2L |
+| *Santolina chamaecyparissus* — Cotton lavender | **5** | 2L |
 | *Dianthus gratianopolitanus* — Cheddar pink | **5** | 1L |
 | *Iris unguicularis* — Algerian iris | **5** | 1–2L |
 | *Nepeta* × *faassenii* 'Walker's Low' — Catmint | **4** | 1–2L |
-| *Santolina chamaecyparissus* — Cotton lavender | **4** | 2L |
 | *Euphorbia myrsinites* — Myrtle spurge | **3** | 1L |
-| *Iberis sempervirens* — Perennial candytuft | **3** | 1L |
 | *Salvia rosmarinus* 'Severn Sea' — Semi-prostrate rosemary | **3** | 2L |
 | *Salvia nemorosa* 'Caradonna' — Balkan clary | **3** | 1–2L |
 | *Lavandula angustifolia* 'Munstead' — English lavender | **2** | 2L |
@@ -989,12 +1034,13 @@ you'd supply differently.
 | *Hylotelephium* 'Matrona' — Stonecrop / iceplant | **2** | 2L |
 | *Verbena bonariensis* 'Lollipop' — Purpletop vervain | **2** | 1–2L |
 | *Crithmum maritimum* — Rock samphire | **2** | 1L |
+| *Iberis sempervirens* — Perennial candytuft | **1** | 1L |
 | *Aster* × *frikartii* 'Mönch' — Michaelmas daisy | **1** | 2L |
 | *Salvia yangii* 'Little Spire' — Russian sage | **1** | 2L |
 | *Limonium platyphyllum* — Sea lavender | **1** | 1–2L |
 | *Erysimum* 'Bowles's Mauve' — Perennial wallflower | **1** | 2L |
 | ***Layer 5 — Culinary herbs (N3, N4 and the pots)*** | | |
-| *Thymus vulgaris* · *T.* 'Silver Posie' · *T. serpyllum* — Thyme — 3 forms | **14** | 9cm |
+| *Thymus vulgaris* · *T.* 'Silver Posie' · *T. serpyllum* — Thyme — 3 forms | **12** | 9cm |
 | *Salvia rosmarinus* 'Prostratus' — Trailing rosemary | **8** | 2L |
 | *Salvia rosmarinus* 'Miss Jessopp's Upright' — Upright rosemary | **4** | 2L |
 | *Origanum* 'Herrenhausen' — Ornamental marjoram | **4** | 1L |
