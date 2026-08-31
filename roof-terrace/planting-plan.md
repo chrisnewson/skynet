@@ -1,6 +1,6 @@
 # Roof Terrace — Planting Plan
 
-**Flat 6, 22 Sussex Square, Brighton BN2 5AA** · Issued for nursery review — 30 August 2026 (rev B, after design review)
+**Flat 6, 22 Sussex Square, Brighton BN2 5AA** · Issued for nursery review — rev C, 31 August 2026 — final client review folded in
 
 > 📄 **[Download as PDF](https://raw.githubusercontent.com/chrisnewson/skynet/main/roof-terrace/planting-plan.pdf)** · 🔍 **[Interactive HTML version](https://chrisnewson.github.io/skynet/roof-terrace/planting-plan.html)** — hover any photo to see it full size; links open in new tabs
 
@@ -13,7 +13,7 @@
 > species won't do what we think it will in this exposure, if a supply size is wrong, or if you'd do
 > something better, we want to hear it. §18 collects the questions we'd most value your view on.
 >
-> **220 plants · 1,795 bulbs and corms · 22 pots · 26.4 m² of planter.**
+> **227 plants · 1,795 bulbs and corms · 25 pots · 26.4 m² of planter.**
 > Every plant is tagged with where it came from: **Sussex Square** (found growing in the communal gardens
 > here), **Springfield Road** (from the client's previous garden), or **New** (chosen for this site).
 
@@ -49,14 +49,14 @@ newly chosen for the site.
 **What it should feel like.** Not a roof garden of specimen pots. A silvered, low, wind-combed thing that
 looks as if it grew out of the shingle — the planting equivalent of the weathered timber and buff granite
 it sits in. Silver and grey-green foliage almost everywhere; flowers restricted to blue, purple and white,
-with yellow allowed only where a plant earns it (*Euphorbia*, *Phlomis*, *Coronilla*). Clipped evergreen
+with yellow allowed only where a plant earns it (*Phlomis*, *Coronilla*). Clipped evergreen
 domes repeat through it to hold the composition together in February, and everything else spills loosely
 between and over them.
 
 **What it should smell like.** This matters as much as how it looks. Rosemary and thyme at every edge, so
 walking anywhere releases something. Lavender through the middle of summer. Myrtle by the hot tub, which
-smells of nothing until you crush a leaf. The oleaster's tiny invisible flowers in late October, which
-scent that whole end of the terrace and which almost nobody can identify. And, in the sheltered corner by
+smells of nothing until you crush a leaf. The dwarf *Pittosporum tobira* domes carry a honey scent in
+early summer, and *Olearia*'s daisies take over through high summer. And, in the sheltered corner by
 the study door where the sun barely reaches in winter, *Sarcococca* and *Daphne odora* in January — the
 two most powerful winter scents there are, put deliberately where you brush past them on the way out in
 the dark.
@@ -66,11 +66,11 @@ the dark.
 | | |
 |---|---|
 | **December–January** | Bare and structural, and that is the test the scheme is built to pass. Clipped domes, silver mounds, standing seed heads. *Sarcococca* and *Daphne* scenting the study door. *Coronilla* already in pale lemon flower. *Iris unguicularis* opening lilac at the foot of the sunny east planter. The first snowdrops in the shaded pots |
-| **February–March** | The month everything starts. Four hundred crocus opening through the gravel, dwarf irises in deep blue, rosemary flowering blue along every edge, *Euphorbia wulfenii* throwing up acid-green heads. Daffodils, short ones that don't snap |
-| **April–May** | Species tulips — small, jewel-like, and they come back each year. *Muscari* in drifts. White 'Thalia' daffodils. Then the alliums: purple drumsticks standing on leafless stems through the wind, and magenta Byzantine gladiolus among them. *Cistus* opens white with a maroon blotch |
-| **June–July** | The full Mediterranean summer. Lavender and catmint everywhere, *Phlomis* in yellow whorls, sea holly in steel blue, *Hebe* spikes, thyme swarming with bees, blue oat grass moving in the wind |
-| **August–September** | Myrtle flowers white and scented; *Abelia* takes over the late nectar; *Salvia yangii* throws a blue haze over silver stems; *Hylotelephium* turns dusky pink. *Aster* carries the butterflies |
-| **October–November** | The oleaster's tiny hidden flowers scent the east side — the strongest and least identifiable perfume of the year. *Nerine* comes up pink out of bare gravel. Allium and *Eryngium* seed heads go silver and stay standing until February |
+| **February–March** | The month everything starts. Four hundred crocus opening through the gravel, dwarf irises in deep blue, rosemary flowering blue along every edge. Daffodils, short ones that don't snap |
+| **April–May** | Species tulips — small, jewel-like, and they come back each year. *Muscari* in drifts. Then the alliums: purple drumsticks standing on leafless stems through the wind, and magenta Byzantine gladiolus among them. *Cistus* opens white with a maroon blotch |
+| **June–July** | The full Mediterranean summer. Lavender and catmint everywhere, *Phlomis* in yellow whorls, sea holly in steel blue, *Hebe* spikes, thyme swarming with bees, blue oat grass moving in the wind. *Gaura* rides the wind on wiry stems, and opium poppies in deep purple self-sow through the gravel |
+| **August–September** | Myrtle flowers white and scented; *Abelia* and *Olearia* take over the late nectar; *Salvia yangii* throws a blue haze over silver stems; *Hylotelephium* turns dusky pink. *Aster* carries the butterflies |
+| **October–November** | Autumn crocus comes up violet-blue out of bare gravel, and ivy-leaved cyclamen flowers in the shade at N4's south edge. Allium and *Eryngium* seed heads go silver and stay standing until February |
 
 **And what it is designed *not* to do.** Not to block the Downs. Not to need clipping on a face nobody can
 reach. Not to drop its clippings on the neighbours. Not to generate more green waste than can be carried
@@ -84,7 +84,7 @@ than any aesthetic preference, and the sections that follow explain each one.
 ## 2. The site, its levels and its edges
 
 A new roof terrace of about 120 m², three storeys up on the Kemp Town seafront. Roughly **26.4 m²** is
-planted, in timber planters built on top of the finished granite paving, plus 22 pots.
+planted, in timber planters built on top of the finished granite paving, plus 25 pots.
 
 | Condition | What it means for the planting |
 |---|---|
@@ -165,10 +165,10 @@ should be no more than the planter depth plus a modest overhang.
 
 | Maintenance demand | Plants |
 |---|---|
-| **None — naturally self-limiting domes** | *Myrtus communis* subsp. *tarentina*, *Pittosporum* 'Golf Ball' and 'Tom Thumb', *Hebe* 'Rakaiensis', *Convolvulus cneorum*, *Cistus*, *Coronilla*, *Phillyrea angustifolia*, *Euphorbia myrsinites*, *Armeria*, *Dianthus*, *Festuca*, thymes |
-| **Light, from the front only** | *Euphorbia wulfenii* (cut spent stems at the base each June), *Phlomis* and *Santolina* (one shear after flowering), lavenders and *Nepeta* (shear, never into old wood), *Helictotrichon* (comb out dead leaves in spring), all perennials (cut at the base in February) |
-| **Occasional reduction, from the front** | *Escallonia* 'Apple Blossom' and *Abelia* — informal shrubs, reduced every second or third year, never sheared |
-| **⚠️ Annual work** | ***Atriplex halimus*** and ***Elaeagnus* × *ebbingei*** — reduced hard back every spring, once a year, from the front. And the two ***Pittosporum* 'Silver Sheen'** specimens — supplied **crown-lifted**, then tipped back annually from the front, always cutting *inward* |
+| **None — naturally self-limiting domes** | *Myrtus communis* subsp. *tarentina*, *Pittosporum* 'Golf Ball' and 'Tom Thumb', *Pittosporum tobira* 'Nanum', *Hebe* 'Rakaiensis', *Convolvulus cneorum*, *Cistus*, *Coronilla*, *Phillyrea angustifolia*, *Euphorbia myrsinites*, *Armeria*, *Dianthus*, *Festuca*, thymes |
+| **Light, from the front only** | *Phlomis* and *Santolina* (one shear after flowering), lavenders and *Nepeta* (shear, never into old wood), *Helictotrichon* (comb out dead leaves in spring), all perennials (cut at the base in February) |
+| **Occasional reduction, from the front** | *Escallonia* 'Apple Blossom', *Abelia* and *Olearia* × *haastii* — informal shrubs, reduced every second or third year, never sheared |
+| **⚠️ Annual work** | ***Atriplex halimus*** — reduced hard back every spring, once a year, from the front. And the two ***Pittosporum* 'Silver Sheen'** specimens — supplied **crown-lifted**, then tipped back annually from the front, always cutting *inward* |
 
 **When you do cut near a parapet:** work in still weather, and clip into a bag or over a groundsheet laid
 inside the planter. Never lean over the parapet. Anything that has escaped beyond the parapet line gets
@@ -260,7 +260,7 @@ seed heads stay standing until you cut them in February.
 | **1** | [<img src="plant-images/phillyrea.jpg" width="90" title="Phillyrea angustifolia — click to enlarge">](plant-images/phillyrea.jpg)<br>[*Phillyrea angustifolia*](https://www.rhs.org.uk/plants/24488/phillyrea-angustifolia/details) — Phillyrea<br><sub>New</sub> | 2.5–4m × 1.5–2.5m† | May–Jun | Glossy, self-shaping evergreen — the palette was missing it | 5L |
 | **2** | [<img src="plant-images/tomthumb.jpg" width="90" title="Pittosporum tenuifolium 'Tom Thumb' — click to enlarge">](plant-images/tomthumb.jpg)<br>[*Pittosporum tenuifolium* 'Tom Thumb'](https://www.rhs.org.uk/plants/77301/pittosporum-tenuifolium-tom-thumb/details) — Purple dwarf kohuhu<br><sub>Sussex Sq</sub> | 0.5–1m × 0.5–1m† | — | Naturally rounded purple-bronze dome, no pruning ever | 5L |
 | **1** | [<img src="plant-images/pitto_silver.jpg" width="90" title="Pittosporum tenuifolium 'Golf Ball' — click to enlarge">](plant-images/pitto_silver.jpg)<br>[*Pittosporum tenuifolium* 'Golf Ball'](https://www.rhs.org.uk/plants/246352/pittosporum-tenuifolium-golf-ball/details) — Dwarf kohuhu<br><sub>Sussex Sq</sub> | 0.5–1m × 0.5–1m† | — | Naturally spherical, clipped to 60–80cm; the repeating rhythm | 5L |
-| **1** | [<img src="plant-images/euphorbia.jpg" width="90" title="Euphorbia characias subsp. wulfenii — click to enlarge">](plant-images/euphorbia.jpg)<br>[*Euphorbia characias* subsp. *wulfenii*](https://www.rhs.org.uk/plants/99051/euphorbia-characias-subsp-wulfenii/details) — Mediterranean spurge<br><sub>Sussex Sq</sub> | 1–1.5m × 1–1.5m† | Feb–May | ⚠️ Evergreen architecture year-round; sap is an irritant | 3–5L |
+| **1** | [<img src="plant-images/tobira.jpg" width="90" title="Pittosporum tobira 'Nanum' — click to enlarge">](plant-images/tobira.jpg)<br>[*Pittosporum tobira* 'Nanum'](https://www.rhs.org.uk/plants/61258/pittosporum-tobira-nanum/details) — Dwarf Japanese pittosporum<br><sub>Sussex Sq</sub> | 0.6–1m × 0.6–1m† | May–Jun | Self-shaping glossy dome; honey-scented cream flowers | 3L |
 | **1** | [<img src="plant-images/brachy.jpg" width="90" title="Brachyglottis 'Sunshine' — click to enlarge">](plant-images/brachy.jpg)<br>[*Brachyglottis* 'Sunshine'](https://www.rhs.org.uk/plants/86133/brachyglottis-dunedin-group-sunshine/details) — Dunedin daisy bush<br><sub>Sussex Sq</sub> | 1–1.5m × 1–1.5m† | Jun–Jul | Silver felted evergreen daisy bush | 3L |
 
 **Front ribbon**
@@ -269,7 +269,7 @@ seed heads stay standing until you cut them in February.
 |---|:---:|---|---|---|---|
 | **5** | [<img src="plant-images/lavandula.jpg" width="90" title="Lavandula angustifolia 'Hidcote' — click to enlarge">](plant-images/lavandula.jpg)<br>[*Lavandula angustifolia* 'Hidcote'](https://www.rhs.org.uk/plants/96353/lavandula-angustifolia-hidcote/details) — English lavender<br><sub>Springfield Rd</sub> | 0.1–0.5m × 0.5–1m† | Jun–Aug | — | 2L |
 | **3** | [<img src="plant-images/nepeta.jpg" width="90" title="Nepeta × faassenii 'Walker's Low' — click to enlarge">](plant-images/nepeta.jpg)<br>[*Nepeta* × *faassenii* 'Walker's Low'](https://www.rhs.org.uk/plants/210480/nepeta-faassenii-walker-s-low/details) — Catmint<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.1–0.5m† | Jun–Sep | Shear after the first flush | 1–2L |
-| **3** | [<img src="plant-images/stachys.jpg" width="90" title="Stachys byzantina 'Big Ears' — click to enlarge">](plant-images/stachys.jpg)<br>[*Stachys byzantina* 'Big Ears'](https://www.rhs.org.uk/plants/83020/stachys-byzantina-big-ears/details) — Lamb's ears<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.5–1m† | Jun–Sep | Silver felted mats; wool carder bees strip the hairs | 1L |
+| **3** | [<img src="plant-images/santolina.jpg" width="90" title="Santolina chamaecyparissus — click to enlarge">](plant-images/santolina.jpg)<br>[*Santolina chamaecyparissus*](https://www.rhs.org.uk/plants/19856/santolina-chamaecyparissus-lavender-cotton-cotton-lavender/details) — Cotton lavender<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.5–1m† | Summer | Shear the buds in June if they jar | 2L |
 | **3** | [<img src="plant-images/rosemary.jpg" width="90" title="Salvia rosmarinus 'Severn Sea' — click to enlarge">](plant-images/rosemary.jpg)<br>[*Salvia rosmarinus* 'Severn Sea'](https://www.rhs.org.uk/plants/386349/salvia-rosmarinus-severn-sea-ro/details) — Semi-prostrate rosemary<br><sub>Sussex Sq</sub> | 0.5–1m × 0.5–1m† | Feb–May | Flowers when almost nothing else does | 2L |
 | **3** | [<img src="plant-images/helictotrichon.jpg" width="90" title="Helictotrichon sempervirens — click to enlarge">](plant-images/helictotrichon.jpg)<br>[*Helictotrichon sempervirens*](https://www.rhs.org.uk/plants/8555/helictotrichon-sempervirens/details) — Blue oat grass<br><sub>New</sub> | 1–1.5m × 0.5–1m† | Summer | The wind made visible; comb out dead leaves in spring | 2L |
 | **2** | [<img src="plant-images/erigeron.jpg" width="90" title="Erigeron karvinskianus — click to enlarge">](plant-images/erigeron.jpg)<br>[*Erigeron karvinskianus*](https://www.rhs.org.uk/plants/32487/erigeron-karvinskianus/details) — Mexican fleabane<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.5–1m† | Apr–Nov | Self-seeds into paving joints | 1L |
@@ -281,7 +281,7 @@ seed heads stay standing until you cut them in February.
 | **25** | [<img src="plant-images/allium_holl.jpg" width="60" title="Allium hollandicum 'Purple Sensation' — click to enlarge">](plant-images/allium_holl.jpg)<br>[*Allium hollandicum* 'Purple Sensation'](https://www.rhs.org.uk/plants/57088/allium-hollandicum-purple-sensation/details) — Ornamental onion | May, purple drumsticks |
 | **25** | [<img src="plant-images/allium_sphaero.png" width="60" title="Allium sphaerocephalon — click to enlarge">](plant-images/allium_sphaero.png)<br>[*Allium sphaerocephalon*](https://www.rhs.org.uk/plants/870/allium-sphaerocephalon-round-headed-leek-round-headed-garlic/details) — Drumstick allium | Jul, wine-purple |
 | **25** | [<img src="plant-images/narcissus.jpg" width="60" title="Narcissus 'Tête-à-tête' — click to enlarge">](plant-images/narcissus.jpg)<br>[*Narcissus* 'Tête-à-tête'](https://www.rhs.org.uk/plants/89723/narcissus-tete-a-tete-12/details) — Dwarf daffodil | Feb–Mar, 15cm |
-| **15** | [<img src="plant-images/narcissus.jpg" width="60" title="Narcissus 'Thalia' — click to enlarge">](plant-images/narcissus.jpg)<br>[*Narcissus* 'Thalia'](https://www.rhs.org.uk/plants/52833/narcissus-thalia-5/details) — Daffodil | Apr, pure white, 35cm |
+| **15** | [<img src="plant-images/narc_poet.jpg" width="60" title="Narcissus poeticus var. recurvus — click to enlarge">](plant-images/narc_poet.jpg)<br>[*Narcissus poeticus* var. *recurvus*](https://www.rhs.org.uk/plants/76534/i-narcissus-poeticus-i-var-i-recurvus-i-(13)/details) — Pheasant's eye | May, white with a red-rimmed eye |
 | **10** | [<img src="plant-images/narcissus.jpg" width="60" title="Narcissus 'Rijnveld's Early Sensation' — click to enlarge">](plant-images/narcissus.jpg)<br>[*Narcissus* 'Rijnveld's Early Sensation'](https://www.rhs.org.uk/plants/55821/narcissus-rijnvelds-early-sensation-1/details) — Daffodil | January |
 | **15** | [<img src="plant-images/tulipa_clus.jpg" width="60" title="Tulipa clusiana 'Lady Jane' — click to enlarge">](plant-images/tulipa_clus.jpg)<br>[*Tulipa clusiana* 'Lady Jane'](https://www.rhs.org.uk/plants/194056/tulipa-lady-jane-15/details) — Lady tulip | Apr, white / rose |
 | **15** | [<img src="plant-images/tulipa_sax.jpg" width="60" title="Tulipa saxatilis (Bakeri Gp) 'Lilac Wonder' — click to enlarge">](plant-images/tulipa_sax.jpg)<br>[*Tulipa saxatilis* (Bakeri Gp) 'Lilac Wonder'](https://www.rhs.org.uk/plants/67509/tulipa-saxatilis-bakeri-group-lilac-wonder-15/details) — Cretan tulip | Apr, lilac-pink, yellow eye |
@@ -299,7 +299,7 @@ seed heads stay standing until you cut them in February.
 
 The turn of the L, and the head of the steps up to the main terrace — so it works as a full stop
 rather than a run. One multi-stem **olive** does that job, with a myrtle beside it and sea thrift
-and blue fescue at its feet. The solid parapet behind gives it more shelter than anywhere else on this
+at its feet. The solid parapet behind gives it more shelter than anywhere else on this
 terrace, which is why the olive goes here rather than out on the exposed run.
 
 ![N1(N) — artist's impression](planting-plan-renders/n1n.png)
@@ -319,8 +319,7 @@ terrace, which is why the olive goes here rather than out on the exposed run.
 
 | Qty | Plant | Mature H × S | Flowers | Note | Supply |
 |---|:---:|---|---|---|---|
-| **3** | [<img src="plant-images/armeria.jpg" width="90" title="Armeria maritima — click to enlarge">](plant-images/armeria.jpg)<br>[*Armeria maritima*](https://www.rhs.org.uk/plants/1597/armeria-maritima/details) — Sea thrift<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Apr–Jun | UK coastal native; evergreen cushions | 9cm–1L |
-| **2** | [<img src="plant-images/festuca.jpg" width="90" title="Festuca glauca 'Elijah Blue' — click to enlarge">](plant-images/festuca.jpg)<br>[*Festuca glauca* 'Elijah Blue'](https://www.rhs.org.uk/plants/104179/festuca-glauca-elijah-blue/details) — Blue fescue<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.1–0.5m† | Late spring–summer | Blue-grey evergreen tussock; texture all year | 1L |
+| **5** | [<img src="plant-images/armeria.jpg" width="90" title="Armeria maritima — click to enlarge">](plant-images/armeria.jpg)<br>[*Armeria maritima*](https://www.rhs.org.uk/plants/1597/armeria-maritima/details) — Sea thrift<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Apr–Jun | UK coastal native; evergreen cushions | 9cm–1L |
 
 **Bulbs — planted Oct–Nov, threaded between the plants**
 
@@ -339,8 +338,8 @@ terrace, which is why the olive goes here rather than out on the exposed run.
 *1.2 × 1.2m · 500mm high · built integral with N1*
 
 A punctuation mark in the middle of the east run: one bronze **Phormium** throwing hard vertical
-sword-leaves out of a soft cushion of lavender and blue fescue. It exists to stop seven metres of planting
-reading as a hedge. In autumn the stonecrop and a few *Nerine* keep it going after the lavender is over.
+sword-leaves out of a soft cushion of lavender and cheddar pinks. It exists to stop seven metres of planting
+reading as a hedge. In autumn the stonecrop and a few autumn crocus keep it going after the lavender is over.
 
 ![N2 — artist's impression](planting-plan-renders/n2.png)
 
@@ -354,7 +353,7 @@ reading as a hedge. In autumn the stonecrop and a few *Nerine* keep it going aft
 |---|:---:|---|---|---|---|
 | **1** | [<img src="plant-images/phormium.jpg" width="90" title="Phormium 'Bronze Baby' — click to enlarge">](plant-images/phormium.jpg)<br>[*Phormium* 'Bronze Baby'](https://www.rhs.org.uk/plants/92561/phormium-bronze-baby/details) — Bronze New Zealand flax<br><sub>Sussex Sq</sub> | 0.5–1m × 0.5–1m† | Summer (rare) | Compact bronze sword foliage — bullet-proof in salt wind | 5L |
 | **4** | [<img src="plant-images/lavandula.jpg" width="90" title="Lavandula angustifolia 'Hidcote' — click to enlarge">](plant-images/lavandula.jpg)<br>[*Lavandula angustifolia* 'Hidcote'](https://www.rhs.org.uk/plants/96353/lavandula-angustifolia-hidcote/details) — English lavender<br><sub>Springfield Rd</sub> | 0.1–0.5m × 0.5–1m† | Jun–Aug | — | 2L |
-| **2** | [<img src="plant-images/festuca.jpg" width="90" title="Festuca glauca 'Elijah Blue' — click to enlarge">](plant-images/festuca.jpg)<br>[*Festuca glauca* 'Elijah Blue'](https://www.rhs.org.uk/plants/104179/festuca-glauca-elijah-blue/details) — Blue fescue<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.1–0.5m† | Late spring–summer | Blue-grey evergreen tussock; texture all year | 1L |
+| **2** | [<img src="plant-images/dianthus.jpg" width="90" title="Dianthus gratianopolitanus — click to enlarge">](plant-images/dianthus.jpg)<br>[*Dianthus gratianopolitanus*](https://www.rhs.org.uk/plants/5722/dianthus-gratianopolitanus/details) — Cheddar pink<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | May–Jul | UK native; strongly clove-scented evergreen mats | 1L |
 | **1** | [<img src="plant-images/hylo.jpg" width="90" title="Hylotelephium 'Matrona' — click to enlarge">](plant-images/hylo.jpg)<br>[*Hylotelephium* 'Matrona'](https://www.rhs.org.uk/plants/356925/hylotelephium-matrona/details) — Stonecrop / iceplant<br><sub>Sussex Sq</sub> | 0.5–1m × 0.1–0.5m† | Aug–Oct | Seed heads stand all winter | 2L |
 
 **Bulbs — planted Oct–Nov, threaded between the plants**
@@ -366,7 +365,7 @@ reading as a hedge. In autumn the stonecrop and a few *Nerine* keep it going aft
 | **15** | [<img src="plant-images/iris_ret.jpg" width="60" title="Iris reticulata 'Harmony' + 'Katharine Hodgkin' — click to enlarge">](plant-images/iris_ret.jpg)<br>[*Iris reticulata* 'Harmony' + 'Katharine Hodgkin'](https://www.rhs.org.uk/plants/9343/iris-reticulata-harmony/details) — Dwarf iris | Feb, deep and pale blue |
 | **10** | [<img src="plant-images/tulipa_clus.jpg" width="60" title="Tulipa 'Little Beauty' — click to enlarge">](plant-images/tulipa_clus.jpg)<br>[*Tulipa* 'Little Beauty'](https://www.rhs.org.uk/plants/155507/tulipa-little-beauty-15/details) — Species tulip | Apr, 15cm, magenta with a blue eye |
 | **10** | [<img src="plant-images/narcissus.jpg" width="60" title="Narcissus 'Tête-à-tête' — click to enlarge">](plant-images/narcissus.jpg)<br>[*Narcissus* 'Tête-à-tête'](https://www.rhs.org.uk/plants/89723/narcissus-tete-a-tete-12/details) — Dwarf daffodil | Feb–Mar, 15cm |
-| **6** | [<img src="plant-images/nerine.jpg" width="60" title="Nerine bowdenii — click to enlarge">](plant-images/nerine.jpg)<br>[*Nerine bowdenii*](https://www.rhs.org.uk/plants/11514/nerine-bowdenii/details) — Guernsey lily | October, pink |
+| **6** | [<img src="plant-images/crocus_speciosus.jpg" width="60" title="Crocus speciosus — click to enlarge">](plant-images/crocus_speciosus.jpg)<br>[*Crocus speciosus*](https://www.rhs.org.uk/plants/4941/crocus-speciosus/details) — Autumn crocus | Oct, violet-blue |
 
 *N2 total: **8 plants** + **66 bulbs***
 
@@ -390,7 +389,7 @@ cut something for dinner in January.
 | Qty | Plant | Mature H × S | Flowers | Note | Supply |
 |---|:---:|---|---|---|---|
 | **2** | [<img src="plant-images/rosemary.jpg" width="90" title="Salvia rosmarinus 'Miss Jessopp's Upright' — click to enlarge">](plant-images/rosemary.jpg)<br>[*Salvia rosmarinus* 'Miss Jessopp's Upright'](https://www.rhs.org.uk/plants/384683/salvia-rosmarinus-miss-jessopps-upright-ro/details) — Upright rosemary<br><sub>Sussex Sq</sub> | 1.5–2.5m × 1–1.5m† | Feb–May | Evergreen, culinary | 2L |
-| **4** | [<img src="plant-images/thymus.jpg" width="90" title="Thymus vulgaris · T. 'Silver Posie' · T. serpyllum — click to enlarge">](plant-images/thymus.jpg)<br>[*Thymus vulgaris* · *T.* 'Silver Posie' · *T. serpyllum*](https://www.rhs.org.uk/plants/18213/thymus-vulgaris/details) — Thyme — 3 forms<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Early summer | Evergreen culinary mats; bees swarm the flowers | 9cm |
+| **4** | [<img src="plant-images/thymus.jpg" width="90" title="Thymus vulgaris · T. 'Purple Beauty' · T. serpyllum — click to enlarge">](plant-images/thymus.jpg)<br>[*Thymus vulgaris* · *T.* 'Purple Beauty' · *T. serpyllum*](https://www.rhs.org.uk/plants/18213/thymus-vulgaris/details) — Thyme — 3 forms<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Early summer | Evergreen culinary mats; bees swarm the flowers | 9cm |
 | **2** | [<img src="plant-images/origanum.jpg" width="90" title="Origanum 'Herrenhausen' — click to enlarge">](plant-images/origanum.jpg)<br>[*Origanum* 'Herrenhausen'](https://www.rhs.org.uk/plants/41793/origanum-herrenhausen/details) — Ornamental marjoram<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Jul–Sep | One of the highest-rated butterfly plants there is | 1L |
 | **2** | [<img src="plant-images/sage.jpg" width="90" title="Salvia officinalis 'Purpurascens' — click to enlarge">](plant-images/sage.jpg)<br>[*Salvia officinalis* 'Purpurascens'](https://www.rhs.org.uk/plants/153600/salvia-officinalis-purpurascens/details) — Purple sage<br><sub>New</sub> | 0.5–1m × 0.5–1m† | Summer | Culinary; purple foliage sits on the cool palette | 2L |
 
@@ -411,10 +410,11 @@ cut something for dinner in January.
 
 You brush past this every single time you go out, so it is built for scent above everything. A low
 aromatic mound on top of the lift over-run — prostrate rosemary trailing over all four edges, thyme,
-lavender, savory, tarragon, sage — with the sun-lovers on the north and east where the light is, and the
-south edge, in the permanent lee of the flat wall, given over to a different palette entirely:
-**Sarcococca** and a hellebore, with snowdrops and cyclamen threaded underneath. In January that shaded
-band is the best-smelling square metre on the terrace. In July the whole thing hums.
+lavender, savory, tarragon, sage, alpine strawberries for picking — with the sun-lovers on the north and
+east where the light is, and the south edge, in the permanent lee of the flat wall, given over to a
+different palette entirely: **Sarcococca** and a hellebore, with snowdrops and cyclamen threaded
+underneath. In January that shaded band is the best-smelling square metre on the terrace. In July the
+whole thing hums, and there are strawberries to pick.
 
 ![N4 — artist's impression](planting-plan-renders/n4.png)
 
@@ -428,9 +428,8 @@ band is the best-smelling square metre on the terrace. In July the whole thing h
 |---|:---:|---|---|---|---|
 | **1** | [<img src="plant-images/sarcococca.jpg" width="90" title="Sarcococca hookeriana var. humilis — click to enlarge">](plant-images/sarcococca.jpg)<br>[*Sarcococca hookeriana* var. *humilis*](https://www.rhs.org.uk/plants/96875/sarcococca-hookeriana-var-humilis/details) — Sweet box / Christmas box<br><sub>Sussex Sq · Springfield Rd</sub> | 0.5–1m × 0.5–1m† | Winter | The most powerful winter scent of any hardy shrub | 3L |
 | **1** | [<img src="plant-images/hellebore.jpg" width="90" title="Helleborus argutifolius — click to enlarge">](plant-images/hellebore.jpg)<br>[*Helleborus argutifolius*](https://www.rhs.org.uk/plants/8565/helleborus-argutifolius/details) — Corsican hellebore<br><sub>Sussex Sq</sub> | 0.5–1m × 0.5–1m† | Feb–Apr | Early nectar for waking bumblebees | 2L |
-| **2** | [<img src="plant-images/chives.jpg" width="90" title="Allium schoenoprasum — click to enlarge">](plant-images/chives.jpg)<br>[*Allium schoenoprasum*](https://www.rhs.org.uk/plants/859/allium-schoenoprasum-chives-cive/details) — Chives<br><sub>New</sub> | 0.1–0.5m × 0–0.1m† | Jun | Culinary; a genuine bee magnet | 1L |
+| **3** | [<img src="plant-images/chives.jpg" width="90" title="Allium schoenoprasum — click to enlarge">](plant-images/chives.jpg)<br>[*Allium schoenoprasum*](https://www.rhs.org.uk/plants/859/allium-schoenoprasum-chives-cive/details) — Chives<br><sub>New</sub> | 0.1–0.5m × 0–0.1m† | Jun | Culinary; a genuine bee magnet | 1L |
 | **2** | [<img src="plant-images/origanum.jpg" width="90" title="Origanum vulgare — click to enlarge">](plant-images/origanum.jpg)<br>[*Origanum vulgare*](https://www.rhs.org.uk/plants/11923/origanum-vulgare/details) — Wild marjoram / oregano<br><sub>Sussex Sq</sub> | 0.5–1m × 0.5–1m† | Jul–Sep | UK native; the cooking oregano | 1L |
-| **1** | [<img src="plant-images/sorrel.jpg" width="90" title="Rumex acetosa — click to enlarge">](plant-images/sorrel.jpg)<br>[*Rumex acetosa*](https://www.rhs.org.uk/plants/41751/rumex-acetosa/details) — Common sorrel<br><sub>New</sub> | 0.5–1m × 0.1–0.5m† | Early summer | Hardy perennial salad leaf, sharp and lemony | 1L |
 
 **North + east edges and body — most direct sun**
 
@@ -441,11 +440,12 @@ band is the best-smelling square metre on the terrace. In July the whole thing h
 | **3** | [<img src="plant-images/lavandula.jpg" width="90" title="Lavandula angustifolia 'Hidcote' — click to enlarge">](plant-images/lavandula.jpg)<br>[*Lavandula angustifolia* 'Hidcote'](https://www.rhs.org.uk/plants/96353/lavandula-angustifolia-hidcote/details) — English lavender<br><sub>Springfield Rd</sub> | 0.1–0.5m × 0.5–1m† | Jun–Aug | — | 2L |
 | **2** | [<img src="plant-images/santolina.jpg" width="90" title="Santolina chamaecyparissus — click to enlarge">](plant-images/santolina.jpg)<br>[*Santolina chamaecyparissus*](https://www.rhs.org.uk/plants/19856/santolina-chamaecyparissus-lavender-cotton-cotton-lavender/details) — Cotton lavender<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.5–1m† | Summer | Shear the buds in June if they jar | 2L |
 | **2** | [<img src="plant-images/salvia_micro.jpg" width="90" title="Salvia microphylla 'Amethyst Lips' — click to enlarge">](plant-images/salvia_micro.jpg)<br>[*Salvia microphylla* 'Amethyst Lips'](https://www.rhs.org.uk/plants/374047/salvia-amethyst-lips-dyspurp/details) — Shrubby sage<br><sub>Sussex Sq</sub> | 0.5–1m × 0.5–1m† | Jun–Oct | Blackcurrant-scented leaves when brushed | 2L |
-| **6** | [<img src="plant-images/thymus.jpg" width="90" title="Thymus vulgaris · T. 'Silver Posie' · T. serpyllum — click to enlarge">](plant-images/thymus.jpg)<br>[*Thymus vulgaris* · *T.* 'Silver Posie' · *T. serpyllum*](https://www.rhs.org.uk/plants/18213/thymus-vulgaris/details) — Thyme — 3 forms<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Early summer | Evergreen culinary mats; bees swarm the flowers | 9cm |
+| **6** | [<img src="plant-images/thymus.jpg" width="90" title="Thymus vulgaris · T. 'Purple Beauty' · T. serpyllum — click to enlarge">](plant-images/thymus.jpg)<br>[*Thymus vulgaris* · *T.* 'Purple Beauty' · *T. serpyllum*](https://www.rhs.org.uk/plants/18213/thymus-vulgaris/details) — Thyme — 3 forms<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Early summer | Evergreen culinary mats; bees swarm the flowers | 9cm |
 | **2** | [<img src="plant-images/origanum.jpg" width="90" title="Origanum 'Herrenhausen' — click to enlarge">](plant-images/origanum.jpg)<br>[*Origanum* 'Herrenhausen'](https://www.rhs.org.uk/plants/41793/origanum-herrenhausen/details) — Ornamental marjoram<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Jul–Sep | One of the highest-rated butterfly plants there is | 1L |
 | **2** | [<img src="plant-images/sage.jpg" width="90" title="Salvia officinalis — click to enlarge">](plant-images/sage.jpg)<br>[*Salvia officinalis*](https://www.rhs.org.uk/plants/16356/salvia-officinalis/details) — Common sage<br><sub>New</sub> | 0.5–1m × 0.5–1m† | Early summer | Evergreen grey-green; the cooking sage | 2L |
 | **2** | [<img src="plant-images/savory.jpg" width="90" title="Satureja montana — click to enlarge">](plant-images/savory.jpg)<br>[*Satureja montana*](https://www.rhs.org.uk/plants/16484/satureja-montana/details) — Winter savory<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Summer | Evergreen; pepperiness for beans and stews | 1L |
 | **2** | [<img src="plant-images/tarragon.jpg" width="90" title="Artemisia dracunculus — click to enlarge">](plant-images/tarragon.jpg)<br>[*Artemisia dracunculus*](https://www.rhs.org.uk/plants/1632/artemisia-dracunculus/details) — French tarragon<br><sub>New</sub> | 0.5–1m × 0.1–0.5m† | Late summer | ⚠️ Must be French, not Russian — near-flavourless otherwise | 1L |
+| **5** | [<img src="plant-images/fragaria.jpg" width="90" title="Fragaria vesca — click to enlarge">](plant-images/fragaria.jpg)<br>[*Fragaria vesca*](https://www.rhs.org.uk/plants/7280/fragaria-vesca-f/details) — Alpine strawberry<br><sub>New</sub> | 0.1–0.3m × 0.3m† | Apr–Jun (fruit Jun–Oct) | Picking fruit for the terrace; tolerates the lean mix | 9cm |
 
 **Bulbs — planted Oct–Nov, threaded between the plants**
 
@@ -464,21 +464,21 @@ band is the best-smelling square metre on the terrace. In July the whole thing h
 | **15** | [<img src="plant-images/cyclamen_coum.jpg" width="60" title="Cyclamen coum — click to enlarge">](plant-images/cyclamen_coum.jpg)<br>[*Cyclamen coum*](https://www.rhs.org.uk/plants/5135/cyclamen-coum/details) — Eastern cyclamen | Jan–Mar, pink / white |
 | **10** | [<img src="plant-images/cyclamen_hed.jpg" width="60" title="Cyclamen hederifolium — click to enlarge">](plant-images/cyclamen_hed.jpg)<br>[*Cyclamen hederifolium*](https://www.rhs.org.uk/plants/5145/cyclamen-hederifolium/details) — Ivy-leaved cyclamen | Sept–Nov, pink / white |
 
-*N4 total: **35 plants** + **295 bulbs***
+*N4 total: **40 plants** + **295 bulbs***
 ### M1(W) — Main terrace — **west** edge of the raised dining deck (FA2)
 
 *≈4.5m long × 600mm deep · 500mm high, on the +300mm raised deck*
 
 The wall behind the dining table, and the south-westerly gale flank — the hardest-working
 planting on the terrace. A **Silver Sheen** pittosporum furnished to the ground, a myrtle, a purple
-'Tom Thumb' dome and a *Brachyglottis*, with *Euphorbia wulfenii* throwing acid-green heads up through
-them from February. In front, at table height: lavender, catmint, dark-stemmed **'Caradonna'** salvia
-and silver lamb's ears. Alliums and white 'Thalia' daffodils come through it in spring; *Hylotelephium*
+'Tom Thumb' dome, a *Brachyglottis* and a *Cistus* opening white-with-a-maroon-blotch in June. In front,
+at table height: lavender, catmint, dark-stemmed **'Caradonna'** salvia and gaura riding the wind on wiry
+stems. Alliums and pheasant's-eye narcissus come through it in spring; *Hylotelephium*
 holds the autumn.
 
 ![M1(W) — artist's impression](planting-plan-renders/m1w.png)
 
-> **Why it is planted this way.** The south-westerly gale flank and the neighbour side — the hardest-working windbreak on the main terrace, and what you look at from the dining table. It sits **behind** you when you look north-east, so height here does not compete with the Downs view. The Phase-2 dining parasol's mast lands mid-run, just east of this planter. So the two tall backbone plants — the 'Silver Sheen' and the myrtle — go at the SOUTH end of the run, and nothing taller than the front ribbon is planted within about 1.5m either side of the mast station, keeping the canopy's opening sweep and its furled drop zone clear. The *Euphorbia* and the 'Tom Thumb' dome take the north end.
+> **Why it is planted this way.** The south-westerly gale flank and the neighbour side — the hardest-working windbreak on the main terrace, and what you look at from the dining table. It sits **behind** you when you look north-east, so height here does not compete with the Downs view. The Phase-2 dining parasol's mast lands mid-run, just east of this planter. So the two tall backbone plants — the 'Silver Sheen' and the myrtle — go at the SOUTH end of the run, and nothing taller than the front ribbon is planted within about 1.5m either side of the mast station, keeping the canopy's opening sweep and its furled drop zone clear. The *Cistus* and the 'Tom Thumb' dome take the north end.
 
 > **Mulch and feeding:** 10mm gravel collar, ~300mm ring. Slow-release granular feed each April; **no compost** — see §12.
 
@@ -489,7 +489,7 @@ holds the autumn.
 | **1** | [<img src="plant-images/pitto_silver.jpg" width="90" title="Pittosporum tenuifolium 'Silver Sheen' — click to enlarge">](plant-images/pitto_silver.jpg)<br>[*Pittosporum tenuifolium* 'Silver Sheen'](https://www.rhs.org.uk/plants/53823/pittosporum-tenuifolium-silver-sheen-m/details) — Kohuhu<br><sub>Springfield Rd</sub> | 4–8m × 2.5–4m† | May–Jun | Fine silver-green; filters wind — furnished to the base | 20–30L · 1.75–2.0m · furnished to the base |
 | **1** | [<img src="plant-images/myrtus.png" width="90" title="Myrtus communis subsp. tarentina — click to enlarge">](plant-images/myrtus.png)<br>[*Myrtus communis* subsp. *tarentina*](https://www.rhs.org.uk/plants/59207/myrtus-communis-subsp-tarentina/details) — Compact myrtle<br><sub>New</sub> | 1–1.5m × 1–1.5m† | Jul–Sep | Naturally dense dome; needs no clipping at all | 5L |
 | **1** | [<img src="plant-images/tomthumb.jpg" width="90" title="Pittosporum tenuifolium 'Tom Thumb' — click to enlarge">](plant-images/tomthumb.jpg)<br>[*Pittosporum tenuifolium* 'Tom Thumb'](https://www.rhs.org.uk/plants/77301/pittosporum-tenuifolium-tom-thumb/details) — Purple dwarf kohuhu<br><sub>Sussex Sq</sub> | 0.5–1m × 0.5–1m† | — | Naturally rounded purple-bronze dome, no pruning ever | 5L |
-| **1** | [<img src="plant-images/euphorbia.jpg" width="90" title="Euphorbia characias subsp. wulfenii — click to enlarge">](plant-images/euphorbia.jpg)<br>[*Euphorbia characias* subsp. *wulfenii*](https://www.rhs.org.uk/plants/99051/euphorbia-characias-subsp-wulfenii/details) — Mediterranean spurge<br><sub>Sussex Sq</sub> | 1–1.5m × 1–1.5m† | Feb–May | ⚠️ Evergreen architecture year-round; sap is an irritant | 3–5L |
+| **1** | [<img src="plant-images/cistus.jpg" width="90" title="Cistus × purpureus 'Alan Fradd' — click to enlarge">](plant-images/cistus.jpg)<br>[*Cistus* × *purpureus* 'Alan Fradd'](https://www.rhs.org.uk/plants/91672/cistus-purpureus-alan-fradd/details) — Rock rose<br><sub>Springfield Rd</sub> | 0.5–1m × 0.5–1m† | Jun–Jul | Spectacular; short-lived, around ten years | 3L |
 | **1** | [<img src="plant-images/brachy.jpg" width="90" title="Brachyglottis 'Sunshine' — click to enlarge">](plant-images/brachy.jpg)<br>[*Brachyglottis* 'Sunshine'](https://www.rhs.org.uk/plants/86133/brachyglottis-dunedin-group-sunshine/details) — Dunedin daisy bush<br><sub>Sussex Sq</sub> | 1–1.5m × 1–1.5m† | Jun–Jul | Silver felted evergreen daisy bush | 3L |
 
 **Front ribbon**
@@ -499,7 +499,7 @@ holds the autumn.
 | **3** | [<img src="plant-images/lavandula.jpg" width="90" title="Lavandula angustifolia 'Hidcote' — click to enlarge">](plant-images/lavandula.jpg)<br>[*Lavandula angustifolia* 'Hidcote'](https://www.rhs.org.uk/plants/96353/lavandula-angustifolia-hidcote/details) — English lavender<br><sub>Springfield Rd</sub> | 0.1–0.5m × 0.5–1m† | Jun–Aug | — | 2L |
 | **3** | [<img src="plant-images/nepeta.jpg" width="90" title="Nepeta × faassenii 'Walker's Low' — click to enlarge">](plant-images/nepeta.jpg)<br>[*Nepeta* × *faassenii* 'Walker's Low'](https://www.rhs.org.uk/plants/210480/nepeta-faassenii-walker-s-low/details) — Catmint<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.1–0.5m† | Jun–Sep | Shear after the first flush | 1–2L |
 | **3** | [<img src="plant-images/salvia_nem.jpg" width="90" title="Salvia nemorosa 'Caradonna' — click to enlarge">](plant-images/salvia_nem.jpg)<br>[*Salvia nemorosa* 'Caradonna'](https://www.rhs.org.uk/plants/194596/salvia-nemorosa-caradonna/details) — Balkan clary<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.1–0.5m† | May–Jul | The sharpest contrast against silver foliage | 1–2L |
-| **3** | [<img src="plant-images/stachys.jpg" width="90" title="Stachys byzantina 'Big Ears' — click to enlarge">](plant-images/stachys.jpg)<br>[*Stachys byzantina* 'Big Ears'](https://www.rhs.org.uk/plants/83020/stachys-byzantina-big-ears/details) — Lamb's ears<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.5–1m† | Jun–Sep | Silver felted mats; wool carder bees strip the hairs | 1L |
+| **3** | [<img src="plant-images/gaura.jpg" width="90" title="Oenothera lindheimeri 'Whirling Butterflies' — click to enlarge">](plant-images/gaura.jpg)<br>[*Oenothera lindheimeri* 'Whirling Butterflies'](https://www.rhs.org.uk/plants/386447/oenothera-lindheimeri-whirling-butterflies-g/details) — Gaura<br><sub>New</sub> | 0.5–1m × 0.5–1m† | Jun–Oct | White butterflies on wiry stems that ride the wind; hates only winter wet | 2L |
 | **2** | [<img src="plant-images/hylo.jpg" width="90" title="Hylotelephium 'Matrona' — click to enlarge">](plant-images/hylo.jpg)<br>[*Hylotelephium* 'Matrona'](https://www.rhs.org.uk/plants/356925/hylotelephium-matrona/details) — Stonecrop / iceplant<br><sub>Sussex Sq</sub> | 0.5–1m × 0.1–0.5m† | Aug–Oct | Seed heads stand all winter | 2L |
 
 **Bulbs — planted Oct–Nov, threaded between the plants**
@@ -508,8 +508,7 @@ holds the autumn.
 |---|:---:|---|
 | **20** | [<img src="plant-images/allium_holl.jpg" width="60" title="Allium hollandicum 'Purple Sensation' — click to enlarge">](plant-images/allium_holl.jpg)<br>[*Allium hollandicum* 'Purple Sensation'](https://www.rhs.org.uk/plants/57088/allium-hollandicum-purple-sensation/details) — Ornamental onion | May, purple drumsticks |
 | **10** | [<img src="plant-images/allium_crist.jpg" width="60" title="Allium cristophii — click to enlarge">](plant-images/allium_crist.jpg)<br>[*Allium cristophii*](https://www.rhs.org.uk/plants/816/allium-cristophii/details) — Star of Persia | May–Jun |
-| **20** | [<img src="plant-images/narcissus.jpg" width="60" title="Narcissus 'Thalia' — click to enlarge">](plant-images/narcissus.jpg)<br>[*Narcissus* 'Thalia'](https://www.rhs.org.uk/plants/52833/narcissus-thalia-5/details) — Daffodil | Apr, pure white, 35cm |
-| **15** | [<img src="plant-images/narc_poet.jpg" width="60" title="Narcissus poeticus var. recurvus — click to enlarge">](plant-images/narc_poet.jpg)<br>[*Narcissus poeticus* var. *recurvus*](https://www.rhs.org.uk/plants/76534/i-narcissus-poeticus-i-var-i-recurvus-i-(13)/details) — Pheasant's eye | May, white with a red-rimmed eye |
+| **35** | [<img src="plant-images/narc_poet.jpg" width="60" title="Narcissus poeticus var. recurvus — click to enlarge">](plant-images/narc_poet.jpg)<br>[*Narcissus poeticus* var. *recurvus*](https://www.rhs.org.uk/plants/76534/i-narcissus-poeticus-i-var-i-recurvus-i-(13)/details) — Pheasant's eye | May, white with a red-rimmed eye |
 | **15** | [<img src="plant-images/tulipa_clus.jpg" width="60" title="Tulipa clusiana 'Lady Jane' — click to enlarge">](plant-images/tulipa_clus.jpg)<br>[*Tulipa clusiana* 'Lady Jane'](https://www.rhs.org.uk/plants/194056/tulipa-lady-jane-15/details) — Lady tulip | Apr, white / rose |
 | **30** | [<img src="plant-images/crocus_tom.jpg" width="60" title="Crocus tommasinianus — click to enlarge">](plant-images/crocus_tom.jpg)<br>[*Crocus tommasinianus*](https://www.rhs.org.uk/plants/25699/crocus-tommasinianus/details) — Early crocus | Feb, lilac |
 | **20** | [<img src="plant-images/muscari.jpg" width="60" title="Muscari armeniacum 'Valerie Finnis' — click to enlarge">](plant-images/muscari.jpg)<br>[*Muscari armeniacum* 'Valerie Finnis'](https://www.rhs.org.uk/plants/131700/muscari-armeniacum-valerie-finnis/details) — Grape hyacinth | Apr, pale powder blue |
@@ -615,9 +614,10 @@ through it, particularly low down, which is exactly the brief.
 All the height on the east run is gathered here, away from the view corridor: a
 1.5–2m informal evergreen block that shelters both the lounge and the dining deck from the east. Escallonia
 for pink flower from June to September, the *Phillyrea* — the glossy self-shaping Mediterranean evergreen
-the palette was missing — for structure, *Abelia* to carry it into October, *Coronilla* for the depths of
-winter. At the back, the oleaster's tiny invisible flowers scent this whole end of the terrace in October
-— the best salt windbreak there is, reduced once a year from the front like the *Atriplex*. The front
+the palette was missing — for structure, a second dwarf *Pittosporum tobira* dome for honey scent in early
+summer, *Abelia* to carry it into October, *Coronilla* for the depths of winter. At the back, *Olearia* ×
+*haastii* — the classic seaside daisy bush — carries white flowers through high summer and is the best
+salt windbreak there is, reduced once a year from the front like the *Atriplex*. The front
 ribbon is where the autumn lives — *Hylotelephium*, *Aster* 'Mönch' in lavender-blue — and three
 *Iris unguicularis* tucked at the sunny foot of it, flowering lilac in November when nothing else is.
 
@@ -630,7 +630,7 @@ ribbon is where the autumn lives — *Hylotelephium*, *Aster* 'Mönch' in lavend
 | Qty | Plant | Mature H × S | Flowers | Note | Supply |
 |---|:---:|---|---|---|---|
 | **1** | [<img src="plant-images/escallonia.jpg" width="90" title="Escallonia 'Apple Blossom' — click to enlarge">](plant-images/escallonia.jpg)<br>[*Escallonia* 'Apple Blossom'](https://www.rhs.org.uk/plants/96211/escallonia-apple-blossom/details) — Escallonia<br><sub>New</sub> | 1.5–2.5m × 1.5–2.5m† | Jun–Sep | Informal shrub; occasional reduction from the front only | 7.5L |
-| **1** | [<img src="plant-images/elaeagnus.jpg" width="90" title="Elaeagnus × ebbingei — click to enlarge">](plant-images/elaeagnus.jpg)<br>[*Elaeagnus* × *ebbingei*](https://www.rhs.org.uk/plants/93213/elaeagnus-x-ebbingei/details) — Oleaster<br><sub>New</sub> | 2.5–4m × 2.5–4m† | Oct–Nov | The October scent, and the best salt windbreak there is | 7.5L |
+| **1** | [<img src="plant-images/olearia.jpg" width="90" title="Olearia × haastii — click to enlarge">](plant-images/olearia.jpg)<br>[*Olearia* × *haastii*](https://www.rhs.org.uk/plants/94555/olearia-x-haastii/details) — Daisy bush<br><sub>New</sub> | 1.5–2m × 2m† | Jul–Aug | The classic seaside daisy bush — white daisies in high summer; occasional reduction from the front | 5L |
 | **1** | [<img src="plant-images/atriplex.jpg" width="90" title="Atriplex halimus — click to enlarge">](plant-images/atriplex.jpg)<br>[*Atriplex halimus*](https://www.rhs.org.uk/plants/1903/atriplex-halimus/details) — Tree purslane<br><sub>New</sub> | 1.5–2.5m × 1–1.5m† | Summer | ⚠️ Brightest silver shrub there is — cut hard back every spring | 3L |
 
 **Mid row**
@@ -638,7 +638,7 @@ ribbon is where the autumn lives — *Hylotelephium*, *Aster* 'Mönch' in lavend
 | Qty | Plant | Mature H × S | Flowers | Note | Supply |
 |---|:---:|---|---|---|---|
 | **1** | [<img src="plant-images/phillyrea.jpg" width="90" title="Phillyrea angustifolia — click to enlarge">](plant-images/phillyrea.jpg)<br>[*Phillyrea angustifolia*](https://www.rhs.org.uk/plants/24488/phillyrea-angustifolia/details) — Phillyrea<br><sub>New</sub> | 2.5–4m × 1.5–2.5m† | May–Jun | Glossy, self-shaping evergreen — the palette was missing it | 5L |
-| **1** | [<img src="plant-images/euphorbia.jpg" width="90" title="Euphorbia characias subsp. wulfenii — click to enlarge">](plant-images/euphorbia.jpg)<br>[*Euphorbia characias* subsp. *wulfenii*](https://www.rhs.org.uk/plants/99051/euphorbia-characias-subsp-wulfenii/details) — Mediterranean spurge<br><sub>Sussex Sq</sub> | 1–1.5m × 1–1.5m† | Feb–May | ⚠️ Evergreen architecture year-round; sap is an irritant | 3–5L |
+| **1** | [<img src="plant-images/tobira.jpg" width="90" title="Pittosporum tobira 'Nanum' — click to enlarge">](plant-images/tobira.jpg)<br>[*Pittosporum tobira* 'Nanum'](https://www.rhs.org.uk/plants/61258/pittosporum-tobira-nanum/details) — Dwarf Japanese pittosporum<br><sub>Sussex Sq</sub> | 0.6–1m × 0.6–1m† | May–Jun | Self-shaping glossy dome; honey-scented cream flowers | 3L |
 | **1** | [<img src="plant-images/cistus.jpg" width="90" title="Cistus × purpureus 'Alan Fradd' — click to enlarge">](plant-images/cistus.jpg)<br>[*Cistus* × *purpureus* 'Alan Fradd'](https://www.rhs.org.uk/plants/91672/cistus-purpureus-alan-fradd/details) — Rock rose<br><sub>Springfield Rd</sub> | 0.5–1m × 0.5–1m† | Jun–Jul | Spectacular; short-lived, around ten years | 3L |
 | **1** | [<img src="plant-images/teucrium.jpg" width="90" title="Teucrium fruticans 'Azureum' — click to enlarge">](plant-images/teucrium.jpg)<br>[*Teucrium fruticans* 'Azureum'](https://www.rhs.org.uk/plants/74406/teucrium-fruticans-azureum/details) — Tree germander<br><sub>New</sub> | 1–1.5m × 1–1.5m† | May–Sep | Silver-blue evergreen foliage | 3L |
 | **1** | [<img src="plant-images/coronilla.jpg" width="90" title="Coronilla valentina subsp. glauca 'Citrina' — click to enlarge">](plant-images/coronilla.jpg)<br>[*Coronilla valentina* subsp. *glauca* 'Citrina'](https://www.rhs.org.uk/plants/53148/coronilla-valentina-subsp-glauca-citrina/details) — Yellow coronilla<br><sub>Sussex Sq</sub> | 0.5–1m × 0.5–1m† | Dec–Apr | The winter-flowering shrub, scented at midday | 3L |
@@ -651,7 +651,7 @@ ribbon is where the autumn lives — *Hylotelephium*, *Aster* 'Mönch' in lavend
 | **3** | [<img src="plant-images/iris_ung.jpg" width="90" title="Iris unguicularis — click to enlarge">](plant-images/iris_ung.jpg)<br>[*Iris unguicularis*](https://www.rhs.org.uk/plants/24998/iris-unguicularis/details) — Algerian iris<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Nov–Mar | Wants poor soil and a hot dry summer bake | 1–2L |
 | **3** | [<img src="plant-images/aster.jpg" width="90" title="Aster × frikartii 'Mönch' — click to enlarge">](plant-images/aster.jpg)<br>[*Aster* × *frikartii* 'Mönch'](https://www.rhs.org.uk/plants/93410/aster-x-frikartii-monch/details) — Michaelmas daisy<br><sub>Sussex Sq</sub> | 0.5–1m × 0.1–0.5m† | Aug–Oct | Critical late nectar for butterflies before hibernation | 2L |
 | **3** | [<img src="plant-images/eryngium.jpg" width="90" title="Eryngium bourgatii 'Picos Blue' — click to enlarge">](plant-images/eryngium.jpg)<br>[*Eryngium bourgatii* 'Picos Blue'](https://www.rhs.org.uk/plants/129742/eryngium-bourgatii-picos-blue/details) — Sea holly<br><sub>Sussex Sq</sub> | 0.5–1m × 0.1–0.5m† | Jun–Aug | Wind-proof; top-rated for pollinators | 1–2L |
-| **3** | [<img src="plant-images/stachys.jpg" width="90" title="Stachys byzantina 'Big Ears' — click to enlarge">](plant-images/stachys.jpg)<br>[*Stachys byzantina* 'Big Ears'](https://www.rhs.org.uk/plants/83020/stachys-byzantina-big-ears/details) — Lamb's ears<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.5–1m† | Jun–Sep | Silver felted mats; wool carder bees strip the hairs | 1L |
+| **3** | [<img src="plant-images/santolina.jpg" width="90" title="Santolina chamaecyparissus — click to enlarge">](plant-images/santolina.jpg)<br>[*Santolina chamaecyparissus*](https://www.rhs.org.uk/plants/19856/santolina-chamaecyparissus-lavender-cotton-cotton-lavender/details) — Cotton lavender<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.5–1m† | Summer | Shear the buds in June if they jar | 2L |
 | **2** | [<img src="plant-images/hylo.jpg" width="90" title="Hylotelephium 'Matrona' — click to enlarge">](plant-images/hylo.jpg)<br>[*Hylotelephium* 'Matrona'](https://www.rhs.org.uk/plants/356925/hylotelephium-matrona/details) — Stonecrop / iceplant<br><sub>Sussex Sq</sub> | 0.5–1m × 0.1–0.5m† | Aug–Oct | Seed heads stand all winter | 2L |
 
 **Bulbs — planted Oct–Nov, threaded between the plants**
@@ -661,13 +661,12 @@ ribbon is where the autumn lives — *Hylotelephium*, *Aster* 'Mönch' in lavend
 | **25** | [<img src="plant-images/allium_holl.jpg" width="60" title="Allium hollandicum 'Purple Sensation' — click to enlarge">](plant-images/allium_holl.jpg)<br>[*Allium hollandicum* 'Purple Sensation'](https://www.rhs.org.uk/plants/57088/allium-hollandicum-purple-sensation/details) — Ornamental onion | May, purple drumsticks |
 | **10** | [<img src="plant-images/allium_crist.jpg" width="60" title="Allium cristophii — click to enlarge">](plant-images/allium_crist.jpg)<br>[*Allium cristophii*](https://www.rhs.org.uk/plants/816/allium-cristophii/details) — Star of Persia | May–Jun |
 | **30** | [<img src="plant-images/allium_sphaero.png" width="60" title="Allium sphaerocephalon — click to enlarge">](plant-images/allium_sphaero.png)<br>[*Allium sphaerocephalon*](https://www.rhs.org.uk/plants/870/allium-sphaerocephalon-round-headed-leek-round-headed-garlic/details) — Drumstick allium | Jul, wine-purple |
-| **20** | [<img src="plant-images/narc_poet.jpg" width="60" title="Narcissus poeticus var. recurvus — click to enlarge">](plant-images/narc_poet.jpg)<br>[*Narcissus poeticus* var. *recurvus*](https://www.rhs.org.uk/plants/76534/i-narcissus-poeticus-i-var-i-recurvus-i-(13)/details) — Pheasant's eye | May, white with a red-rimmed eye |
-| **15** | [<img src="plant-images/narcissus.jpg" width="60" title="Narcissus 'Thalia' — click to enlarge">](plant-images/narcissus.jpg)<br>[*Narcissus* 'Thalia'](https://www.rhs.org.uk/plants/52833/narcissus-thalia-5/details) — Daffodil | Apr, pure white, 35cm |
+| **35** | [<img src="plant-images/narc_poet.jpg" width="60" title="Narcissus poeticus var. recurvus — click to enlarge">](plant-images/narc_poet.jpg)<br>[*Narcissus poeticus* var. *recurvus*](https://www.rhs.org.uk/plants/76534/i-narcissus-poeticus-i-var-i-recurvus-i-(13)/details) — Pheasant's eye | May, white with a red-rimmed eye |
 | **15** | [<img src="plant-images/narcissus.jpg" width="60" title="Narcissus 'Rijnveld's Early Sensation' — click to enlarge">](plant-images/narcissus.jpg)<br>[*Narcissus* 'Rijnveld's Early Sensation'](https://www.rhs.org.uk/plants/55821/narcissus-rijnvelds-early-sensation-1/details) — Daffodil | January |
 | **20** | [<img src="plant-images/tulipa_sax.jpg" width="60" title="Tulipa saxatilis (Bakeri Gp) 'Lilac Wonder' — click to enlarge">](plant-images/tulipa_sax.jpg)<br>[*Tulipa saxatilis* (Bakeri Gp) 'Lilac Wonder'](https://www.rhs.org.uk/plants/67509/tulipa-saxatilis-bakeri-group-lilac-wonder-15/details) — Cretan tulip | Apr, lilac-pink, yellow eye |
 | **20** | [<img src="plant-images/gladiolus.jpg" width="60" title="Gladiolus communis subsp. byzantinus — click to enlarge">](plant-images/gladiolus.jpg)<br>[*Gladiolus communis* subsp. *byzantinus*](https://www.rhs.org.uk/plants/89297/gladiolus-communis-subsp-byzantinus/details) — Byzantine gladiolus | May–Jun, magenta |
 | **20** | [<img src="plant-images/crocus_tom.jpg" width="60" title="Crocus tommasinianus — click to enlarge">](plant-images/crocus_tom.jpg)<br>[*Crocus tommasinianus*](https://www.rhs.org.uk/plants/25699/crocus-tommasinianus/details) — Early crocus | Feb, lilac |
-| **8** | [<img src="plant-images/nerine.jpg" width="60" title="Nerine bowdenii — click to enlarge">](plant-images/nerine.jpg)<br>[*Nerine bowdenii*](https://www.rhs.org.uk/plants/11514/nerine-bowdenii/details) — Guernsey lily | October, pink |
+| **8** | [<img src="plant-images/crocus_speciosus.jpg" width="60" title="Crocus speciosus — click to enlarge">](plant-images/crocus_speciosus.jpg)<br>[*Crocus speciosus*](https://www.rhs.org.uk/plants/4941/crocus-speciosus/details) — Autumn crocus | Oct, violet-blue |
 
 *M2(E) — south half total: **23 plants** + **183 bulbs***
 
@@ -678,10 +677,11 @@ ribbon is where the autumn lives — *Hylotelephium*, *Aster* 'Mönch' in lavend
 The heritage picture, and the one you look straight at from the dining table: the hero of the
 five olives — genuinely gnarled, aged-trunk character — rising out of a silver thicket, in the deepest
 planter on the terrace and outside every protected sightline, so it is allowed real height. Around it,
-tree purslane at its brightest silver, *Euphorbia*, a *Cistus* opening white-with-a-maroon-blotch in
-June, silver-blue *Teucrium*, and *Coronilla* flowering pale lemon through the middle of winter. At the
-front, Russian sage, a perennial wallflower and blue oat grass carry it from midsummer into autumn, and
-two *Iris unguicularis* flower at the sunny foot of it in November when nothing else is.
+tree purslane at its brightest silver, *Escallonia* for pink summer flower, a *Cistus* opening
+white-with-a-maroon-blotch in June, silver-blue *Teucrium*, and *Coronilla* flowering pale lemon through
+the middle of winter. At the front, a fuller drift of Russian sage, a perennial wallflower and blue oat
+grass carry it from midsummer into autumn, and two *Iris unguicularis* flower at the sunny foot of it in
+November when nothing else is.
 
 ![M2(S) — artist's impression](planting-plan-renders/m2s.png)
 
@@ -695,7 +695,7 @@ two *Iris unguicularis* flower at the sunny foot of it in November when nothing 
 |---|:---:|---|---|---|---|
 | **1** | [<img src="plant-images/olea.jpg" width="90" title="Olea europaea — multi-stem, gnarled — click to enlarge">](plant-images/olea.jpg)<br>[*Olea europaea* — multi-stem, gnarled](https://www.rhs.org.uk/plants/11735/olea-europaea-f-/details) — Olive<br><sub>Sussex Sq</sub> | 4–8m × 1.5–2.5m† | Jun–Jul | The hero — genuinely gnarled, aged-trunk character | 45–60L · 1.75–2.0m |
 | **1** | [<img src="plant-images/atriplex.jpg" width="90" title="Atriplex halimus — click to enlarge">](plant-images/atriplex.jpg)<br>[*Atriplex halimus*](https://www.rhs.org.uk/plants/1903/atriplex-halimus/details) — Tree purslane<br><sub>New</sub> | 1.5–2.5m × 1–1.5m† | Summer | ⚠️ Brightest silver shrub there is — cut hard back every spring | 3L |
-| **1** | [<img src="plant-images/euphorbia.jpg" width="90" title="Euphorbia characias subsp. wulfenii — click to enlarge">](plant-images/euphorbia.jpg)<br>[*Euphorbia characias* subsp. *wulfenii*](https://www.rhs.org.uk/plants/99051/euphorbia-characias-subsp-wulfenii/details) — Mediterranean spurge<br><sub>Sussex Sq</sub> | 1–1.5m × 1–1.5m† | Feb–May | ⚠️ Evergreen architecture year-round; sap is an irritant | 3–5L |
+| **1** | [<img src="plant-images/escallonia.jpg" width="90" title="Escallonia 'Apple Blossom' — click to enlarge">](plant-images/escallonia.jpg)<br>[*Escallonia* 'Apple Blossom'](https://www.rhs.org.uk/plants/96211/escallonia-apple-blossom/details) — Escallonia<br><sub>New</sub> | 1.5–2.5m × 1.5–2.5m† | Jun–Sep | Informal shrub; occasional reduction from the front only | 7.5L |
 
 **Mid row**
 
@@ -711,7 +711,7 @@ two *Iris unguicularis* flower at the sunny foot of it in November when nothing 
 
 | Qty | Plant | Mature H × S | Flowers | Note | Supply |
 |---|:---:|---|---|---|---|
-| **3** | [<img src="plant-images/yangii.jpg" width="90" title="Salvia yangii 'Little Spire' — click to enlarge">](plant-images/yangii.jpg)<br>[*Salvia yangii* 'Little Spire'](https://www.rhs.org.uk/plants/135978/perovskia-atriplicifolia-little-spire/details) — Russian sage<br><sub>New</sub> | 0.5–1m × 0.5–1m† | Aug–Oct | Compact form — the species flops in wind | 2L |
+| **5** | [<img src="plant-images/yangii.jpg" width="90" title="Salvia yangii 'Little Spire' — click to enlarge">](plant-images/yangii.jpg)<br>[*Salvia yangii* 'Little Spire'](https://www.rhs.org.uk/plants/135978/perovskia-atriplicifolia-little-spire/details) — Russian sage<br><sub>New</sub> | 0.5–1m × 0.5–1m† | Aug–Oct | Compact form, kept over the taller 'Blue Spires', which flops in wind | 2L |
 | **3** | [<img src="plant-images/erysimum.jpg" width="90" title="Erysimum 'Bowles's Mauve' — click to enlarge">](plant-images/erysimum.jpg)<br>[*Erysimum* 'Bowles's Mauve'](https://www.rhs.org.uk/plants/91464/erysimum-bowless-mauve/details) — Perennial wallflower<br><sub>New</sub> | 0.5–1m × 0.5–1m† | Mar–Nov | Unbeatable first-year value; short-lived (~3 yrs) | 2L |
 | **3** | [<img src="plant-images/helictotrichon.jpg" width="90" title="Helictotrichon sempervirens — click to enlarge">](plant-images/helictotrichon.jpg)<br>[*Helictotrichon sempervirens*](https://www.rhs.org.uk/plants/8555/helictotrichon-sempervirens/details) — Blue oat grass<br><sub>New</sub> | 1–1.5m × 0.5–1m† | Summer | The wind made visible; comb out dead leaves in spring | 2L |
 | **2** | [<img src="plant-images/iris_ung.jpg" width="90" title="Iris unguicularis — click to enlarge">](plant-images/iris_ung.jpg)<br>[*Iris unguicularis*](https://www.rhs.org.uk/plants/24998/iris-unguicularis/details) — Algerian iris<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Nov–Mar | Wants poor soil and a hot dry summer bake | 1–2L |
@@ -729,10 +729,10 @@ two *Iris unguicularis* flower at the sunny foot of it in November when nothing 
 | **15** | [<img src="plant-images/gladiolus.jpg" width="60" title="Gladiolus communis subsp. byzantinus — click to enlarge">](plant-images/gladiolus.jpg)<br>[*Gladiolus communis* subsp. *byzantinus*](https://www.rhs.org.uk/plants/89297/gladiolus-communis-subsp-byzantinus/details) — Byzantine gladiolus | May–Jun, magenta |
 | **25** | [<img src="plant-images/crocus_tom.jpg" width="60" title="Crocus tommasinianus — click to enlarge">](plant-images/crocus_tom.jpg)<br>[*Crocus tommasinianus*](https://www.rhs.org.uk/plants/25699/crocus-tommasinianus/details) — Early crocus | Feb, lilac |
 | **15** | [<img src="plant-images/iris_ret.jpg" width="60" title="Iris reticulata 'Harmony' + 'Katharine Hodgkin' — click to enlarge">](plant-images/iris_ret.jpg)<br>[*Iris reticulata* 'Harmony' + 'Katharine Hodgkin'](https://www.rhs.org.uk/plants/9343/iris-reticulata-harmony/details) — Dwarf iris | Feb, deep and pale blue |
-| **7** | [<img src="plant-images/nerine.jpg" width="60" title="Nerine bowdenii — click to enlarge">](plant-images/nerine.jpg)<br>[*Nerine bowdenii*](https://www.rhs.org.uk/plants/11514/nerine-bowdenii/details) — Guernsey lily | October, pink |
+| **7** | [<img src="plant-images/crocus_speciosus.jpg" width="60" title="Crocus speciosus — click to enlarge">](plant-images/crocus_speciosus.jpg)<br>[*Crocus speciosus*](https://www.rhs.org.uk/plants/4941/crocus-speciosus/details) — Autumn crocus | Oct, violet-blue |
 | **7** | [<img src="plant-images/nectaroscordum.jpg" width="60" title="Nectaroscordum siculum — click to enlarge">](plant-images/nectaroscordum.jpg)<br>[*Nectaroscordum siculum*](https://www.rhs.org.uk/plants/96507/nectaroscordum-siculum/details) — Sicilian honey garlic | Jun, cream / green / maroon bells |
 
-*M2(S) total: **19 plants** + **159 bulbs***
+*M2(S) total: **21 plants** + **159 bulbs***
 
 ### M4 — Main terrace — **north** of the lounge seating
 
@@ -742,8 +742,8 @@ A low green fringe on the north side of the lounge, capped at a metre so the Dow
 from the sauna. It grades along its length: a purple 'Tom Thumb' dome, two bright green *Hebe* and a
 drift of blue oat grass — the wind made visible from the lounge — at the west end where there is room,
 dropping to prostrate rosemary, sea thrift, cheddar pinks and trailing *Euphorbia myrsinites* at the east
-end where the sightline is tightest. Two *Hylotelephium* give it an autumn, and *Nerine* comes up pink
-out of it in October.
+end where the sightline is tightest. Two *Hylotelephium* give it an autumn, and autumn crocus comes up
+violet-blue out of it in October.
 
 ![M4 — artist's impression](planting-plan-renders/m4.png)
 
@@ -778,7 +778,7 @@ out of it in October.
 | **20** | [<img src="plant-images/iris_ret.jpg" width="60" title="Iris reticulata 'Harmony' + 'Katharine Hodgkin' — click to enlarge">](plant-images/iris_ret.jpg)<br>[*Iris reticulata* 'Harmony' + 'Katharine Hodgkin'](https://www.rhs.org.uk/plants/9343/iris-reticulata-harmony/details) — Dwarf iris | Feb, deep and pale blue |
 | **20** | [<img src="plant-images/narcissus.jpg" width="60" title="Narcissus 'Tête-à-tête' — click to enlarge">](plant-images/narcissus.jpg)<br>[*Narcissus* 'Tête-à-tête'](https://www.rhs.org.uk/plants/89723/narcissus-tete-a-tete-12/details) — Dwarf daffodil | Feb–Mar, 15cm |
 | **15** | [<img src="plant-images/tulipa_clus.jpg" width="60" title="Tulipa 'Little Beauty' — click to enlarge">](plant-images/tulipa_clus.jpg)<br>[*Tulipa* 'Little Beauty'](https://www.rhs.org.uk/plants/155507/tulipa-little-beauty-15/details) — Species tulip | Apr, 15cm, magenta with a blue eye |
-| **8** | [<img src="plant-images/nerine.jpg" width="60" title="Nerine bowdenii — click to enlarge">](plant-images/nerine.jpg)<br>[*Nerine bowdenii*](https://www.rhs.org.uk/plants/11514/nerine-bowdenii/details) — Guernsey lily | October, pink |
+| **8** | [<img src="plant-images/crocus_speciosus.jpg" width="60" title="Crocus speciosus — click to enlarge">](plant-images/crocus_speciosus.jpg)<br>[*Crocus speciosus*](https://www.rhs.org.uk/plants/4941/crocus-speciosus/details) — Autumn crocus | Oct, violet-blue |
 
 *M4 total: **16 plants** + **113 bulbs***
 
@@ -811,14 +811,13 @@ and holds its leaves — chosen specifically so nothing sheds into the water.
 | **2** | [<img src="plant-images/hebe.jpg" width="90" title="Hebe (Veronica) 'Rakaiensis' — click to enlarge">](plant-images/hebe.jpg)<br>[*Hebe* (*Veronica*) 'Rakaiensis'](https://www.rhs.org.uk/plants/8357/rakai-hebe/details) — Shrubby veronica<br><sub>Springfield Rd</sub> | 0.5–1m × 1–1.5m† | Jun–Jul | Tight bright-green evergreen domes | 2L |
 | **1** | [<img src="plant-images/rosemary.jpg" width="90" title="Salvia rosmarinus 'Severn Sea' — click to enlarge">](plant-images/rosemary.jpg)<br>[*Salvia rosmarinus* 'Severn Sea'](https://www.rhs.org.uk/plants/386349/salvia-rosmarinus-severn-sea-ro/details) — Semi-prostrate rosemary<br><sub>Sussex Sq</sub> | 0.5–1m × 0.5–1m† | Feb–May | Flowers when almost nothing else does | 2L |
 | **1** | [<img src="plant-images/convolvulus.jpg" width="90" title="Convolvulus cneorum — click to enlarge">](plant-images/convolvulus.jpg)<br>[*Convolvulus cneorum*](https://www.rhs.org.uk/plants/4333/convolvulus-cneorum/details) — Silverbush<br><sub>New</sub> | 0.5–1m × 0.5–1m† | May–Sep | The most metallic silver evergreen here | 2L |
-| **1** | [<img src="plant-images/thymus.jpg" width="90" title="Thymus vulgaris · T. 'Silver Posie' · T. serpyllum — click to enlarge">](plant-images/thymus.jpg)<br>[*Thymus vulgaris* · *T.* 'Silver Posie' · *T. serpyllum*](https://www.rhs.org.uk/plants/18213/thymus-vulgaris/details) — Thyme — 3 forms<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Early summer | Evergreen culinary mats; bees swarm the flowers | 9cm |
+| **1** | [<img src="plant-images/thymus.jpg" width="90" title="Thymus vulgaris · T. 'Purple Beauty' · T. serpyllum — click to enlarge">](plant-images/thymus.jpg)<br>[*Thymus vulgaris* · *T.* 'Purple Beauty' · *T. serpyllum*](https://www.rhs.org.uk/plants/18213/thymus-vulgaris/details) — Thyme — 3 forms<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Early summer | Evergreen culinary mats; bees swarm the flowers | 9cm |
 
 **Bulbs — planted Oct–Nov, threaded between the plants**
 
 | Qty | Bulb | Flowers |
 |---|:---:|---|
-| **10** | [<img src="plant-images/narcissus.jpg" width="60" title="Narcissus 'Thalia' — click to enlarge">](plant-images/narcissus.jpg)<br>[*Narcissus* 'Thalia'](https://www.rhs.org.uk/plants/52833/narcissus-thalia-5/details) — Daffodil | Apr, pure white, 35cm |
-| **20** | [<img src="plant-images/crocus_chry.jpg" width="60" title="Crocus 'Snow Bunting' — click to enlarge">](plant-images/crocus_chry.jpg)<br>[*Crocus* 'Snow Bunting'](https://www.rhs.org.uk/plants/93896/crocus-chrysanthus-snow-bunting/details) — Crocus | Feb, white, scented |
+| **30** | [<img src="plant-images/crocus_chry.jpg" width="60" title="Crocus 'Snow Bunting' — click to enlarge">](plant-images/crocus_chry.jpg)<br>[*Crocus* 'Snow Bunting'](https://www.rhs.org.uk/plants/93896/crocus-chrysanthus-snow-bunting/details) — Crocus | Feb, white, scented |
 | **10** | [<img src="plant-images/muscari.jpg" width="60" title="Muscari armeniacum 'Valerie Finnis' — click to enlarge">](plant-images/muscari.jpg)<br>[*Muscari armeniacum* 'Valerie Finnis'](https://www.rhs.org.uk/plants/131700/muscari-armeniacum-valerie-finnis/details) — Grape hyacinth | Apr, pale powder blue |
 | **10** | [<img src="plant-images/tulipa_clus.jpg" width="60" title="Tulipa 'Little Beauty' — click to enlarge">](plant-images/tulipa_clus.jpg)<br>[*Tulipa* 'Little Beauty'](https://www.rhs.org.uk/plants/155507/tulipa-little-beauty-15/details) — Species tulip | Apr, 15cm, magenta with a blue eye |
 
@@ -834,8 +833,8 @@ material in §7.
 
 ### Group A — narrow terrace, south end
 
-The five pots by the study door do the winter work. A clipped bay and a bronze *Phormium* for
-structure, then **Sarcococca** and **Daphne odora** — the two best winter scents in cultivation — placed
+The five pots by the study door do the winter work. A clipped bay and a *Phormium tenax* — both the
+client's own plants, repotted into new terracotta — for structure, then **Sarcococca** and **Daphne odora** — the two best winter scents in cultivation — placed
 exactly where you pass them in the dark in January, with sixty snowdrops and thirty cyclamen underneath.
 This is the shadiest, most sheltered corner on the terrace, which is the only reason any of it works.
 
@@ -847,8 +846,8 @@ This is the shadiest, most sheltered corner on the terrace, which is the only re
 
 | Qty | Plant | Mature H × S | Flowers | Note | Supply | Pot |
 |---|---|:---:|---|---|---|---|
-| **1** | [<img src="plant-images/bay.jpg" width="90" title="Laurus nobilis — clipped — click to enlarge">](plant-images/bay.jpg)<br>[*Laurus nobilis* — clipped](https://www.rhs.org.uk/plants/9876/laurus-nobilis-bay-tree-bay/details) — Bay<br><sub>New</sub> | 8–12m × wider than 8m† | — | Clipped/potted — treat RHS size as a ceiling, not reality | ~80cm, large pot | Ø50–60 |
-| **1** | [<img src="plant-images/phormium.jpg" width="90" title="Phormium 'Bronze Baby' — click to enlarge">](plant-images/phormium.jpg)<br>[*Phormium* 'Bronze Baby'](https://www.rhs.org.uk/plants/92561/phormium-bronze-baby/details) — Bronze New Zealand flax<br><sub>Sussex Sq</sub> | 0.5–1m × 0.5–1m† | Summer (rare) | Compact bronze sword foliage — bullet-proof in salt wind | 5L | Ø50–60 |
+| **1** | [<img src="plant-images/bay.jpg" width="90" title="Laurus nobilis — clipped — click to enlarge">](plant-images/bay.jpg)<br>[*Laurus nobilis* — clipped](https://www.rhs.org.uk/plants/9876/laurus-nobilis-bay-tree-bay/details) — Bay<br><sub>Springfield Rd</sub> | 8–12m × wider than 8m† | — | Client's own, already clipped — treat RHS size as a ceiling, not reality | Client's own — 60cm · plant not for supply; new pot is | Ø50–60 |
+| **1** | [<img src="plant-images/phormium.jpg" width="90" title="Phormium tenax — click to enlarge">](plant-images/phormium.jpg)<br>[*Phormium tenax*](https://www.rhs.org.uk/plants/12791/phormium-tenax/details) — New Zealand flax<br><sub>Springfield Rd</sub> | 2.5–4m × 1.5–2.5m† | Summer | Client's own — the full species, much larger than 'Bronze Baby' | Client's own — 80cm · plant not for supply; new pot is | Ø50–60 |
 | **1** | [<img src="plant-images/sarcococca.jpg" width="90" title="Sarcococca hookeriana var. humilis — click to enlarge">](plant-images/sarcococca.jpg)<br>[*Sarcococca hookeriana* var. *humilis*](https://www.rhs.org.uk/plants/96875/sarcococca-hookeriana-var-humilis/details) — Sweet box / Christmas box<br><sub>Sussex Sq · Springfield Rd</sub> | 0.5–1m × 0.5–1m† | Winter | The most powerful winter scent of any hardy shrub | 3L | Ø40 |
 | **1** | [<img src="plant-images/daphne.jpg" width="90" title="Daphne odora 'Aureomarginata' — click to enlarge">](plant-images/daphne.jpg)<br>[*Daphne odora* 'Aureomarginata'](https://www.rhs.org.uk/plants/56422/daphne-odora-aureomarginata-v/details) — Winter daphne<br><sub>Springfield Rd</sub> | 1–1.5m × 1–1.5m† | Jan–Mar | ⚠️ Plant once and never move it | 3–5L | Ø40 |
 | **1** | [<img src="plant-images/convolvulus.jpg" width="90" title="Convolvulus cneorum — click to enlarge">](plant-images/convolvulus.jpg)<br>[*Convolvulus cneorum*](https://www.rhs.org.uk/plants/4333/convolvulus-cneorum/details) — Silverbush<br><sub>New</sub> | 0.5–1m × 0.5–1m† | May–Sep | The most metallic silver evergreen here | 2L | Ø40 (shared) |
@@ -866,7 +865,7 @@ This is the shadiest, most sheltered corner on the terrace, which is the only re
 ### Group B — narrow terrace, alongside the outdoor kitchen
 
 Six working pots along the kitchen run: three mints in separate pots because they would
-eat any bed they were put in, parsley, coriander, and chives and sorrel together. Crocus and dwarf
+eat any bed they were put in, parsley, coriander, and a pot of chives. Crocus and dwarf
 daffodils come up through them before the herbs get going, and autumn cyclamen follow when they die back.
 
 ![Pot Group B — artist's impression](planting-plan-renders/pot-group-b.png)
@@ -880,8 +879,7 @@ daffodils come up through them before the herbs get going, and autumn cyclamen f
 | **3** | [<img src="plant-images/mint.jpg" width="90" title="Mentha spicata · M. 'Moroccan' · M. suaveolens — click to enlarge">](plant-images/mint.jpg)<br>[*Mentha spicata* · *M.* 'Moroccan' · *M. suaveolens*](https://www.rhs.org.uk/plants/11055/mentha-spicata/details) — Mint — 3 kinds<br><sub>New</sub> | 0.5–1m × 1–1.5m† | Summer | ⚠️ Never plant into a shared bed — runners take over | 2L | Ø40 (each own pot) |
 | **3** | [<img src="plant-images/parsley.jpg" width="90" title="Petroselinum crispum — click to enlarge">](plant-images/parsley.jpg)<br>[*Petroselinum crispum*](https://www.rhs.org.uk/plants/41248/petroselinum-crispum/details) — Flat-leaf parsley<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Summer (2nd yr) | Biennial — renew annually; wants less sun | 1L | Ø30–35 (shared) |
 | **3** | [<img src="plant-images/coriander.jpg" width="90" title="Coriandrum sativum — click to enlarge">](plant-images/coriander.jpg)<br>[*Coriandrum sativum*](https://www.rhs.org.uk/plants/4371/coriandrum-sativum/details) — Coriander<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Summer–early autumn | ⚠️ Salt wind shreds it even in the lee — pot only | 9cm | Ø30–35 (shared) |
-| **1** | [<img src="plant-images/chives.jpg" width="90" title="Allium schoenoprasum — click to enlarge">](plant-images/chives.jpg)<br>[*Allium schoenoprasum*](https://www.rhs.org.uk/plants/859/allium-schoenoprasum-chives-cive/details) — Chives<br><sub>New</sub> | 0.1–0.5m × 0–0.1m† | Jun | Culinary; a genuine bee magnet | 1L | Ø30–35 (shared) |
-| **1** | [<img src="plant-images/sorrel.jpg" width="90" title="Rumex acetosa — click to enlarge">](plant-images/sorrel.jpg)<br>[*Rumex acetosa*](https://www.rhs.org.uk/plants/41751/rumex-acetosa/details) — Common sorrel<br><sub>New</sub> | 0.5–1m × 0.1–0.5m† | Early summer | Hardy perennial salad leaf, sharp and lemony | 1L | Ø30–35 (shared) |
+| **2** | [<img src="plant-images/chives.jpg" width="90" title="Allium schoenoprasum — click to enlarge">](plant-images/chives.jpg)<br>[*Allium schoenoprasum*](https://www.rhs.org.uk/plants/859/allium-schoenoprasum-chives-cive/details) — Chives<br><sub>New</sub> | 0.1–0.5m × 0–0.1m† | Jun | Culinary; a genuine bee magnet | 1L | Ø30–35 (shared) |
 
 | Qty | Bulb | Flowers |
 |---|:---:|---|
@@ -907,7 +905,7 @@ check all of it from inside the tub before settling them — that is what movabl
 |---|---|:---:|---|---|---|---|
 | **1** | [<img src="plant-images/olea.jpg" width="90" title="Olea europaea — clear stem — click to enlarge">](plant-images/olea.jpg)<br>[*Olea europaea* — clear stem](https://www.rhs.org.uk/plants/11735/olea-europaea-f-/details) — Olive<br><sub>Sussex Sq</sub> | 4–8m × 1.5–2.5m† | Jun–Jul | Clear stem — looked under, not through, from the tub | 20–30L · clear stem to ~1.2m | Ø50–60 |
 | **1** | [<img src="plant-images/rosemary.jpg" width="90" title="Salvia rosmarinus 'Prostratus' — click to enlarge">](plant-images/rosemary.jpg)<br>[*Salvia rosmarinus* 'Prostratus'](https://www.rhs.org.uk/plants/386334/salvia-rosmarinus-prostrata-group-ro/details) — Trailing rosemary<br><sub>Springfield Rd</sub> | 0.1–0.5m × 1–1.5m† | Spring–summer | Evergreen, culinary; trails over the planter edges | 2L | Ø30–35 |
-| **1** | [<img src="plant-images/thymus.jpg" width="90" title="Thymus vulgaris · T. 'Silver Posie' · T. serpyllum — click to enlarge">](plant-images/thymus.jpg)<br>[*Thymus vulgaris* · *T.* 'Silver Posie' · *T. serpyllum*](https://www.rhs.org.uk/plants/18213/thymus-vulgaris/details) — Thyme — 3 forms<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Early summer | Evergreen culinary mats; bees swarm the flowers | 9cm | Ø30–35 |
+| **1** | [<img src="plant-images/thymus.jpg" width="90" title="Thymus vulgaris · T. 'Purple Beauty' · T. serpyllum — click to enlarge">](plant-images/thymus.jpg)<br>[*Thymus vulgaris* · *T.* 'Purple Beauty' · *T. serpyllum*](https://www.rhs.org.uk/plants/18213/thymus-vulgaris/details) — Thyme — 3 forms<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | Early summer | Evergreen culinary mats; bees swarm the flowers | 9cm | Ø30–35 |
 | **1** | [<img src="plant-images/dianthus.jpg" width="90" title="Dianthus gratianopolitanus — click to enlarge">](plant-images/dianthus.jpg)<br>[*Dianthus gratianopolitanus*](https://www.rhs.org.uk/plants/5722/dianthus-gratianopolitanus/details) — Cheddar pink<br><sub>New</sub> | 0.1–0.5m × 0.1–0.5m† | May–Jul | UK native; strongly clove-scented evergreen mats | 1L | Ø30–35 |
 | **1** | [<img src="plant-images/santolina.jpg" width="90" title="Santolina chamaecyparissus — click to enlarge">](plant-images/santolina.jpg)<br>[*Santolina chamaecyparissus*](https://www.rhs.org.uk/plants/19856/santolina-chamaecyparissus-lavender-cotton-cotton-lavender/details) — Cotton lavender<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.5–1m† | Summer | Shear the buds in June if they jar | 2L | Ø40 |
 
@@ -916,7 +914,7 @@ check all of it from inside the tub before settling them — that is what movabl
 | **20** | [<img src="plant-images/crocus_tom.jpg" width="60" title="Crocus tommasinianus — click to enlarge">](plant-images/crocus_tom.jpg)<br>[*Crocus tommasinianus*](https://www.rhs.org.uk/plants/25699/crocus-tommasinianus/details) — Early crocus | Feb, lilac |
 | **15** | [<img src="plant-images/iris_ret.jpg" width="60" title="Iris reticulata 'Harmony' + 'Katharine Hodgkin' — click to enlarge">](plant-images/iris_ret.jpg)<br>[*Iris reticulata* 'Harmony' + 'Katharine Hodgkin'](https://www.rhs.org.uk/plants/9343/iris-reticulata-harmony/details) — Dwarf iris | Feb, deep and pale blue |
 | **10** | [<img src="plant-images/tulipa_clus.jpg" width="60" title="Tulipa 'Little Beauty' — click to enlarge">](plant-images/tulipa_clus.jpg)<br>[*Tulipa* 'Little Beauty'](https://www.rhs.org.uk/plants/155507/tulipa-little-beauty-15/details) — Species tulip | Apr, 15cm, magenta with a blue eye |
-| **8** | [<img src="plant-images/nerine.jpg" width="60" title="Nerine bowdenii — click to enlarge">](plant-images/nerine.jpg)<br>[*Nerine bowdenii*](https://www.rhs.org.uk/plants/11514/nerine-bowdenii/details) — Guernsey lily | October, pink |
+| **8** | [<img src="plant-images/crocus_speciosus.jpg" width="60" title="Crocus speciosus — click to enlarge">](plant-images/crocus_speciosus.jpg)<br>[*Crocus speciosus*](https://www.rhs.org.uk/plants/4941/crocus-speciosus/details) — Autumn crocus | Oct, violet-blue |
 
 ### Group D — main terrace, **south and west of the lounge sofas**
 
@@ -967,21 +965,42 @@ Crocus and cyclamen for us, threaded in the pans and around them.
 | **10** | [<img src="plant-images/narcissus.jpg" width="60" title="Narcissus 'Tête-à-tête' — click to enlarge">](plant-images/narcissus.jpg)<br>[*Narcissus* 'Tête-à-tête'](https://www.rhs.org.uk/plants/89723/narcissus-tete-a-tete-12/details) — Dwarf daffodil | Feb–Mar, 15cm |
 | **8** | [<img src="plant-images/cyclamen_hed.jpg" width="60" title="Cyclamen hederifolium — click to enlarge">](plant-images/cyclamen_hed.jpg)<br>[*Cyclamen hederifolium*](https://www.rhs.org.uk/plants/5145/cyclamen-hederifolium/details) — Ivy-leaved cyclamen | Sept–Nov, pink / white |
 
+### The client's existing pot plants
+
+Following the client's final review, a handful of his own established pot plants are joining the scheme
+rather than being bought new. **Only the plants come up — his existing containers are not reusable**, so
+every kept plant is repotted into the new terracotta, and the three that stand outside the five groups add
+three pots to the order, making 25 in all (§7). The bay and one *Phormium tenax* take the Group A slots
+above. The second *Phormium tenax* goes into a new large pot with the kitchen pots at the north end of the
+outdoor kitchen run. *Picea glauca* 'Monica' (70cm) goes into a new Ø40 pot at the south end of the narrow
+terrace, where the client likes it — the most sheltered spot on the roof, though worth watching for salt
+scorch. Four of the sixteen *Lavandula* 'Hidcote' go into the beds, so only twelve need supplying (§11).
+*Trachelospermum jasminoides* is trained on stainless wires up the flat's wall beside the study door, from
+a new large pot at the foot of the wall — the part shade there suits it; fixings to be confirmed. The
+ivy-leaved pelargoniums are kept as seasonal summer fillers by the kitchen, not part of the permanent
+scheme.
+
+Not joining the scheme: the forsythia, cordyline, cherry laurel and the collapsed clematis are off-palette
+or wrong for this exposure and are being rehomed; the camellia is also being rehomed — salt wind and
+alkaline irrigation water would wreck it; and the carex has been composted.
+
 <sub>[↑ Contents](#contents)</sub>
 
 ---
 ## 7. Pots and composter — specification
 
-**22 pots in five groups**, bought as part of this order.
+**25 pots**, bought as part of this order — 22 across the five groups above, plus three for the client's
+own plants standing outside them (§6). His existing containers are not reusable; only the plants come up,
+and each is repotted into the new terracotta.
 
 | Size | Qty | Holds |
 |---|---|---|
-| **Large — Ø50–60cm** | 5 | The bay, the bronze *Phormium*, the Group C olive, two 'Tom Thumb' domes |
-| **Medium — Ø40cm** | 9 | *Sarcococca*, *Daphne*, *Convolvulus* + lavender (shared), the three mints, santolina, the Group D *Convolvulus*, 'Amethyst Lips' |
-| **Small — Ø30–35cm** | 6 | Parsley, coriander, chives + sorrel (shared), prostrate rosemary, thyme, *Dianthus* |
+| **Large — Ø50–60cm** | 7 | The bay, both *Phormium tenax*, the *Trachelospermum*, the Group C olive, two 'Tom Thumb' domes |
+| **Medium — Ø40cm** | 10 | *Sarcococca*, *Daphne*, *Convolvulus* + lavender (shared), the three mints, santolina, the Group D *Convolvulus*, 'Amethyst Lips', the *Picea* |
+| **Small — Ø30–35cm** | 6 | Parsley, coriander, chives (shared pot of two), prostrate rosemary, thyme, *Dianthus* |
 | **Low pans — Ø35–40cm, ~15cm high** | 2 | Catnip, cat grass — at cat height |
 
-Total **22**.
+Total **25**.
 
 ### Material — real frost-proof terracotta
 
@@ -1001,7 +1020,7 @@ paying for only if a particular pot earns it.
 **One further idea, which reads as less contrived, not more:** buy a proportion reclaimed. Architectural
 salvage yards carry old terracotta by the pallet. It is often cheaper than new at the larger sizes, and
 nothing on earth looks less styled than a pot that is genuinely forty years old. Worth doing for two or
-three of the five large pots.
+three of the seven large pots.
 
 **Shapes may vary within the group.** This reverses the usual advice: with a composite pot, repetition is
 what stops it looking cheap, but with terracotta a mix of classic forms — pots, long toms, bowls — reads
@@ -1024,8 +1043,8 @@ the terracotta reads as collected, which is the effect we're after.
 **Every pot also needs:**
 
 - **Pot feet**, so they drain freely and don't stain or pond on the granite.
-- **A dripper.** All 22 are on the irrigation — pots dry out far faster than the planters.
-- **Positioning over a pedestal.** The five large pots, filled, are **68–95kg** each — position them over
+- **A dripper.** All 25 are on the irrigation — pots dry out far faster than the planters.
+- **Positioning over a pedestal.** The seven large pots, filled, are **68–95kg** each — position them over
   pedestal positions BEFORE filling, rather than mid-tile, exactly as the planters are; they will not move
   again without two people and a sack truck.
 
@@ -1044,8 +1063,8 @@ the store.
 ## 8. The plant list
 
 Photographs link through to the RHS entry. **Where it came from** is the provenance of each choice:
-**Sussex Square** (28 taxa, found growing in the communal gardens), **Springfield Road**
-(7, from the previous garden), **New** (28, chosen for this site).
+**Sussex Square** (27 taxa, found growing in the communal gardens), **Springfield Road**
+(10, from the previous garden), **New** (28, chosen for this site).
 
 ### Layer 1 — Specimen trees
 
@@ -1063,20 +1082,20 @@ Photographs link through to the RHS entry. **Where it came from** is the provena
 | Plant | Total | Supply | Mature H × S | Flowers | Note | Goes in |
 |:---:|---|---|---|---|---|---|
 |[<img src="plant-images/myrtus.png" width="220" title="Myrtus communis subsp. tarentina — click to enlarge">](plant-images/myrtus.png)<br><a id="p-myrtus"></a>[***Myrtus communis* subsp. *tarentina***](https://www.rhs.org.uk/plants/59207/myrtus-communis-subsp-tarentina/details)<br>Compact myrtle<br><sub>New</sub>| **4** | 5L | 1–1.5m × 1–1.5m† | Jul–Sep | A naturally dense 1.2–1.5m dome that needs no clipping at all. Small glossy aromatic leaves, white scented flowers Jul–Sep, black berries for the birds. One of the best self-managing coastal evergreens there is. | N1(E), N1(N), M1(W), M7 |
-|[<img src="plant-images/escallonia.jpg" width="220" title="Escallonia 'Apple Blossom' — click to enlarge">](plant-images/escallonia.jpg)<br><a id="p-esc-ab"></a>[***Escallonia* 'Apple Blossom'**](https://www.rhs.org.uk/plants/96211/escallonia-apple-blossom/details)<br>Escallonia<br><sub>New</sub>| **1** | 7.5L | 1.5–2.5m × 1.5–2.5m† | Jun–Sep | Shell-pink Jun–Sep. Grown here as an informal 1.5–2m shrub, not a clipped hedge — the most compact Escallonia, and it needs only an occasional reduction from the front. | M2(E) — south half |
 |[<img src="plant-images/atriplex.jpg" width="220" title="Atriplex halimus — click to enlarge">](plant-images/atriplex.jpg)<br><a id="p-atriplex"></a>[***Atriplex halimus***](https://www.rhs.org.uk/plants/1903/atriplex-halimus/details)<br>Tree purslane<br><sub>New</sub>| **2** | 3L | 1.5–2.5m × 1–1.5m† | Summer | The brightest silver of any hardy shrub; grows on shingle beaches. ⚠️ The one fast, lax plant in the scheme — cut hard back every spring from the front. Used only in the 1,000mm-deep planters where there is room for it. | M2(E) — south half, M2(S) |
 |[<img src="plant-images/phillyrea.jpg" width="220" title="Phillyrea angustifolia — click to enlarge">](plant-images/phillyrea.jpg)<br><a id="p-phillyrea"></a>[***Phillyrea angustifolia***](https://www.rhs.org.uk/plants/24488/phillyrea-angustifolia/details)<br>Phillyrea<br><sub>New</sub>| **2** | 5L | 2.5–4m × 1.5–2.5m† | May–Jun | Glossy, self-shaping Mediterranean evergreen — narrow willow-like leaves, small white scented flowers in late spring. The naturally shapely structure plant the palette was missing. | N1(E), M2(E) — south half |
-|[<img src="plant-images/elaeagnus.jpg" width="220" title="Elaeagnus × ebbingei — click to enlarge">](plant-images/elaeagnus.jpg)<br><a id="p-elaeagnus"></a>[***Elaeagnus* × *ebbingei***](https://www.rhs.org.uk/plants/93213/elaeagnus-x-ebbingei/details)<br>Oleaster<br><sub>New</sub>| **1** | 7.5L | 2.5–4m × 2.5–4m† | Oct–Nov | Silvery evergreen; tiny, almost invisible flowers in October and November perfume the whole end of the terrace — the scent the terrace is named for. The best salt windbreak of all. Reduced once a year from the front, like the Atriplex. | M2(E) — south half |
+|[<img src="plant-images/escallonia.jpg" width="220" title="Escallonia 'Apple Blossom' — click to enlarge">](plant-images/escallonia.jpg)<br><a id="p-esc-ab"></a>[***Escallonia* 'Apple Blossom'**](https://www.rhs.org.uk/plants/96211/escallonia-apple-blossom/details)<br>Escallonia<br><sub>New</sub>| **2** | 7.5L | 1.5–2.5m × 1.5–2.5m† | Jun–Sep | Shell-pink Jun–Sep. Grown here as an informal 1.5–2m shrub, not a clipped hedge — the most compact Escallonia, and it needs only an occasional reduction from the front. | M2(E) — south half, M2(S) |
+|[<img src="plant-images/olearia.jpg" width="220" title="Olearia × haastii — click to enlarge">](plant-images/olearia.jpg)<br><a id="p-olearia"></a>[***Olearia* × *haastii***](https://www.rhs.org.uk/plants/94555/olearia-x-haastii/details)<br>Daisy bush<br><sub>New</sub>| **1** | 5L | 1.5–2m × 2m† | Jul–Aug | The classic seaside daisy bush — white daisies in high summer, replacing the oleaster the review took out. The best salt windbreak on this run; occasional reduction from the front, like the Atriplex. | M2(E) — south half |
 
 ### Layer 3 — Mediterranean mid-layer
 
 | Plant | Total | Supply | Mature H × S | Flowers | Note | Goes in |
 |:---:|---|---|---|---|---|---|
 |[<img src="plant-images/tomthumb.jpg" width="220" title="Pittosporum tenuifolium 'Tom Thumb' — click to enlarge">](plant-images/tomthumb.jpg)<br><a id="p-tomthumb"></a>[***Pittosporum tenuifolium* 'Tom Thumb'**](https://www.rhs.org.uk/plants/77301/pittosporum-tenuifolium-tom-thumb/details)<br>Purple dwarf kohuhu<br><sub>Sussex Sq</sub>| **6** | 5L | 0.5–1m × 0.5–1m† | — | Naturally rounded 1m dome of deep purple-bronze foliage, no pruning ever. The foliage-colour contrast the scheme was missing, and it stays on the cool palette. | N1(E), M1(W), M4, Group D |
-|[<img src="plant-images/euphorbia.jpg" width="220" title="Euphorbia characias subsp. wulfenii — click to enlarge">](plant-images/euphorbia.jpg)<br><a id="p-euphorbia"></a>[***Euphorbia characias* subsp. *wulfenii***](https://www.rhs.org.uk/plants/99051/euphorbia-characias-subsp-wulfenii/details)<br>Mediterranean spurge<br><sub>Sussex Sq</sub>| **4** | 3–5L | 1–1.5m × 1–1.5m† | Feb–May | Feb–May chartreuse bracts; evergreen architecture year-round. Sap is an irritant — gloves. | N1(E), M1(W), M2(E) — south half, M2(S) |
+|[<img src="plant-images/tobira.jpg" width="220" title="Pittosporum tobira 'Nanum' — click to enlarge">](plant-images/tobira.jpg)<br><a id="p-tobira"></a>[***Pittosporum tobira* 'Nanum'**](https://www.rhs.org.uk/plants/61258/pittosporum-tobira-nanum/details)<br>Dwarf Japanese pittosporum<br><sub>Sussex Sq</sub>| **2** | 3L | 0.6–1m × 0.6–1m† | May–Jun | Self-shaping glossy dome; honey-scented cream flowers May–Jun. Replaces *Euphorbia wulfenii*, which the client asked out of the scheme. | N1(E), M2(E) — south half |
 |[<img src="plant-images/brachy.jpg" width="220" title="Brachyglottis 'Sunshine' — click to enlarge">](plant-images/brachy.jpg)<br><a id="p-brachy"></a>[***Brachyglottis* 'Sunshine'**](https://www.rhs.org.uk/plants/86133/brachyglottis-dunedin-group-sunshine/details)<br>Dunedin daisy bush<br><sub>Sussex Sq</sub>| **3** | 3L | 1–1.5m × 1–1.5m† | Jun–Jul | Silver felted evergreen; yellow daisies Jun–Jul (shear the buds off if unwanted). | N1(E), M1(W), M2(S) |
 |[<img src="plant-images/pitto_silver.jpg" width="220" title="Pittosporum tenuifolium 'Golf Ball' — click to enlarge">](plant-images/pitto_silver.jpg)<br><a id="p-golfball"></a>[***Pittosporum tenuifolium* 'Golf Ball'**](https://www.rhs.org.uk/plants/246352/pittosporum-tenuifolium-golf-ball/details)<br>Dwarf kohuhu<br><sub>Sussex Sq</sub>| **2** | 5L | 0.5–1m × 0.5–1m† | — | Naturally spherical evergreen, clipped to 60–80cm. The repeating rhythm that holds the scheme together in winter. | N1(E), M1(N) |
-|[<img src="plant-images/cistus.jpg" width="220" title="Cistus × purpureus 'Alan Fradd' — click to enlarge">](plant-images/cistus.jpg)<br><a id="p-cistus"></a>[***Cistus* × *purpureus* 'Alan Fradd'**](https://www.rhs.org.uk/plants/91672/cistus-purpureus-alan-fradd/details)<br>Rock rose<br><sub>Springfield Rd</sub>| **2** | 3L | 0.5–1m × 0.5–1m† | Jun–Jul | White with a maroon blotch, Jun–Jul. Spectacular; short-lived (~10 yrs). | M2(E) — south half, M2(S) |
+|[<img src="plant-images/cistus.jpg" width="220" title="Cistus × purpureus 'Alan Fradd' — click to enlarge">](plant-images/cistus.jpg)<br><a id="p-cistus"></a>[***Cistus* × *purpureus* 'Alan Fradd'**](https://www.rhs.org.uk/plants/91672/cistus-purpureus-alan-fradd/details)<br>Rock rose<br><sub>Springfield Rd</sub>| **3** | 3L | 0.5–1m × 0.5–1m† | Jun–Jul | White with a maroon blotch, Jun–Jul. Spectacular; short-lived (~10 yrs). | M1(W), M2(E) — south half, M2(S) |
 |[<img src="plant-images/teucrium.jpg" width="220" title="Teucrium fruticans 'Azureum' — click to enlarge">](plant-images/teucrium.jpg)<br><a id="p-teucrium"></a>[***Teucrium fruticans* 'Azureum'**](https://www.rhs.org.uk/plants/74406/teucrium-fruticans-azureum/details)<br>Tree germander<br><sub>New</sub>| **2** | 3L | 1–1.5m × 1–1.5m† | May–Sep | Silver-blue evergreen foliage; deep blue flowers May–Sep. | M2(E) — south half, M2(S) |
 |[<img src="plant-images/coronilla.jpg" width="220" title="Coronilla valentina subsp. glauca 'Citrina' — click to enlarge">](plant-images/coronilla.jpg)<br><a id="p-coronilla"></a>[***Coronilla valentina* subsp. *glauca* 'Citrina'**](https://www.rhs.org.uk/plants/53148/coronilla-valentina-subsp-glauca-citrina/details)<br>Yellow coronilla<br><sub>Sussex Sq</sub>| **2** | 3L | 0.5–1m × 0.5–1m† | Dec–Apr | Dec–Apr pale lemon, scented at midday — the winter-flowering shrub. | M2(E) — south half, M2(S) |
 |[<img src="plant-images/phlomis.jpg" width="220" title="Phlomis fruticosa — click to enlarge">](plant-images/phlomis.jpg)<br><a id="p-phlomis"></a>[***Phlomis fruticosa***](https://rhs.org.uk/plants/details?plantid=1426)<br>Jerusalem sage<br><sub>Sussex Sq</sub>| **1** | 3L | 0.5–1m × 1–1.5m† | Jun–Jul | Felted grey-green year-round; yellow whorls Jun–Jul, then sculptural seed heads. | M2(S) |
@@ -1087,25 +1106,25 @@ Photographs link through to the RHS entry. **Where it came from** is the provena
 | Plant | Total | Supply | Mature H × S | Flowers | Note | Goes in |
 |:---:|---|---|---|---|---|---|
 |[<img src="plant-images/lavandula.jpg" width="220" title="Lavandula angustifolia 'Hidcote' — click to enlarge">](plant-images/lavandula.jpg)<br><a id="p-lav-hidcote"></a>[***Lavandula angustifolia* 'Hidcote'**](https://www.rhs.org.uk/plants/96353/lavandula-angustifolia-hidcote/details)<br>English lavender<br><sub>Springfield Rd</sub>| **16** | 2L | 0.1–0.5m × 0.5–1m† | Jun–Aug | Deep purple, Jun–Aug. | N1(E), N2, N4, M1(W), Group A |
-|[<img src="plant-images/stachys.jpg" width="220" title="Stachys byzantina 'Big Ears' — click to enlarge">](plant-images/stachys.jpg)<br><a id="p-stachys"></a>[***Stachys byzantina* 'Big Ears'**](https://www.rhs.org.uk/plants/83020/stachys-byzantina-big-ears/details)<br>Lamb's ears<br><sub>Sussex Sq</sub>| **9** | 1L | 0.1–0.5m × 0.5–1m† | Jun–Sep | Silver felted mats year-round. Wool carder bees strip the leaf hairs to line their nests. | N1(E), M1(W), M2(E) — south half |
 |[<img src="plant-images/erigeron.jpg" width="220" title="Erigeron karvinskianus — click to enlarge">](plant-images/erigeron.jpg)<br><a id="p-erigeron"></a>[***Erigeron karvinskianus***](https://www.rhs.org.uk/plants/32487/erigeron-karvinskianus/details)<br>Mexican fleabane<br><sub>Sussex Sq</sub>| **2** | 1L | 0.1–0.5m × 0.5–1m† | Apr–Nov | Apr–Nov — nine months of tiny white-to-pink daisies. Self-seeds into paving joints. | N1(E) |
 |[<img src="plant-images/hebe.jpg" width="220" title="Hebe (Veronica) 'Rakaiensis' — click to enlarge">](plant-images/hebe.jpg)<br><a id="p-hebe"></a>[***Hebe* (*Veronica*) 'Rakaiensis'**](https://www.rhs.org.uk/plants/8357/rakai-hebe/details)<br>Shrubby veronica<br><sub>Springfield Rd</sub>| **4** | 2L | 0.5–1m × 1–1.5m† | Jun–Jul | Tight bright-green evergreen domes; white spikes Jun–Jul. | M4, M7 |
-|[<img src="plant-images/armeria.jpg" width="220" title="Armeria maritima — click to enlarge">](plant-images/armeria.jpg)<br><a id="p-armeria"></a>[***Armeria maritima***](https://www.rhs.org.uk/plants/1597/armeria-maritima/details)<br>Sea thrift<br><sub>New</sub>| **10** | 9cm–1L | 0.1–0.5m × 0.1–0.5m† | Apr–Jun | UK coastal native. Pink pompoms Apr–Jun over evergreen cushions. | N1(N), M2(E) — north half, M4 |
-|[<img src="plant-images/festuca.jpg" width="220" title="Festuca glauca 'Elijah Blue' — click to enlarge">](plant-images/festuca.jpg)<br><a id="p-festuca"></a>[***Festuca glauca* 'Elijah Blue'**](https://www.rhs.org.uk/plants/104179/festuca-glauca-elijah-blue/details)<br>Blue fescue<br><sub>Sussex Sq</sub>| **7** | 1L | 0.1–0.5m × 0.1–0.5m† | Late spring–summer | Blue-grey evergreen tussock — texture at the front all year. | N1(N), N2, M2(E) — north half |
-|[<img src="plant-images/dianthus.jpg" width="220" title="Dianthus gratianopolitanus — click to enlarge">](plant-images/dianthus.jpg)<br><a id="p-dianthus"></a>[***Dianthus gratianopolitanus***](https://www.rhs.org.uk/plants/5722/dianthus-gratianopolitanus/details)<br>Cheddar pink<br><sub>New</sub>| **6** | 1L | 0.1–0.5m × 0.1–0.5m† | May–Jul | UK native. Evergreen grey mats; strongly clove-scented May–Jul. | M2(E) — north half, M4, Group C |
+|[<img src="plant-images/armeria.jpg" width="220" title="Armeria maritima — click to enlarge">](plant-images/armeria.jpg)<br><a id="p-armeria"></a>[***Armeria maritima***](https://www.rhs.org.uk/plants/1597/armeria-maritima/details)<br>Sea thrift<br><sub>New</sub>| **12** | 9cm–1L | 0.1–0.5m × 0.1–0.5m† | Apr–Jun | UK coastal native. Pink pompoms Apr–Jun over evergreen cushions. | N1(N), M2(E) — north half, M4 |
+|[<img src="plant-images/festuca.jpg" width="220" title="Festuca glauca 'Elijah Blue' — click to enlarge">](plant-images/festuca.jpg)<br><a id="p-festuca"></a>[***Festuca glauca* 'Elijah Blue'**](https://www.rhs.org.uk/plants/104179/festuca-glauca-elijah-blue/details)<br>Blue fescue<br><sub>Sussex Sq</sub>| **3** | 1L | 0.1–0.5m × 0.1–0.5m† | Late spring–summer | Blue-grey evergreen tussock — texture at the front all year. Kept only in the M2(E) shingle bank now; N1(N) and N2 swapped it for sea thrift and cheddar pinks. | M2(E) — north half |
+|[<img src="plant-images/dianthus.jpg" width="220" title="Dianthus gratianopolitanus — click to enlarge">](plant-images/dianthus.jpg)<br><a id="p-dianthus"></a>[***Dianthus gratianopolitanus***](https://www.rhs.org.uk/plants/5722/dianthus-gratianopolitanus/details)<br>Cheddar pink<br><sub>New</sub>| **8** | 1L | 0.1–0.5m × 0.1–0.5m† | May–Jul | UK native. Evergreen grey mats; strongly clove-scented May–Jul. | N2, M2(E) — north half, M4, Group C |
 |[<img src="plant-images/salvia_micro.jpg" width="220" title="Salvia microphylla 'Amethyst Lips' — click to enlarge">](plant-images/salvia_micro.jpg)<br><a id="p-amethyst"></a>[***Salvia microphylla* 'Amethyst Lips'**](https://www.rhs.org.uk/plants/374047/salvia-amethyst-lips-dyspurp/details)<br>Shrubby sage<br><sub>Sussex Sq</sub>| **3** | 2L | 0.5–1m × 0.5–1m† | Jun–Oct | May–Nov purple-and-white; blackcurrant-scented leaves when brushed. | N4, Group D |
 |[<img src="plant-images/hylo.jpg" width="220" title="Hylotelephium 'Matrona' — click to enlarge">](plant-images/hylo.jpg)<br><a id="p-hylo"></a>[***Hylotelephium* 'Matrona'**](https://www.rhs.org.uk/plants/356925/hylotelephium-matrona/details)<br>Stonecrop / iceplant<br><sub>Sussex Sq</sub>| **7** | 2L | 0.5–1m × 0.1–0.5m† | Aug–Oct | Aug–Oct dusky pink on purple stems, then seed heads standing all winter. | N2, M1(W), M2(E) — south half, M4 |
 |[<img src="plant-images/iris_ung.jpg" width="220" title="Iris unguicularis — click to enlarge">](plant-images/iris_ung.jpg)<br><a id="p-iris-ung"></a>[***Iris unguicularis***](https://www.rhs.org.uk/plants/24998/iris-unguicularis/details)<br>Algerian iris<br><sub>New</sub>| **5** | 1–2L | 0.1–0.5m × 0.1–0.5m† | Nov–Mar | Nov–March lilac-blue, scented. Demands exactly this: poor, sharply drained soil with a hot dry summer bake. | M2(E) — south half, M2(S) |
 |[<img src="plant-images/euph_myrs.jpg" width="220" title="Euphorbia myrsinites — click to enlarge">](plant-images/euph_myrs.jpg)<br><a id="p-euph-myrs"></a>[***Euphorbia myrsinites***](https://www.rhs.org.uk/plants/7073/euphorbia-myrsinites/details)<br>Myrtle spurge<br><sub>Sussex Sq</sub>| **5** | 1L | up to 10cm × 0.1–0.5m† | Mar–May | Trailing blue-grey succulent whorls, only 15cm high, with chartreuse bracts Mar–May. Drapes over a rim and never needs cutting. Sap is an irritant. | M2(E) — north half, M4 |
 |[<img src="plant-images/nepeta.jpg" width="220" title="Nepeta × faassenii 'Walker's Low' — click to enlarge">](plant-images/nepeta.jpg)<br><a id="p-nepeta"></a>[***Nepeta* × *faassenii* 'Walker's Low'**](https://www.rhs.org.uk/plants/210480/nepeta-faassenii-walker-s-low/details)<br>Catmint<br><sub>Sussex Sq</sub>| **9** | 1–2L | 0.1–0.5m × 0.1–0.5m† | Jun–Sep | Blue haze Jun–Sep if sheared after the first flush. | N1(E), M1(W), M1(N) |
 |[<img src="plant-images/convolvulus.jpg" width="220" title="Convolvulus cneorum — click to enlarge">](plant-images/convolvulus.jpg)<br><a id="p-convolvulus"></a>[***Convolvulus cneorum***](https://www.rhs.org.uk/plants/4333/convolvulus-cneorum/details)<br>Silverbush<br><sub>New</sub>| **3** | 2L | 0.5–1m × 0.5–1m† | May–Sep | The most metallic silver evergreen here; white trumpets May–Sep. | M7, Group A, Group D |
-|[<img src="plant-images/santolina.jpg" width="220" title="Santolina chamaecyparissus — click to enlarge">](plant-images/santolina.jpg)<br><a id="p-santolina"></a>[***Santolina chamaecyparissus***](https://www.rhs.org.uk/plants/19856/santolina-chamaecyparissus-lavender-cotton-cotton-lavender/details)<br>Cotton lavender<br><sub>Sussex Sq</sub>| **3** | 2L | 0.1–0.5m × 0.5–1m† | Summer | Tight silver dome. Shear the buds in June if the yellow buttons jar; sheared, it drops nothing into the tub. | N4, Group C |
+|[<img src="plant-images/santolina.jpg" width="220" title="Santolina chamaecyparissus — click to enlarge">](plant-images/santolina.jpg)<br><a id="p-santolina"></a>[***Santolina chamaecyparissus***](https://www.rhs.org.uk/plants/19856/santolina-chamaecyparissus-lavender-cotton-cotton-lavender/details)<br>Cotton lavender<br><sub>Sussex Sq</sub>| **9** | 2L | 0.1–0.5m × 0.5–1m† | Summer | Tight silver dome. Shear the buds in June if the yellow buttons jar; sheared, it drops nothing into the tub. Replaces *Stachys byzantina* in the N1(E) and M2(E) south ribbons. | N1(E), N4, M2(E) — south half, Group C |
 |[<img src="plant-images/rosemary.jpg" width="220" title="Salvia rosmarinus 'Severn Sea' — click to enlarge">](plant-images/rosemary.jpg)<br><a id="p-rose-severn"></a>[***Salvia rosmarinus* 'Severn Sea'**](https://www.rhs.org.uk/plants/386349/salvia-rosmarinus-severn-sea-ro/details)<br>Semi-prostrate rosemary<br><sub>Sussex Sq</sub>| **4** | 2L | 0.5–1m × 0.5–1m† | Feb–May | Feb–May vivid blue — flowers when almost nothing else does. Arches over the rim. | N1(E), M7 |
 |[<img src="plant-images/salvia_nem.jpg" width="220" title="Salvia nemorosa 'Caradonna' — click to enlarge">](plant-images/salvia_nem.jpg)<br><a id="p-caradonna"></a>[***Salvia nemorosa* 'Caradonna'**](https://www.rhs.org.uk/plants/194596/salvia-nemorosa-caradonna/details)<br>Balkan clary<br><sub>Sussex Sq</sub>| **3** | 1–2L | 0.1–0.5m × 0.1–0.5m† | May–Jul | Violet spikes on black stems, May–Jul — the sharpest contrast against silver foliage. | M1(W) |
 |[<img src="plant-images/eryngium.jpg" width="220" title="Eryngium bourgatii 'Picos Blue' — click to enlarge">](plant-images/eryngium.jpg)<br><a id="p-eryngium"></a>[***Eryngium bourgatii* 'Picos Blue'**](https://www.rhs.org.uk/plants/129742/eryngium-bourgatii-picos-blue/details)<br>Sea holly<br><sub>Sussex Sq</sub>| **3** | 1–2L | 0.5–1m × 0.1–0.5m† | Jun–Aug | Steel-blue thistle heads Jun–Aug over silver-veined leaves. Wind-proof; top-rated for pollinators. | M2(E) — south half |
 |[<img src="plant-images/crithmum.jpg" width="220" title="Crithmum maritimum — click to enlarge">](plant-images/crithmum.jpg)<br><a id="p-crithmum"></a>[***Crithmum maritimum***](https://www.rhs.org.uk/plants/24479/crithmum-maritimum/details)<br>Rock samphire<br><sub>New</sub>| **2** | 1L | 0.1–0.5m × 0.1–0.5m† | Apr–Sep | UK shingle-shore native, found on the Sussex coast. Succulent blue-green; edible. Sited at the driest edge — a shingle plant that flops in fed compost; an experiment worth two plants. | M2(E) — north half |
 |[<img src="plant-images/aster.jpg" width="220" title="Aster × frikartii 'Mönch' — click to enlarge">](plant-images/aster.jpg)<br><a id="p-aster"></a>[***Aster* × *frikartii* 'Mönch'**](https://www.rhs.org.uk/plants/93410/aster-x-frikartii-monch/details)<br>Michaelmas daisy<br><sub>Sussex Sq</sub>| **3** | 2L | 0.5–1m × 0.1–0.5m† | Aug–Oct | Aug–Oct lavender-blue — critical late nectar for butterflies before hibernation. | M2(E) — south half |
-|[<img src="plant-images/yangii.jpg" width="220" title="Salvia yangii 'Little Spire' — click to enlarge">](plant-images/yangii.jpg)<br><a id="p-yangii"></a>[***Salvia yangii* 'Little Spire'**](https://www.rhs.org.uk/plants/135978/perovskia-atriplicifolia-little-spire/details)<br>Russian sage<br><sub>New</sub>| **3** | 2L | 0.5–1m × 0.5–1m† | Aug–Oct | Aug–Oct blue haze on silver stems. The compact form — the species flops in wind. | M2(S) |
+|[<img src="plant-images/yangii.jpg" width="220" title="Salvia yangii 'Little Spire' — click to enlarge">](plant-images/yangii.jpg)<br><a id="p-yangii"></a>[***Salvia yangii* 'Little Spire'**](https://www.rhs.org.uk/plants/135978/perovskia-atriplicifolia-little-spire/details)<br>Russian sage<br><sub>New</sub>| **5** | 2L | 0.5–1m × 0.5–1m† | Aug–Oct | Aug–Oct blue haze on silver stems. The compact form, kept over the taller 'Blue Spires', which flops in wind. | M2(S) |
+|[<img src="plant-images/gaura.jpg" width="220" title="Oenothera lindheimeri 'Whirling Butterflies' — click to enlarge">](plant-images/gaura.jpg)<br><a id="p-gaura"></a>[***Oenothera lindheimeri* 'Whirling Butterflies'**](https://www.rhs.org.uk/plants/386447/oenothera-lindheimeri-whirling-butterflies-g/details)<br>Gaura<br><sub>New</sub>| **3** | 2L | 0.5–1m × 0.5–1m† | Jun–Oct | White butterflies on wiry stems that ride the wind all summer; hates only winter wet. Replaces *Stachys byzantina* in the M1(W) ribbon. | M1(W) |
 |[<img src="plant-images/erysimum.jpg" width="220" title="Erysimum 'Bowles's Mauve' — click to enlarge">](plant-images/erysimum.jpg)<br><a id="p-erysimum"></a>[***Erysimum* 'Bowles's Mauve'**](https://www.rhs.org.uk/plants/91464/erysimum-bowless-mauve/details)<br>Perennial wallflower<br><sub>New</sub>| **3** | 2L | 0.5–1m × 0.5–1m† | Mar–Nov | Mar–Nov, almost continuously. Unbeatable first-year value; short-lived (~3 yrs). | M2(S) |
 |[<img src="plant-images/helictotrichon.jpg" width="220" title="Helictotrichon sempervirens — click to enlarge">](plant-images/helictotrichon.jpg)<br><a id="p-helictotrichon"></a>[***Helictotrichon sempervirens***](https://www.rhs.org.uk/plants/8555/helictotrichon-sempervirens/details)<br>Blue oat grass<br><sub>New</sub>| **9** | 2L | 1–1.5m × 0.5–1m† | Summer | Blue-grey evergreen tussock grass, taller and more architectural than the fescues — oat-like flower plumes catch the wind all summer. “The wind made visible”, from the lounge and the dining table alike. Comb out dead leaves in spring. | N1(E), M2(S), M4 |
 
@@ -1113,22 +1132,23 @@ Photographs link through to the RHS entry. **Where it came from** is the provena
 
 | Plant | Total | Supply | Mature H × S | Flowers | Note | Goes in |
 |:---:|---|---|---|---|---|---|
-|[<img src="plant-images/thymus.jpg" width="220" title="Thymus vulgaris · T. 'Silver Posie' · T. serpyllum — click to enlarge">](plant-images/thymus.jpg)<br><a id="p-thymus"></a>[***Thymus vulgaris* · *T.* 'Silver Posie' · *T. serpyllum***](https://www.rhs.org.uk/plants/18213/thymus-vulgaris/details)<br>Thyme — 3 forms<br><sub>New</sub>| **12** | 9cm | 0.1–0.5m × 0.1–0.5m† | Early summer | Evergreen culinary mats; bees swarm the flowers. | N3, N4, M7, Group C |
+|[<img src="plant-images/thymus.jpg" width="220" title="Thymus vulgaris · T. 'Purple Beauty' · T. serpyllum — click to enlarge">](plant-images/thymus.jpg)<br><a id="p-thymus"></a>[***Thymus vulgaris* · *T.* 'Purple Beauty' · *T. serpyllum***](https://www.rhs.org.uk/plants/18213/thymus-vulgaris/details)<br>Thyme — 3 forms<br><sub>New</sub>| **12** | 9cm | 0.1–0.5m × 0.1–0.5m† | Early summer | Evergreen culinary mats; bees swarm the flowers. | N3, N4, M7, Group C |
 |[<img src="plant-images/rosemary.jpg" width="220" title="Salvia rosmarinus 'Prostratus' — click to enlarge">](plant-images/rosemary.jpg)<br><a id="p-rose-prost"></a>[***Salvia rosmarinus* 'Prostratus'**](https://www.rhs.org.uk/plants/386334/salvia-rosmarinus-prostrata-group-ro/details)<br>Trailing rosemary<br><sub>Springfield Rd</sub>| **8** | 2L | 0.1–0.5m × 1–1.5m† | Spring–summer | Evergreen, culinary; trails over the planter edges. | N4, M4, Group C |
 |[<img src="plant-images/rosemary.jpg" width="220" title="Salvia rosmarinus 'Miss Jessopp's Upright' — click to enlarge">](plant-images/rosemary.jpg)<br><a id="p-rose-upright"></a>[***Salvia rosmarinus* 'Miss Jessopp's Upright'**](https://www.rhs.org.uk/plants/384683/salvia-rosmarinus-miss-jessopps-upright-ro/details)<br>Upright rosemary<br><sub>Sussex Sq</sub>| **4** | 2L | 1.5–2.5m × 1–1.5m† | Feb–May | Evergreen, culinary; blue flowers Feb–May. | N3, N4 |
 |[<img src="plant-images/origanum.jpg" width="220" title="Origanum 'Herrenhausen' — click to enlarge">](plant-images/origanum.jpg)<br><a id="p-origanum-h"></a>[***Origanum* 'Herrenhausen'**](https://www.rhs.org.uk/plants/41793/origanum-herrenhausen/details)<br>Ornamental marjoram<br><sub>New</sub>| **4** | 1L | 0.1–0.5m × 0.1–0.5m† | Jul–Sep | Purple bracts Jul–Sep — one of the highest-rated butterfly plants there is. | N3, N4 |
-|[<img src="plant-images/chives.jpg" width="220" title="Allium schoenoprasum — click to enlarge">](plant-images/chives.jpg)<br><a id="p-chives"></a>[***Allium schoenoprasum***](https://www.rhs.org.uk/plants/859/allium-schoenoprasum-chives-cive/details)<br>Chives<br><sub>New</sub>| **3** | 1L | 0.1–0.5m × 0–0.1m† | Jun | Culinary; mauve pompoms in June are a genuine bee magnet. | N4, Group B |
+|[<img src="plant-images/chives.jpg" width="220" title="Allium schoenoprasum — click to enlarge">](plant-images/chives.jpg)<br><a id="p-chives"></a>[***Allium schoenoprasum***](https://www.rhs.org.uk/plants/859/allium-schoenoprasum-chives-cive/details)<br>Chives<br><sub>New</sub>| **5** | 1L | 0.1–0.5m × 0–0.1m† | Jun | Culinary; mauve pompoms in June are a genuine bee magnet. | N4, Group B |
 |[<img src="plant-images/mint.jpg" width="220" title="Mentha spicata · M. 'Moroccan' · M. suaveolens — click to enlarge">](plant-images/mint.jpg)<br><a id="p-mint"></a>[***Mentha spicata* · *M.* 'Moroccan' · *M. suaveolens***](https://www.rhs.org.uk/plants/11055/mentha-spicata/details)<br>Mint — 3 kinds<br><sub>New</sub>| **3** | 2L | 0.5–1m × 1–1.5m† | Summer | Garden mint for cooking, Moroccan for tea, apple mint. Never plant mint into a shared bed — the runners take the whole thing in one season. Wants more water than everything else, so give its pots their own dripper. | Group B |
 |[<img src="plant-images/parsley.jpg" width="220" title="Petroselinum crispum — click to enlarge">](plant-images/parsley.jpg)<br><a id="p-parsley"></a>[***Petroselinum crispum***](https://www.rhs.org.uk/plants/41248/petroselinum-crispum/details)<br>Flat-leaf parsley<br><sub>New</sub>| **3** | 1L | 0.1–0.5m × 0.1–0.5m† | Summer (2nd yr) | Biennial — renew annually. Wants more water and less sun than the Mediterranean herbs, so keep it potted in the part-shaded south end. | Group B |
 |[<img src="plant-images/coriander.jpg" width="220" title="Coriandrum sativum — click to enlarge">](plant-images/coriander.jpg)<br><a id="p-coriander"></a>[***Coriandrum sativum***](https://www.rhs.org.uk/plants/4371/coriandrum-sativum/details)<br>Coriander<br><sub>New</sub>| **3** | 9cm | 0.1–0.5m × 0.1–0.5m† | Summer–early autumn | Culinary. Basil's replacement in the pot run — salt wind shreds it even in the lee, so coriander (tougher, and just as useful in the kitchen) takes the slot instead. | Group B |
-|[<img src="plant-images/phormium.jpg" width="220" title="Phormium 'Bronze Baby' — click to enlarge">](plant-images/phormium.jpg)<br><a id="p-phormium"></a>[***Phormium* 'Bronze Baby'**](https://www.rhs.org.uk/plants/92561/phormium-bronze-baby/details)<br>Bronze New Zealand flax<br><sub>Sussex Sq</sub>| **2** | 5L | 0.5–1m × 0.5–1m† | Summer (rare) | Bronze evergreen sword foliage — architecture, and bullet-proof in salt wind. The compact bronze form; the full *P. tenax* would swallow this square in four years. | N2, Group A |
+|[<img src="plant-images/phormium.jpg" width="220" title="Phormium 'Bronze Baby' — click to enlarge">](plant-images/phormium.jpg)<br><a id="p-phormium"></a>[***Phormium* 'Bronze Baby'**](https://www.rhs.org.uk/plants/92561/phormium-bronze-baby/details)<br>Bronze New Zealand flax<br><sub>Sussex Sq</sub>| **1** | 5L | 0.5–1m × 0.5–1m† | Summer (rare) | Bronze evergreen sword foliage — architecture, and bullet-proof in salt wind. The compact bronze form; the full *P. tenax* would swallow this square in four years. | N2 |
+|[<img src="plant-images/phormium.jpg" width="220" title="Phormium tenax — click to enlarge">](plant-images/phormium.jpg)<br><a id="p-phormium-tenax"></a>[***Phormium tenax***](https://www.rhs.org.uk/plants/12791/phormium-tenax/details)<br>New Zealand flax — client's own<br><sub>Springfield Rd</sub>| **1** | Client's own · plant not for supply (new pot in §7) | 2.5–4m × 1.5–2.5m† | Summer | The client's own established specimen, folded into the scheme (§6) rather than bought, taking the Group A pot slot. A second, matching specimen also stands with the kitchen pots (§6) but is not counted in this schedule — its new pot is in §7, and nothing else is bought for it | Group A |
 |[<img src="plant-images/origanum.jpg" width="220" title="Origanum vulgare — click to enlarge">](plant-images/origanum.jpg)<br><a id="p-origanum-v"></a>[***Origanum vulgare***](https://www.rhs.org.uk/plants/11923/origanum-vulgare/details)<br>Wild marjoram / oregano<br><sub>Sussex Sq</sub>| **2** | 1L | 0.5–1m × 0.5–1m† | Jul–Sep | UK native. The cooking oregano. | N4 |
 |[<img src="plant-images/sage.jpg" width="220" title="Salvia officinalis — click to enlarge">](plant-images/sage.jpg)<br><a id="p-sage-green"></a>[***Salvia officinalis***](https://www.rhs.org.uk/plants/16356/salvia-officinalis/details)<br>Common sage<br><sub>New</sub>| **2** | 2L | 0.5–1m × 0.5–1m† | Early summer | Evergreen grey-green; the cooking sage. | N4 |
 |[<img src="plant-images/sage.jpg" width="220" title="Salvia officinalis 'Purpurascens' — click to enlarge">](plant-images/sage.jpg)<br><a id="p-sage-purple"></a>[***Salvia officinalis* 'Purpurascens'**](https://www.rhs.org.uk/plants/153600/salvia-officinalis-purpurascens/details)<br>Purple sage<br><sub>New</sub>| **2** | 2L | 0.5–1m × 0.5–1m† | Summer | Culinary, and the purple foliage sits on the cool palette. | N3 |
 |[<img src="plant-images/savory.jpg" width="220" title="Satureja montana — click to enlarge">](plant-images/savory.jpg)<br><a id="p-savory"></a>[***Satureja montana***](https://www.rhs.org.uk/plants/16484/satureja-montana/details)<br>Winter savory<br><sub>New</sub>| **2** | 1L | 0.1–0.5m × 0.1–0.5m† | Summer | Evergreen Mediterranean herb — pepperiness for beans and stews. Underused and very tough. | N4 |
 |[<img src="plant-images/tarragon.jpg" width="220" title="Artemisia dracunculus — click to enlarge">](plant-images/tarragon.jpg)<br><a id="p-tarragon"></a>[***Artemisia dracunculus***](https://www.rhs.org.uk/plants/1632/artemisia-dracunculus/details)<br>French tarragon<br><sub>New</sub>| **2** | 1L | 0.5–1m × 0.1–0.5m† | Late summer | Culinary. Must be French, not Russian — Russian tarragon is near-flavourless. | N4 |
-|[<img src="plant-images/sorrel.jpg" width="220" title="Rumex acetosa — click to enlarge">](plant-images/sorrel.jpg)<br><a id="p-sorrel"></a>[***Rumex acetosa***](https://www.rhs.org.uk/plants/41751/rumex-acetosa/details)<br>Common sorrel<br><sub>New</sub>| **2** | 1L | 0.5–1m × 0.1–0.5m† | Early summer | Hardy perennial salad leaf, sharp and lemony. Happy in the part shade at the south end. | N4, Group B |
-|[<img src="plant-images/bay.jpg" width="220" title="Laurus nobilis — clipped — click to enlarge">](plant-images/bay.jpg)<br><a id="p-bay"></a>[***Laurus nobilis* — clipped**](https://www.rhs.org.uk/plants/9876/laurus-nobilis-bay-tree-bay/details)<br>Bay<br><sub>New</sub>| **1** | ~80cm, large pot | 8–12m × wider than 8m† | — | Evergreen, dark, on-palette, and a kitchen staple. Shade-tolerant, evergreen and on-palette — moved here from Group B; the olive that occupied this spot needs sun and has moved to Group C. | Group A |
+|[<img src="plant-images/fragaria.jpg" width="220" title="Fragaria vesca — click to enlarge">](plant-images/fragaria.jpg)<br><a id="p-fragaria"></a>[***Fragaria vesca***](https://www.rhs.org.uk/plants/7280/fragaria-vesca-f/details)<br>Alpine strawberry<br><sub>New</sub>| **5** | 9cm | 0.1–0.3m × 0.3m† | Apr–Jun (fruit Jun–Oct) | Picking fruit for the terrace; tolerates the lean mix. | N4 |
+|[<img src="plant-images/bay.jpg" width="220" title="Laurus nobilis — clipped — click to enlarge">](plant-images/bay.jpg)<br><a id="p-bay"></a>[***Laurus nobilis* — clipped**](https://www.rhs.org.uk/plants/9876/laurus-nobilis-bay-tree-bay/details)<br>Bay — client's own<br><sub>Springfield Rd</sub>| **1** | Client's own · plant not for supply (new pot in §7) | 8–12m × wider than 8m† | — | Evergreen, dark, on-palette, and a kitchen staple — shade-tolerant, so it holds the part-shaded Group A slot. Now the client's own tree rather than bought | Group A |
 |[<img src="plant-images/nepeta.jpg" width="220" title="Nepeta cataria — click to enlarge">](plant-images/nepeta.jpg)<br><a id="p-catnip"></a>[***Nepeta cataria***](https://www.rhs.org.uk/plants/81198/nepeta-cataria/details)<br>True catnip<br><sub>New</sub>| **1** | 1L | 0.5–1m × 0.5–1m† | Summer–autumn | For the cat. The real thing, far stronger than the ornamental catmints. Give it its own pot — she will roll on it and flatten it, and it recovers. | Group E |
 |[<img src="plant-images/festuca.jpg" width="220" title="Dactylis glomerata or oat / barley grass — click to enlarge">](plant-images/festuca.jpg)<br><a id="p-catgrass"></a>[***Dactylis glomerata* or oat / barley grass**](https://www.rhs.org.uk/plants/search-results?query=Dactylis%20glomerata%20or%20oat%20/%20barley%20grass)<br>Cat grass<br><sub>New</sub>| **1** | 1L or seed | — | — | For the cat. Safe to chew, and it saves the ornamental grasses from being nibbled. Re-sow twice a year. | Group E |
 
@@ -1158,15 +1178,14 @@ snowdrops, which we'd like **in the green**, delivered February–March.
 |[<img src="plant-images/allium_holl.jpg" width="220" title="Allium hollandicum 'Purple Sensation' — click to enlarge">](plant-images/allium_holl.jpg)<br><a id="b-all-purple"></a>[***Allium hollandicum* 'Purple Sensation'**](https://www.rhs.org.uk/plants/57088/allium-hollandicum-purple-sensation/details)<br>Ornamental onion<br><sub>Springfield Rd</sub>| **100** | May, purple drumsticks | Plant in drifts of 10–15 | N1(E), N1(N), M1(W), M2(E) — south half, M2(S) |
 |[<img src="plant-images/galanthus.jpg" width="220" title="Galanthus nivalis — click to enlarge">](plant-images/galanthus.jpg)<br><a id="b-galanthus"></a>[***Galanthus nivalis***](https://www.rhs.org.uk/plants/7568/galanthus-nivalis/details)<br>Snowdrop — buy in the green<br><sub>Springfield Rd</sub>| **100** | Jan–Feb, white | ⚠️ Confined to the part-shaded south end — buy in the green | N4, Group A |
 |[<img src="plant-images/tulipa_clus.jpg" width="220" title="Tulipa 'Little Beauty' — click to enlarge">](plant-images/tulipa_clus.jpg)<br><a id="b-tul-little"></a>[***Tulipa* 'Little Beauty'**](https://www.rhs.org.uk/plants/155507/tulipa-little-beauty-15/details)<br>Species tulip<br><sub>New</sub>| **90** | Apr, 15cm, magenta with a blue eye | Tiny, tough, and a jewel close up | N2, N3, N4, M2(E) — north half, M4, M7, Group C, Group D |
-|[<img src="plant-images/crocus_chry.jpg" width="220" title="Crocus 'Snow Bunting' — click to enlarge">](plant-images/crocus_chry.jpg)<br><a id="b-crocus-white"></a>[***Crocus* 'Snow Bunting'**](https://www.rhs.org.uk/plants/93896/crocus-chrysanthus-snow-bunting/details)<br>Crocus<br><sub>New</sub>| **90** | Feb, white, scented | The white February flower snowdrops can't do in sunny beds | N3, N4, M7, Group A |
+|[<img src="plant-images/crocus_chry.jpg" width="220" title="Crocus 'Snow Bunting' — click to enlarge">](plant-images/crocus_chry.jpg)<br><a id="b-crocus-white"></a>[***Crocus* 'Snow Bunting'**](https://www.rhs.org.uk/plants/93896/crocus-chrysanthus-snow-bunting/details)<br>Crocus<br><sub>New</sub>| **100** | Feb, white, scented | The white February flower snowdrops can't do in sunny beds | N3, N4, M7, Group A |
 |[<img src="plant-images/tulipa_clus.jpg" width="220" title="Tulipa clusiana 'Lady Jane' — click to enlarge">](plant-images/tulipa_clus.jpg)<br><a id="b-tul-clus"></a>[***Tulipa clusiana* 'Lady Jane'**](https://www.rhs.org.uk/plants/194056/tulipa-lady-jane-15/details)<br>Lady tulip<br><sub>Springfield Rd</sub>| **70** | Apr, white / rose | A species tulip — comes back every year, short enough not to snap | N1(E), N4, M1(W), M2(S), Group A |
-|[<img src="plant-images/narcissus.jpg" width="220" title="Narcissus 'Thalia' — click to enlarge">](plant-images/narcissus.jpg)<br><a id="b-narc-thalia"></a>[***Narcissus* 'Thalia'**](https://www.rhs.org.uk/plants/52833/narcissus-thalia-5/details)<br>Daffodil<br><sub>New</sub>| **60** | Apr, pure white, 35cm | The on-palette daffodil | N1(E), M1(W), M2(E) — south half, M7 |
 |[<img src="plant-images/tulipa_sax.jpg" width="220" title="Tulipa saxatilis (Bakeri Gp) 'Lilac Wonder' — click to enlarge">](plant-images/tulipa_sax.jpg)<br><a id="b-tul-sax"></a>[***Tulipa saxatilis* (Bakeri Gp) 'Lilac Wonder'**](https://www.rhs.org.uk/plants/67509/tulipa-saxatilis-bakeri-group-lilac-wonder-15/details)<br>Cretan tulip<br><sub>New</sub>| **60** | Apr, lilac-pink, yellow eye | Also perennialises; one of the best tulips for containers | N1(E), N1(N), N4, M2(E) — south half |
 |[<img src="plant-images/gladiolus.jpg" width="220" title="Gladiolus communis subsp. byzantinus — click to enlarge">](plant-images/gladiolus.jpg)<br><a id="b-gladiolus"></a>[***Gladiolus communis* subsp. *byzantinus***](https://www.rhs.org.uk/plants/89297/gladiolus-communis-subsp-byzantinus/details)<br>Byzantine gladiolus<br><sub>Springfield Rd</sub>| **50** | May–Jun, magenta | Thrives on dry sunny neglect and naturalises | N1(E), M2(E) — south half, M2(S) |
-|[<img src="plant-images/narc_poet.jpg" width="220" title="Narcissus poeticus var. recurvus — click to enlarge">](plant-images/narc_poet.jpg)<br><a id="b-narc-poet"></a>[***Narcissus poeticus* var. *recurvus***](https://www.rhs.org.uk/plants/76534/i-narcissus-poeticus-i-var-i-recurvus-i-(13)/details)<br>Pheasant's eye<br><sub>Springfield Rd</sub>| **50** | May, white with a red-rimmed eye | Scented, and the last daffodil of the season | M1(W), M2(E) — south half, M2(S) |
+|[<img src="plant-images/narc_poet.jpg" width="220" title="Narcissus poeticus var. recurvus — click to enlarge">](plant-images/narc_poet.jpg)<br><a id="b-narc-poet"></a>[***Narcissus poeticus* var. *recurvus***](https://www.rhs.org.uk/plants/76534/i-narcissus-poeticus-i-var-i-recurvus-i-(13)/details)<br>Pheasant's eye<br><sub>Springfield Rd</sub>| **100** | May, white with a red-rimmed eye | Scented, and the last daffodil of the season — now also standing in for 'Thalia', which the client asked out of the scheme | N1(E), M1(W), M2(E) — south half, M2(S) |
 |[<img src="plant-images/narcissus.jpg" width="220" title="Narcissus 'Rijnveld's Early Sensation' — click to enlarge">](plant-images/narcissus.jpg)<br><a id="b-narc-early"></a>[***Narcissus* 'Rijnveld's Early Sensation'**](https://www.rhs.org.uk/plants/55821/narcissus-rijnvelds-early-sensation-1/details)<br>Daffodil<br><sub>New</sub>| **40** | January | A genuine January trumpet daffodil, widely available and inexpensive | N1(E), M2(E) — south half, M2(S) |
 |[<img src="plant-images/cyclamen_hed.jpg" width="220" title="Cyclamen hederifolium — click to enlarge">](plant-images/cyclamen_hed.jpg)<br><a id="b-cyc-hed"></a>[***Cyclamen hederifolium***](https://www.rhs.org.uk/plants/5145/cyclamen-hederifolium/details)<br>Ivy-leaved cyclamen<br><sub>New</sub>| **38** | Sept–Nov, pink / white | Flowers before the leaves, then marbled foliage all winter | N4, Group A, Group B, Group E |
-|[<img src="plant-images/nerine.jpg" width="220" title="Nerine bowdenii — click to enlarge">](plant-images/nerine.jpg)<br><a id="b-nerine"></a>[***Nerine bowdenii***](https://www.rhs.org.uk/plants/11514/nerine-bowdenii/details)<br>Guernsey lily<br><sub>New</sub>| **37** | October, pink | The only October flower in the scheme | N2, M2(E) — south half, M2(S), M4, Group C |
+|[<img src="plant-images/crocus_speciosus.jpg" width="220" title="Crocus speciosus — click to enlarge">](plant-images/crocus_speciosus.jpg)<br><a id="b-crocus-speciosus"></a>[***Crocus speciosus***](https://www.rhs.org.uk/plants/4941/crocus-speciosus/details)<br>Autumn crocus<br><sub>New</sub>| **37** | October, violet-blue | The client's preferred autumn flower, replacing *Nerine bowdenii* | N2, M2(E) — south half, M2(S), M4, Group C |
 |[<img src="plant-images/allium_crist.jpg" width="220" title="Allium cristophii — click to enlarge">](plant-images/allium_crist.jpg)<br><a id="b-all-crist"></a>[***Allium cristophii***](https://www.rhs.org.uk/plants/816/allium-cristophii/details)<br>Star of Persia<br><sub>Springfield Rd</sub>| **30** | May–Jun | The best seed head of any allium — stands until Christmas | N2, M1(W), M2(E) — south half, M2(S) |
 |[<img src="plant-images/cyclamen_coum.jpg" width="220" title="Cyclamen coum — click to enlarge">](plant-images/cyclamen_coum.jpg)<br><a id="b-cyc-coum"></a>[***Cyclamen coum***](https://www.rhs.org.uk/plants/5135/cyclamen-coum/details)<br>Eastern cyclamen<br><sub>New</sub>| **30** | Jan–Mar, pink / white | A dry-shade specialist with summer dormancy | N4, Group A |
 |[<img src="plant-images/nectaroscordum.jpg" width="220" title="Nectaroscordum siculum — click to enlarge">](plant-images/nectaroscordum.jpg)<br><a id="b-nectaro"></a>[***Nectaroscordum siculum***](https://www.rhs.org.uk/plants/96507/nectaroscordum-siculum/details)<br>Sicilian honey garlic<br><sub>New</sub>| **20** | Jun, cream / green / maroon bells | Subtle, and superb seed heads | N1(E), M1(W), M2(S) |
@@ -1182,7 +1201,7 @@ seasons, plus evergreen structure to hold it together when nothing is flowering.
 |---|---|---|---|---|---|---|
 | **N1(E)** | ● | ● | ● | ● | ● | rosemary, crocus, seed heads |
 | **N1(N)** | ● | ● | ● | ● | ● | olive, myrtle, crocus |
-| **N2** | ● | ● | ● | ● | ● | Phormium, fescue, stonecrop heads |
+| **N2** | ● | ● | ● | ● | ● | Phormium, cheddar pinks, stonecrop heads |
 | **N3** | ● | ● | ● | ● | ● | rosemary, sage, thyme — all evergreen |
 | **N4** | ● | ● | ● | ● | ● | *Sarcococca*, hellebore, snowdrops, cyclamen |
 | **M1(W)** | ● | ● | ● | ● | ● | *Euphorbia*, myrtle, 'Tom Thumb' |
@@ -1209,7 +1228,7 @@ four hundred crocus.
 ---
 ## 11. Schedule of quantities
 
-**220 plants and 1,795 bulbs / corms.** Supply sizes are what we think is right — please tell us if
+**227 plants and 1,795 bulbs / corms.** Supply sizes are what we think is right — please tell us if
 you'd supply differently.
 
 | Plant | Where from | Total | Supply size |
@@ -1223,60 +1242,61 @@ you'd supply differently.
 | *Olea europaea* — clear stem — Olive | Sussex Sq | **1** | 20–30L · clear stem to ~1.2m |
 | ***Layer 2 — Evergreen backbone — the permeable windbreak*** | | | |
 | *Myrtus communis* subsp. *tarentina* — Compact myrtle | New | **4** | 5L |
-| *Escallonia* 'Apple Blossom' — Escallonia | New | **1** | 7.5L |
+| *Escallonia* 'Apple Blossom' — Escallonia | New | **2** | 7.5L |
 | *Atriplex halimus* — Tree purslane | New | **2** | 3L |
 | *Phillyrea angustifolia* — Phillyrea | New | **2** | 5L |
-| *Elaeagnus* × *ebbingei* — Oleaster | New | **1** | 7.5L |
+| *Olearia* × *haastii* — Daisy bush | New | **1** | 5L |
 | ***Layer 3 — Mediterranean mid-layer*** | | | |
 | *Pittosporum tenuifolium* 'Tom Thumb' — Purple dwarf kohuhu | Sussex Sq | **6** | 5L |
-| *Euphorbia characias* subsp. *wulfenii* — Mediterranean spurge | Sussex Sq | **4** | 3–5L |
+| *Pittosporum tobira* 'Nanum' — Dwarf Japanese pittosporum | Sussex Sq | **2** | 3L |
 | *Brachyglottis* 'Sunshine' — Dunedin daisy bush | Sussex Sq | **3** | 3L |
 | *Pittosporum tenuifolium* 'Golf Ball' — Dwarf kohuhu | Sussex Sq | **2** | 5L |
-| *Cistus* × *purpureus* 'Alan Fradd' — Rock rose | Springfield Rd | **2** | 3L |
+| *Cistus* × *purpureus* 'Alan Fradd' — Rock rose | Springfield Rd | **3** | 3L |
 | *Teucrium fruticans* 'Azureum' — Tree germander | New | **2** | 3L |
 | *Coronilla valentina* subsp. *glauca* 'Citrina' — Yellow coronilla | Sussex Sq | **2** | 3L |
 | *Phlomis fruticosa* — Jerusalem sage | Sussex Sq | **1** | 3L |
 | *Abelia* × *grandiflora* — Glossy abelia | Springfield Rd | **1** | 5L |
 | ***Layer 4 — Front ribbon — silver mats, aromatics and long-flowering perennials*** | | | |
-| *Lavandula angustifolia* 'Hidcote' — English lavender | Springfield Rd | **16** | 2L |
-| *Stachys byzantina* 'Big Ears' — Lamb's ears | Sussex Sq | **9** | 1L |
+| *Lavandula angustifolia* 'Hidcote' — English lavender | Springfield Rd | **16** | 2L — supply 12 (4 from client's stock) |
 | *Erigeron karvinskianus* — Mexican fleabane | Sussex Sq | **2** | 1L |
 | *Hebe* (*Veronica*) 'Rakaiensis' — Shrubby veronica | Springfield Rd | **4** | 2L |
-| *Armeria maritima* — Sea thrift | New | **10** | 9cm–1L |
-| *Festuca glauca* 'Elijah Blue' — Blue fescue | Sussex Sq | **7** | 1L |
-| *Dianthus gratianopolitanus* — Cheddar pink | New | **6** | 1L |
+| *Armeria maritima* — Sea thrift | New | **12** | 9cm–1L |
+| *Festuca glauca* 'Elijah Blue' — Blue fescue | Sussex Sq | **3** | 1L |
+| *Dianthus gratianopolitanus* — Cheddar pink | New | **8** | 1L |
 | *Salvia microphylla* 'Amethyst Lips' — Shrubby sage | Sussex Sq | **3** | 2L |
 | *Hylotelephium* 'Matrona' — Stonecrop / iceplant | Sussex Sq | **7** | 2L |
 | *Iris unguicularis* — Algerian iris | New | **5** | 1–2L |
 | *Euphorbia myrsinites* — Myrtle spurge | Sussex Sq | **5** | 1L |
 | *Nepeta* × *faassenii* 'Walker's Low' — Catmint | Sussex Sq | **9** | 1–2L |
 | *Convolvulus cneorum* — Silverbush | New | **3** | 2L |
-| *Santolina chamaecyparissus* — Cotton lavender | Sussex Sq | **3** | 2L |
+| *Santolina chamaecyparissus* — Cotton lavender | Sussex Sq | **9** | 2L |
 | *Salvia rosmarinus* 'Severn Sea' — Semi-prostrate rosemary | Sussex Sq | **4** | 2L |
 | *Salvia nemorosa* 'Caradonna' — Balkan clary | Sussex Sq | **3** | 1–2L |
 | *Eryngium bourgatii* 'Picos Blue' — Sea holly | Sussex Sq | **3** | 1–2L |
 | *Crithmum maritimum* — Rock samphire | New | **2** | 1L |
 | *Aster* × *frikartii* 'Mönch' — Michaelmas daisy | Sussex Sq | **3** | 2L |
-| *Salvia yangii* 'Little Spire' — Russian sage | New | **3** | 2L |
+| *Salvia yangii* 'Little Spire' — Russian sage | New | **5** | 2L |
+| *Oenothera lindheimeri* 'Whirling Butterflies' — Gaura | New | **3** | 2L |
 | *Erysimum* 'Bowles's Mauve' — Perennial wallflower | New | **3** | 2L |
 | *Helictotrichon sempervirens* — Blue oat grass | New | **9** | 2L |
 | ***Layer 5 — Culinary herbs, and the cat's pots*** | | | |
-| *Thymus vulgaris* · *T.* 'Silver Posie' · *T. serpyllum* — Thyme — 3 forms | New | **12** | 9cm |
+| *Thymus vulgaris* · *T.* 'Purple Beauty' · *T. serpyllum* — Thyme — 3 forms | New | **12** | 9cm |
 | *Salvia rosmarinus* 'Prostratus' — Trailing rosemary | Springfield Rd | **8** | 2L |
 | *Salvia rosmarinus* 'Miss Jessopp's Upright' — Upright rosemary | Sussex Sq | **4** | 2L |
 | *Origanum* 'Herrenhausen' — Ornamental marjoram | New | **4** | 1L |
-| *Allium schoenoprasum* — Chives | New | **3** | 1L |
+| *Allium schoenoprasum* — Chives | New | **5** | 1L |
 | *Mentha spicata* · *M.* 'Moroccan' · *M. suaveolens* — Mint — 3 kinds | New | **3** | 2L |
 | *Petroselinum crispum* — Flat-leaf parsley | New | **3** | 1L |
 | *Coriandrum sativum* — Coriander | New | **3** | 9cm |
-| *Phormium* 'Bronze Baby' — Bronze New Zealand flax | Sussex Sq | **2** | 5L |
+| *Phormium* 'Bronze Baby' — Bronze New Zealand flax | Sussex Sq | **1** | 5L |
+| *Phormium tenax* — New Zealand flax | Springfield Rd | **1** | Client's own · plant not for supply (new pot in §7) |
 | *Origanum vulgare* — Wild marjoram / oregano | Sussex Sq | **2** | 1L |
 | *Salvia officinalis* — Common sage | New | **2** | 2L |
 | *Salvia officinalis* 'Purpurascens' — Purple sage | New | **2** | 2L |
 | *Satureja montana* — Winter savory | New | **2** | 1L |
 | *Artemisia dracunculus* — French tarragon | New | **2** | 1L |
-| *Rumex acetosa* — Common sorrel | New | **2** | 1L |
-| *Laurus nobilis* — clipped — Bay | New | **1** | ~80cm, large pot |
+| *Fragaria vesca* — Alpine strawberry | New | **5** | 9cm |
+| *Laurus nobilis* — clipped — Bay | Springfield Rd | **1** | Client's own · plant not for supply (new pot in §7) |
 | *Nepeta cataria* — True catnip | New | **1** | 1L |
 | *Dactylis glomerata* or oat / barley grass — Cat grass | New | **1** | 1L or seed |
 | ***Layer 6 — Winter scent for the part-shaded south end*** | | | |
@@ -1291,16 +1311,15 @@ you'd supply differently.
 | *Allium sphaerocephalon* — Drumstick allium | New | **120** | top size |
 | *Allium hollandicum* 'Purple Sensation' — Ornamental onion | Springfield Rd | **100** | top size |
 | *Galanthus nivalis* — Snowdrop — buy in the green | Springfield Rd | **100** | top size |
+| *Narcissus poeticus* var. *recurvus* — Pheasant's eye | Springfield Rd | **100** | top size |
+| *Crocus* 'Snow Bunting' — Crocus | New | **100** | top size |
 | *Tulipa* 'Little Beauty' — Species tulip | New | **90** | top size |
-| *Crocus* 'Snow Bunting' — Crocus | New | **90** | top size |
 | *Tulipa clusiana* 'Lady Jane' — Lady tulip | Springfield Rd | **70** | top size |
-| *Narcissus* 'Thalia' — Daffodil | New | **60** | top size |
 | *Tulipa saxatilis* (Bakeri Gp) 'Lilac Wonder' — Cretan tulip | New | **60** | top size |
 | *Gladiolus communis* subsp. *byzantinus* — Byzantine gladiolus | Springfield Rd | **50** | top size |
-| *Narcissus poeticus* var. *recurvus* — Pheasant's eye | Springfield Rd | **50** | top size |
+| *Crocus speciosus* — Autumn crocus | New | **37** | top size |
 | *Narcissus* 'Rijnveld's Early Sensation' — Daffodil | New | **40** | top size |
 | *Cyclamen hederifolium* — Ivy-leaved cyclamen | New | **38** | top size |
-| *Nerine bowdenii* — Guernsey lily | New | **37** | top size |
 | *Allium cristophii* — Star of Persia | Springfield Rd | **30** | top size |
 | *Cyclamen coum* — Eastern cyclamen | New | **30** | top size |
 | *Nectaroscordum siculum* — Sicilian honey garlic | New | **20** | top size |
@@ -1309,16 +1328,18 @@ you'd supply differently.
 
 | Item | Qty | Specification |
 |---|---|---|
-| Pot — large, Ø50–60cm | 5 | Frost-proof terracotta (§7) |
-| Pot — medium, Ø40cm | 9 | As above |
+| Pot — large, Ø50–60cm | 7 | Frost-proof terracotta (§7) — includes new pots for the client's own bay, both *Phormium tenax* and the *Trachelospermum* (his existing containers are not reusable) |
+| Pot — medium, Ø40cm | 10 | As above — includes a new pot for the client's *Picea* |
 | Pot — small, Ø30–35cm | 6 | As above |
 | Pot — low pan, Ø35–40cm, ~15cm high | 2 | As above |
-| Pot feet | 22 sets | So the pots drain freely and don't stain the granite |
+| Pot feet | 25 sets | So the pots drain freely and don't stain the granite |
 | Gravel mulch, 10mm | ~0.18 m³ / ~0.3 t (1 bulk bag) | Collars-only finish — see §12 |
 | Shade netting, 50%, + fixings | ~20m | First winter and first spring — see §15 |
 | Hot composter, ~100 litres | 1 | HOTBIN Mini 100 or equivalent sealed hot bin |
 | Slow-release fertiliser, 6-month | ~5 kg | Scattered each April |
 | Rootball anchor kits | 7 | Platipus RootBall Fixing or equivalent, for the specimens (§15) |
+| Poppy seed — *Papaver somniferum* 'Lauren's Grape' | 1 packet | Scattered into the gravel collars of the sunny beds each March; deep purple, self-sows |
+| Vine eyes + 316 stainless wire for the *Trachelospermum* | 1 set | ~3m rise on the flat wall by the study door |
 
 **Supply notes**
 
@@ -1358,7 +1379,7 @@ Every planter section repeats its own line, but this is the whole policy:
 |---|---|---|
 | **All twelve planter runs** — N1(E), N1(N), N2, N3, M1(W), M1(N), both halves of M2(E), M2(S), M4, M7, **and the sunny two-thirds of N4** | **10mm gravel collar, ~300mm ring round each silver sub-shrub** | **Slow-release granular fertiliser, April only. No compost, ever** |
 | **N4's shaded south band** — the *Sarcococca*, hellebore, snowdrops and cyclamen | **No gravel.** A leafy, open finish | **Home-made compost, top-dressed each spring** |
-| **All 22 pots** | **No gravel needed.** A thin gravel dressing is optional, purely for looks | **Home-made compost each spring**, plus a liquid feed through summer for the herbs |
+| **All 25 pots** | **No gravel needed.** A thin gravel dressing is optional, purely for looks | **Home-made compost each spring**, plus a liquid feed through summer for the herbs |
 
 So: **gravel everywhere the planting is Mediterranean and never gets compost; no gravel in the four places
 that do get compost.** That is the entire rule.
@@ -1379,7 +1400,7 @@ sharply drained are longer-lived, tougher and more wind-firm; rich compost makes
 floppy, which is exactly what salt wind destroys. Beth Chatto's gravel garden is famously neither fed nor
 watered.
 
-**The compost therefore goes where it is genuinely wanted** — N4's shaded band and the 22 pots, both of
+**The compost therefore goes where it is genuinely wanted** — N4's shaded band and the 25 pots, both of
 which are cropped or watered hard and neither of which has a gravel finish. On rough numbers the demand
 there is around 140 litres a year against 40–70 from a 100-litre hot bin, so there is no surplus looking
 for somewhere to go.
@@ -1400,6 +1421,9 @@ to flatter the paving and the silver foliage. As collars it is a functional deta
 the recessive colours are now the right ones — **10mm Golden Flint** (the local, coastal choice,
 grey-brown like the soil) or **Dove Grey**, and NOT the cream Cotswold or black basalt, which would
 read as polka-dots on the bare soil. Samples still worth £8 each, but the stakes are lower now.
+
+**The collars in the sunny beds double as the seed bed** for the opium poppies (*Papaver somniferum*
+'Lauren's Grape') scattered each March — see §11.
 
 | Option | Character | See it |
 |---|---|---|
@@ -1450,12 +1474,11 @@ list.
 of the tub are mostly evergreen, tight-habited and glossy or needle-leaved: myrtle, *Hebe*, rosemary,
 *Convolvulus*, thyme, *Dianthus*, santolina.
 
-Four plants that appear elsewhere in the scheme are **deliberately kept away from the tub**:
+Three plants that appear elsewhere in the scheme are **deliberately kept away from the tub**:
 
 | Kept away | Why |
 |---|---|
 | ***Erigeron karvinskianus*** | Flowers for nine months and sheds thousands of tiny spent daisies. The single worst thing you could plant beside a hot tub |
-| ***Stachys byzantina*** | The felted leaves rot at the tips and blow about; the flower spikes shed |
 | **Lavender** | Lovely, but it drops flower debris all through August |
 | ***Phlomis fruticosa*** | Sheds large spent flower whorls |
 
@@ -1597,9 +1620,10 @@ don't justify it.
 
 | When | Job |
 |---|---|
-| **February** | Cut *Salvia yangii*, *Erysimum* and all perennials back hard. Now remove the *Hylotelephium*, *Eryngium* and allium seed heads. Comb dead leaves out of the *Helictotrichon*. Cut *Atriplex* and *Elaeagnus* hard back. Cut anything that has escaped past the parapet back to the parapet line |
+| **February** | Cut *Salvia yangii*, *Erysimum* and all perennials back hard. Now remove the *Hylotelephium*, *Eryngium* and allium seed heads. Comb dead leaves out of the *Helictotrichon*. Cut *Atriplex* hard back. Cut anything that has escaped past the parapet back to the parapet line |
+| **March** | Scatter the opium poppy seed into the gravel collars of the sunny beds |
 | **April** | Slow-release feed (6-month). Light trim of the lavenders — never into old wood. Top up the mulch |
-| **June** | Cut the spent *Euphorbia wulfenii* stems out at the base *(gloves — the sap is an irritant)*. Shear *Santolina* after flowering. Tip-prune the two 'Silver Sheen' specimens, cutting inward |
+| **June** | Shear *Santolina* after flowering. Tip-prune the two 'Silver Sheen' specimens, cutting inward |
 | **August** | Shear lavender and *Nepeta* after the first flush for a second flowering |
 | **October–November** | Plant bulbs. Check pot ballast before the winter gales |
 | **Never** | Prune *Cistus* into old wood; deadhead *Erigeron* (let it seed into the paving joints) |
@@ -1632,8 +1656,8 @@ that:
 
 | Watch | Note |
 |---|---|
-| **All the bulbs** — tulip, narcissus, allium, *Nerine*, cyclamen, snowdrop | Toxic if eaten in quantity. Cats rarely dig bulbs, and the cat grass is there to redirect chewing, but worth knowing |
-| ***Euphorbia*** sap | An irritant to cats as to people. Two species here — *E. characias* and *E. myrsinites* |
+| **All the bulbs** — tulip, narcissus, allium, autumn crocus, cyclamen, snowdrop | Toxic if eaten in quantity. Cats rarely dig bulbs, and the cat grass is there to redirect chewing, but worth knowing |
+| ***Euphorbia*** sap | An irritant to cats as to people. One species here — *E. myrsinites* |
 | **Everything else** | Nothing else in the scheme is a significant hazard. No yew, no oleander, no foxglove |
 
 
@@ -1670,9 +1694,12 @@ that:
     above the rim. Will it do that job in year one, and is there a tree you'd rather see there?
 14. **The Group C pot olive** wants a clear stem to ~1.2m in a 20–30L — is that a stock item or a
     special?
-15. **Availability check on the three review additions**: *Phillyrea angustifolia* (5L),
-    *Helictotrichon sempervirens* (2L ×9), *Elaeagnus* × *ebbingei* (7.5L).
+15. **Availability check on the review additions**: *Phillyrea angustifolia* (5L),
+    *Helictotrichon sempervirens* (2L ×9), *Olearia* × *haastii* (5L), *Pittosporum tobira* 'Nanum'
+    (3L ×2), *Oenothera lindheimeri* 'Whirling Butterflies' (2L ×3), *Crocus speciosus*, *Fragaria vesca*.
 16. **Anything else you'd tell us that we haven't thought to ask.**
+17. **The client's existing bay, *Phormium tenax*, *Picea* 'Monica' and *Trachelospermum* are being
+    folded in (§6) — anything there you'd veto for this exposure?**
 
 <sub>[↑ Contents](#contents)</sub>
 
@@ -1709,7 +1736,6 @@ images require no attribution but are credited for completeness. Terrace drawing
 | [Erysimum_'Bowles_Mauve'_01.JPG](https://commons.wikimedia.org/wiki/File:Erysimum_%27Bowles_Mauve%27_01.JPG) | Dominicus Johannes Bergsma | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | [Starr_080716-9454_Escallonia_rubra_var._macrantha.jpg](https://commons.wikimedia.org/wiki/File:Starr_080716-9454_Escallonia_rubra_var._macrantha.jpg) | Forest & Kim Starr | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | [Euphorbia_myrsinites_sl6.jpg](https://commons.wikimedia.org/wiki/File:Euphorbia_myrsinites_sl6.jpg) | Stefan.lefnaer | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| [Euphorbia_characias_RJB.jpg](https://commons.wikimedia.org/wiki/File:Euphorbia_characias_RJB.jpg) | A. Barra | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | [Festuca_glauca_001_Tehran_Botanical_garden_2016.jpg](https://commons.wikimedia.org/wiki/File:Festuca_glauca_001_Tehran_Botanical_garden_2016.jpg) | Averater | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
 | [Galanthus_nivalis.jpg](https://commons.wikimedia.org/wiki/File:Galanthus_nivalis.jpg) | Wikimedia Commons contributor | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | [Gladiolus_communis.jpg](https://commons.wikimedia.org/wiki/File:Gladiolus_communis.jpg) | A. Barra | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -1726,13 +1752,17 @@ images require no attribution but are credited for completeness. Terrace drawing
 | [Narcissus_poeticus_subsp._radiiflorus.1658.jpg](https://commons.wikimedia.org/wiki/File:Narcissus_poeticus_subsp._radiiflorus.1658.jpg) | Wikimedia Commons contributor | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | [Allium_siculum_in_bloom.jpg](https://commons.wikimedia.org/wiki/File:Allium_siculum_in_bloom.jpg) | Dolly442 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | [Nepeta_faassenii6.jpg](https://commons.wikimedia.org/wiki/File:Nepeta_faassenii6.jpg) | KENPEI | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
-| [Nerine_bowdenii_HRM2.JPG](https://commons.wikimedia.org/wiki/File:Nerine_bowdenii_HRM2.JPG) | Cillas | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| [Crocus_speciosus_'Conqueror'_2.JPG](https://commons.wikimedia.org/wiki/File:Crocus_speciosus_'Conqueror'_2.JPG) | Ghislain118 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | [Korfu_(GR),_Agii_Douli,_Olivenhain_--_2018_--_1284-8.jpg](https://commons.wikimedia.org/wiki/File:Korfu_(GR),_Agii_Douli,_Olivenhain_--_2018_--_1284-8.jpg) | Dietmar Rabich | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | [Origanum_vulgare_-_harilik_pune.jpg](https://commons.wikimedia.org/wiki/File:Origanum_vulgare_-_harilik_pune.jpg) | Ivar Leidus | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | [Petroselinum.jpg](https://commons.wikimedia.org/wiki/File:Petroselinum.jpg) | Jonathunder | [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html) |
 | [0_Phlomis_fruticosa_-_Samoëns_(2).JPG](https://commons.wikimedia.org/wiki/File:0_Phlomis_fruticosa_-_Samo%C3%ABns_(2).JPG) | Jean-Pol GRANDMONT | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | [Phormium_tenax_Piha02.jpg](https://commons.wikimedia.org/wiki/File:Phormium_tenax_Piha02.jpg) | Kahuroa | Public domain |
 | [Pittosporum_tenuifolium_in_Aoraki_Mount_Cook_NP_03.jpg](https://commons.wikimedia.org/wiki/File:Pittosporum_tenuifolium_in_Aoraki_Mount_Cook_NP_03.jpg) | Krzysztof Golik | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| [Pittosporum_Tobira_JPG0.jpg](https://commons.wikimedia.org/wiki/File:Pittosporum_Tobira_JPG0.jpg) | Jean-Pol GRANDMONT | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
+| [Olearia_haastii_kz01.jpg](https://commons.wikimedia.org/wiki/File:Olearia_haastii_kz01.jpg) | Krzysztof Ziarnek, Kenraiz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| [Gaura_lindheimeri_Whirling_Butterflies.jpg](https://commons.wikimedia.org/wiki/File:Gaura_lindheimeri_Whirling_Butterflies.jpg) | JJ Harrison | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| [Fragaria_vesca_close-up_4.jpg](https://commons.wikimedia.org/wiki/File:Fragaria_vesca_close-up_4.jpg) | No machine-readable author provided (self-published) | Public domain |
 | [Rosemary_in_bloom.JPG](https://commons.wikimedia.org/wiki/File:Rosemary_in_bloom.JPG) | Margalob | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | [Salvia_officinalis0.jpg](https://commons.wikimedia.org/wiki/File:Salvia_officinalis0.jpg) | Kurt Stüber [1] | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | [Salvia_microphylla1.jpg](https://commons.wikimedia.org/wiki/File:Salvia_microphylla1.jpg) | KENPEI | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
@@ -1740,8 +1770,6 @@ images require no attribution but are credited for completeness. Terrace drawing
 | [Santolina_chamaecyparissus_flowers.jpg](https://commons.wikimedia.org/wiki/File:Santolina_chamaecyparissus_flowers.jpg) | User:Stan Shebs | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | [SarcococcaHookeriana.jpg](https://commons.wikimedia.org/wiki/File:SarcococcaHookeriana.jpg) | Chhe (talk) | Public domain |
 | [Satureja_montana2.jpg](https://commons.wikimedia.org/wiki/File:Satureja_montana2.jpg) | Kurt Stüber [1] | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
-| [(MHNT)_Rumex_acetosa_-_Habit.jpg](https://commons.wikimedia.org/wiki/File:(MHNT)_Rumex_acetosa_-_Habit.jpg) | Didier Descouens | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| [0_Stachys_byzantina_-_Yvoire_(2).JPG](https://commons.wikimedia.org/wiki/File:0_Stachys_byzantina_-_Yvoire_(2).JPG) | Jean-Pol GRANDMONT | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | [Estragon_1511.jpg](https://commons.wikimedia.org/wiki/File:Estragon_1511.jpg) | No machine-readable author provided. Ies assumed (based on copyright claims). | Public domain |
 | [(MHNT)_Teucrium_fruticans_-_Flowers.jpg](https://commons.wikimedia.org/wiki/File:(MHNT)_Teucrium_fruticans_-_Flowers.jpg) | Didier Descouens | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | [Thymus_vulgaris1.JPG](https://commons.wikimedia.org/wiki/File:Thymus_vulgaris1.JPG) | Henry Brisse (upload by user:Abalg) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
@@ -1752,7 +1780,6 @@ images require no attribution but are credited for completeness. Terrace drawing
 | [Phillyrea_angustifolia_3.JPG](https://commons.wikimedia.org/wiki/File:Phillyrea_angustifolia_3.JPG) | Xemenendura | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | [Helictotrichon-sempervirens-habit.JPG](https://commons.wikimedia.org/wiki/File:Helictotrichon-sempervirens-habit.JPG) | Sten Porse | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
 | [Kothimbir (Marathi- कोथिंबीर) (2276632094).jpg](https://commons.wikimedia.org/wiki/File:Kothimbir_(Marathi-_%E0%A4%95%E0%A5%8B%E0%A4%A5%E0%A4%BF%E0%A4%82%E0%A4%AC%E0%A5%80%E0%A4%B0)_(2276632094).jpg) | Dinesh Valke (Thane, India), via Flickr | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) |
-| [Elaeagnus_ebbingei_1c.JPG](https://commons.wikimedia.org/wiki/File:Elaeagnus_ebbingei_1c.JPG) | Consultaplantas | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 
 <sub>[↑ Contents](#contents)</sub>
 
