@@ -1,6 +1,6 @@
 # Roof Terrace — Planting Plan
 
-**Flat 6, 22 Sussex Square, Brighton BN2 5AA** · Issued for nursery review — rev C, 31 August 2026 — final client review folded in
+**Flat 6, 22 Sussex Square, Brighton BN2 5AA** · Issued for nursery review — rev C1, 31 August 2026 — final client review folded in; growing-medium specification added (§12)
 
 > 📄 **[Download as PDF](https://raw.githubusercontent.com/chrisnewson/skynet/main/roof-terrace/planting-plan.pdf)** · 🔍 **[Interactive HTML version](https://chrisnewson.github.io/skynet/roof-terrace/planting-plan.html)** — hover any photo to see it full size; links open in new tabs
 
@@ -24,7 +24,7 @@
 | | | | |
 |---|---|---|---|
 | 1. [The idea](#1-the-idea) | 6. [The pots](#6-the-pots) | 11. [Schedule of quantities](#11-schedule-of-quantities) | 16. [Maintenance and green waste](#16-maintenance-pruning-and-green-waste) |
-| 2. [The site, its levels and its edges](#2-the-site-its-levels-and-its-edges) | 7. [Pots and composter — specification](#7-pots-and-composter--specification) | 12. [Mulch and feeding](#12-mulch-and-feeding) | 17. [The cat](#17-the-cat) |
+| 2. [The site, its levels and its edges](#2-the-site-its-levels-and-its-edges) | 7. [Pots and composter — specification](#7-pots-and-composter--specification) | 12. [Soil, mulch and feeding](#12-soil-mulch-and-feeding) | 17. [The cat](#17-the-cat) |
 | 3. [Layout drawings](#3-layout-drawings) | 8. [The plant list](#8-the-plant-list) | 13. [Irrigation](#13-irrigation) | 18. [Where we'd value your view](#18-where-wed-value-your-expert-view) |
 | 4. [View corridors and height caps](#4-view-corridors-and-height-caps) | 9. [Bulbs and corms](#9-bulbs-and-corms) | 14. [The hot tub](#14-the-hot-tub) | 19. [Image credits](#19-image-credits) |
 | 5. [The planting, planter by planter](#5-the-planting-planter-by-planter) | 10. [Year-round interest — checked](#10-year-round-interest--checked) | 15. [Planting, establishment and access](#15-planting-establishment-and-access) | |
@@ -91,7 +91,7 @@ planted, in timber planters built on top of the finished granite paving, plus 25
 | **Exposure** | Salt-laden wind off the Channel, unobstructed on all four sides. The prevailing and strongest wind is **south-westerly**; the cold desiccating one is **north-easterly** in spring |
 | **Aspect** | **Full sun across almost the whole terrace.** The exception is the **south end of the narrow terrace** — planter N4 and pot Groups A, B and E — where the flat rises about 3m immediately to the south. Good light, much less direct sun, especially in winter |
 | **Access** | No vehicle access to the terrace. An internal lift reaches the floor below (one flight of stairs up); bulk and specimens go up the scaffold hoist or by crane — see §15 |
-| **Soil** | Peat-free lightweight roof-garden mix over a drainage layer. Deliberately lean and sharply drained |
+| **Soil** | Peat-free lightweight roof-garden mix over a drainage layer. Deliberately lean and sharply drained — **the full proposed make-up and medium specification is in §12, and we'd like your confirmation of it** |
 | **Planter depth** | Mostly **600mm**; the SE L-shape (M2) is **1,000mm**; the lift-over-run bed (N4) is **400mm** |
 | **Water** | **Automatic drip irrigation on three zones** — §13 |
 | **Winter** | Mild and coastal, rarely below −3°C. **Wind desiccation and salt, not frost, are what kill here** |
@@ -269,9 +269,8 @@ seed heads stay standing until you cut them in February.
 |---|:---:|---|---|---|---|
 | **5** | [<img src="plant-images/lavandula.jpg" width="90" title="Lavandula angustifolia 'Hidcote' — click to enlarge">](plant-images/lavandula.jpg)<br>[*Lavandula angustifolia* 'Hidcote'](https://www.rhs.org.uk/plants/96353/lavandula-angustifolia-hidcote/details) — English lavender<br><sub>Springfield Rd</sub> | 0.1–0.5m × 0.5–1m† | Jun–Aug | — | 2L |
 | **3** | [<img src="plant-images/nepeta.jpg" width="90" title="Nepeta × faassenii 'Walker's Low' — click to enlarge">](plant-images/nepeta.jpg)<br>[*Nepeta* × *faassenii* 'Walker's Low'](https://www.rhs.org.uk/plants/210480/nepeta-faassenii-walker-s-low/details) — Catmint<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.1–0.5m† | Jun–Sep | Shear after the first flush | 1–2L |
-| **3** | [<img src="plant-images/santolina.jpg" width="90" title="Santolina chamaecyparissus — click to enlarge">](plant-images/santolina.jpg)<br>[*Santolina chamaecyparissus*](https://www.rhs.org.uk/plants/19856/santolina-chamaecyparissus-lavender-cotton-cotton-lavender/details) — Cotton lavender<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.5–1m† | Summer | Shear the buds in June if they jar | 2L |
 | **3** | [<img src="plant-images/rosemary.jpg" width="90" title="Salvia rosmarinus 'Severn Sea' — click to enlarge">](plant-images/rosemary.jpg)<br>[*Salvia rosmarinus* 'Severn Sea'](https://www.rhs.org.uk/plants/386349/salvia-rosmarinus-severn-sea-ro/details) — Semi-prostrate rosemary<br><sub>Sussex Sq</sub> | 0.5–1m × 0.5–1m† | Feb–May | Flowers when almost nothing else does | 2L |
-| **3** | [<img src="plant-images/helictotrichon.jpg" width="90" title="Helictotrichon sempervirens — click to enlarge">](plant-images/helictotrichon.jpg)<br>[*Helictotrichon sempervirens*](https://www.rhs.org.uk/plants/8555/helictotrichon-sempervirens/details) — Blue oat grass<br><sub>New</sub> | 1–1.5m × 0.5–1m† | Summer | The wind made visible; comb out dead leaves in spring | 2L |
+| **6** | [<img src="plant-images/helictotrichon.jpg" width="90" title="Helictotrichon sempervirens — click to enlarge">](plant-images/helictotrichon.jpg)<br>[*Helictotrichon sempervirens*](https://www.rhs.org.uk/plants/8555/helictotrichon-sempervirens/details) — Blue oat grass<br><sub>New</sub> | 1–1.5m × 0.5–1m† | Summer | The wind made visible; comb out dead leaves in spring | 2L |
 | **2** | [<img src="plant-images/erigeron.jpg" width="90" title="Erigeron karvinskianus — click to enlarge">](plant-images/erigeron.jpg)<br>[*Erigeron karvinskianus*](https://www.rhs.org.uk/plants/32487/erigeron-karvinskianus/details) — Mexican fleabane<br><sub>Sussex Sq</sub> | 0.1–0.5m × 0.5–1m† | Apr–Nov | Self-seeds into paving joints | 1L |
 
 **Bulbs — planted Oct–Nov, threaded between the plants**
@@ -1117,7 +1116,7 @@ Photographs link through to the RHS entry. **Where it came from** is the provena
 |[<img src="plant-images/euph_myrs.jpg" width="220" title="Euphorbia myrsinites — click to enlarge">](plant-images/euph_myrs.jpg)<br><a id="p-euph-myrs"></a>[***Euphorbia myrsinites***](https://www.rhs.org.uk/plants/7073/euphorbia-myrsinites/details)<br>Myrtle spurge<br><sub>Sussex Sq</sub>| **5** | 1L | up to 10cm × 0.1–0.5m† | Mar–May | Trailing blue-grey succulent whorls, only 15cm high, with chartreuse bracts Mar–May. Drapes over a rim and never needs cutting. Sap is an irritant. | M2(E) — north half, M4 |
 |[<img src="plant-images/nepeta.jpg" width="220" title="Nepeta × faassenii 'Walker's Low' — click to enlarge">](plant-images/nepeta.jpg)<br><a id="p-nepeta"></a>[***Nepeta* × *faassenii* 'Walker's Low'**](https://www.rhs.org.uk/plants/210480/nepeta-faassenii-walker-s-low/details)<br>Catmint<br><sub>Sussex Sq</sub>| **9** | 1–2L | 0.1–0.5m × 0.1–0.5m† | Jun–Sep | Blue haze Jun–Sep if sheared after the first flush. | N1(E), M1(W), M1(N) |
 |[<img src="plant-images/convolvulus.jpg" width="220" title="Convolvulus cneorum — click to enlarge">](plant-images/convolvulus.jpg)<br><a id="p-convolvulus"></a>[***Convolvulus cneorum***](https://www.rhs.org.uk/plants/4333/convolvulus-cneorum/details)<br>Silverbush<br><sub>New</sub>| **3** | 2L | 0.5–1m × 0.5–1m† | May–Sep | The most metallic silver evergreen here; white trumpets May–Sep. | M7, Group A, Group D |
-|[<img src="plant-images/santolina.jpg" width="220" title="Santolina chamaecyparissus — click to enlarge">](plant-images/santolina.jpg)<br><a id="p-santolina"></a>[***Santolina chamaecyparissus***](https://www.rhs.org.uk/plants/19856/santolina-chamaecyparissus-lavender-cotton-cotton-lavender/details)<br>Cotton lavender<br><sub>Sussex Sq</sub>| **9** | 2L | 0.1–0.5m × 0.5–1m† | Summer | Tight silver dome. Shear the buds in June if the yellow buttons jar; sheared, it drops nothing into the tub. Replaces *Stachys byzantina* in the N1(E) and M2(E) south ribbons. | N1(E), N4, M2(E) — south half, Group C |
+|[<img src="plant-images/santolina.jpg" width="220" title="Santolina chamaecyparissus — click to enlarge">](plant-images/santolina.jpg)<br><a id="p-santolina"></a>[***Santolina chamaecyparissus***](https://www.rhs.org.uk/plants/19856/santolina-chamaecyparissus-lavender-cotton-cotton-lavender/details)<br>Cotton lavender<br><sub>Sussex Sq</sub>| **6** | 2L | 0.1–0.5m × 0.5–1m† | Summer | Tight silver dome. Shear the buds in June if the yellow buttons jar; sheared, it drops nothing into the tub. Replaces *Stachys byzantina* in the M2(E) south ribbon (the N1(E) share was swapped back out for more *Helictotrichon*). | N4, M2(E) — south half, Group C |
 |[<img src="plant-images/rosemary.jpg" width="220" title="Salvia rosmarinus 'Severn Sea' — click to enlarge">](plant-images/rosemary.jpg)<br><a id="p-rose-severn"></a>[***Salvia rosmarinus* 'Severn Sea'**](https://www.rhs.org.uk/plants/386349/salvia-rosmarinus-severn-sea-ro/details)<br>Semi-prostrate rosemary<br><sub>Sussex Sq</sub>| **4** | 2L | 0.5–1m × 0.5–1m† | Feb–May | Feb–May vivid blue — flowers when almost nothing else does. Arches over the rim. | N1(E), M7 |
 |[<img src="plant-images/salvia_nem.jpg" width="220" title="Salvia nemorosa 'Caradonna' — click to enlarge">](plant-images/salvia_nem.jpg)<br><a id="p-caradonna"></a>[***Salvia nemorosa* 'Caradonna'**](https://www.rhs.org.uk/plants/194596/salvia-nemorosa-caradonna/details)<br>Balkan clary<br><sub>Sussex Sq</sub>| **3** | 1–2L | 0.1–0.5m × 0.1–0.5m† | May–Jul | Violet spikes on black stems, May–Jul — the sharpest contrast against silver foliage. | M1(W) |
 |[<img src="plant-images/eryngium.jpg" width="220" title="Eryngium bourgatii 'Picos Blue' — click to enlarge">](plant-images/eryngium.jpg)<br><a id="p-eryngium"></a>[***Eryngium bourgatii* 'Picos Blue'**](https://www.rhs.org.uk/plants/129742/eryngium-bourgatii-picos-blue/details)<br>Sea holly<br><sub>Sussex Sq</sub>| **3** | 1–2L | 0.5–1m × 0.1–0.5m† | Jun–Aug | Steel-blue thistle heads Jun–Aug over silver-veined leaves. Wind-proof; top-rated for pollinators. | M2(E) — south half |
@@ -1126,7 +1125,7 @@ Photographs link through to the RHS entry. **Where it came from** is the provena
 |[<img src="plant-images/yangii.jpg" width="220" title="Salvia yangii 'Little Spire' — click to enlarge">](plant-images/yangii.jpg)<br><a id="p-yangii"></a>[***Salvia yangii* 'Little Spire'**](https://www.rhs.org.uk/plants/135978/perovskia-atriplicifolia-little-spire/details)<br>Russian sage<br><sub>New</sub>| **5** | 2L | 0.5–1m × 0.5–1m† | Aug–Oct | Aug–Oct blue haze on silver stems. The compact form, kept over the taller 'Blue Spires', which flops in wind. | M2(S) |
 |[<img src="plant-images/gaura.jpg" width="220" title="Oenothera lindheimeri 'Whirling Butterflies' — click to enlarge">](plant-images/gaura.jpg)<br><a id="p-gaura"></a>[***Oenothera lindheimeri* 'Whirling Butterflies'**](https://www.rhs.org.uk/plants/386447/oenothera-lindheimeri-whirling-butterflies-g/details)<br>Gaura<br><sub>New</sub>| **3** | 2L | 0.5–1m × 0.5–1m† | Jun–Oct | White butterflies on wiry stems that ride the wind all summer; hates only winter wet. Replaces *Stachys byzantina* in the M1(W) ribbon. | M1(W) |
 |[<img src="plant-images/erysimum.jpg" width="220" title="Erysimum 'Bowles's Mauve' — click to enlarge">](plant-images/erysimum.jpg)<br><a id="p-erysimum"></a>[***Erysimum* 'Bowles's Mauve'**](https://www.rhs.org.uk/plants/91464/erysimum-bowless-mauve/details)<br>Perennial wallflower<br><sub>New</sub>| **3** | 2L | 0.5–1m × 0.5–1m† | Mar–Nov | Mar–Nov, almost continuously. Unbeatable first-year value; short-lived (~3 yrs). | M2(S) |
-|[<img src="plant-images/helictotrichon.jpg" width="220" title="Helictotrichon sempervirens — click to enlarge">](plant-images/helictotrichon.jpg)<br><a id="p-helictotrichon"></a>[***Helictotrichon sempervirens***](https://www.rhs.org.uk/plants/8555/helictotrichon-sempervirens/details)<br>Blue oat grass<br><sub>New</sub>| **9** | 2L | 1–1.5m × 0.5–1m† | Summer | Blue-grey evergreen tussock grass, taller and more architectural than the fescues — oat-like flower plumes catch the wind all summer. “The wind made visible”, from the lounge and the dining table alike. Comb out dead leaves in spring. | N1(E), M2(S), M4 |
+|[<img src="plant-images/helictotrichon.jpg" width="220" title="Helictotrichon sempervirens — click to enlarge">](plant-images/helictotrichon.jpg)<br><a id="p-helictotrichon"></a>[***Helictotrichon sempervirens***](https://www.rhs.org.uk/plants/8555/helictotrichon-sempervirens/details)<br>Blue oat grass<br><sub>New</sub>| **12** | 2L | 1–1.5m × 0.5–1m† | Summer | Blue-grey evergreen tussock grass, taller and more architectural than the fescues — oat-like flower plumes catch the wind all summer. “The wind made visible”, from the lounge and the dining table alike. Comb out dead leaves in spring. | N1(E), M2(S), M4 |
 
 ### Layer 5 — Culinary herbs, and the cat's pots
 
@@ -1269,7 +1268,7 @@ you'd supply differently.
 | *Euphorbia myrsinites* — Myrtle spurge | Sussex Sq | **5** | 1L |
 | *Nepeta* × *faassenii* 'Walker's Low' — Catmint | Sussex Sq | **9** | 1–2L |
 | *Convolvulus cneorum* — Silverbush | New | **3** | 2L |
-| *Santolina chamaecyparissus* — Cotton lavender | Sussex Sq | **9** | 2L |
+| *Santolina chamaecyparissus* — Cotton lavender | Sussex Sq | **6** | 2L |
 | *Salvia rosmarinus* 'Severn Sea' — Semi-prostrate rosemary | Sussex Sq | **4** | 2L |
 | *Salvia nemorosa* 'Caradonna' — Balkan clary | Sussex Sq | **3** | 1–2L |
 | *Eryngium bourgatii* 'Picos Blue' — Sea holly | Sussex Sq | **3** | 1–2L |
@@ -1278,7 +1277,7 @@ you'd supply differently.
 | *Salvia yangii* 'Little Spire' — Russian sage | New | **5** | 2L |
 | *Oenothera lindheimeri* 'Whirling Butterflies' — Gaura | New | **3** | 2L |
 | *Erysimum* 'Bowles's Mauve' — Perennial wallflower | New | **3** | 2L |
-| *Helictotrichon sempervirens* — Blue oat grass | New | **9** | 2L |
+| *Helictotrichon sempervirens* — Blue oat grass | New | **12** | 2L |
 | ***Layer 5 — Culinary herbs, and the cat's pots*** | | | |
 | *Thymus vulgaris* · *T.* 'Purple Beauty' · *T. serpyllum* — Thyme — 3 forms | New | **12** | 9cm |
 | *Salvia rosmarinus* 'Prostratus' — Trailing rosemary | Springfield Rd | **8** | 2L |
@@ -1365,7 +1364,45 @@ you'd supply differently.
 <sub>[↑ Contents](#contents)</sub>
 
 ---
-## 12. Mulch and feeding
+## 12. Soil, mulch and feeding
+
+### The planter make-up and growing medium — proposed specification. Please confirm
+
+The builder installs the full planter make-up (drainage, geotextile and growing medium) before
+planting day, so **this is the one part of the growing conditions that is fixed before you see the
+site — please check it against the plant list and tell us if you would change anything.** The profile
+below is what the planting design assumes, bottom to top:
+
+| Layer (bottom → top) | Proposed specification |
+|---|---|
+| **Weep holes** | 25–30mm holes through the base at ~600mm centres, each capped inside with geotextile |
+| **Drainage / void-forming layer** | Clean recycled **EPS (polystyrene) chunks blended 50/50 with 10mm gravel** (LECA acceptable). **Sized per planter so the medium above is a constant depth** — deeper void in the taller boxes, and slimmed to **~50mm in the 400mm-deep N4 bed** to give the herbs more root run |
+| **Separator** | Non-woven, root-permeable geotextile |
+| **Growing medium** | **Peat-free, lean, free-draining intensive-green-roof-type substrate, ~300–350mm settled depth in every planter run** (~250–275mm in N4). Preference: a **pre-blended bagged intensive substrate with a declared saturated density of ≤ ~1,100 kg/m³** (e.g. Bourne Amenity or Boughton intensive roof-garden mix). Acceptable site blend: **60% sterilised loam-based topsoil (BS 3882, general purpose — NOT enriched or manured) + 25% perlite or 4–10mm pumice + 15% peat-free green compost.** **No vermiculite in any form** — it holds water and collapses within a couple of seasons, the opposite of what this palette needs. pH anywhere from 6.5 to low-8s is fine — the whole palette is chalk-tolerant, and the irrigation water is alkaline |
+| **Finished level** | Soil finishes **25mm below the design level** in every planter; the 10mm gravel collars (below) then top out at the design level |
+
+**Four notes on why it is specified this way:**
+
+1. **Lean and mineral is deliberate.** The feeding regime below only works if the medium starts lean —
+   a rich mix would give one soft, floppy season and then salt-wind damage. If you think any plant on
+   the list needs a richer pocket at planting, say so and we will do it locally, not across the bed.
+2. **The saturated-density figure is structural, not fussiness.** The engineer's allowance is
+   350 kg/m² over the planter footprints, which is also why the medium is a **constant ~300–350mm**
+   rather than filling the taller boxes — deeper soil there would exceed the allowance, and nothing
+   in this palette wants more than 350mm anyway. Please flag anything on the list you believe
+   genuinely needs deeper soil than that.
+3. **Specimen root patches.** The four in-planter olives each get a **full-depth patch with no void
+   former** (10mm gravel base, then medium to the planter floor) so the big rootballs sit on solid
+   ground. The two 'Silver Sheen' pittosporums (20–30L) should fit within the standard 300–350mm
+   profile — **confirm their rootball depth at supply**, and if it exceeds ~300mm we will form patches
+   for them too.
+4. **Anchoring over a void former.** Driven ground anchors (the standard Platipus arrangement) have
+   nothing to bite into above an EPS void layer. For the anchored specimens we therefore propose
+   **deadman anchoring — webbing over the rootball fixed to timber battens screwed across the planter
+   base** — rather than driven anchors. If you would anchor differently in a raised planter, please
+   say.
+
+### Mulch — gravel, not bark
 
 We propose **10mm washed gravel** rather than bark. Bark blows off a roof, and it holds moisture
 against the crowns of silver-leaved Mediterranean plants over a wet winter, which is the commonest way of
@@ -1677,8 +1714,8 @@ that:
    on the assumption it becomes a functioning windbreak in two seasons rather than four.
 5. **Specimens — container or rootballed?** And **lead times** on multi-stem *Olea europaea* at the sizes
    specified?
-6. **N4 is only 400mm deep.** Enough for the herb planting? Would you reduce the drainage layer to gain
-   root run?
+6. **N4 is only 400mm deep.** Enough for the herb planting? We now propose slimming its drainage layer
+   to ~50mm to gain root run (§12) — far enough, or would you go further?
 7. **Snowdrops.** All 100 are confined to the part-shaded south end, in the green rather than dry, because
    we think they'd slowly fail in the sunny beds — dormant May to September, and it's the summer bake in
    lean gritty soil that gets them, which irrigation can't fix. **Do you agree?**
@@ -1695,11 +1732,18 @@ that:
 14. **The Group C pot olive** wants a clear stem to ~1.2m in a 20–30L — is that a stock item or a
     special?
 15. **Availability check on the review additions**: *Phillyrea angustifolia* (5L),
-    *Helictotrichon sempervirens* (2L ×9), *Olearia* × *haastii* (5L), *Pittosporum tobira* 'Nanum'
+    *Helictotrichon sempervirens* (2L ×12), *Olearia* × *haastii* (5L), *Pittosporum tobira* 'Nanum'
     (3L ×2), *Oenothera lindheimeri* 'Whirling Butterflies' (2L ×3), *Crocus speciosus*, *Fragaria vesca*.
 16. **Anything else you'd tell us that we haven't thought to ask.**
 17. **The client's existing bay, *Phormium tenax*, *Picea* 'Monica' and *Trachelospermum* are being
     folded in (§6) — anything there you'd veto for this exposure?**
+18. **The growing medium and planter make-up (§12) — please confirm it.** A lean, peat-free
+    intensive-green-roof-type substrate at a constant ~300–350mm settled depth over a void-forming
+    drainage layer, no vermiculite, finished 25mm low for the gravel; full-depth patches under the
+    four in-planter olives; deadman (not driven) anchoring for the specimens. Is that the right
+    medium and profile for this plant list — and would you amend the blend, the depth, or the
+    anchoring detail? The builder installs it before planting day, so we need this settled with your
+    order.
 
 <sub>[↑ Contents](#contents)</sub>
 
