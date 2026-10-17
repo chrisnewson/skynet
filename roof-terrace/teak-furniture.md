@@ -10,17 +10,19 @@
 
 ## ✅ Confirmed choices
 
+> **17 Oct 2026 — chair changed to the Sustainable Furniture Arc.** The Luxus Sydney sold out and rose to £1,180 per set of 4. The final dining pick (8 × Arc + Azura 8–10 table, £2,600) is in [furniture-final-choices.md](furniture-final-choices.md). Sydney references further down are kept as history.
+
 <img src="artists-impressions/sydney-chair-azura-table.png" width="100%">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Chair — Luxus Sydney armchair**
-<img src="chair-images/sydney-chair.jpg" width="100%">
-~£176/chair · set of 4 = £706
-65cm W · 59cm D · 76cm H · stackable
-[luxushomeandgarden.com](https://www.luxushomeandgarden.com/products/4-x-sydney-chairs-with-cushions)
+**Chair — Sustainable Furniture Arc armchair**
+<img src="chair-images/arc-chair.jpg" width="100%">
+£210/chair · seat cushion included
+54cm W · 44cm D · 75cm H · stackable
+[sustainable-furniture.co.uk](https://sustainable-furniture.co.uk/product/arc-stacking-dining-armchair/)
 
 </td>
 <td width="50%" valign="top">
@@ -95,7 +97,22 @@ Simple four-post teak frame (not the Azura's X cross-brace), so it reads as a de
 
 <a id="chair"></a>
 
-## Confirmed: Luxus Home & Garden — Sydney armchair
+## Confirmed: Sustainable Furniture — Arc armchair (replaces Sydney, 17 Oct 2026)
+
+<img src="chair-images/arc-chair.jpg" width="100%">
+
+- **Price:** £210/chair (sale, was £235) · free natural seat cushion · in stock · free delivery over £500, same order as the Azura table
+- **Material:** Indonesian teak, **SVLK certified**
+- **Dimensions:** 54cm W × 44cm D × 75cm H · seat 40cm W × 42cm D, 43cm high · arms 63cm (front) / 67cm (back) · **stackable** ✓
+- **Check before ordering 8:** sit in one first (40cm seat is snug), and confirm the 63cm arms slide under the Azura's frame
+
+[sustainable-furniture.co.uk — Arc](https://sustainable-furniture.co.uk/product/arc-stacking-dining-armchair/)
+
+---
+
+## ~~Confirmed~~ Superseded: Luxus Home & Garden — Sydney armchair
+
+> ⛔ **Superseded 17 Oct 2026:** sold out at Luxus and repriced to £1,180 per set of 4 (£590 per pair). No other UK stockist found.
 
 <img src="chair-images/sydney-chair.jpg" width="100%">
 
@@ -410,7 +427,7 @@ None extend. Flagged if the brief ever relaxes, or as a fixed secondary table.
 **Also noted but over budget / wrong size:** [Cane-line Copenhagen](https://cane-line.co.uk/products/copenhagen-dining-table) (£3,000, 160→243cm, sled/trapezoid aluminium legs — genuinely beautiful Scandinavian design but too small compact and over budget); [SF Lark 10–12](https://sustainable-furniture.co.uk/product/lark-10-12-seater-extending-dining-table/) (£1,205, 240→320cm, structural double trestle — good value for 12 seats but the legs are more traditional-crafts than cross-leg).
 
 ### Next actions
-- Confirm Sydney chair cushion colour from your variant URL
+- ~~Confirm Sydney chair cushion colour~~ — chair now the Arc (natural cushion included)
 - Decide seat count: 10 (Azura 8–10) or 12 (Azura 10–12 / Luxus set / Orchid rect)
 - Decide leg priority: X-legs first (Azura) vs value (Luxus set) vs aspirational (Ballare)
 - If Milano appeals, visit the site this week — sale ends 29 June

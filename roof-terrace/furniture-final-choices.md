@@ -4,7 +4,7 @@
 
 *Working summary for Chris. Records the **confirmed** picks, the **shopping list per supplier**, and what is **still to finalise**. Full research is in [furniture-options.md](furniture-options.md) (lounge) and [teak-furniture.md](teak-furniture.md) (dining). Ronan's drawings/specs remain authoritative for anything structural.*
 
-**Last updated: 28 June 2026**
+**Last updated: 17 October 2026** — dining chair switched from Luxus Sydney (sold out, price up to £1,180/4) to Sustainable Furniture **Arc**
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Zone | Item | Qty | Supplier | Cost |
 |---|---|---|---|---|
-| **Dining** | Luxus Sydney teak armchair | 8 | Luxus Home & Garden | £1,412 |
+| **Dining** | Arc teak stacking armchair (cushion included) | 8 | Sustainable Furniture | £1,680 |
 | **Dining** | Azura 8–10 extending table (180→240cm) | 1 | Sustainable Furniture | £920 |
 | **Lounge (FA3)** | Harbour Panama — 3-seat sofa | 2 | Harbour Lifestyle | £2,338 |
 | **Lounge (FA3)** | Harbour Panama — corner/footstool unit (used as 1-seater) | 2 | Harbour Lifestyle | £1,170 |
@@ -21,7 +21,7 @@
 | **Narrow terrace** | Nardi Folio recliner — **Corda (sand)** | 4 | Julia Jones | £612 |
 | **Narrow terrace** | Nardi Folio comfort cushion (seat+back, "Natural") | 4 | BF Home | £676 |
 | **Narrow terrace** | Nardi Folio "Poggio" footstool | 2 | Julia Jones | £120 |
-| | | | **Confirmed total** | **≈ £7,832** |
+| | | | **Confirmed total** | **≈ £8,100** |
 
 *Prices are the latest quoted/listed figures and need re-confirming at order time (Panama sets are currently out of stock — buy by the module).*
 
@@ -35,15 +35,17 @@
 
 <img src="artists-impressions/sydney%20chair%20azura%20table.png" width="100%">
 
+*Impression drawn with the earlier Sydney chair — the Arc is the same low curved-back teak look, slightly slimmer.*
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Chair — Luxus Sydney armchair × 8**
-<img src="chair-images/sydney-chair.jpg" width="100%">
-~£176/chair · **sold in sets of 4 = £706**
-65cm W · 59cm D · 76cm H · stackable · SVLK teak
-[luxushomeandgarden.com](https://www.luxushomeandgarden.com/products/4-x-sydney-chairs-with-cushions)
+**Chair — Sustainable Furniture Arc armchair × 8**
+<img src="chair-images/arc-chair.jpg" width="100%">
+£210/chair (sale, was £235) · seat cushion included · in stock (Oct 2026)
+54cm W · 44cm D · 75cm H · seat 40cm W, 43cm H · arms 63cm (front) · stackable · SVLK teak
+[sustainable-furniture.co.uk](https://sustainable-furniture.co.uk/product/arc-stacking-dining-armchair/)
 
 </td>
 <td width="50%" valign="top">
@@ -58,21 +60,21 @@
 </tr>
 </table>
 
-**Seating:** with the 65cm Sydney armchairs, **6 around the 180cm compact table** everyday; **8 when extended to 240cm** for guests. The 8 chairs cover the extended table (2 stand spare at compact size). For larger gatherings, a future bistro table / indoor chairs add overflow.
+**Seating:** the Arc is only 54cm wide (the Sydney was 65cm), so at ~60cm per diner it's **6 comfortably / 8 at a squeeze round the 180cm compact table**, and **8 comfortably (up to 10) when extended to 240cm**. For larger gatherings, a future bistro table / indoor chairs add overflow.
+
+> **Before ordering 8:** the Arc's seat is 40cm wide, which is on the small side, so sit in one first (or order one and use the 14-day free returns). Check the 63cm front arm height clears the underside of the Azura's frame so the chairs push in.
+
+*Why not the Sydney:* by Oct 2026 Luxus had it **sold out** and the price had risen from £706 to **£1,180 per set of 4** (~£295/chair). Also compared and rejected: Jo Alexander **Luca** (£245, close look but more angular, stacking unconfirmed); Cambridge **Burford** and Sustainable Furniture **San Francisco** (traditional slatted "banana" chairs, not the look; SF is 74cm wide).
 
 ### 🛒 Shopping list — dining
 
-**Luxus Home & Garden** — [luxushomeandgarden.com](https://www.luxushomeandgarden.com/products/4-x-sydney-chairs-with-cushions)
+**Sustainable Furniture** — one order, free delivery over £500 · [Arc chair](https://sustainable-furniture.co.uk/product/arc-stacking-dining-armchair/) · [Azura table](https://sustainable-furniture.co.uk/product/azura-8-10-seater-extending-dining-table/)
 | Item | Qty | Unit | Total |
 |---|---|---|---|
-| Sydney teak armchair (with cushions) — bought as **2 × sets of 4** | 8 | £706/set of 4 | **£1,412** |
-
-**Sustainable Furniture** — [sustainable-furniture.co.uk](https://sustainable-furniture.co.uk/product/azura-8-10-seater-extending-dining-table/)
-| Item | Qty | Unit | Total |
-|---|---|---|---|
+| Arc teak stacking armchair (free natural seat cushion) | 8 | £210 | **£1,680** |
 | Azura 8–10 extending dining table (180→240cm) | 1 | £920 | **£920** |
 
-**Dining subtotal: £2,332**
+**Dining subtotal: £2,600**
 
 ---
 

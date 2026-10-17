@@ -20,7 +20,7 @@
 **[2 · Dining Chairs](#chairs)**
 - **With arms:** [Fox armchair £177 ⭐](#fox) · [Si-Si armchair ~£185 ⭐](#si-si) · [Twist armchair £209 ⭐](#twist) · [Daisy armchair ~£209+ ⭐](#daisy) · [Alua with arms ~£260](#alua)
 - **Without arms:** [Fox side £167 ⭐](#fox) · [Si-Si side £181 ⭐](#si-si) · [Alua £233 ⭐](#alua)
-- **Teak — Route A:** [Luxus Sydney ~£176](#teak-sydney) · [Sustainable Arc £195](#teak-arc) · [Teakunique Poppy £205 ⭐](#teak-poppy) · [Sklum Rokan £250](#teak-rokan)
+- **Teak — Route A:** [Luxus Sydney — sold out](#teak-sydney) · [Sustainable Arc £210 ✅ CHOSEN](#teak-arc) · [Teakunique Poppy £205 ⭐](#teak-poppy) · [Sklum Rokan £250](#teak-rokan)
 
 **[3 · Sofas & comfy chairs](#sofas)**
 - **Aluminium (route to a full U in budget):** [Quatropi Zara ⭐](#zara) · [Kettler Elba ⭐](#kettler-elba) · [Stoaked bespoke U-base ⭐](#stoaked) · [Harbour Panama (by module)](#harbour-panama) · [4 Seasons Meteoro](#meteoro) · [other à-la-carte ranges](#alu-other)
@@ -465,6 +465,8 @@ All four chairs share the same **rounded barrel-back** aesthetic — very clean 
 
 ### Luxus Home & Garden — Sydney · ~£176 (armchair, stackable)
 
+> ⛔ **Oct 2026: sold out, and repriced to £1,180 per set of 4 (~£295/chair). Replaced by the Arc below.**
+
 <img src="chair-images/sydney-chair.jpg" width="100%">
 
 *Set of 4 stacked — clear view of the curved barrel back and stackability. Seat cushion included, stored indoors.*
@@ -485,15 +487,18 @@ All four chairs share the same **rounded barrel-back** aesthetic — very clean 
 
 <a id="teak-arc"></a>
 
-### Sustainable Furniture — Arc · £195 (armchair, stackable)
+### Sustainable Furniture — Arc · £210 (armchair, stackable) — ✅ CHOSEN (Oct 2026)
+
+> **Chosen dining chair, 17 Oct 2026** (8 needed, £1,680), replacing the Sydney. Same supplier as the Azura table.
 
 <img src="chair-images/arc-chair.jpg" width="100%">
 
 *Poolside lifestyle shot — clear curved rounded back and slim arm profile. Seat cushion included, stored indoors.*
 
-- **Price:** £195/chair
+- **Price:** £210/chair (Oct 2026 sale, was £235; was £195 in June) · in stock
+- **Dimensions:** 54cm W × 44cm D × 75cm H · seat 40cm W, 43cm high · arms 63cm front / 67cm back
 - **Material:** Indonesian teak, **SVLK certified**
-- **Colour:** Natural teak · **Weight:** Unpublished · **Arms:** Yes (slim, integrated with the curved back) · **Stackable:** Yes · **Seat:** Seat cushion included (store indoors); seat height 45cm
+- **Colour:** Natural teak · **Weight:** Unpublished · **Arms:** Yes (slim, integrated with the curved back) · **Stackable:** Yes · **Seat:** Seat cushion included (store indoors); seat height 43cm
 - **Reviews:** sustainable-furniture.co.uk — smaller retailer; SVLK certification and dedicated outdoor focus are positive signals. Arrives fully assembled.
 
 **Pros:** Refined modern silhouette; sculpted curved back; stackable; SVLK certified; fully assembled · **Cons:** Arms; smaller/less-reviewed retailer; weight unpublished; cushion must come in
